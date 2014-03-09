@@ -1,0 +1,1088 @@
+
+Botvinnik,Mikhail - Nezhmetdinov,Rashid [A36]
+URS-chT Moscow, 1959
+
+1.c4 g6 2.g3 Lg7 3.Lg2 Sf6 4.Sc3 0-0 5.e4 d6 6.Sge2 c5 7.a3 Sc6 8.d3 a6 9.Tb1 Tb8 10.b4 cxb4 11.axb4 b5 12.cxb5 axb5 13.0-0 e5 14.h3 Sh5 15.Le3 Le6 16.Dd2 Sd4 17.Lxd4 exd4 18.Sd5 Lxd5 19.exd5 ½-½
+
+Botvinnik,Mikhail - Donner,Jan Hein [E66]
+Wageningen Caldex Wageningen (5), 09.11.1958
+
+1.c4 Sf6 2.Sf3 g6 3.g3 Lg7 4.Lg2 0-0 5.0-0 d6 6.Sc3 a6 7.d4 Sc6 8.d5 Sa5 9.Sd2 c5 10.Dc2 Tb8 11.b3 b5 12.Lb2 bxc4 13.bxc4 Lh6 14.f4 e5 15.Tae1 exf4 16.gxf4 Te8 17.Sd1 Tb7 18.Lc3 Ld7 19.e3 Sh5 20.Sf2 Lg7 21.Lxg7 Sxg7 22.Dc3 f5 23.Lf3 Lc8 24.Sd3 Tf7 25.Tf2 Sb7 26.Tfe2 Tef8 27.Sf1 Da5 28.Dxa5 Sxa5 29.Tc2 Tb7 30.Sd2 Se8 31.Tc3 Tb6 32.Ta3 Sb7 33.Tb1 Txb1+ 34.Sxb1 Sc7 35.Sd2 Kf7 36.Kf2 Ke7 37.h4 h6 38.Ld1 Ld7 39.Tb3 Sa5 40.Tb6 Ta8 41.Sxc5 dxc5 42.d6+ 1-0
+
+Botvinnik,Mikhail - Flohr,Salo [A29]
+Wageningen Caldex Wageningen (3), 05.11.1958
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 e5 5.Lg2 Sb6 6.Sf3 Sc6 7.d3 Le7 8.a3 a5 9.Le3 Le6 10.0-0 Sd5 11.Sxd5 Lxd5 12.Tc1 0-0 13.Da4 Te8 14.Sd2 Lxg2 15.Kxg2 Dd5+ 16.De4 Tad8 17.Dxd5 Txd5 ½-½
+
+Botvinnik,Mikhail - Roessel,Fritz [E81]
+Wageningen Caldex Wageningen (1), 01.11.1958
+
+1.c4 Sf6 2.Sc3 g6 3.e4 d6 4.d4 Lg7 5.f3 e5 6.Sge2 0-0 7.Lg5 c6 8.Dd2 a6 9.d5 cxd5 10.Sxd5 Sc6 11.Sec3 Sd4 12.Ld3 b5 13.cxb5 axb5 14.0-0 Lb7 15.Kh1 b4 16.Sxb4 Da5 17.Sc2 d5 18.Lxf6 Lxf6 19.exd5 Tfd8 20.Se3 Lg5 21.Df2 f5 22.Sc4 Dc7 23.Sxe5 Dxe5 24.f4 Lxf4 25.Tae1 Dg7 26.Dxf4 Tac8 27.Te5 Te8 28.Tfe1 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [A95]
+World Championship 22th Moscow (22), 03.05.1958
+
+1.d4 f5 2.g3 Sf6 3.Lg2 e6 4.Sf3 Le7 5.0-0 0-0 6.c4 c6 7.Sc3 d5 8.Lg5 Sbd7 9.e3 De8 10.Dc2 Kh8 11.Se2 h6 12.Lxf6 Lxf6 13.cxd5 exd5 14.Sf4 g5 15.Sd3 Tg8 16.Dc3 Le7 17.Sfe5 Sf6 18.f3 Le6 19.Sc5 Lxc5 20.Dxc5 Sd7 21.Sxd7 Dxd7 22.Tae1 Tg7 23.Tf2 b6 24.Dc3 Dd6 25.Tc2 Ld7 26.b4 h5 27.Kh1 h4 28.gxh4 gxh4 29.f4 Tag8 30.Lf3 Le8 31.Dd2 Dh6 32.De2 h3 33.Tcc1 Tg2 34.Lxg2 Txg2 35.Df3 Dh4 36.b5 Lh5 37.Dxg2 hxg2+ 38.Kg1 c5 0-1
+
+Botvinnik,Mikhail - Smyslov,Vassily [A30]
+World Championship 22th Moscow (20), 29.04.1958
+
+1.c4 c5 2.Sf3 f5 3.d4 cxd4 4.Sxd4 g6 5.g3 Lg7 6.Lg2 Sc6 7.Sb5 Sf6 8.S5c3 0-0 9.0-0 b6 10.b3 Lb7 11.Lb2 Tf7 12.Dd2 Df8 13.Sa3 Td8 14.Tad1 Sa5 15.Lxb7 Sxb7 16.Sab5 a6 17.Sd4 Lh6 18.Dc2 f4 19.Sf3 d6 20.Sd4 Ta8 21.Sd5 Sxd5 22.cxd5 Tc8 23.Db1 De8 24.La3 Sd8 25.De4 Dd7 26.Kg2 Dg4 27.f3 Dh5 28.Se6 Df5 29.Sd4 Dxe4 30.fxe4 fxg3 31.Txf7 Kxf7 32.hxg3 Lg7 33.Lb2 b5 34.Td2 Ke8 35.Kf2 Kd7 36.Sf3 Lxb2 37.Txb2 Sf7 38.Ke3 Tc3+ 39.Kd2 b4 40.Tb1 h5 41.a3 a5 42.axb4 axb4 43.Ta1 Sh6 44.Ta7+ Ke8 45.Ta8+ Kf7 46.e5 dxe5 47.Sg5+ Kg7 48.Se6+ ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [A16]
+World Championship 22th Moscow (18), 19.04.1958
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 g6 5.Lg2 Sxc3 6.bxc3 Lg7 7.Db3 Sc6 8.Sf3 0-0 9.0-0 Sa5 10.Dc2 c5 11.d3 Lf5 12.e4 Ld7 13.Lg5 Tc8 14.Dd2 Lb5 15.Tfd1 La4 16.Te1 f6 17.Lh6 Lxh6 18.Dxh6 Dxd3 19.e5 Sc6 20.Te3 Dc2 21.exf6 exf6 22.Tae1 Tcd8 23.Lh3 Se5 24.Sxe5 fxe5 25.f4 Lc6 26.Dg5 Tde8 27.Txe5 Dxc3 28.Txe8 Lxe8 29.De5 Dxe5 30.Txe5 b6 31.Te7 a5 32.Tb7 Tf6 33.Tb8 Kf7 34.Kf2 Td6 35.Ke3 La4 36.Tb7+ Kg8 37.Tb8+ Kg7 38.Tb7+ Kg8 39.Tb8+ Kf7 40.Tb7+ Kf8 41.Txh7 c4 42.Tc7 b5 43.Ke4 b4 44.Txc4 Td2 45.Ke5 Txa2 46.Tc8+ Le8 47.Ld7 Te2+ 48.Kf6 g5 49.fxg5 Tf2+ 50.Ke5 Te2+ 51.Kf4 b3 52.Tb8 b2 53.Lxe8 Txe8 54.Txb2 a4 55.Ta2 Ta8 56.Ta3 Kf7 57.h4 Kg6 58.Ke4 Kh5 59.Kd4 Td8+ 60.Kc4 Te8 61.Kd5 Td8+ 62.Ke5 Ta8 63.Kd5 Td8+ 64.Kc5 Tb8 65.Txa4 Tb3 66.Kd6 Txg3 67.Ke7 Tb3 68.Ta6 Tb7+ 69.Kf6 Tb4 70.Td6 Ta4 71.Te6 Tb4 72.Kf7 Tb7+ 73.Te7 Tb5 74.Kg7 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [A16]
+World Championship 22th Moscow (16), 15.04.1958
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 g6 5.Lg2 Sxc3 6.bxc3 Lg7 7.Tb1 Sd7 8.Sf3 0-0 9.0-0 e5 10.d4 c6 11.e4 Da5 12.Dc2 exd4 13.cxd4 Sb6 14.Ld2 Da4 15.Dxa4 Sxa4 16.Tfc1 Sb6 17.Le3 f5 18.Se5 fxe4 19.Lxe4 Lf5 20.Lxf5 Txf5 21.g4 Tff8 22.a4 Tae8 23.a5 Sd5 24.Txb7 Sxe3 25.fxe3 Lxe5 26.dxe5 Txe5 27.Txc6 Tf7 28.a6 Txe3 29.Tcc7 Te1+ 30.Kg2 Te2+ 31.Kg3 Te3+ 32.Kg2 Te2+ 33.Kg3 Te3+ 34.Kh4 Txc7 35.Txc7 h6 36.g5 h5 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [A16]
+World Championship 22th Moscow (14), 08.04.1958
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 g6 5.Lg2 Sxc3 6.bxc3 Lg7 7.Tb1 Sd7 8.c4 0-0 9.Sf3 Tb8 10.0-0 b6 11.d4 e5 12.La3 Te8 13.dxe5 Lb7 14.Dc2 Sxe5 15.Tfd1 Dc8 16.Sxe5 Lxg2 17.Kxg2 Txe5 18.Td5 De6 19.Txe5 Lxe5 20.Td1 Te8 21.De4 Lf6 22.Dxe6 Txe6 23.Kf3 Tc6 24.Tc1 Ld4 25.e3 Lc5 26.Lb2 f5 27.Ke2 Kf7 28.h3 Le7 29.a4 h5 30.Kd3 h4 31.g4 Tc5 32.Lc3 Tc6 33.Tg1 Td6+ 34.Kc2 Lf6 35.gxf5 gxf5 36.Lxf6 Kxf6 37.Tg8 Tc6 38.Kc3 a6 39.Th8 Kg5 40.Tg8+ Kf6 41.Th8 Kg5 42.Kd4 Tc5 43.Th7 Kg6 44.Td7 Kf6 45.Td5 Tc6 46.Kc3 Te6 47.Td4 Kg5 48.Td7 Tc6 49.Kb4 Kf6 50.Td4 Kg5 51.Td8 Te6 52.Tc8 f4 53.exf4+ Kxf4 54.Txc7 Kf3 55.Th7 Te4 56.Th6 b5 57.axb5 axb5 58.Tf6+ Kg2 59.Kxb5 Te2 60.c5 Tb2+ 61.Ka6 Ta2+ 62.Kb7 Tb2+ 63.Tb6 Tc2 64.c6 Kxh3 65.c7 Kg2 66.Tc6 Tb2+ 67.Tb6 Tc2 68.f4 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [A12]
+World Championship 22th Moscow (12), 03.04.1958
+
+1.c4 Sf6 2.g3 c6 3.Sf3 d5 4.b3 Lf5 5.Lg2 e6 6.Lb2 Sbd7 7.0-0 h6 8.d3 Le7 9.Sbd2 0-0 10.a3 a5 11.Dc2 Lh7 12.Lc3 b5 13.cxb5 cxb5 14.b4 Dc7 15.Db2 Sb6 16.Le5 Dd7 17.Sb3 axb4 18.axb4 Txa1 19.Txa1 Sa4 20.Dd2 Tc8 21.Tc1 Txc1+ 22.Sxc1 Se8 23.Sd4 Kf8 24.Lh3 Lg8 25.Sdb3 f6 26.La1 Da7 27.d4 Sd6 28.Da2 Sc4 29.Sc5 Lxc5 30.dxc5 e5 31.Db1 d4 32.Df5 Dc7 33.Sd3 Lf7 34.Dh7 Lg8 35.De4 Lf7 36.Da8+ Le8 37.Lg2 Ke7 38.f4 Se3 39.fxe5 fxe5 40.De4 Sxg2 41.Sxe5 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [A16]
+World Championship 22th Moscow (10), 29.03.1958
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 g6 5.Lg2 Sxc3 6.bxc3 Lg7 7.La3 Sd7 8.Sf3 c5 9.Da4 0-0 10.Tb1 a6 11.c4 Tb8 12.0-0 Dc7 13.d3 Td8 14.Lb2 Sf8 15.Lxg7 Kxg7 16.Tb2 Se6 17.Tfb1 b5 18.cxb5 axb5 19.De4 Ld7 20.Se5 Le8 21.Sc6 Lxc6 22.Dxc6 Dxc6 23.Lxc6 b4 24.Tc1 Sd4 25.La4 Ta8 26.Lb3 Ta5 27.Kf1 e6 28.Ke1 Kf6 29.Lc4 Ke7 30.h4 Tda8 31.e3 Sb5 32.d4 Sd6 33.Lb3 cxd4 34.exd4 Td8 35.Tc7+ Kf6 36.Td2 Se4 37.Td3 Tf5 38.f4 Sc5 39.Td1 Sxb3 40.axb3 Tfd5 41.Tc4 Tb8 42.Ta1 Kf5 43.Kf2 Kg4 44.Ta7 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E69]
+World Championship 22th Moscow (8), 25.03.1958
+
+1.c4 Sf6 2.Sc3 e5 3.g3 c6 4.Sf3 d6 5.Lg2 g6 6.0-0 Lg7 7.d4 Sbd7 8.e4 0-0 9.h3 Se8 10.Lg5 f6 11.Le3 f5 12.Dd2 Df6 13.exf5 gxf5 14.Lg5 Df7 15.b3 f4 16.dxe5 Sxe5 17.Lxf4 Sxf3+ 18.Lxf3 Lxh3 19.Lg2 Lxg2 20.Kxg2 Sf6 21.Dd3 d5 22.Tad1 Sh5 23.Ld2 dxc4 24.Dxc4 Dxc4 25.bxc4 Tad8 26.Se2 Sf6 27.Sf4 Tfe8 28.Lc1 Kf7 29.Le3 b6 30.Th1 h6 31.Txd8 Txd8 32.Kf3 c5 33.a4 Td6 34.Tc1 Sd7 35.Ke2 Se5 36.Ld2 Sc6 37.Sd5 Te6+ 38.Le3 Ld4 39.Th1 Lg7 40.Tc1 Sd4+ 41.Kd3 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E80]
+World Championship 22th Moscow (6), 20.03.1958
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 a6 5.Le3 Sf6 6.f3 c6 7.Ld3 b5 8.Dd2 bxc4 9.Lxc4 d5 10.Lb3 dxe4 11.Sxe4 0-0 12.Se2 a5 13.0-0 a4 14.Lc4 Sbd7 15.Tac1 Tb8 16.Sxf6+ Lxf6 17.Sc3 Sb6 18.Le2 Le6 19.Tfd1 Lg7 20.Lh6 Lxh6 21.Dxh6 f6 22.Td2 Lf7 23.h4 Dd7 24.a3 Tfd8 25.Se4 De8 26.Lf1 Ld5 27.Sc5 Df8 28.Dxf8+ Kxf8 29.Sa6 Tbc8 30.Sb4 Lb3 31.Txc6 Txc6 32.Sxc6 Td6 33.Sa5 La2 34.Sb7 Td5 35.Sc5 e5 36.Se4 Txd4 37.Txd4 exd4 38.Sxf6 Ke7 39.Sxh7 Lb1 40.La6 Sd5 41.Kf2 Se3 42.Le2 Ke6 43.Sg5+ Kd5 44.Se4 Lxe4 45.fxe4+ Kxe4 46.g4 Kf4 47.h5 gxh5 48.gxh5 Kg5 49.Kf3 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [D98]
+World Championship 22th Moscow (4), 13.03.1958
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Db3 dxc4 6.Dxc4 0-0 7.e4 Lg4 8.Le3 Sfd7 9.Le2 Sb6 10.Dc5 c6 11.Td1 S8d7 12.Da5 e5 13.d5 cxd5 14.Sxd5 Sxd5 15.Dxd5 Le6 16.Dd2 Sf6 17.Db4 a5 18.Db5 De8 19.Sd2 Dxb5 20.Lxb5 Lxa2 21.Ke2 Le6 22.f3 Tfc8 23.Tc1 Se8 24.Ld3 Sd6 25.Txc8+ Txc8 26.Ta1 Ta8 27.Lb6 a4 28.Sb1 Sc4 29.Lxc4 Lxc4+ 30.Ke1 Lf8 31.Sa3 Lb3 32.Tc1 Ta6 33.Le3 Tc6 34.Txc6 bxc6 35.Kd2 f5 36.Kc3 fxe4 37.fxe4 Kf7 38.Sc4 Ke6 39.La7 La2 40.Lb8 Lh6 41.Lc7 Lb1 42.Sd2 Lxd2+ 43.Kxd2 Lxe4 44.g3 Kd5 45.Kc3 Lg2 46.h4 Lf3 47.Lb8 c5 48.Lc7 Le4 49.Lb8 Lb1 50.Lc7 e4 51.Lf4 Ld3 52.Le3 c4 53.Lf4 Ke6 54.Kd2 Kf5 55.Ld6 Kg4 56.Ke3 Lb1 57.Le5 c3 58.Lxc3 Kxg3 59.Lf6 Kg4 60.Le7 Kf5 61.Lg5 Ke5 62.Lh6 Lc2 63.Lg5 Lb3 64.Lh6 Ld5 65.Lg5 Kf5 66.Lh6 Kg4 67.Lg5 Kg3 68.Ld8 Kg2 69.Le7 Kf1 70.Lb4 h6 71.Lf8 g5 72.h5 g4 73.Lxh6 g3 74.Lf4 g2 75.Lh2 Lf7 76.Kxe4 Lxh5 77.Kd3 g1D 78.Lxg1 Kxg1 79.Kc2 Lg6+ 80.Kc3 Lf7 81.Kc2 La2 82.b4 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E81]
+World Championship 22th Moscow (2), 06.03.1958
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.f3 0-0 6.Le3 a6 7.Ld3 Sc6 8.Sge2 Tb8 9.a3 Sd7 10.Lb1 Sa5 11.La2 b5 12.cxb5 axb5 13.b4 Sc4 14.Lxc4 bxc4 15.0-0 c6 16.Dd2 Sb6 17.Lh6 Lxh6 18.Dxh6 f6 19.a4 Sa8 20.Tfb1 f5 21.De3 fxe4 22.fxe4 Sc7 23.d5 cxd5 24.exd5 Lb7 25.Tf1 Dd7 26.Dd4 e6 27.dxe6 Sxe6 28.Dg4 Tfe8 29.Sd4 Dg7 30.Tad1 Sc7 31.Df4 Te5 32.Sc6 Lxc6 33.Dxc4+ d5 34.Dxc6 Td8 35.Db6 De7 36.Dd4 Dd6 37.Tfe1 Tde8 38.Txe5 Txe5 39.b5 Se6 40.Da7 d4 41.Se4 1-0
+
+Botvinnik,Mikhail - Alexander,Conel Hughes [A42]
+Munich ol (Men) fin-A Munich (8), 1958
+
+1.d4 g6 2.e4 Lg7 3.c4 d6 4.Sc3 Sc6 5.Le3 e5 6.d5 Sd4 7.Sge2 Sxe2 8.Lxe2 f5 9.f3 Sf6 10.Dd2 0-0 11.exf5 Lxf5 12.g4 Ld7 13.h3 a6 14.0-0-0 b5 15.c5 b4 16.Se4 a5 17.Ld3 De7 18.c6 Lc8 19.h4 La6 20.Sxf6+ Lxf6 21.g5 Lg7 22.Le4 Lc8 23.h5 Lf5 24.hxg6 Lxg6 25.Dd3 Txf3 26.Lxg6 hxg6 27.Dxg6 Kf8 28.De4 Df7 29.g6 Df5 30.Dxf5+ Txf5 31.Tdf1 Txf1+ 32.Txf1+ Kg8 33.Tf7 Tc8 34.Kc2 e4 35.b3 Lc3 36.Kd1 Le5 37.Ke2 Lc3 38.La7 1-0
+
+Botvinnik,Mikhail - Donner,Jan Hein (2470) [E25]
+Munich ol (Men) qual-A Munich (1), 1958
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.a3 Lxc3+ 5.bxc3 c5 6.f3 d5 7.cxd5 Sxd5 8.Dd2 Sc6 9.e4 Sb6 10.Lb5 Ld7 11.Se2 Sa5 12.Tb1 Tc8 13.Ld3 La4 14.0-0 0-0 15.dxc5 Sd7 16.Sd4 Sxc5 17.Le2 Df6 18.De3 Tfd8 19.Lb2 Dg6 20.c4 b6 21.Lc3 Sc6 22.Tb2 Sxd4 23.Lxd4 f6 ½-½
+
+Botvinnik,Mikhail - Dueckstein,Andreas [A29]
+Munich ol (Men) fin-A Munich (10), 1958
+
+1.c4 e5 2.Sc3 Sf6 3.g3 d5 4.cxd5 Sxd5 5.Lg2 Sb6 6.Sf3 Sc6 7.a3 Le7 8.d3 0-0 9.b4 f5 10.b5 Sd4 11.Sxe5 Lf6 12.f4 Le6 13.Tb1 Lxe5 14.fxe5 f4 15.0-0 f3 16.exf3 Sxf3+ 17.Txf3 Dd4+ 18.Te3 Dxc3 19.d4 Dc4 20.Tb4 Da2 21.Te2 Da1 22.d5 Tad8 23.Td2 Lf5 24.Lb2 Dxd1+ 25.Txd1 Tfe8 26.Lf3 Sd7 27.e6 Sc5 28.Tf4 Lg6 29.h4 h5 30.Tc4 Sd3 31.Ld4 Te7 32.Tc3 c5 33.bxc6 bxc6 34.Tdxd3 Lxd3 35.Lc5 Tee8 36.Txd3 cxd5 37.e7 Td7 38.Lxh5 Tdxe7 39.Lxe7 Txe7 40.Txd5 Te3 41.Kf2 Txa3 42.Lg6 Kf8 43.Te5 1-0
+
+Botvinnik,Mikhail - Lombardy,William James [A42]
+Munich ol (Men) fin-A Munich (1), 1958
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 e5 5.dxe5 dxe5 6.Dxd8+ Kxd8 7.Lg5+ f6 8.0-0-0+ Sd7 9.Le3 c6 10.g3 Kc7 11.f4 Sh6 12.h3 Sf7 13.Sf3 Lh6 14.Te1 Te8 15.Th2 Sf8 16.Tf2 exf4 17.gxf4 Se6 18.Sh2 f5 19.e5 Sg7 20.Sf3 Sh5 21.Sd4 Le6 22.Kc2 Sd8 23.Le2 Sg3 24.Ld3 Lf7 25.Tg1 Sh5 26.Ld2 Lf8 27.Le3 Lh6 28.Tf3 Lf8 29.Sce2 b5 30.cxb5 c5 31.b6+ axb6 32.Sb5+ Kb7 33.Sec3 Sc6 34.a3 Ted8 35.Lc1 Sg7 36.Kb1 Se6 37.Lf1 Sed4 38.Tf2 Tac8 39.h4 Sa5 40.Tg3 Sab3 ½-½
+
+Botvinnik,Mikhail - Pomar Salamanca,Arturo (2460) [B14]
+Munich ol (Men) fin-A Munich (6), 1958
+
+1.c4 c6 2.e4 d5 3.exd5 cxd5 4.d4 Sf6 5.Sc3 e6 6.Sf3 Le7 7.c5 0-0 8.Ld3 b6 9.b4 a5 10.Sa4 Sfd7 11.b5 bxc5 12.dxc5 e5 13.c6 e4 14.cxd7 Sxd7 15.0-0 exf3 16.Dxf3 Se5 17.Dg3 Sxd3 18.Dxd3 Ld6 19.La3 Tb8 20.Lxd6 Dxd6 21.Tfd1 Le6 22.Sc3 Da3 23.Tab1 Tfc8 24.Tb3 Dc5 25.Se2 Dc2 26.Sd4 Dxa2 27.Ta3 Dc4 28.De3 Te8 29.Dd2 Ld7 30.Txa5 Lxb5 31.h3 Ld7 32.Ta7 Le6 33.Tc1 Db4 34.Dxb4 Txb4 35.Sxe6 fxe6 36.Tcc7 Th4 37.Txg7+ Kh8 38.Kh2 Tf8 39.Tge7 Th6 40.f3 Kg8 41.Tad7 Tff6 42.Tg7+ Kh8 43.Tge7 Kg8 44.Kg1 Tf8 45.Kf2 Tff6 46.Td8+ Tf8 47.Td6 Tff6 48.Tb6 Kf8 49.Td7 Kg8 50.Ta6 Thg6 51.Ta8+ Tf8 52.Txf8+ Kxf8 53.Txh7 Ke8 54.f4 d4 55.Ta7 Tf6 56.Kg3 Tf5 57.Ta2 Ke7 58.Td2 Td5 59.Kf3 Kd6 60.Ke4 Kc5 61.Tc2+ Kd6 62.g4 Ta5 63.Td2 Ke7 64.Txd4 Ta3 65.Td3 Ta4+ 66.Kf3 Kf6 67.Te3 Ta1 68.g5+ Kf7 69.Kg4 Ta4 70.h4 Tb4 71.Te5 Tb1 72.Ta5 Tg1+ 73.Kh5 Tf1 74.Ta7+ Kf8 75.Kg6 Txf4 76.h5 e5 77.h6 e4 78.h7 1-0
+
+Botvinnik,Mikhail - Raizman,Maurice [D23]
+Munich ol (Men) qual-A Munich (5), 1958
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 dxc4 5.Da4+ Sbd7 6.e4 c6 7.Dxc4 Le7 8.Le2 0-0 9.0-0 Sb6 10.Db3 c5 11.dxc5 Lxc5 12.Lg5 h6 13.Lh4 Le7 14.Tfd1 De8 15.Sb5 Dc6 16.e5 Sfd5 17.Lxe7 Sxe7 18.Tac1 De4 19.Td4 Dg6 20.Sxa7 Txa7 21.Dxb6 Txa2 22.Td8 f5 23.Lc4 Ta8 24.Sd4 Dg5 25.Txf8+ Kxf8 26.Td1 Kg8 27.Lxe6+ Kh7 28.Lb3 Sg6 29.Sf3 De7 30.Db5 Ta6 31.h3 Le6 32.Lxe6 Dxe6 33.Dxb7 Tb6 34.Dc7 Sf4 35.Td6 Txd6 36.Dxd6 Db3 37.Dd2 Sxh3+ 38.Kh2 g5 39.Dd7+ Kg8 40.Dc8+ Kg7 41.Sd4 Dxb2 42.Sxf5+ 1-0
+
+Botvinnik,Mikhail - Unzicker,Wolfgang [E49]
+Munich ol (Men) fin-A Munich (2), 1958
+
+1.c4 Sf6 2.d4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 Lxc3+ 7.bxc3 dxc4 8.Lxc4 c5 9.Lb2 Dc7 10.Le2 b6 11.Sf3 Lb7 12.c4 Sbd7 13.Tc1 Tfd8 14.0-0 cxd4 15.exd4 Df4 16.Te1 Sf8 17.Se5 Sg6 18.Sxg6 hxg6 19.Db3 Tac8 20.Lf1 Se4 21.De3 Dxe3 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D79]
+World Championship 21th Moscow (21), 25.04.1957
+
+1.d4 Sf6 2.c4 g6 3.g3 c6 4.Lg2 d5 5.cxd5 cxd5 6.Sc3 Lg7 7.Sf3 0-0 8.Se5 Lf5 9.0-0 Se4 10.Sxe4 Lxe4 11.f3 Lf5 12.Le3 Sd7 13.Sxd7 Dxd7 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [A36]
+World Championship 21th Moscow (19), 20.04.1957
+
+1.c4 g6 2.Sc3 c5 3.g3 Lg7 4.Lg2 Sc6 5.e3 e6 6.Sge2 Sge7 7.d4 cxd4 8.Sxd4 d5 9.cxd5 Sxd4 10.exd4 Sxd5 11.0-0 0-0 12.Db3 Db6 13.Sxd5 exd5 14.Lxd5 Dxb3 15.Lxb3 Lxd4 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D73]
+World Championship 21th Moscow (17), 13.04.1957
+
+1.Sf3 Sf6 2.g3 g6 3.c4 c6 4.Lg2 Lg7 5.d4 0-0 6.Sc3 d5 7.cxd5 cxd5 8.Se5 b6 9.Lg5 Lb7 10.Lxf6 Lxf6 11.0-0 e6 12.f4 Lg7 13.Tc1 f6 14.Sf3 Sc6 15.e3 Dd7 16.De2 Sa5 17.h4 Sc4 18.Lh3 Sd6 19.Kh2 a5 20.Tfe1 b5 21.Sd1 b4 22.Sf2 La6 23.Dd1 Tfc8 24.Txc8+ Txc8 25.Lf1 Lxf1 26.Txf1 Dc6 27.Sd3 Dc2+ 28.Dxc2 Txc2+ 29.Tf2 Txf2+ 30.Sxf2 Sc4 31.Sd1 Kf7 32.b3 Sd6 33.Kg2 h5 34.Kh3 Se4 35.g4 hxg4+ 36.Kxg4 f5+ 37.Kh3 Lf6 38.Se1 Kg7 39.Sd3 Sc3 40.Sxc3 bxc3 41.Se1 Kh6 42.Sc2 Le7 43.Kg3 Kh5 44.Kf3 Kxh4 45.Se1 g5 46.fxg5 Kxg5 47.Sc2 Ld6 48.Se1 Kh4 49.Sc2 Kh3 50.Sa1 Kh2 51.Kf2 Lg3+ 52.Kf3 Lh4 53.Sc2 Kg1 54.Ke2 Kg2 55.Sa1 Le7 56.Sc2 Kg3 57.Se1 Ld8 58.Sc2 Lf6 59.a3 Le7 60.b4 a4 61.Se1 Lg5 62.Sc2 Lf6 63.Kd3 Kf2 64.Sa1 Ld8 65.Sc2 Lg5 66.b5 Ld8 67.Sb4 Lb6 68.Sc2 La5 69.Sb4 Ke1 0-1
+
+Botvinnik,Mikhail - Smyslov,Vassily [E45]
+World Championship 21th Moscow (15), 09.04.1957
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 b6 5.Sge2 La6 6.a3 Lxc3+ 7.Sxc3 d5 8.b3 0-0 9.Le2 dxc4 10.bxc4 Sc6 11.a4 Dd7 12.Sb5 Tfd8 13.Lb2 Sa5 14.Dc2 c6 15.Sa3 De7 16.0-0 c5 17.Sb5 Lb7 18.La3 Sc6 19.Tfd1 a6 20.Sc3 Sb4 21.Db3 a5 22.Sb5 h6 23.Lb2 Tac8 24.f3 cxd4 25.exd4 Sh5 26.Lf1 Dg5 27.La3 Sf4 28.Kh1 h5 29.Lxb4 axb4 30.Dxb4 h4 31.Ta3 Tc5 32.Te1 Tf5 33.Sd6 Sxg2 34.Lxg2 h3 35.Lxh3 Lxf3+ 36.Txf3 Txf3 37.Sxf7 Txf7 38.Lxe6 Txd4 39.Dxb6 Tdf4 40.Lxf7+ Txf7 41.De6 Df4 42.Dc6 Tf5 43.Da8+ Kh7 44.De4 Dxe4+ 45.Txe4 Ta5 46.Kg2 Kg6 47.Kf3 Kf5 48.Tf4+ Ke5 49.Te4+ Kf5 50.Tf4+ Ke5 51.Kg4 Txa4 52.Kg5 Ta6 53.h4 Tc6 54.h5 Ke6 55.Kg6 Ke5+ 56.Kg5 Ke6 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E45]
+World Championship 21th Moscow (13), 04.04.1957
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 b6 5.Sge2 La6 6.a3 Lxc3+ 7.Sxc3 d5 8.b3 0-0 9.a4 c5 10.La3 dxc4 11.bxc4 Sc6 12.Sb5 Lb7 13.Le2 Se4 14.Lf3 Sg5 15.Lxc6 Lxc6 16.f3 a6 17.Sc3 f5 18.0-0 Df6 19.Dd3 Tfd8 20.d5 Sf7 21.e4 exd5 22.cxd5 Ld7 23.Lb2 Se5 24.De2 f4 25.Sd1 b5 26.Sf2 c4 27.axb5 axb5 28.Dd2 Tac8 29.Tfc1 Te8 30.Lc3 Tc7 31.Kh1 Tb7 32.Ta2 h5 33.Tca1 b4 34.Lxb4 Db6 35.Lc3 De3 36.Sd1 Dxd2 37.Txd2 Sd3 38.Ld4 Teb8 39.Sc3 Tb3 40.h4 T8b7 41.Ta8+ 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [D79]
+World Championship 21th Moscow (11), 30.03.1957
+
+1.Sf3 Sf6 2.g3 g6 3.Lg2 Lg7 4.c4 c6 5.d4 d5 6.cxd5 cxd5 7.Sc3 0-0 8.Se5 Sc6 9.0-0 Lf5 10.Sxc6 bxc6 11.Sa4 Sd7 12.b3 e5 13.dxe5 Lxe5 14.Lh6 Te8 15.Tc1 Tc8 16.Dd2 De7 17.Tfe1 Ld6 18.Dd4 Df6 19.Dxf6 Sxf6 20.Sc5 Sd7 21.Sxd7 Lxd7 22.e4 La3 23.Tcd1 Lg4 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E62]
+World Championship 21th Moscow (9), 26.03.1957
+
+1.c4 Sf6 2.Sc3 g6 3.g3 Lg7 4.Lg2 0-0 5.d4 d6 6.Sf3 c6 7.0-0 Lf5 8.Sh4 Le6 9.d5 cxd5 10.cxd5 Ld7 11.Le3 Sa6 12.Ld4 Da5 13.Te1 Sc5 14.e4 Sa4 15.Sxa4 Dxa4 16.b3 Da3 17.f4 Lb5 18.e5 Sd7 19.e6 Lxd4+ 20.Dxd4 Dc5 21.Sf3 fxe6 22.dxe6 Sf6 23.Tac1 Dh5 24.Sg5 Lc6 25.Lxc6 bxc6 26.Txc6 Sg4 27.h4 h6 28.Sf7 Kh7 29.b4 Tac8 30.Txc8 Txc8 31.Sxd6 exd6 32.Dxd6 Kh8 33.Dd7 Tc3 34.Dd8+ Kh7 35.Dd7+ Kh8 36.De8+ Kh7 37.De7+ Kh8 38.De8+ Kh7 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E45]
+World Championship 21th Moscow (7), 21.03.1957
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 b6 5.Sge2 La6 6.a3 Lxc3+ 7.Sxc3 d5 8.b3 0-0 9.Le2 dxc4 10.bxc4 Sc6 11.Sb5 Sa5 12.Ld2 c6 13.Lxa5 bxa5 14.Sc3 c5 15.Sa4 cxd4 16.exd4 Dd6 17.0-0 Tad8 18.Dd2 Dxd4 19.Dxa5 De4 20.Sc3 Dc6 21.Sb5 Db6 22.Dxb6 axb6 23.Tfd1 Se4 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E62]
+World Championship 21th Moscow (5), 16.03.1957
+
+1.c4 Sf6 2.Sc3 g6 3.g3 Lg7 4.Lg2 0-0 5.d4 d6 6.Sf3 Lg4 7.h3 Lxf3 8.Lxf3 Sc6 9.Lg2 Sd7 10.e3 e5 11.d5 Se7 12.e4 f5 13.h4 f4 14.Lh3 Tf6 15.De2 Lh6 16.Ld2 Sc5 17.b4 f3 18.Df1 Lxd2+ 19.Kxd2 Sa6 20.a3 c6 21.Dd3 Sc7 22.Tab1 Tb8 23.Thc1 a5 24.b5 c5 25.b6 Se8 26.Te1 Sg7 27.Te3 Df8 28.Tb5 Ta8 29.Sa4 Df7 30.Dc3 h5 31.Txa5 Tb8 32.Sb2 Kh7 33.Db3 Sg8 34.Sd3 Sh6 35.Te1 Sg4 36.Da4 De7 37.Kc2 Tff8 38.Ta7 Se8 39.Lxg4 hxg4 40.Db5 Sf6 41.a4 Kg8 42.Da5 Dd8 43.Sb2 Sd7 44.Sd1 Sf6 45.Db5 De7 46.a5 Dh7 47.Kd3 Tf7 48.Db2 Sh5 49.Tg1 g5 50.hxg5 Tbf8 51.Dd2 Tf4 52.Sc3 Sxg3 53.Txg3 Dh2 54.De1 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [E66]
+World Championship 21th Moscow (3), 09.03.1957
+
+1.c4 Sf6 2.Sc3 g6 3.g3 Lg7 4.Lg2 0-0 5.d4 d6 6.Sf3 Sc6 7.0-0 a6 8.d5 Sa5 9.Sd2 c5 10.Dc2 e5 11.a3 b6 12.b4 Sb7 13.Tb1 Ld7 14.Sde4 Sxe4 15.Sxe4 Dc7 16.bxc5 Sxc5 17.Sxc5 bxc5 18.Ld2 Tfb8 19.e4 Txb1 20.Txb1 Tb8 21.Tb3 Txb3 22.Dxb3 Lf6 23.h4 Ld8 24.Kh2 Db6 25.Dc2 h5 26.Lh3 Le8 27.Lc3 Db7 28.Kg2 Kh7 29.Kf1 a5 30.a4 Da6 31.Db3 Db6 32.Da2 Db7 33.Kg1 Kg8 34.Kh1 Kh7 35.Kg2 Kg8 36.Dc2 Kh7 37.Ld2 Lf6 38.Kh2 Db6 39.Lc3 Lg7 40.Lc8 Lh6 41.Kg2 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [A36]
+World Championship 21th Moscow (1), 05.03.1957
+
+1.c4 Sf6 2.Sc3 g6 3.g3 Lg7 4.Lg2 0-0 5.e4 c5 6.Sge2 Sc6 7.0-0 d6 8.a3 Ld7 9.h3 Se8 10.d3 Sc7 11.Tb1 Tb8 12.Le3 b5 13.cxb5 Sxb5 14.Sxb5 Txb5 15.d4 Dc8 16.dxc5 dxc5 17.Kh2 Td8 18.Dc1 Sd4 19.Sc3 Tb7 20.f4 Lc6 21.Tf2 a5 22.Df1 Sb5 23.e5 Sxc3 24.bxc3 Lxg2 25.Txg2 Txb1 26.Dxb1 Dc6 27.Td2 Txd2+ 28.Lxd2 c4 29.Le3 f6 30.Ld4 Kf7 31.Dd1 a4 32.De2 Dd5 33.Kg1 Lf8 34.f5 fxe5 35.fxg6+ hxg6 36.Lxe5 e6 37.Df2+ Ke8 38.Df6 Lxa3 39.Dxg6+ Kd7 40.Dh7+ Le7 41.Lf6 0-1
+
+Botvinnik,Mikhail - Averbakh,Yuri L [E26]
+Moscow training m Moscow, 30.01.1957
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.a3 Lxc3+ 6.bxc3 b6 7.Ld3 Lb7 8.f3 Sc6 9.Sh3 d6 10.Lb2 Dc7 11.e4 e5 12.d5 Sa5 13.Lc1 h6 14.Le3 0-0-0 15.a4 La6 16.De2 g5 17.Sf2 Tdg8 18.Sd1 h5 19.Lf2 h4 20.Se3 Sh5 21.g4 ½-½
+
+Botvinnik,Mikhail - Averbakh,Yuri L [D17]
+Moscow training m Moscow, 25.01.1957
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.Sf3 dxc4 5.a4 Lf5 6.Se5 e6 7.f3 Lb4 8.Sxc4 Sd5 9.Ld2 Sb6 10.e4 Lg6 11.h4 Le7 12.h5 Lh4+ 13.Ke2 Sxc4 14.hxg6 fxg6 15.Lc1 Le7 16.Kf2 Sd6 17.Db3 Db6 18.Dxe6 Dxd4+ 19.Le3 Df6 20.Db3 Sd7 21.Le2 g5 22.g3 Df7 23.Dxf7+ Sxf7 24.Tad1 Lc5 25.Lxc5 Sxc5 26.b4 Se6 27.b5 Ke7 28.a5 a6 29.bxc6 bxc6 30.Sa4 Se5 31.Ke3 h5 32.Sb6 Taf8 33.Thf1 Sc5 34.Tc1 Scd7 35.Sxd7 Kxd7 36.Tfd1+ Kc7 37.Tc5 Te8 38.f4 gxf4+ 39.gxf4 Sg4+ 40.Lxg4 hxg4 41.e5 Td8 42.Tg1 g5 43.fxg5 Thg8 44.Txg4 Td1 45.g6 Kd7 46.g7 Ke6 47.Tg5 Te1+ 48.Kf2 1-0
+
+Botvinnik,Mikhail - Averbakh,Yuri L [A36]
+Moscow training m Moscow, 21.01.1957
+
+1.c4 c5 2.Sc3 Sc6 3.g3 g6 4.Lg2 Lg7 5.a3 a6 6.Tb1 Tb8 7.b4 cxb4 8.axb4 b5 9.cxb5 axb5 10.h4 h6 11.e4 e5 12.Sge2 d6 13.d3 Sge7 14.h5 g5 15.f4 exf4 16.gxf4 Lg4 17.Dd2 gxf4 18.Dxf4 Dd7 19.Le3 Se5 20.0-0 Lxh5 21.Sg3 Dg4 22.Sf5 Sxf5 23.exf5 Dxf4 24.Txf4 Sg4 25.Sd5 Sxe3 26.Te1 Kd7 27.Txe3 The8 28.Th3 Ld1 29.f6 Lf8 30.d4 Te1+ 31.Kh2 h5 32.Ta3 Lh6 33.Ta7+ Ke8 34.Tf2 Kf8 35.Tfa2 Lb3 36.Tb2 Lc4 37.Tf2 Ld3 38.Te7 Ta1 39.Le4 Lc4 40.Sf4 Td1 41.d5 Lxf4+ 42.Txf4 Te8 43.Txe8+ Kxe8 44.Tf5 Td4 45.Lg2 h4 46.Th5 Tf4 47.Th6 Kd8 48.Kh3 Kd7 49.Txh4 Txf6 50.Kg3 Tg6+ 51.Tg4 Ke7 52.Le4 Th6 53.Tg5 Th8 54.Kf4 Ta8 55.Ke3 Ta4 56.Tf5 Txb4 0-1
+
+Botvinnik,Mikhail - Averbakh,Yuri L [E66]
+Moscow training m Moscow, 14.01.1957
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sc6 7.d5 Sa5 8.Sd2 c5 9.0-0 a6 10.Dc2 Tb8 11.b3 b5 12.Lb2 e5 13.dxe6 fxe6 14.cxb5 axb5 15.Sce4 Sxe4 16.Lxg7 Sxd2 17.Lxf8 Sxf1 18.Lh6 Sxh2 19.Kxh2 Lb7 20.Dc3 Dc7 21.Lh3 Te8 22.b4 Df7 23.f3 Sc6 24.bxc5 b4 25.Db2 dxc5 26.Tc1 e5 27.Txc5 Sd4 28.Le3 La6 29.Lxd4 exd4 30.Tc2 d3 31.exd3 Lxd3 32.Td2 Lf5 ½-½
+
+Botvinnik,Mikhail - Averbakh,Yuri L [E26]
+Moscow training m Moscow, 09.01.1957
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.a3 Lxc3+ 6.bxc3 b6 7.Se2 Sc6 8.Sg3 0-0 9.e4 Se8 10.Le2 La6 11.0-0 Sa5 12.f4 Lxc4 13.Lxc4 Sxc4 14.f5 f6 15.Tb1 cxd4 16.cxd4 e5 17.Sh5 De7 18.dxe5 Dc5+ 19.Kh1 Sxe5 20.Le3 Dc6 21.Sf4 Dxe4 22.Tb4 Db7 23.Sd5 Tf7 24.Db3 Da6 25.Td1 De2 26.Sf4 Da6 27.Sd5 De2 28.Sf4 Da6 ½-½
+
+Botvinnik,Mikhail - Averbakh,Yuri L [E29]
+Moscow training m3 Moscow, 10.1956
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.a3 Lxc3+ 7.bxc3 Sc6 8.e4 cxd4 9.cxd4 Sxd4 10.e5 Da5+ 11.Kf1 Se8 12.Lb2 Sc6 13.Sf3 f5 14.Dc2 d6 15.Te1 dxe5 16.Sxe5 Sf6 17.h3 Dc5 18.g4 Se4 19.Sxc6 Dxc6 20.Tg1 Tf7 21.Te3 Dc5 22.gxf5 exf5 23.Lxe4 fxe4 24.Dc3 1-0
+
+Botvinnik,Mikhail - Averbakh,Yuri L [A35]
+Moscow training m2 Moscow, 09.08.1956
+
+1.c4 c5 2.Sc3 g6 3.Sf3 Lg7 4.d4 cxd4 5.Sxd4 Sc6 6.Sc2 f5 7.Ld2 Sf6 8.e3 d5 9.Le2 e5 10.cxd5 Sxd5 11.Sxd5 Dxd5 12.Sb4 Sxb4 13.Lxb4 Le6 14.Tc1 Dxd1+ 15.Lxd1 Tc8 16.Txc8+ Lxc8 17.Lb3 e4 18.Ke2 Lxb2 19.Tb1 Le5 20.f4 exf3+ 21.gxf3 Ld7 22.f4 Lf6 23.Ld5 Lb5+ 24.Kf3 Kd7 25.Lc5 Lc6 26.Lxc6+ Kxc6 27.Lxa7 Le7 28.Ld4 Ta8 ½-½
+
+Botvinnik,Mikhail - Averbakh,Yuri L [E42]
+Moscow training m2 Moscow, 04.08.1956
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Sge2 cxd4 6.exd4 0-0 7.a3 Le7 8.d5 exd5 9.cxd5 Lc5 10.Sd4 Te8+ 11.Le2 Se4 12.Sxe4 Txe4 13.Sb5 d6 14.0-0 a6 15.Sc3 Te8 16.Kh1 Sd7 17.Lf4 Df6 18.Lg3 Ld4 19.Tc1 Sc5 20.Lxd6 Lxc3 21.Lxc5 Lxb2 22.Tc2 Le5 23.d6 Td8 24.Td2 Lf5 25.f4 Lc3 26.Ld4 Lxd4 27.Txd4 Tac8 28.Lf3 b5 29.Te1 Le6 30.Dd2 Tc4 31.Td1 g6 32.De3 Kg7 33.g4 h6 34.g5 Df5 35.Le4 Dh3 36.Dxh3 Lxh3 37.Txc4 bxc4 38.Kg1 hxg5 39.fxg5 f6 40.gxf6+ Kxf6 41.Kf2 ½-½
+
+Botvinnik,Mikhail - Averbakh,Yuri L [E46]
+Moscow training m2 Moscow, 01.08.1956
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sge2 d5 6.a3 Le7 7.cxd5 Sxd5 8.Sxd5 exd5 9.g3 Te8 10.Lg2 c6 11.0-0 Lg5 12.b4 Sd7 13.b5 Sb6 14.bxc6 bxc6 15.Ld2 La6 16.Te1 Sc4 17.Sc1 Tb8 18.Lb4 Lb5 19.Sd3 a5 20.Lc5 g6 21.Dc2 Dd7 22.a4 La6 23.Se5 Sxe5 24.dxe5 Lc4 25.Lf1 Lxf1 26.Txf1 Txe5 27.Dc3 Te4 28.Dxa5 Dc8 29.Ld4 Le7 30.Dd2 Lb4 31.Dd3 c5 32.Lb2 Dc6 33.Tfd1 La5 34.Ta2 Txa4 35.Txa4 Dxa4 36.Le5 Te8 37.Ta1 De4 38.Dxe4 dxe4 39.Txa5 Txe5 40.Ta8+ Kg7 41.f4 exf3 42.Kf2 Td5 43.Kxf3 Td2 44.h4 h5 45.Tc8 Tc2 46.Tc6 c4 47.e4 c3 48.e5 Tc1 49.Kg2 Kf8 50.e6 fxe6 51.Txe6 Td1 52.Tc6 Td3 53.Txg6 Ke7 54.Tc6 Kd7 55.Tc4 Kd6 56.g4 Kd5 57.Tc7 ½-½
+
+Botvinnik,Mikhail - Averbakh,Yuri L [C63]
+Moscow training m1 Moscow, 09.06.1956
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 f5 4.Sc3 fxe4 5.Sxe4 Le7 6.Lxc6 dxc6 7.d3 Sf6 8.De2 Lg4 9.h3 Lxf3 10.Dxf3 Dd5 11.Lg5 Sxe4 12.dxe4 Df7 13.Dxf7+ Kxf7 14.Le3 Ke6 15.Ke2 Thf8 16.h4 Tf7 17.h5 h6 18.Th3 Lg5 19.Td1 Taf8 20.f3 a5 21.Tg3 Kf6 22.Tg4 a4 23.g3 Ke6 24.Tf1 Lxe3 25.Kxe3 Td7 26.f4 Tf6 27.Tg6 Kf7 28.fxe5 Txf1 29.e6+ Ke7 30.exd7 1-0
+
+Botvinnik,Mikhail - Benkner,Otto [A29]
+Moscow ol (Men) qual-A Moscow (3), 1956
+
+1.c4 e5 2.g3 Sf6 3.Lg2 d5 4.cxd5 Sxd5 5.Sc3 Sb6 6.Sf3 Sc6 7.0-0 Le7 8.a3 0-0 9.b4 a6 10.d3 Le6 11.Se4 h6 12.Lb2 f5 13.Sc5 Lxc5 14.bxc5 Sd7 15.Tc1 De7 16.Sh4 Df7 17.f4 exf4 18.gxf4 Tad8 19.De1 Ld5 20.Lh3 Se7 21.Dg3 g6 22.e4 fxe4 23.dxe4 Lxe4 24.Tce1 Dc4 25.Txe4 Dxe4 26.Te1 Dxf4 27.Txe7 1-0
+
+Botvinnik,Mikhail - Blau,Max [A26]
+Moscow ol (Men) fin-A Moscow (8), 1956
+
+1.c4 Sf6 2.Sc3 g6 3.e4 d6 4.g3 e5 5.Lg2 Lg7 6.Sge2 Sc6 7.d3 0-0 8.0-0 Se8 9.Le3 Sd4 10.f4 c6 11.Kh1 f5 12.Lg1 Sxe2 13.Dxe2 Sc7 14.Dd2 Le6 15.exf5 Lxf5 16.fxe5 dxe5 17.Se4 Se6 18.c5 Lxe4 19.Lxe4 Dc7 20.Le3 Tad8 21.b4 Tf7 22.Txf7 Dxf7 23.Tb1 a6 24.Kg2 Tf8 25.Df2 Dd7 26.Dc2 Sd4 27.Dc4+ Kh8 28.h3 Sf5 29.Lf2 Lh6 30.Te1 Sd4 31.Tf1 Lg7 32.a3 Se6 33.Le3 Txf1 34.Kxf1 Sd4 35.Kg2 De6 36.Dxe6 Sxe6 37.Lf3 Kg8 38.Lg4 Kf7 39.h4 e4 40.dxe4 Lb2 41.Ld2 Lxa3 42.Lc3 a5 43.bxa5 Lxc5 44.Le2 Ld4 45.Ld2 ½-½
+
+Botvinnik,Mikhail - Bronstein,David I [D40]
+Alekhine Memorial Moscow, 1956
+
+1.c4 e6 2.Sc3 d5 3.d4 c5 4.e3 Sf6 5.Sf3 Sc6 6.a3 cxd4 7.exd4 Le7 8.Ld3 dxc4 9.Lxc4 a6 10.La2 0-0 11.0-0 Da5 12.De2 Ld6 13.Td1 Dh5 14.h3 Se7 15.Lg5 Sed5 16.Lxf6 Sxf6 17.Se4 Sxe4 18.Dxe4 Td8 19.Lc4 Tb8 ½-½
+
+Botvinnik,Mikhail - Ciocaltea,Victor [C75]
+Alekhine Memorial Moscow, 1956
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 d6 5.c3 Ld7 6.d4 Sge7 7.Sbd2 g6 8.dxe5 dxe5 9.h4 h5 10.Lb3 f6 11.Sc4 Lg4 12.De2 Dd7 13.Ld2 Sc8 14.Se3 Sb6 15.Sxg4 hxg4 16.Sh2 Txh4 17.0-0-0 Dg7 18.g3 Th5 19.Sxg4 Txh1 20.Txh1 0-0-0 21.Df3 Td6 22.Lh6 De7 23.Le3 Sd7 24.a3 Sa5 25.La2 Tc6 26.Th8 Kb8 27.Ld5 Td6 28.Lh6 c6 29.La2 b5 30.Lxf8 Sxf8 31.Sxe5 Dxe5 32.Txf8+ Kb7 33.Tf7+ Kb8 34.De3 c5 35.Ld5 f5 36.Tf8+ 1-0
+
+Botvinnik,Mikhail - Gligoric,Svetozar (2575) [A37]
+Moscow ol (Men) fin-A Moscow (10), 1956
+
+1.c4 g6 2.g3 c5 3.Lg2 Lg7 4.Sc3 Sc6 5.Sf3 Sh6 6.h4 d6 7.d3 Tb8 8.h5 Ld7 9.Lxh6 Lxh6 10.hxg6 hxg6 11.Dc1 Lg7 12.Txh8+ Lxh8 13.Dh6 Lxc3+ 14.bxc3 e6 15.Sg5 Ke7 16.Kd2 Le8 17.Dg7 Kd7 18.f4 De7 19.Th1 Sd8 20.Se4 Kc7 21.Th8 Lc6 22.Sf6 Kb6 23.Lxc6 Sxc6 24.Th7 Sd8 25.Dxg6 Ka6 26.a4 Ka5 27.Dg5 Kxa4 28.Th1 Kb3 29.Dh4 Kb2 30.g4 1-0
+
+Botvinnik,Mikhail - Golombek,Harry [A30]
+Moscow ol (Men) fin-A Moscow (1), 1956
+
+1.c4 Sf6 2.Sf3 c5 3.g3 g6 4.b3 Lg7 5.Lb2 0-0 6.Lg2 Sc6 7.0-0 b6 8.d4 cxd4 9.Sxd4 Lb7 10.Sc3 Dc8 11.Sc2 d6 12.e4 Sd7 13.Dd2 Sc5 14.f4 Se6 15.Tad1 Sed4 16.Sxd4 Sxd4 17.Sd5 Lxd5 18.cxd5 Sb5 19.Lxg7 Kxg7 20.Tc1 1-0
+
+Botvinnik,Mikhail - Golombek,Harry [B14]
+Alekhine Memorial Moscow, 1956
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Sf6 5.Sc3 e6 6.Sf3 Le7 7.c5 0-0 8.b4 b6 9.Ld3 Ld7 10.Le3 Sg4 11.0-0 a5 12.Sa4 bxc5 13.bxc5 Lxa4 14.Dxa4 Sxe3 15.fxe3 Sa6 16.Tab1 Lg5 17.Tfe1 Lh6 18.Tb7 Dc8 19.Lxa6 Txa6 20.Dd7 f6 21.Dxc8 Txc8 22.Kf2 Taa8 23.Teb1 e5 24.Td7 exd4 25.exd4 Td8 26.Tbb7 Tac8 27.Sh4 Txd7 28.Txd7 g6 29.g3 f5 30.Sf3 Lg7 31.Txd5 Tc7 32.Sg5 Lf6 33.h4 h6 34.Sf3 Kf7 35.Se5+ Kg7 36.Ke3 g5 37.hxg5 Lxg5+ 38.Kf3 a4 39.Td7+ Txd7 40.Sxd7 Kf7 41.d5 Ke7 42.Sb6 a3 43.Sc4 Kd7 44.Sxa3 Le7 45.c6+ 1-0
+
+Botvinnik,Mikhail - Najdorf,Miguel [E42]
+Alekhine Memorial Moscow, 1956
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 c5 5.Sge2 d5 6.a3 cxd4 7.axb4 dxc3 8.Sxc3 0-0 9.cxd5 Sxd5 10.Sxd5 Dxd5 11.Dxd5 exd5 12.Ld2 Lf5 13.Lc3 Sa6 14.Lxa6 bxa6 15.Txa6 Ld3 16.Ta5 Lc4 17.Kd2 a6 18.Tc5 Tfd8 19.g4 h6 20.h4 Td7 21.Tb1 Te8 22.b3 Lb5 23.Tg1 Kh7 24.Ld4 Te6 25.f3 Te8 26.h5 f6 27.Tgc1 Kg8 28.Tc7 Txc7 29.Txc7 Td8 30.Lc5 Ta8 31.Ke1 Ld3 32.Td7 Lc2 33.Txd5 Lxb3 34.Td3 Lc4 35.Tc3 Lb5 36.Ld4 Le8 37.Tc5 Tb8 38.Lc3 Td8 39.Ld4 Tb8 40.Lc3 Td8 41.e4 Td3 42.Ke2 Lb5 43.Txb5 Txc3 44.Tb8+ Kf7 45.Tb7+ Kf8 46.Tb8+ Kf7 47.Tb7+ Kf8 48.Kf2 Tb3 49.Tb6 Ta3 50.Tb8+ Kf7 51.Tb7+ Kf8 52.Kg3 a5 53.b5 a4 54.Kf4 Tb3 55.b6 Kg8 56.Kf5 Tb5+ 57.Ke6 a3 58.f4 a2 59.Ta7 Txb6+ 60.Kf5 Tb7 61.Txa2 Kf7 62.Ta5 Tc7 63.Td5 Ta7 64.e5 fxe5 65.fxe5 Ke7 66.e6 Ta4 67.g5 hxg5 68.Td7+ Kf8 69.Tf7+ Kg8 70.Kg6 g4 71.h6 gxh6 72.e7 Ta8 73.Tf6 1-0
+
+Botvinnik,Mikhail - Padevsky,Nikola (2430) [D35]
+Moscow ol (Men) qual-A Moscow (6), 1956
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 Le7 5.cxd5 exd5 6.Lf4 c6 7.e3 Lf5 8.Le2 0-0 9.Se5 Sbd7 10.0-0 Sxe5 11.Lxe5 Ld6 12.Db3 Tb8 13.Da4 Lxe5 14.dxe5 Sd7 15.Dxa7 Sxe5 16.Dd4 De7 17.b4 b5 18.a4 bxa4 19.Txa4 Sc4 20.Lxc4 dxc4 21.Dxc4 Lc2 22.Ta2 Txb4 23.Dxc6 Le4 24.Sxe4 Txe4 25.Tb1 Te6 26.Db7 Df6 27.g3 h6 28.Kg2 Tc6 29.Tb4 De6 30.Td2 Tc4 31.Txc4 Dxc4 32.Td7 De6 33.Te7 Dc4 34.Tc7 Da2 35.Tc8 Txc8 36.Dxc8+ Kh7 37.Dc6 Db3 38.e4 Da2 39.h4 De2 40.Dd5 h5 41.Dxf7 Dxe4+ 42.Df3 De8 43.Dd5 g6 44.Db7+ Kh6 45.Kf3 Df8+ 46.Ke2 Df5 47.De7 Dc2+ 48.Kf3 Dc6+ 49.Ke2 Dc4+ 50.Kd2 Da2+ 51.Ke1 Db1+ 52.Ke2 Db5+ 53.Ke3 Db3+ 54.Kf4 Dc4+ 55.Kf3 Dc6+ 56.De4 Dd7 57.Ke3 Kh7 58.De5 Da7+ 59.Dd4 Df7 60.Dc5 De6+ 61.Kd4 Df6+ 62.Kc4 De6+ 63.Kb5 De8+ 64.Kb6 Db8+ 65.Ka6 Db2 66.Db6 Da1+ 67.Kb7 Kg7 68.Dc5 Db2+ 69.Kc7 Da1 70.Kd7 Da4+ 71.Kd8 Dd1+ 72.Ke7 De1+ 73.Kd6 Dd2+ 74.Ke6 Da2+ 75.Kd7 Da4+ 76.Kc7 Da1 77.f4 Db1 78.Dd4+ Kf7 79.Dd5+ Kf6 80.Dd6+ Kf7 81.Kd8 De4 ½-½
+
+Botvinnik,Mikhail - Padevsky,Nikola [E64]
+Moscow ol (Men) fin-A Moscow (6), 1956
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 c5 7.d5 Sa6 8.0-0 Sc7 9.Sd2 Tb8 10.Dc2 e5 11.dxe6 Lxe6 12.b3 d5 13.cxd5 Sfxd5 14.Lb2 b6 15.Sxd5 Lxd5 16.Lxg7 Kxg7 17.Tad1 Lxg2 18.Kxg2 De7 19.Se4 Tbd8 20.h4 Txd1 21.Txd1 Td8 22.Db2+ f6 23.Sxf6 Kf7 24.Txd8 Dxd8 25.Sxh7 Se6 26.De5 b5 27.Sg5+ Sxg5 28.hxg5 Da8+ 29.e4 Dc6 30.Kf3 c4 31.bxc4 Dxc4 32.Dd5+ 1-0
+
+Botvinnik,Mikhail - Stahlberg,Gideon [A11]
+Moscow ol (Men) qual-A Moscow (1), 1956
+
+1.c4 Sf6 2.g3 c6 3.Sf3 d5 4.b3 g6 5.Lb2 Lg7 6.Lg2 0-0 7.0-0 Sbd7 8.Dc2 Te8 9.Sc3 Sf8 10.d4 Lf5 11.Dc1 Se4 12.Td1 Sxc3 13.Lxc3 Le4 14.Se1 Lxg2 15.Kxg2 Sd7 16.Dc2 Dc7 17.Lb2 Tac8 18.Tac1 dxc4 19.Dxc4 Da5 20.Sd3 e5 21.dxe5 Lxe5 22.b4 b5 23.bxa5 bxc4 24.Sxe5 Sxe5 25.h3 Tb8 26.Lc3 Te7 27.Tb1 Txb1 28.Txb1 f6 29.a6 c5 30.Tb8+ Kf7 31.Tc8 Sd7 32.Kf1 Ke6 33.Tc6+ Kd5 34.Tc7 Kd6 35.Txa7 Te8 36.La5 Kc6 37.Ke1 Sb6 38.Lxb6 Kxb6 39.Tf7 Kxa6 40.Txf6+ Kb5 41.Tf3 Td8 42.e4 Td4 43.e5 Kc6 44.Te3 Kd7 45.f4 Ke6 46.Ke2 Td8 47.a4 Tb8 48.Ta3 Tb2+ 49.Kd1 Tb6 50.a5 Ta6 51.Kd2 g5 52.Kc3 gxf4 53.gxf4 Kd5 54.Ta1 h5 55.h4 1-0
+
+Botvinnik,Mikhail - Stahlberg,Gideon [A14]
+Alekhine Memorial Moscow, 1956
+
+1.c4 e6 2.Sf3 Sf6 3.g3 d5 4.Lg2 Le7 5.0-0 0-0 6.b3 b6 7.Lb2 Lb7 8.e3 Sbd7 9.De2 a5 10.Sc3 Se4 11.Tfd1 Lf6 12.d4 Sxc3 13.Lxc3 Dc8 14.Tac1 dxc4 15.bxc4 Le4 16.Lh3 Da6 17.Sd2 Lb7 18.Lg2 Lxg2 19.Kxg2 Tfd8 20.Se4 Le7 21.Lb2 Sf6 22.Sg5 h6 23.Sh3 Db7+ 24.f3 a4 25.e4 a3 26.La1 Sd7 27.Sf2 Ta4 28.Sg4 h5 29.Se3 Lg5 30.Tc2 Sf6 31.d5 exd5 32.Lxf6 Lxf6 33.Sxd5 Te8 34.Sxf6+ gxf6 35.Td5 Te5 36.Txe5 fxe5 37.Dd2 Dc6 38.Dg5+ Kf8 39.Td2 Ta8 40.Dxe5 Te8 41.Dh8+ 1-0
+
+Botvinnik,Mikhail - Szabo,Laszlo [A21]
+Alekhine Memorial Moscow, 1956
+
+1.c4 g6 2.g3 Lg7 3.Lg2 e5 4.Sc3 Se7 5.d3 c6 6.e4 d6 7.Sge2 a6 8.a4 a5 9.Le3 Le6 10.0-0 Dd7 11.b3 h5 12.h4 Lh3 13.d4 0-0 14.Ta2 Lxg2 15.Kxg2 d5 16.dxe5 dxc4 17.bxc4 Lxe5 18.Dxd7 Sxd7 19.Td2 Lxc3 20.Txd7 Lb4 21.c5 Tfe8 22.Tfd1 f5 23.Txb7 fxe4 24.Td6 Kf7 25.Sf4 Teb8 26.Tbd7 Ke8 27.Se6 1-0
+
+Botvinnik,Mikhail - Szabo,Laszlo [A36]
+Moscow ol (Men) fin-A Moscow (4), 1956
+
+1.c4 Sf6 2.Sc3 c5 3.g3 g6 4.Lg2 Lg7 5.e4 Sc6 6.Sge2 d6 7.d3 Ld7 8.h3 a6 9.a3 Tb8 10.Tb1 0-0 11.b4 cxb4 12.axb4 b5 13.cxb5 axb5 14.0-0 Se8 15.Le3 Sc7 16.d4 Sa6 17.Sa2 e5 18.d5 Se7 19.Dd2 f5 20.Sac3 Tc8 21.Tb3 Tc4 22.Tfb1 Dc8 23.Lg5 Tf7 24.Kh2 f4 25.Lxe7 Txe7 26.Lf1 fxg3+ 27.Sxg3 Td4 28.De3 Df8 29.Lxb5 Lh6 30.De1 Ld2 31.Df1 Tf7 32.Kg1 Lxb5 33.Sxb5 Txb4 34.Txb4 Lxb4 35.Kg2 Lc5 36.f3 Sb4 37.Sa3 Ta7 38.Tb3 Df4 39.Sc4 Ta2+ 40.Tb2 Txb2+ 41.Sxb2 Dd2+ 42.De2 Dd4 43.h4 Dg1+ ½-½
+
+Botvinnik,Mikhail - Taimanov,Mark E [A36]
+Alekhine Memorial Moscow, 1956
+
+1.c4 Sf6 2.Sc3 g6 3.g3 Lg7 4.Lg2 0-0 5.e4 c5 6.Sge2 Sc6 7.a3 Se8 8.Tb1 Sc7 9.b4 b6 10.d3 Se6 11.0-0 Tb8 12.Le3 d6 13.Dd2 Sed4 14.Kh1 Lb7 15.b5 Sa5 16.Lxd4 cxd4 17.Sa2 e6 18.Sb4 f5 19.exf5 Lxg2+ 20.Kxg2 Txf5 21.f4 Dd7 22.g4 Tf7 23.Sg3 Tbf8 24.Tf2 d5 ½-½
+
+Botvinnik,Mikhail - Uhlmann,Wolfgang [C00]
+Alekhine Memorial Moscow, 1956
+
+1.e4 e6 2.d3 d5 3.Sd2 Sf6 4.Sgf3 c5 5.g3 Sc6 6.Lg2 Le7 7.0-0 0-0 8.Te1 Tb8 9.e5 Sd7 10.Sf1 b5 11.h4 La6 12.S1h2 b4 13.Lf4 Lb5 14.Lh3 c4 15.d4 Db6 16.Le3 Tfc8 17.Sg5 Sf8 18.f4 Sd8 19.f5 exf5 20.Lxf5 Sde6 21.Df3 Sxg5 22.hxg5 Td8 23.Sg4 Sg6 24.Kg2 Ld7 25.Lxd7 Txd7 26.Th1 De6 27.Th5 Tb6 28.Tah1 Sf8 29.Sf6+ gxf6 30.gxf6 Lxf6 31.exf6 De4 32.Dxe4 dxe4 33.Tg5+ Sg6 34.Tc5 Txf6 35.Tc8+ Sf8 36.Th4 Kg7 37.Txe4 Ta6 38.Txc4 Tb7 39.d5 Txa2 40.Txb4 Txb2 41.Ld4+ 1-0
+
+Botvinnik,Mikhail - Averbakh,Yuri L [B76]
+Moscow training m2 Moscow, 12.1955
+
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 g6 6.Le3 Lg7 7.f3 Sc6 8.Dd2 0-0 9.g4 Sxd4 10.Lxd4 Da5 11.h4 Le6 12.h5 Tfd8 13.hxg6 hxg6 14.a3 d5 15.e5 Sd7 16.Dh2 Sf8 17.Ld3 f6 18.exf6 exf6 19.b4 1-0
+
+Botvinnik,Mikhail - Averbakh,Yuri L [E56]
+Moscow training m1 Moscow, 06.06.1955
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.Sf3 c5 7.0-0 Sc6 8.a3 La5 9.cxd5 exd5 10.dxc5 Lxc3 11.bxc3 Lg4 12.c4 Se5 13.cxd5 Sxf3+ 14.gxf3 Lh3 15.e4 Sd7 16.Kh1 Lxf1 17.Lxf1 Sxc5 18.Le3 b6 19.e5 Dd7 20.f4 Tfd8 21.Lg2 Tac8 22.Df3 Sb3 23.Td1 Tc3 24.f5 Sc5 25.f6 Td3 26.Tg1 g6 27.Df4 De8 28.Lxc5 bxc5 29.Te1 T3xd5 30.Lxd5 Txd5 31.Dh6 Df8 32.Dh3 Dd8 33.e6 1-0
+
+Botvinnik,Mikhail - Lisitsin,Georgy [E26]
+URS-ch22 Moscow (18), 12.03.1955
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.a3 Lxc3+ 7.bxc3 d6 8.Se2 b6 9.e4 Dd7 10.Lc2 La6 11.0-0 Lxc4 12.Te1 e5 13.d5 Se7 14.Sg3 0-0 15.Lg5 Se8 16.La4 b5 17.Lxe7 Dxe7 18.Sf5 Dc7 19.Lc2 g6 20.Se3 Sg7 21.Sxc4 bxc4 22.De2 Tab8 23.Teb1 Txb1+ 24.Txb1 Da5 25.Dxc4 Dxa3 26.La4 Se8 27.g3 Sc7 28.Db3 Dxb3 29.Txb3 f5 30.Tb7 Se8 31.exf5 gxf5 32.Txa7 Sf6 33.Ld7 Se4 34.Le6+ Kh8 35.Td7 f4 36.g4 Sxc3 37.Txd6 Se2+ 38.Kf1 Sd4 39.Tc6 Te8 40.Ld7 Td8 41.Tc7 c4 42.Le6 Sxe6 43.dxe6 Te8 44.e7 Kg7 45.f3 Kf6 46.h4 Txe7 47.Txc4 Te6 48.Ke2 h6 49.Kd3 Td6+ ½-½
+
+Botvinnik,Mikhail - Borisenko,Georgy K [E66]
+URS-ch22 Moscow (16), 09.03.1955
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sc6 7.d5 Sa5 8.Sd2 c5 9.Dc2 e6 10.0-0 exd5 11.cxd5 Te8 12.b3 b5 13.Lb2 Tb8 14.a3 Ld7 15.Tfe1 Sb7 16.Sce4 Sxd5 17.Lxg7 Kxg7 18.Db2+ f6 19.Sxc5 dxc5 20.Lxd5 Sd6 21.e4 Tc8 22.Tac1 Sf7 23.Sf3 Le6 24.Tcd1 Lxd5 25.Txd5 De7 26.e5 Ted8 27.Txd8 Txd8 28.e6 Sd6 29.Dc3 Sf5 30.Te4 h5 31.Te1 Td5 32.Dc2 Dd6 33.Dxf5 Txf5 34.e7 Dd7 35.e8D Dxe8 36.Txe8 Txf3 37.Te7+ Kh6 38.b4 Txa3 39.bxc5 a5 40.Tb7 b4 41.c6 Tc3 42.c7 b3 43.Txb3 Txc7 44.Ta3 Ta7 45.Ta4 Kg5 46.f3 Kf5 47.g4+ hxg4 48.fxg4+ Ke5 49.h4 Kd5 50.h5 gxh5 51.gxh5 Ke6 52.h6 Kf7 53.Tg4 Kf8 54.Tf4 Ta6 55.Tg4 Ta7 56.Tf4 Kg8 57.Txf6 a4 58.Tf2 Kh7 59.Ta2 Kxh6 60.Kf2 Kg5 61.Ke3 ½-½
+
+Botvinnik,Mikhail - Ilivitzki,Georgi A [D91]
+URS-ch22 Moscow (14), 05.03.1955
+
+1.d4 Sf6 2.c4 g6 3.Lg5 d5 4.Sc3 Se4 5.Lf4 Sxc3 6.bxc3 Lg7 7.Sf3 0-0 8.c5 b6 9.cxb6 axb6 10.e3 La6 11.Lxa6 Txa6 12.0-0 Dd7 13.De2 Dc6 14.Tfc1 Ta4 15.Se1 Sd7 16.Sd3 Tfa8 17.Tc2 e6 18.h4 Ta3 19.h5 Dc4 20.hxg6 hxg6 21.Dd2 b5 22.g4 Te8 23.Tb1 e5 24.Tb4 Dc6 25.dxe5 Sxe5 26.Sxe5 Lxe5 27.Lxe5 Txe5 28.Dd3 Te4 29.Txe4 dxe4 30.Dd8+ Kg7 31.Dd4+ Kg8 32.Dd8+ Kg7 33.De7 Dd5 ½-½
+
+Botvinnik,Mikhail - Furman,Semen Abramovich [E49]
+URS-ch22 Moscow (12), 01.03.1955
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 Lxc3+ 7.bxc3 dxc4 8.Lxc4 c5 9.Lb2 Sc6 10.Sf3 Dc7 11.Le2 Td8 12.Dc2 e5 13.dxe5 Sxe5 14.c4 Sfg4 15.Sg5 Sg6 16.Se4 Sh4 17.Kf1 Dc6 18.Dc3 f6 19.f3 Se5 20.Sg3 Le6 21.Kf2 Da4 22.Thc1 Td7 23.Sf1 Shg6 24.f4 Sf7 25.Dc2 Dxc2 26.Txc2 Sd6 27.Sg3 Tad8 28.Lc1 Sf5 29.Se4 b6 30.g4 Te7 31.Sc3 Sd6 32.f5 Sxf5 33.gxf5 Lxf5 34.Td2 Tde8 35.Sd5 Tf7 36.Lb2 Le4 37.Tad1 Se5 38.Sc3 Lb7 39.Sb5 Tef8 40.Sd6 Te7 41.Sxb7 Txb7 42.Lxe5 fxe5+ 43.Kg3 1-0
+
+Botvinnik,Mikhail - Simagin,Vladimir [B08]
+URS-ch22 Moscow (10), 26.02.1955
+
+1.Sf3 d6 2.d4 Sf6 3.Sc3 g6 4.e4 Lg7 5.Le2 0-0 6.0-0 Sbd7 7.e5 Se8 8.Lf4 Sb6 9.h3 c6 10.Dc1 f6 11.exd6 exd6 12.Ld3 d5 13.Se2 Sd6 14.Sg3 Le6 15.a4 a5 16.b3 Dd7 17.Dd2 Tfe8 18.Tfe1 Sf7 19.h4 Sc8 20.c4 dxc4 21.bxc4 Scd6 22.Dc2 Lh6 23.Lxg6 Lxf4 24.Sh5 Kh8 25.Sxf4 Lxc4 26.Ld3 Lxd3 27.Dxd3 Dg4 28.g3 Tad8 29.Tad1 Tg8 30.Kf1 Tde8 31.Txe8 Txe8 32.Te1 Txe1+ 33.Sxe1 Df5 34.Sc2 Dxd3+ 35.Sxd3 b5 36.Sc5 Sc4 37.Ke2 Sfd6 38.Se3 Sb6 39.Kd3 bxa4 40.Kc2 Kg8 41.Se6 Se4 42.Sf5 Kf7 43.Sd8+ Kg6 44.g4 Sxf2 45.Se7+ Kg7 46.Sf5+ Kf8 47.g5 fxg5 48.hxg5 Sc4 49.Sxc6 a3 50.Kb1 Se4 51.Ka1 Sc3 52.d5 a4 53.Sfd4 Sd2 54.Sa5 Ke8 55.Sc2 a2 56.Sc6 Sde4 57.Se5 Sxg5 58.d6 Se6 59.Kb2 Se4 60.Sb4 Sxd6 61.Sd5 Se4 62.Kxa2 Kf8 63.Ka3 S6c5 64.Sf4 Ke7 65.Sg4 Sc3 66.Kb4 S5e4 67.Sh5 Ke6 68.Se3 Ke5 69.Sg2 Kf5 70.Se3+ Ke5 71.Sg7 Kd4 72.Sc2+ Kd3 73.Se1+ Kd2 74.Sf3+ Kc2 75.Se1+ Kb1 76.Sd3 Ka2 77.Sc1+ Kb2 78.Sd3+ Kc2 79.Se1+ Kd2 80.Sf3+ Ke3 81.Se5 Kf4 82.Sd7 Kg5 83.Sf8 h6 84.Sge6+ Kf5 85.Sg7+ Kf6 86.Sh5+ Kf7 87.Sd7 Kg6 88.Sf4+ Kf5 89.Sg2 h5 90.Sh4+ Kg5 91.Sf3+ Kf4 92.Sh4 Kg4 93.Sg6 Sd5+ 94.Kxa4 Sf4 95.Sde5+ Kf5 96.Sxf4 Kxf4 97.Sg6+ Kg5 98.Se5 Sd2 99.Kb4 Kf5 100.Kc3 Se4+ 101.Kd4 Sg5 102.Sd3 Kg4 103.Se5+ Kf5 104.Sd3 Kg4 105.Se5+ Kg3 106.Sg6 Se6+ 107.Ke3 Sf8 108.Sxf8 h4 109.Se6 h3 110.Sg5 ½-½
+
+Botvinnik,Mikhail - Spassky,Boris V [A30]
+URS-ch22 Moscow (8), 22.02.1955
+
+1.c4 Sf6 2.Sf3 e6 3.g3 c5 4.Lg2 Sc6 5.0-0 Sd4 6.Sxd4 cxd4 7.e3 Dc7 8.d3 dxe3 9.Lxe3 Le7 10.Sc3 0-0 11.Sb5 Db8 12.Da4 a6 13.Sc3 b5 14.cxb5 Lb7 15.Lxb7 Dxb7 16.bxa6 Txa6 17.Db5 Da8 18.d4 Sg4 19.De2 f5 20.Ld2 Tb6 21.b3 La3 22.Lc1 Lb4 23.Sa4 Tc6 24.Lb2 Sf6 25.Tac1 f4 26.Txc6 Dxc6 27.f3 h5 28.Lc1 Ld6 29.gxf4 Sd5 30.Sc5 Lxc5 31.dxc5 Dxc5+ 32.Df2 Da5 33.Kh1 Sxf4 34.Lxf4 Txf4 ½-½
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [A20]
+URS-ch22 Moscow (7), 21.02.1955
+
+1.c4 e5 2.Sf3 e4 3.Sd4 Sc6 4.Sxc6 dxc6 5.Sc3 Sf6 6.e3 Ld6 7.d4 exd3 8.Lxd3 De7 9.Dc2 Le6 10.b3 0-0-0 11.Lb2 h5 12.0-0-0 h4 13.h3 Sd7 14.Lf5 Tde8 15.Lxe6 Dxe6 16.Se2 Th5 17.Sd4 De4 18.Dxe4 Txe4 19.Sf3 g6 20.The1 Sc5 21.Kc2 a5 22.Td4 f5 23.Te2 g5 24.Txe4 Sxe4 25.Sd2 Sxd2 26.Kxd2 Th6 27.e4 Lf4+ 28.Ke1 fxe4 29.Txe4 c5 30.Lc3 a4 31.bxa4 Tb6 32.Ke2 Kd7 33.Kd3 Tb1 34.Te1 Tb6 35.Kc2 Tg6 36.Te4 Td6 37.Te1 Tg6 38.Te2 b6 39.Te4 Td6 40.Te1 Tg6 41.Te4 Td6 42.a3 Tg6 43.a5 Tg8 44.a4 Tf8 45.Te2 bxa5 46.Kd3 Td8 47.Te4 Kc6+ 48.Ke2 Kb6 49.Te6+ c6 50.Te7 Ka6 51.Te4 Kb6 52.Te6 Kb7 53.Te7+ Ka6 54.Te4 Kb6 55.Le1 Lc1 56.g3 hxg3 57.fxg3 Th8 58.h4 gxh4 59.gxh4 Lb2 60.Ld2 Ld4 61.Kf3 Lb2 62.Lg5 Tf8+ 63.Tf4 Tg8 64.Tf5 Ld4 65.h5 Kc7 66.h6 Kd7 67.Kg4 Ke6 68.Tf4 Tb8 69.Te4+ Kf7 70.Te7+ Kg8 71.Kf5 Tf8+ 72.Kg6 Kh8 73.Th7+ Kg8 74.Td7 Kh8 75.Td8 1-0
+
+Botvinnik,Mikhail - Geller,Efim P [D35]
+URS-ch22 Moscow (5), 18.02.1955
+
+1.c4 Sf6 2.d4 e6 3.Sc3 d5 4.cxd5 exd5 5.Lg5 c6 6.e3 h6 7.Lh4 Lf5 8.Ld3 Lxd3 9.Dxd3 Le7 10.Sge2 Sbd7 11.0-0 0-0 12.f3 Te8 13.Lf2 c5 14.dxc5 Lxc5 15.Tad1 Se5 16.Db5 Db6 17.Dxb6 axb6 18.b3 Sc6 19.Sf4 Sb4 20.Sd3 Sxa2 21.Sxa2 Txa2 22.Tfe1 Ld6 23.h3 Tc2 24.Kf1 Tc3 25.b4 b5 26.Te2 Tb3 27.Le1 Sh5 28.g4 Sg3+ 29.Lxg3 Lxg3 30.Kg2 Ld6 31.Kf2 Tc8 32.Ted2 Tc4 33.Sc1 Tbxb4 34.Txd5 Tb2+ 35.Se2 Lb4 36.Kf1 Lc5 37.Sd4 b4 38.Td8+ Kh7 39.Tc8 Tc3 40.Se2 Txe3 0-1
+
+Botvinnik,Mikhail - Shcherbakov,Vitaly Sergeevich [A24]
+URS-ch22 Moscow (3), 14.02.1955
+
+1.c4 Sf6 2.Sc3 g6 3.g3 Lg7 4.Lg2 0-0 5.e4 d6 6.Sge2 e5 7.0-0 Sbd7 8.d3 Sc5 9.f4 c6 10.h3 Se6 11.f5 Sd4 12.g4 Se8 13.Le3 a6 14.Dd2 b5 15.Lg5 Lf6 16.Lxf6 Sxf6 17.Sxd4 exd4 18.Se2 Db6 19.cxb5 axb5 20.Dh6 Ld7 21.g5 Sh5 22.Sf4 Sg7 23.f6 1-0
+
+Botvinnik,Mikhail - Mikenas,Vladas [D30]
+URS-ch22 Moscow (1), 11.02.1955
+
+1.d4 d5 2.c4 e6 3.Sf3 c5 4.cxd5 exd5 5.g3 c4 6.Lg2 Lb4+ 7.Ld2 Lxd2+ 8.Dxd2 Sc6 9.Sc3 Sge7 10.0-0 0-0 11.b3 cxb3 12.axb3 Le6 13.e3 Dd6 14.Se1 Tfc8 15.Sd3 b6 16.Tfc1 Sa5 17.Db2 a6 18.Da3 Dxa3 19.Txa3 Sac6 20.Kf1 Lf5 21.Ke2 Lxd3+ 22.Kxd3 Sb4+ 23.Kd2 f5 24.Ta4 a5 25.Taa1 Kf7 26.Sb5 Tc6 27.Txc6 Sexc6 28.Tc1 Td8 29.Sc7 Se7 ½-½
+
+Botvinnik,Mikhail - Reshevsky,Samuel Herman [D41]
+URS-USA Moscow (2), 1955
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 c5 5.cxd5 Sxd5 6.e3 Sc6 7.Lc4 Sxc3 8.bxc3 Le7 9.0-0 0-0 10.Ld3 b6 11.Dc2 g6 12.Td1 cxd4 13.exd4 Lb7 14.Lh6 Te8 15.De2 Dc7 16.Tac1 Lf8 17.Lxf8 Kxf8 18.Te1 Kg7 19.Lb5 a6 20.La4 b5 21.Lb3 Dd6 22.De3 Tac8 23.h4 h5 24.Ted1 Se7 25.De5+ Dxe5 26.Sxe5 Sd5 27.Lxd5 Lxd5 28.a3 Te7 29.Sd3 Tc4 30.Sb2 Tc8 31.Sd3 Tc4 32.Sb2 ½-½
+
+Botvinnik,Mikhail - Reshevsky,Samuel Herman [E51]
+URS-USA Moscow (4), 1955
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 d5 5.a3 Le7 6.Sf3 0-0 7.b4 Sbd7 8.Lb2 c6 9.Dc2 dxc4 10.Lxc4 a5 11.b5 Sb6 12.Ld3 cxb5 13.Sxb5 Ld7 14.0-0 Tc8 15.De2 Sa4 16.Se5 Lxb5 17.Lxb5 Sc3 18.Lxc3 Txc3 19.Db2 Dc7 20.Tfc1 Tc8 21.Sd3 Se4 22.a4 Lb4 23.g3 h6 24.Sc5 Txc1+ 25.Txc1 Sxc5 26.dxc5 Lxc5 27.Td1 Td8 28.Dc2 b6 29.Txd8+ Dxd8 30.Dd3 Dxd3 31.Lxd3 ½-½
+
+Botvinnik,Mikhail - Pirc,Vasja [E42]
+Amsterdam ol (Men) fin-A Amsterdam (8), 20.09.1954
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Sge2 d5 6.a3 Lxc3+ 7.Sxc3 b6 8.cxd5 exd5 9.Lb5+ Ld7 10.Le2 Lc6 11.b4 0-0 12.0-0 Sbd7 13.Lb2 cxb4 14.axb4 a5 15.Db3 Te8 16.Tfc1 De7 17.La3 De6 18.Sb5 Lxb5 19.Lxb5 axb4 20.Dxb4 Tec8 21.Txc8+ Txc8 22.Tc1 Txc1+ 23.Lxc1 h5 24.Dc3 g6 25.f3 Df5 26.h4 Sf8 27.La3 Db1+ 28.Lf1 Se6 29.Db4 Dd1 30.Kf2 Kg7 31.Dxb6 g5 32.hxg5 Sxg5 33.Lf8+ Kg6 34.Le7 Dc2+ 35.Le2 Se6 36.Db5 Sg8 37.Lh4 Da2 38.Db8 Kh7 39.De5 Sg7 40.e4 dxe4 41.Dxe4+ f5 42.De5 Db2 43.Lg3 Sh6 44.Lf4 Sf7 45.De3 Da2 46.Dd3 Dd5 47.Dc4 Dd7 48.Ld3 Kg6 49.d5 De7 50.Dd4 Dh4+ 51.Kf1 Se8 52.g3 Df6 53.De3 Sfd6 54.Le5 Df7 55.Dd4 Kh7 56.Kg2 Kg8 57.Dc5 De7 58.Lc3 Kf7 59.Dd4 Kg6 60.De5 Kf7 61.f4 Dd7 62.Le2 Kg6 63.Dh8 Sg7 64.Dg8 Kh6 65.Lxh5 Sxh5 66.Dg5+ Kh7 67.Dxh5+ Kg8 68.Dg6+ Kf8 69.Lb4 1-0
+
+Botvinnik,Mikhail - Najdorf,Miguel [E65]
+Amsterdam ol (Men) fin-A Amsterdam (7), 19.09.1954
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 c5 6.Sf3 Sc6 7.0-0 d6 8.e3 Lf5 9.b3 Dc8 10.Lb2 Se4 11.Tc1 Sxc3 12.Lxc3 Le4 13.d5 Lxc3 14.Txc3 Sd8 15.Sd2 Lxg2 16.Kxg2 f5 17.f4 e6 18.e4 exd5 19.cxd5 Sf7 20.Te1 Te8 21.Tce3 Dd7 22.Df3 Tad8 23.a4 b6 24.exf5 Txe3 25.Txe3 Dxf5 26.g4 Dc2 27.Te2 Tf8 28.Se4 Dd1 29.Sf6+ Kg7 30.g5 Tc8 31.Te3 Dxf3+ 32.Kxf3 h6 33.h4 hxg5 34.hxg5 a6 35.Te7 Tb8 36.Ta7 b5 37.Txa6 bxa4 38.bxa4 Tc8 39.a5 Kf8 40.Tc6 Ta8 41.a6 1-0
+
+Botvinnik,Mikhail - Minev,Nikolay N [D47]
+Amsterdam ol (Men) fin-A Amsterdam (5), 17.09.1954
+
+1.Sf3 Sf6 2.c4 c6 3.d4 d5 4.Sc3 e6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 b4 9.Se4 Lb7 10.Sxf6+ gxf6 11.e4 Ld6 12.0-0 Tg8 13.De2 Da5 14.Sd2 0-0-0 15.Sc4 Dc7 16.f4 c5 17.a3 f5 18.axb4 Sf6 19.Sa5 c4 20.Sxb7 cxd3 21.Sxd6+ Txd6 22.Dxd3 fxe4 23.De2 Db7 24.f5 Sd5 25.Dxe4 Sxb4 26.Dxb7+ Kxb7 27.fxe6 fxe6 28.Tf7+ Kc6 29.Le3 Kd5 30.Txh7 Sc6 31.Lf4 Tdd8 32.Lc7 Th8 33.Tg7 Thg8 34.Th7 Th8 35.Tg7 Thg8 36.Tf7 Tgf8 37.Taf1 Txf7 38.Txf7 Tc8 39.Le5 Sxd4 40.Lxd4 Kxd4 41.Kf2 a5 42.g4 Tc2+ 43.Kg3 Txb2 44.g5 a4 45.g6 Tb1 46.Kh4 Tg1 47.Kh5 Kc4 48.Tf4+ Kb5 49.Tf3 Kb4 50.Tf4+ Kb5 51.Tf3 Kb4 52.Tg3 Txg3 53.hxg3 a3 54.g7 a2 55.g8D a1D 56.Dg4+ Ka5 57.Dxe6 Dh8+ 58.Kg6 Dc3 59.g4 Dd2 60.g5 Dd4 61.Df5+ Ka4 62.Kh5 Dh8+ 63.Kg4 Dh1 64.Df4+ Ka5 65.De5+ Ka4 66.g6 Dd1+ 67.Kg5 Dd8+ 68.Kf5 Dc8+ 69.Kf4 Dc1+ 70.De3 Dc7+ 71.De5 Dc1+ 72.Kf5 Dc8+ 73.Kg5 Dd8+ 74.Df6 Dd5+ 75.Df5 Dd8+ 76.Kh5 De8 77.Df4+ Ka5 78.Dd2+ Ka4 79.Dd4+ Ka5 80.Kg5 De7+ 81.Kf5 Df8+ 82.Ke4 Dh6 83.De5+ Ka4 84.g7 Dh1+ 85.Kd4 Dd1+ 86.Kc5 Dc1+ 87.Kd6 Dd2+ 88.Ke6 Da2+ 89.Dd5 De2+ 90.Kd6 Dh2+ 91.Kc5 1-0
+
+Botvinnik,Mikhail - Porat,Yosef [D36]
+Amsterdam ol (Men) fin-A Amsterdam (3), 14.09.1954
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.cxd5 exd5 5.Lg5 Le7 6.e3 h6 7.Lh4 0-0 8.Ld3 Te8 9.Sge2 Sbd7 10.0-0 c6 11.f3 c5 12.Dc2 b6 13.Lb5 Lb7 14.Lxf6 Lxf6 15.dxc5 bxc5 16.Tad1 d4 17.exd4 cxd4 18.Sxd4 Db6 19.Df2 Ted8 20.Sb3 Sf8 21.Dxb6 axb6 22.a4 Se6 23.Txd8+ Txd8 24.Td1 Txd1+ 25.Sxd1 Kf8 26.Sc3 Ke7 27.Sd2 Sd4 28.Lc4 Lc6 29.Kf2 Le5 30.Ld5 Ld7 31.Sc4 Lc7 32.b4 Lxa4 33.Sxa4 b5 34.Sab2 bxc4 35.Sxc4 f5 36.g3 g5 37.Kg2 Kd7 38.Lb7 Lb8 39.La6 Kc6 40.Sa5+ Kb6 41.Ld3 f4 42.g4 Ld6 ½-½
+
+Botvinnik,Mikhail - Stahlberg,Gideon [A14]
+Amsterdam ol (Men) fin-A Amsterdam (1), 12.09.1954
+
+1.c4 e6 2.g3 d5 3.Lg2 Sf6 4.Sf3 Le7 5.0-0 0-0 6.b3 d4 7.e3 Sc6 8.exd4 Sxd4 9.Lb2 Sxf3+ 10.Dxf3 Tb8 11.De2 b6 12.Sc3 Lb7 13.Tad1 Lxg2 14.Kxg2 c6 15.Se4 Tb7 16.Sg5 Sd7 17.Sf3 Lf6 18.d4 Dc8 19.Sd2 c5 20.Se4 Lxd4 21.Lxd4 cxd4 22.Txd4 Sc5 23.Sd6 Dc6+ 24.Df3 Dxf3+ 25.Kxf3 Td7 26.Tfd1 f6 27.Ke3 e5 28.Td5 Se6 29.Sb5 Te7 30.Td7 Tff7 31.Txe7 Txe7 32.Td6 Kf7 33.Tc6 Td7 34.Tc8 Sc5 35.b4 Sd3 36.c5 Sxb4 37.c6 Td5 38.c7 Txb5 39.Tf8+ Kxf8 40.c8D+ Ke7 41.Dc7+ Ke6 42.Dxg7 Sd5+ 43.Kf3 Ta5 44.Dxh7 Txa2 45.h4 Se7 46.h5 Td2 47.h6 f5 48.Dg7 e4+ 49.Kg2 e3 50.h7 1-0
+
+Botvinnik,Mikhail - Euwe,Max [E59]
+Amsterdam ol (Men) qual-A Amsterdam (4), 09.09.1954
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 d5 6.Sf3 0-0 7.0-0 Sc6 8.a3 Lxc3 9.bxc3 dxc4 10.Lxc4 Dc7 11.Ld3 e5 12.Dc2 De7 13.dxe5 Sxe5 14.Sxe5 Dxe5 15.f3 Le6 16.e4 c4 17.Le2 Dc5+ 18.Kh1 Sd7 19.a4 Dc7 20.La3 Sc5 21.Tab1 Tfd8 22.Lxc5 Dxc5 23.Txb7 De3 24.Tb2 Tab8 25.Txb8 Txb8 26.f4 f6 27.f5 Lf7 28.Td1 g5 29.fxg6 hxg6 ½-½
+
+Botvinnik,Mikhail - Salo,Toivo [E69]
+Amsterdam ol (Men) qual-A Amsterdam (1), 04.09.1954
+
+1.Sf3 Sf6 2.c4 g6 3.d4 Lg7 4.g3 0-0 5.Lg2 d6 6.Sc3 Sbd7 7.0-0 e5 8.e4 a5 9.Le3 Te8 10.h3 exd4 11.Sxd4 Sc5 12.Dc2 c6 13.Sb3 Le6 14.Sxc5 dxc5 15.Lxc5 Lxc4 16.Tfd1 Db8 17.Sa4 Le6 18.Sb6 Ta6 19.f4 Lf8 20.Lf2 Dc7 21.Sa4 b5 22.Sc5 Taa8 23.a4 b4 24.Sxe6 Txe6 25.e5 Se8 26.Tac1 Tc8 27.Td3 Sg7 28.Dd1 Db7 29.Td7 Da6 30.Ta7 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [E69]
+World Championship 20th Moscow (24), 13.05.1954
+
+1.Sf3 Sf6 2.c4 g6 3.Sc3 Lg7 4.d4 d6 5.g3 0-0 6.Lg2 Sbd7 7.0-0 c6 8.e4 e5 9.h3 a5 10.Le3 exd4 11.Sxd4 Te8 12.Dc2 Sc5 13.Tad1 Sfd7 14.Sb3 De7 15.Sxc5 dxc5 16.f4 Sb6 17.b3 a4 18.Df2 Lf8 19.e5 f5 20.Td3 axb3 21.axb3 Le6 22.Tfd1 Ta6 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D83]
+World Championship 20th Moscow (22), 08.05.1954
+
+1.c4 Sf6 2.d4 g6 3.Sc3 d5 4.Lf4 Lg7 5.e3 0-0 6.Le5 e6 7.Sf3 Sbd7 8.Lg3 c6 9.Ld3 b6 10.0-0 Lb7 11.De2 De7 12.Tfd1 Sh5 13.Lh4 Dd6 14.g4 Shf6 15.Lg3 De7 16.h3 c5 17.cxd5 Sxd5 18.Sxd5 exd5 19.La6 Lxa6 20.Dxa6 cxd4 21.exd4 Sf6 22.Tac1 h5 23.Tc7 Db4 24.g5 Se4 25.Da3 Db5 26.Db3 De8 27.De3 Tc8 28.Tdc1 Txc7 29.Txc7 Sxg3 30.Dxe8 Txe8 31.fxg3 Te2 32.Txa7 Txb2 33.Ta8+ Kh7 34.Ta7 Kg8 35.Ta8+ Kh7 36.Td8 Txa2 37.Txd5 Ta7 38.Kf2 f6 39.gxf6 Lxf6 40.Td6 Kg7 41.Txb6 g5 42.g4 Ta2+ 43.Kf1 Ta1+ 44.Kf2 Ta2+ 45.Kf1 Ta1+ ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E61]
+World Championship 20th Moscow (20), 04.05.1954
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.e3 Sbd7 7.Sge2 e5 8.b3 Te8 9.La3 h5 10.h3 a6 11.dxe5 dxe5 12.e4 Sh7 13.0-0 h4 14.Lc1 c6 15.Le3 hxg3 16.fxg3 De7 17.Dd2 b5 18.Tad1 bxc4 19.bxc4 Db4 20.Tc1 Lf8 21.Kh2 Sc5 22.Sb1 a5 23.Dc2 Le6 24.Tfd1 Teb8 25.Lf1 a4 26.Ld2 Db6 27.Le3 a3 28.Sec3 Da5 29.Df2 Le7 30.Tc2 Sf6 31.Sd2 Tb2 32.Tdc1 Td8 33.Lxc5 Dxc5 34.De2 Db4 35.Sb3 Txc2 36.Txc2 Se8 37.Sb1 Sd6 38.S1d2 Sb7 39.h4 Sc5 40.Sxc5 Dxc5 41.Sb3 Dd6 42.Td2 Db4 43.Tc2 f6 44.Lh3 Lf7 45.Lg4 Kg7 46.Kg2 Dd6 47.Td2 Db8 48.Tc2 Lb4 49.h5 Dd6 50.hxg6 Lxg6 51.Lh5 Dd3 52.Lxg6 Dxe2+ 53.Txe2 Kxg6 54.Tf2 Kf7 55.Tf1 Ke6 56.Tf3 Le7 57.Tf1 Lb4 58.Tf3 Ke7 59.Tf1 Kf7 60.Tf3 Kg6 61.Tf2 Td6 62.Tf5 Ld2 63.Tf3 Lg5 64.c5 Td7 65.Tc3 f5 66.Kf3 Kf6 67.exf5 Kxf5 68.g4+ Ke6 69.Ke2 e4 70.Tc4 Ke5 71.Ta4 Th7 72.Txa3 Th2+ 0-1
+
+Botvinnik,Mikhail - Smyslov,Vassily [E61]
+World Championship 20th Moscow (18), 24.04.1954
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.e3 Sbd7 7.Sge2 a6 8.b3 Tb8 9.a4 e5 10.La3 b6 11.0-0 Lb7 12.d5 a5 13.e4 Sc5 14.Dc2 h5 15.Tae1 h4 16.Lc1 Lc8 17.Sb5 Ld7 18.Lg5 h3 19.Lh1 Lxb5 20.cxb5 Dd7 21.Lxf6 Lxf6 22.Sc1 Lg7 23.Sd3 f5 24.Sxc5 dxc5 25.Lf3 Dd6 26.g4 f4 27.g5 Kf7 28.Kh1 Ke7 29.Tg1 Th8 30.Td1 Th4 31.Td3 Dd7 32.De2 Tbh8 33.Lg4 Dd6 34.Df1 Lf8 35.Tf3 Kd8 36.Dd3 Le7 37.Le6 T8h5 38.Txh3 Txh3 39.Lxh3 c4 40.bxc4 Da3 41.Dxa3 Lxa3 42.Lf5 gxf5 43.g6 Lf8 44.exf5 Lg7 45.f6 Lxf6 46.g7 Lxg7 47.Txg7 f3 48.Tg4 Th3 49.Tg3 Th4 50.Txf3 Txc4 51.Ta3 Kd7 52.Kg2 Kd6 53.Kg3 Kxd5 54.h3 Ke6 55.Kf3 Kf5 56.Kg3 Kg5 57.Kf3 Tf4+ 58.Kg3 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [E61]
+World Championship 20th Moscow (16), 20.04.1954
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.e3 Sbd7 7.Sge2 e5 8.b3 Te8 9.La3 Tb8 10.0-0 a6 11.dxe5 Sxe5 12.c5 dxc5 13.Lxc5 b6 14.Dxd8 Txd8 15.Ld4 Te8 16.e4 Lb7 17.f4 Seg4 18.h3 c5 19.Lxf6 Sxf6 20.e5 Lxg2 21.Kxg2 Sd7 22.Tad1 Sf8 23.Td6 Se6 24.Se4 Ted8 25.Tfd1 Lf8 26.Txd8 Txd8 27.Txd8 Sxd8 28.Sf6+ Kg7 29.Sd5 b5 30.Sc7 g5 31.Kf3 gxf4 32.gxf4 c4 33.bxc4 bxc4 34.Sxa6 f6 35.Sc7 fxe5 36.fxe5 Kg6 37.Ke4 Kg5 38.a4 Kh4 39.a5 Sc6 40.a6 Kxh3 41.Sb5 c3 42.Sbxc3 Kg4 43.Sd4 Sa7 44.Sd5 h5 45.Sf6+ 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [E68]
+World Championship 20th Moscow (14), 15.04.1954
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sbd7 7.0-0 e5 8.e4 c6 9.Le3 Sg4 10.Lg5 Db6 11.h3 exd4 12.Sa4 Da6 13.hxg4 b5 14.Sxd4 bxa4 15.Sxc6 Dxc6 16.e5 Dxc4 17.Lxa8 Sxe5 18.Tc1 Db4 19.a3 Dxb2 20.Dxa4 Lb7 21.Tb1 Sf3+ 22.Kh1 Lxa8 23.Txb2 Sxg5+ 24.Kh2 Sf3+ 25.Kh3 Lxb2 26.Dxa7 Le4 27.a4 Kg7 28.Td1 Le5 29.De7 Tc8 30.a5 Tc2 31.Kg2 Sd4+ 32.Kf1 Lf3 33.Tb1 Sc6 0-1
+
+Botvinnik,Mikhail - Smyslov,Vassily [D18]
+World Championship 20th Moscow (12), 10.04.1954
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.Sc3 dxc4 5.a4 Lf5 6.e3 e6 7.Lxc4 Lb4 8.0-0 Sbd7 9.Sh4 0-0 10.f3 Lg6 11.e4 e5 12.Sxg6 hxg6 13.Le3 De7 14.De2 exd4 15.Lxd4 Lc5 16.Lxc5 Dxc5+ 17.Kh1 g5 18.g3 Tad8 19.La2 Tfe8 20.Tad1 Sf8 21.Txd8 Txd8 22.e5 Sd5 23.Sxd5 cxd5 24.Dd2 Se6 25.f4 gxf4 26.gxf4 Dc6 27.f5 Sc5 28.Dg5 Td7 29.Tg1 f6 30.exf6 Se4 31.f7+ Txf7 32.Dd8+ Kh7 33.Lxd5 Sf2+ 34.Kg2 Df6 35.Dxf6 Txf6 36.Kxf2 Txf5+ 37.Lf3 Tf4 38.Tg4 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [D22]
+World Championship 20th Moscow (10), 06.04.1954
+
+1.d4 d5 2.c4 dxc4 3.Sf3 a6 4.e3 Lg4 5.Lxc4 e6 6.Db3 Lxf3 7.gxf3 b5 8.Le2 Sd7 9.a4 b4 10.f4 Sgf6 11.Lf3 Ta7 12.Lc6 Le7 13.Sd2 0-0 14.Sc4 a5 15.Se5 Sb8 16.Ld2 Sd5 17.e4 Sb6 18.Le3 Ld6 19.Lb5 Dh4 20.Tc1 Kh8 21.Le2 Lxe5 22.dxe5 S8d7 23.Lb5 Td8 24.Ld2 Sxe5 25.De3 Sg4 26.Dg3 Dxg3 27.fxg3 Sf2 28.Kxf2 Txd2+ 29.Ke3 Txb2 30.Tb1 Txb1 31.Txb1 c5 32.Td1 Ta8 33.Td6 Tb8 34.Kd2 c4 35.Kc2 g6 36.Tc6 c3 37.Kb3 Tc8 0-1
+
+Botvinnik,Mikhail - Smyslov,Vassily [D06]
+World Championship 20th Moscow (8), 01.04.1954
+
+1.d4 d5 2.Sf3 Lf5 3.c4 e6 4.Db3 Sc6 5.Ld2 dxc4 6.Dxb7 Sge7 7.Db5 Tb8 8.Da4 Txb2 9.Sa3 Dd7 10.Sxc4 Tb8 11.e3 Sb4 12.Dxd7+ Kxd7 13.Lxb4 Txb4 14.Sce5+ Ke8 15.Ld3 f6 16.Lxf5 Sxf5 17.Sd3 Tb6 18.Ke2 La3 19.Sd2 Sd6 20.Thb1 Sc8 21.Sc4 Txb1 22.Txb1 Le7 23.Tb8 Kd8 24.a4 Te8 25.a5 Kd7 26.a6 Lf8 27.Tb7 Le7 28.Sa5 Ld6 29.e4 Lf8 30.f3 Sb6 31.Txa7 Tb8 32.Sb3 Sa4 33.Tb7 Ta8 34.a7 Le7 35.Ke3 Kc8 36.Sa5 Kd7 37.g3 Sb6 38.Sb3 Kc8 39.Tb8+ Txb8 40.axb8D+ Kxb8 41.Sbc5 e5 42.dxe5 fxe5 43.f4 Sc4+ 44.Kf3 exf4 45.gxf4 g6 46.e5 c6 47.Sb3 Kc7 48.Ke4 Kb6 49.f5 gxf5+ 50.Kxf5 Se3+ ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D86]
+World Championship 20th Moscow (6), 27.03.1954
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.e4 Sxc3 6.bxc3 Lg7 7.Lc4 0-0 8.Se2 b6 9.0-0 Lb7 10.f3 c5 11.Lg5 cxd4 12.cxd4 Sc6 13.Ld5 Dd7 14.Dd2 e6 15.Lxc6 Lxc6 16.Tfe1 Lb5 17.Tad1 Tac8 18.Lh6 Lxh6 19.Dxh6 Lxe2 20.Txe2 Da4 21.Tdd2 Da3 22.Kf2 Tfd8 23.Te3 Dc1 24.Te1 Dc3 25.De3 Db4 26.Ted1 Tc3 27.Dg5 Td7 28.h4 De7 29.Dxe7 Txe7 30.d5 exd5 31.Txd5 Ta3 32.T1d2 h5 33.Tc2 Kg7 34.Td6 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D22]
+World Championship 20th Moscow (4), 23.03.1954
+
+1.d4 d5 2.c4 dxc4 3.Sf3 a6 4.e3 Lg4 5.Lxc4 e6 6.Db3 Lxf3 7.gxf3 b5 8.Le2 Sd7 9.a4 b4 10.Sd2 Sgf6 11.Se4 c5 12.Sxf6+ Dxf6 13.d5 e5 14.a5 Ld6 15.e4 0-0 16.Le3 c4 17.Dxc4 Tfc8 18.Db3 Dg6 19.Kf1 f5 20.Tg1 Dh5 21.Tg2 Sc5 22.Dd1 Dh4 23.Kg1 f4 24.Ld2 Tab8 25.Kh1 Tf8 26.Lc4 Tf6 27.Dg1 Lf8 28.Tg4 Dh5 29.Dg2 Df7 30.b3 Kh8 31.Tg1 Td6 32.Lc1 Sd7 33.Lb2 Te8 34.Df1 Dh5 35.Dg2 Dh6 36.Tg5 g6 37.Df1 Lg7 38.Lc1 Lf6 39.T5g4 Le7 40.Ld2 Sf6 41.T4g2 Td7 42.Lxa6 Ta7 43.Lb5 Tg8 44.a6 g5 45.Dd3 Ld6 46.De2 Tag7 47.Dd1 Dh4 48.Le2 g4 49.Le1 h5 50.fxg4 hxg4 51.Lxg4 Txg4 52.f3 Txg2 53.Lxh4 Txg1+ 54.Dxg1 Txg1+ 55.Kxg1 Se8 56.a7 Sc7 57.Kf1 Kg7 58.Ke2 Kf7 59.Lf2 Ke8 60.Kd3 Kd7 61.Kc4 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [E45]
+World Championship 20th Moscow (2), 18.03.1954
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 La6 6.a3 Le7 7.Sf4 d5 8.cxd5 Lxf1 9.Kxf1 exd5 10.g4 c6 11.g5 Sfd7 12.h4 Ld6 13.e4 dxe4 14.Sxe4 Lxf4 15.Lxf4 0-0 16.h5 Te8 17.Sd6 Te6 18.d5 Txd6 19.Lxd6 Dxg5 20.Df3 Dxd5 21.Dxd5 cxd5 22.Tc1 Sa6 23.b4 h6 24.Th3 Kh7 25.Td3 Sf6 26.b5 Sc5 27.Lxc5 bxc5 28.Txc5 Tb8 29.a4 Tb7 30.Tdc3 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [D13]
+Moscow training m Moscow, 13.02.1954
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 e6 7.e3 Le7 8.Ld3 0-0 9.h3 Ld7 10.0-0 Db6 11.De2 Tfc8 12.Tac1 Le8 13.Tfd1 Dd8 14.Se5 a6 15.De1 b5 16.Sxc6 Txc6 17.Se2 Tac8 18.Txc6 Txc6 19.Sc1 b4 20.Lb1 a5 21.Sd3 Tc8 22.Tc1 Lb5 23.Lg5 h6 24.Lh4 g5 25.Lg3 Se4 26.Lh2 Lxd3 27.Lxd3 Ld6 28.Lxd6 Sxd6 ½-½
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [D79]
+Moscow training m Moscow, 06.02.1954
+
+1.d4 Sf6 2.c4 g6 3.g3 c6 4.Lg2 d5 5.cxd5 cxd5 6.Sc3 Lg7 7.Sf3 0-0 8.Se5 Sc6 9.0-0 e6 10.Sxc6 bxc6 11.Lf4 Sd7 12.Sa4 La6 13.Dd2 Te8 14.Tfc1 e5 15.dxe5 Sxe5 16.Lxe5 Lxe5 17.e3 Tb8 18.Tab1 Lb5 19.Sc5 Ld6 20.Sb3 La4 21.Sd4 Lb4 22.Dd3 c5 23.Sc2 d4 24.Sxb4 Txb4 25.b3 ½-½
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [D18]
+Moscow training m Moscow, 02.1954
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.Sf3 dxc4 5.a4 Lf5 6.e3 e6 7.Lxc4 Lb4 8.0-0 0-0 9.Sh4 Lg6 10.f3 Dc7 11.e4 Td8 12.Db3 La5 13.Le3 Lb6 14.Se2 Sbd7 15.Sxg6 hxg6 16.Tfd1 Sf8 17.Da3 a5 18.b4 Td7 19.b5 Tad8 20.bxc6 bxc6 21.Td3 e5 22.Tad1 Da7 23.Dc3 Se8 24.Kf1 Sd6 25.Lg1 Sxc4 26.Dxc4 exd4 27.Lxd4 Lxd4 28.Sxd4 Dc7 29.g3 Td6 30.Sb5 Txd3 31.Txd3 Db8 32.Txd8 Dxd8 33.Sd4 Dd6 34.Sxc6 Dd1+ 35.Kf2 Dd2+ 36.De2 Dc3 ½-½
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [D38]
+Moscow training m Moscow, 02.1954
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Sf3 d5 5.cxd5 exd5 6.Lg5 h6 7.Lh4 g5 8.Lg3 Se4 9.Sd2 Sxc3 10.bxc3 Lxc3 11.Tc1 La5 12.h4 g4 13.e3 Sc6 14.Lb5 Ld7 15.0-0 Se7 16.Lxd7+ Dxd7 17.Sb3 Lb6 18.a4 a5 19.Sc5 Lxc5 20.Txc5 c6 21.Le5 Tg8 22.Db3 Ta6 23.Tb1 b6 24.Dd3 Da7 25.Tc2 Tg6 26.h5 Te6 27.Dh7 Kd7 28.Dxf7 Da8 29.e4 De8 30.Dg7 dxe4 31.d5 cxd5 32.Tc7+ Kd8 33.Tbc1 Ta8 34.Lf6 g3 35.Lxe7+ Txe7 36.Txe7 gxf2+ 37.Kxf2 Dxe7 38.Dg8+ 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [D88]
+Moscow training m Moscow, 02.1954
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.e4 Sxc3 6.bxc3 c5 7.Lc4 Lg7 8.Se2 0-0 9.0-0 cxd4 10.cxd4 Sc6 11.Le3 Lg4 12.f3 Sa5 13.Tc1 Sxc4 14.Txc4 Ld7 15.Db3 Da5 16.Sc3 b6 17.Tc1 Tfd8 18.Sd5 e6 19.Sc7 Tac8 20.e5 h6 21.a4 a6 22.Db4 Dxb4 23.Txb4 a5 24.Txb6 Lf8 25.Ta6 La3 26.Ta1 Lb4 27.Ta7 Lc6 28.Sb5 Lxb5 29.axb5 Td5 30.b6 Tb5 31.Tc7 Tb8 32.Lxh6 T5xb6 33.Kf2 T6b7 34.Tc2 Td7 35.Ke3 Td5 36.Ke4 Le7 37.Ta4 Tb7 38.Ld2 Lb4 39.Tc8+ Kg7 40.Lg5 Le7 41.Lxe7 Txe7 42.Tc5 f5+ 43.exf6+ Kxf6 44.Txd5 exd5+ 45.Kxd5 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [C97]
+Moscow training m Moscow, 30.01.1954
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Le7 6.Te1 b5 7.Lb3 d6 8.c3 0-0 9.h3 Sa5 10.Lc2 c5 11.d4 Dc7 12.Sbd2 Ld7 13.Sf1 Tfe8 14.Se3 Lf8 15.dxe5 dxe5 16.Sh2 Tad8 17.Df3 Le6 18.Shg4 Sxg4 19.hxg4 Sc4 20.Sf5 Sd6 21.g3 Db7 22.Kg2 f6 23.Th1 Sf7 24.b3 Td7 25.De2 Ted8 26.Se3 c4 27.bxc4 bxc4 28.Tb1 Dc7 29.Sd5 Da5 30.a4 Lc5 31.Td1 Lxd5 32.exd5 g6 33.Dxc4 Sd6 34.De2 Dxc3 35.g5 Tf7 36.Tb3 Da5 37.Lb2 Te8 38.gxf6 Txf6 39.f3 Ld4 40.Lxd4 exd4 41.Df2 ½-½
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [E29]
+Moscow training m Moscow, 26.01.1954
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 0-0 6.a3 Lxc3+ 7.bxc3 Sc6 8.Se2 b6 9.e4 Se8 10.e5 La6 11.Dc2 Kh8 12.h4 d5 13.Lg5 Dd7 14.cxd5 Lxd3 15.dxc6 Lxc2 16.cxd7 Sc7 17.Le7 Tfd8 18.Lxd8 Txd8 19.dxc5 bxc5 20.Ta2 Le4 21.f3 Ld5 22.Tb2 Sa6 23.Kf2 Txd7 24.Td1 c4 25.Sf4 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [D18]
+Moscow training m Moscow, 23.01.1954
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.Sc3 dxc4 5.a4 Lf5 6.e3 e6 7.Lxc4 Lb4 8.0-0 Sbd7 9.Sh4 Lg4 10.f3 Sd5 11.fxg4 Dxh4 12.e4 Sxc3 13.bxc3 Lxc3 14.Ta3 Lb4 15.Taf3 Tf8 16.g5 0-0-0 17.De2 Dh5 18.Txf7 Dg6 19.Txf8 Sxf8 20.De3 De8 21.Lb2 De7 22.h4 a5 23.Tf3 Sd7 24.Df2 Tf8 25.Kf1 Kc7 26.Ke2 De8 27.Dg3+ Ld6 28.Dg4 e5 29.Le6 exd4 30.Lxd4 Se5 31.Txf8 Dxf8 32.Df5 Sg6 33.Dxa5+ 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [E56]
+Moscow training m2 Moscow, 24.06.1953
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.Sf3 c5 7.0-0 dxc4 8.Lxc4 Sc6 9.a3 La5 10.La2 a6 11.Sa4 cxd4 12.exd4 h6 13.Lf4 Sd5 14.Lg3 Sce7 15.Sc5 Lc7 16.Lxc7 Dxc7 17.Tc1 Dd8 18.Dd3 b6 19.Lb1 Sg6 20.Se4 Lb7 21.Tfe1 Sdf4 22.De3 Sd5 23.Db3 Sde7 24.Sed2 Ld5 25.Dd1 Tc8 26.Se5 Sh4 27.Txc8 Dxc8 28.Le4 Shf5 29.Lxd5 Sxd5 30.Sdf3 Db7 31.Dd2 Tc8 32.Tc1 Tc7 33.Txc7 Dxc7 34.g3 f6 35.Sd3 Dc4 36.Sde1 Kf7 37.Dc2 b5 38.Dxc4 bxc4 39.Sc2 Ke7 40.Sd2 c3 41.bxc3 Sxc3 42.Sb4 Sxd4 43.Sxa6 Kd6 44.Sb4 Kc5 45.f4 Kb5 46.Kg2 Ka4 47.Sf3 Scb5 48.Sxd4 Sxd4 49.Sa6 Kxa3 50.Sc7 g6 51.Se8 f5 52.Sd6 Sc6 53.Sf7 h5 54.Kh3 Kb4 55.Kh4 Sd4 56.Se5 Kc5 57.Kg5 Line
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [B76]
+Moscow training m2 Moscow, 22.06.1953
+
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 g6 6.Le3 Lg7 7.f3 0-0 8.Dd2 Sc6 9.0-0-0 d5 10.exd5 Sxd5 11.Sxc6 bxc6 12.Sxd5 cxd5 13.Dxd5 Dc7 14.Dc5 Db7 15.Da3 Lf5 16.Ld3 Tfc8 17.Lxf5 gxf5 18.Td3 Dc6 19.c3 f4 20.Lf2 Dg6 21.Thd1 Dxg2 22.Ld4 Lxd4 23.Txd4 Tab8 24.T4d2 Dg6 25.Td7 e5 26.Dxa7 Kh8 27.Da5 f6 28.Da7 Df5 29.Te7 Dg6 30.Tc7 Tg8 31.Dc5 Dg2 32.Da3 Dxf3 33.De7 De3+ 34.Kb1 De4+ 35.Kc1 De3+ 36.Kb1 De4+ 37.Kc1 ½-½
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [B93]
+Moscow training m2 Moscow, 27.05.1953
+
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 a6 6.f4 e5 7.Sf3 Dc7 8.Ld3 Le6 9.De2 Le7 10.f5 Ld7 11.g4 h6 12.g5 hxg5 13.Lxg5 Lc6 14.0-0-0 b5 15.a3 Sbd7 16.Sd2 Db7 17.Sb3 Ld8 18.Thg1 Kf8 19.Tg2 Tb8 20.Tdg1 Th7 21.Dd2 Lb6 22.Le3 Se8 23.Lxb6 Dxb6 24.Se2 Sdf6 25.Sg3 Txh2 26.Sa5 La8 27.De1 Txg2 28.Txg2 Tc8 29.Th2 Ke7 30.Th8 Td8 31.Kb1 Sc7 32.Th4 Tb8 33.b4 Tc8 34.Sb3 Sce8 35.Kb2 Dc7 36.Th8 Db8 37.Dd2 Sc7 38.Th4 Th8 39.Dg5 Txh4 40.Dxh4 Dg8 41.Dh2 Line
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [E56]
+Moscow training m2 Moscow, 23.05.1953
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Sf3 d5 6.Ld3 0-0 7.0-0 dxc4 8.Lxc4 Sc6 9.a3 La5 10.La2 a6 11.Sa4 c4 12.b3 cxb3 13.Dxb3 Lc7 14.Lb2 b6 15.e4 Se7 16.Tfe1 Sg6 17.d5 e5 18.Tad1 b5 19.Sc5 Ld6 20.Sd3 Sd7 21.Tc1 De7 22.Sb4 Sb6 23.Sc6 Df6 24.Scxe5 Sxe5 25.Lxe5 Lxe5 26.Tc6 Lxh2+ 27.Sxh2 Dd8 28.De3 Tb8 29.Tec1 Te8 30.Sf3 Lf5 31.e5 Ld7 32.Td6 Sc8 33.Txa6 Lg4 34.Sg5 Lh5 35.d6 h6 36.Sxf7 Lxf7 37.Lxf7+ Kxf7 38.Db3+ Kf8 39.Tc3 Sxd6 40.Tf3+ 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [B59]
+Moscow training m1 Moscow, 01.1953
+
+1.e4 c5 2.Sf3 Sc6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 d6 6.Le2 e5 7.Sb3 Le7 8.0-0 0-0 9.Lf3 Sa5 10.Sxa5 Dxa5 11.Lg5 Le6 12.a3 Dc5 13.h3 Tfd8 14.Dd2 h6 15.Lxf6 Lxf6 16.Tfd1 Tac8 17.Lg4 Kf8 18.De2 a6 19.Df3 Tc6 20.h4 Ke7 21.g3 b5 22.Tac1 Dc4 23.Td3 b4 24.b3 Dc5 25.Sd5+ Lxd5 26.Txd5 Db6 27.axb4 Dxb4 28.De2 Dc3 29.Dd1 Tb8 30.Le2 a5 31.Lc4 a4 32.Ta1 Tb4 33.Td3 Db2 34.c3 Tbxc4 35.bxc4 a3 36.Tb1 Da2 37.Tb4 Ta6 38.c5 dxc5 39.Td7+ 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [B59]
+Moscow training m2 Moscow, 14.11.1952
+
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 Sc6 6.Le2 e5 7.Sb3 Le7 8.0-0 0-0 9.Lf3 Le6 10.Le3 Tc8 11.Dd2 b6 12.Tfd1 h6 13.Tac1 Sb4 14.a3 Sc6 15.Sd5 Lxd5 16.exd5 Sb8 17.c4 Sh7 18.Le2 Sd7 19.Sa1 f5 20.f4 Shf6 21.g3 Se4 22.Dd3 De8 23.b4 Dg6 24.Kg2 h5 25.Tf1 h4 26.Sc2 Sxg3 27.hxg3 Dxg3+ 28.Kh1 e4 29.Dd2 Dh3+ 30.Kg1 Dg3+ 31.Kh1 Dh3+ 32.Kg1 Tf6 33.Lh5 Th6 34.Tf2 Txh5 35.Th2 Dg3+ 36.Tg2 Dh3 37.Th2 Dg3+ ½-½
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [E28]
+Moscow training m2 Moscow, 02.11.1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.a3 Lxc3+ 6.bxc3 b6 7.Ld3 Lb7 8.f3 c5 9.e4 d6 10.Lg5 Sbd7 11.Se2 Dc7 12.0-0 Tfc8 13.Tc1 Se8 14.Sg3 Sf8 15.d5 f6 16.Le3 e5 17.Tf2 Tcb8 18.Sf1 Lc8 19.a4 Ld7 20.Tb1 Dc8 21.Tfb2 Sg6 22.Dc2 Se7 23.g3 Sc7 24.f4 De8 25.Ta1 Sc8 26.f5 a6 27.Le2 b5 28.a5 Tb7 29.h4 Tab8 30.g4 Dd8 31.Kf2 Se8 32.Sg3 bxc4 33.Tba2 Sa7 34.Ld2 Sb5 35.Lxc4 Kh8 36.Tg1 Sbc7 37.Le2 Dc8 38.c4 Tb3 39.Lc3 Dd8 40.Dd2 De7 41.Ld1 Line
+
+Botvinnik,Mikhail - Flohr,Salo [A31]
+Moscow training m1 Moscow, 11.1952
+
+1.c4 Sf6 2.Sc3 c5 3.Sf3 Sc6 4.d4 cxd4 5.Sxd4 d5 6.cxd5 Sxd5 7.Sxc6 bxc6 8.Ld2 e6 9.e4 Sb6 10.Le3 Dxd1+ 11.Kxd1 e5 12.Kc2 Le7 13.Le2 0-0 14.Thd1 Le6 15.La6 Tab8 16.b3 Tfd8 17.Txd8+ Lxd8 18.Lc5 Lc7 19.Td1 Lc8 20.Lxc8 Txc8 21.b4 f6 22.Kb3 Kf7 23.b5 Ld8 24.bxc6 Txc6 25.Txd8 Txc5 26.Tb8 Kg6 27.Tb7 Sc8 28.a4 h5 29.f3 Tc6 30.Td7 a6 31.Sd5 a5 32.h4 Ta6 33.Kc4 Tc6+ 34.Kb5 Tc2 35.Se3 Tb2+ 36.Kxa5 Kh7 37.Sf5 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [C83]
+Moscow training m2 Moscow, 14.10.1952
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Sxe4 6.d4 b5 7.Lb3 d5 8.dxe5 Le6 9.c3 Le7 10.Te1 0-0 11.Sd4 Sxe5 12.f3 Ld6 13.fxe4 Lg4 14.Dd2 Dh4 15.h3 c5 16.Tf1 cxd4 17.cxd4 dxe4 18.Dg5 Sf3+ 19.Txf3 Dxg5 20.Lxg5 exf3 21.hxg4 Tae8 22.Sc3 b4 23.Sd5 fxg2 24.Kxg2 Te2+ 25.Kf3 Txb2 26.Se7+ Kh8 27.Sf5 Lb8 28.Le7 Tc8 29.Lxb4 h6 30.Lc5 Kh7 31.Te1 g6 32.Se7 Tc7 33.Lxf7 Kg7 34.Lb3 La7 35.Ld6 Tc3+ 36.Ke4 Tg2 37.Le5+ Kf8 38.Sxg6+ Ke8 39.Le6 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [E68]
+Moscow training m2 Moscow, 10.1952
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 d6 5.Sf3 0-0 6.0-0 Sbd7 7.Sc3 e5 8.e4 exd4 9.Sxd4 Sc5 10.b4 Se6 11.Sb3 Te8 12.Lb2 Sg5 13.f3 h5 14.Dd2 Sgh7 15.Tad1 Le6 16.De2 h4 17.g4 c6 18.c5 d5 19.Df2 Dc7 20.h3 dxe4 21.fxe4 Tad8 22.e5 Txd1 23.Txd1 Dxe5 24.Dxh4 Lxb3 25.axb3 a5 26.b5 Dxc5+ 27.Df2 Db4 28.bxc6 bxc6 29.Lxc6 Tf8 30.Td3 Dxb3 31.La4 Db4 32.Dd2 Dc5+ 33.Df2 Dc4 34.Lb5 Db4 35.Dd2 Sg5 36.Dxg5 Dxb2 37.Dd2 Dxd2 38.Txd2 Sxg4 39.Sd5 Tb8 40.Se7+ Kh7 41.La4 1-0
+
+Botvinnik,Mikhail - Bronstein,David I [D31]
+Moscow training m3 Moscow, 07.1952
+
+1.d4 d5 2.c4 e6 3.cxd5 exd5 4.Sc3 c6 5.Lf4 Lf5 6.e3 Sd7 7.g4 Le6 8.Ld3 g5 9.Lg3 Db6 10.Dc2 Lxg4 11.h4 gxh4 12.Txh4 Sgf6 13.Sge2 h5 14.0-0-0 Lh6 15.Kb1 Lg5 16.Th2 Lf3 17.Te1 Da5 18.Sg1 Le4 19.f4 Lxd3 20.Dxd3 Lh6 21.e4 0-0-0 22.e5 Se8 23.f5 Lg5 24.e6 Sdf6 25.Sf3 Lh6 26.Se5 Sd6 27.Lh4 Sfe4 28.Lxd8 Txd8 29.Sxf7 Sxf7 30.exf7 Lg7 31.Tg1 Dc7 32.Dh3 Lf6 33.Sxe4 dxe4 34.Dxh5 Dd7 35.Tg8 Le7 36.f6 Lf8 37.Dh3 e3 38.Kc2 Kc7 39.Dxd7+ Kxd7 40.Thh8 e2 41.Kd2 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [E42]
+Moscow training m5 Moscow, 13.02.1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Sge2 d5 6.a3 cxd4 7.axb4 dxc3 8.Sxc3 dxc4 9.Dxd8+ Kxd8 10.Lxc4 Sc6 11.b5 Se5 12.Le2 Ke7 13.f4 Sed7 14.b3 Td8 15.La3+ Ke8 16.Ld6 Sb8 17.Lc7 Td7 18.Lb6 Sd5 19.Sxd5 Txd5 20.Txa7 Txa7 21.Lxa7 Sd7 22.e4 1-0
+
+Botvinnik,Mikhail - Barcza,Gedeon [E49]
+Budapest Budapest (13), 1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 Lxc3+ 7.bxc3 dxc4 8.Lxc4 c5 9.Lb2 Da5 10.Sf3 cxd4 11.exd4 b6 12.0-0 La6 13.Ld3 Lxd3 14.Dxd3 Sbd7 15.c4 Tfd8 16.Db3 Dh5 17.a4 Tac8 18.Tfe1 Tc7 19.a5 Tdc8 20.axb6 axb6 21.Ta4 Df5 22.Tb4 h6 23.h3 Tc6 24.Sd2 Df4 25.Te3 Dd6 26.Tb5 Sf8 27.Tf3 Sg6 28.De3 Txc4 29.Sxc4 Txc4 30.Txf6 gxf6 31.Dxh6 Df4 32.Dxf4 Sxf4 33.Txb6 Se2+ 34.Kh2 Sxd4 35.Td6 Sf5 36.Td3 Kg7 37.g4 Se7 38.Tf3 e5 ½-½
+
+Botvinnik,Mikhail - Benko,Pal C [D13]
+Budapest Budapest (8), 1952
+
+1.Sf3 Sf6 2.c4 c6 3.d4 d5 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 e6 7.e3 Ld6 8.Ld3 Lxf4 9.exf4 0-0 10.0-0 Ld7 11.Tc1 Sa5 12.Se5 Tc8 13.De2 Sc6 14.Sf3 g6 15.Tfd1 Se8 16.h4 Sd6 17.g3 f6 18.Kg2 Sf5 19.Lb1 h5 20.Dd2 Sce7 21.Te1 Db6 22.b3 Db4 ½-½
+
+Botvinnik,Mikhail - Boleslavsky,Isaak [E68]
+URS-ch20 Moscow, 1952
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sbd7 7.0-0 e5 8.e4 Te8 9.Le3 Sg4 10.Lg5 f6 11.Lc1 exd4 12.Sxd4 Sc5 13.b4 Se6 14.Sf5 gxf5 15.exf5 Se5 16.fxe6 Lxe6 17.Lxb7 Kh8 18.Ld5 Lg4 19.Da4 f5 20.Dc2 Df6 21.Lg5 Dxg5 22.f4 Dh6 23.fxe5 De3+ 24.Kh1 Lxe5 25.Lxa8 Txa8 26.Dg2 c6 27.Sd1 Dh6 28.Sf2 Le2 29.Tae1 Lxf1 30.Txf1 Tg8 31.Sh3 Tg4 32.b5 Txc4 33.bxc6 De3 34.Txf5 Dc5 35.Df3 Dxc6 36.Tf8+ Kg7 37.Tf7+ Kg6 38.Dxc6 Txc6 39.Txa7 Tc1+ 40.Kg2 Tc2+ 41.Kf3 Txh2 ½-½
+
+Botvinnik,Mikhail - Byvshev,Vasily Mikhailovich [D35]
+URS-ch20 Moscow, 1952
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 Le7 5.cxd5 exd5 6.Lf4 0-0 7.e3 c6 8.Ld3 Sbd7 9.0-0 Te8 10.h3 Sf8 11.Lh2 Sg6 12.Se5 Sxe5 13.Lxe5 Sd7 14.Lh2 Sf8 15.Dc2 Ld6 16.Lxd6 Dxd6 17.Tae1 Dh6 18.f4 Dd6 19.Df2 Ld7 20.e4 dxe4 21.Sxe4 Db4 22.f5 f6 23.a3 Db3 24.Dg3 Kh8 25.Sd6 Dxb2 26.Sxe8 Dxd4+ 27.De3 Dxe3+ 28.Txe3 Lxe8 29.Tfe1 Ld7 30.Te7 b5 31.Tc1 a5 32.Le4 Tc8 33.Td1 Le8 34.Kf2 a4 35.Ke3 c5 36.Lb7 Tb8 37.Td5 b4 38.Txc5 bxa3 39.Tc3 a2 40.Ta3 Ld7 41.Ld5 ½-½
+
+Botvinnik,Mikhail - Geller,Efim P [E66]
+URS-ch20 Moscow, 1952
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sc6 7.d5 Sa5 8.Sd2 c5 9.Dc2 a6 10.0-0 Lf5 11.e4 Ld7 12.b3 b5 13.Lb2 bxc4 14.bxc4 Tb8 15.Tab1 Tb4 16.a3 Tb8 17.Sd1 Dc7 18.Se3 Tb7 19.Lc3 Tfb8 20.h3 Txb1 21.Txb1 Txb1+ 22.Sxb1 Db6 23.Sd2 Se8 24.Lxg7 Sxg7 25.Kh2 Se8 26.f4 Sf6 27.e5 Se8 28.Dc3 f6 29.e6 La4 30.Le4 Sg7 31.Ld3 Sh5 32.Le2 Sg7 33.h4 Se8 34.Ld3 Sg7 35.f5 Sb3 36.Db2 Da5 37.Sxb3 De1 38.Sg2 Dd1 39.Sc1 gxf5 40.Le2 Dd4 41.Dxd4 1-0
+
+Botvinnik,Mikhail - Geller,Efim P [E69]
+Budapest Budapest (2), 1952
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sbd7 7.0-0 e5 8.e4 exd4 9.Sxd4 Sc5 10.h3 Te8 11.Te1 a5 12.Dc2 a4 13.Le3 c6 14.Tad1 Da5 15.a3 Sfd7 16.Lf1 Te7 17.f4 Sf6 18.Lf2 Ld7 19.e5 dxe5 20.fxe5 Se8 21.Sf3 Lf5 22.De2 h5 23.Ld4 Sc7 24.Df2 S7e6 25.Le3 Tae8 26.Sh4 Lxe5 27.Sxf5 gxf5 28.Dxf5 Sg7 29.Df2 Lxc3 30.bxc3 Se4 31.Df4 Sxc3 32.Tc1 Sa2 33.Tcd1 Sc3 34.Tc1 Se4 35.Te2 Df5 36.g4 hxg4 37.hxg4 Dg6 38.Tg2 Sg5 39.Dxg5 Txe3 40.Dxg6 fxg6 41.c5 Se6 42.Tb2 Te7 43.Lc4 Kg7 44.Lxe6 T7xe6 45.g5 Tb3 46.Txb3 axb3 47.Td1 Te2 0-1
+
+Botvinnik,Mikhail - Gereben,Erno [A13]
+Budapest Budapest (6), 1952
+
+1.c4 e6 2.Sf3 Sf6 3.g3 d5 4.Lg2 dxc4 5.Da4+ Dd7 6.Dxc4 Dc6 7.b3 Dxc4 8.bxc4 Sbd7 9.Sc3 Lb4 10.Sb5 La5 11.La3 a6 12.Sbd4 Lb6 13.Sb3 c6 14.d4 a5 15.0-0 a4 16.Sc1 Ld8 17.Sd3 Le7 18.Lxe7 Kxe7 19.c5 Sd5 20.Sfe5 Sc3 21.Lf3 f6 22.Sc4 Sb5 23.e3 Kd8 24.Tfc1 a3 25.Lg2 Kc7 26.f4 f5 27.Tab1 Sf6 28.Sb6 Ta6 29.Sb4 Ta5 30.Tb3 Ld7 31.Sd3 Td8 32.Se5 Le8 33.h3 h5 34.Kf2 Ta6 35.Lf3 Ta5 36.Tg1 g6 37.g4 hxg4 38.hxg4 fxg4 39.Sxg4 Sxg4+ 40.Txg4 Lf7 41.Sc4 Ta4 1-0
+
+Botvinnik,Mikhail - Goldenov,Boris Petrovich [A13]
+URS-ch20 Moscow, 1952
+
+1.c4 e6 2.g3 d5 3.Lg2 dxc4 4.Da4+ Dd7 5.Dxc4 c5 6.Sa3 Sc6 7.Db5 a6 8.Lxc6 bxc6 9.Da4 Tb8 10.Sf3 f6 11.d3 Se7 12.Sc4 e5 13.Ld2 Sd5 14.La5 Le7 15.e4 Sb4 16.0-0-0 Dg4 17.Se1 Ld7 18.a3 Sd5 19.Dc2 Tb5 20.f3 De6 21.Sg2 0-0 22.The1 Tfb8 23.f4 Lf8 24.fxe5 fxe5 25.exd5 cxd5 26.Sf4 Dh6 27.Txe5 dxc4 28.Th5 Df6 29.Lc3 Df7 30.dxc4 g6 31.Txd7 Dxd7 32.Sxg6 T5b6 33.Sxf8 Kxf8 34.Txh7 Dg4 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [A30]
+URS-ch20 Moscow, 1952
+
+1.Sf3 c5 2.c4 Sf6 3.g3 b6 4.Lg2 Lb7 5.0-0 g6 6.d3 Lg7 7.e4 0-0 8.Sc3 Sc6 9.Se1 Se8 10.Lg5 Sc7 11.Dd2 Sd4 12.Lh6 e6 13.Lxg7 Kxg7 14.Sc2 Sxc2 15.Dxc2 Tb8 16.Tad1 De7 17.d4 cxd4 18.Txd4 Lc6 19.e5 Dc5 20.Dd2 Dxe5 21.Lxc6 dxc6 22.Te1 Df5 23.g4 Df3 24.Te3 Df6 25.Td7 Tfd8 26.Ted3 Txd7 27.Txd7 Se8 28.Se4 Df3 29.Dd4+ Kg8 30.Sg5 c5 31.Sxf3 cxd4 32.b3 Tc8 33.Sxd4 Sf6 34.Txa7 Sxg4 35.Tb7 Td8 36.Sf3 Td1+ 37.Kg2 Ta1 38.h3 Sf6 39.Sg5 Txa2 40.Kf3 Tb2 41.Txb6 h6 42.Se4 Sd7 43.Tb5 Kf8 44.Ke3 f5 45.Sd2 Ke7 46.c5 Sf6 47.Tb7+ Kd8 48.Sc4 Sd5+ 49.Kd4 Sc7 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [E68]
+URS training m Soviet Union, 1952
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 d6 5.Sf3 0-0 6.0-0 Sbd7 7.Sc3 e5 8.e4 c6 9.Le3 Sg4 10.Lg5 f6 11.Ld2 f5 12.exf5 gxf5 13.h3 Sh6 14.Lg5 De8 15.Te1 Sf7 16.Lh4 Sh8 17.c5 e4 18.cxd6 Sg6 19.Lg5 h6 20.Db3+ Df7 21.Sh4 Dxb3 22.axb3 Sxh4 23.Lxh4 Lxd4 24.Tad1 Lf6 25.Lxf6 Sxf6 26.g4 Le6 27.gxf5 Lxb3 28.Td2 Tad8 29.Sxe4 Ld5 30.Sxf6+ Txf6 31.Lxd5+ cxd5 32.Te7 Tfxd6 33.Txb7 T8d7 34.Txd7 Txd7 ½-½
+
+Botvinnik,Mikhail - Keres,Paul [D36]
+URS-ch20 Moscow, 1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.cxd5 exd5 5.Lg5 Le7 6.e3 0-0 7.Ld3 Sbd7 8.Dc2 Te8 9.Sge2 Sf8 10.0-0 c6 11.Tab1 Ld6 12.Kh1 Sg6 13.f3 Le7 14.Tbe1 Sd7 15.Lxe7 Txe7 16.Sg3 Sf6 17.Df2 Le6 18.Sf5 Lxf5 19.Lxf5 Db6 20.e4 dxe4 21.fxe4 Td8 22.e5 Sd5 23.Se4 Sf8 24.Sd6 Dc7 25.Le4 Se6 26.Dh4 g6 27.Lxd5 cxd5 28.Tc1 Dd7 29.Tc3 Tf8 30.Sf5 Tfe8 31.Sh6+ Kf8 32.Df6 Sg7 33.Tcf3 Tc8 34.Sxf7 Te6 35.Dg5 Sf5 36.Sh6 Dg7 37.g4 1-0
+
+Botvinnik,Mikhail - Konstantinopolsky,Alexander C [B01]
+URS-ch20 Moscow, 1952
+
+1.e4 d5 2.exd5 Dxd5 3.Sc3 Da5 4.Sf3 Sf6 5.d4 Lg4 6.h3 Lxf3 7.Dxf3 c6 8.Lc4 e6 9.0-0 Sbd7 10.Lf4 Le7 11.Tfe1 0-0 12.a3 Tfe8 13.Lg3 Db6 14.Dd3 Tad8 15.b4 Sf8 16.Tad1 Ld6 17.Se4 Sxe4 18.Txe4 Lxg3 19.Dxg3 Td7 20.c3 Dc7 21.Dg5 Dd8 22.Dh5 Df6 23.a4 b6 24.Tde1 Ted8 25.f4 Tb7 26.Df3 Tc7 27.g4 g6 28.Te5 Kg7 29.Dg3 c5 30.bxc5 bxc5 31.f5 exf5 32.Txf5 gxf5 33.Dxc7 cxd4 34.Te7 Td7 35.Txd7 Sxd7 36.Dxd7 dxc3 37.Ld3 fxg4 38.Dxg4+ Kf8 39.Dc8+ Kg7 40.Dg4+ Kf8 41.Db4+ Kg8 42.Kg2 h5 43.h4 Dc6+ 44.De4 Df6 45.Kg3 Kf8 46.Db4+ Kg7 47.Lc2 a6 48.Dc5 Df1 49.Dxc3+ Kg8 50.De3 Dc4 51.De4 Dc3+ 52.Kf2 Dd2+ 53.Kf3 Dc3+ 54.Ke2 Kf8 55.Ld3 a5 56.Df4 Db2+ 57.Kf3 Dc3 58.De4 Df6+ 59.Ke2 Db2+ 60.Lc2 Dc3 61.Ld1 Kg7 62.Df4 f6 63.De4 Kf8 64.Da8+ Kg7 65.Dd5 Db2+ 66.Kf1 Db1 67.Dxh5 Dd3+ 68.De2 Df5+ 69.Df3 Db1 70.Kg2 Db2+ 71.Kh3 Kf8 72.Da8+ Kg7 73.Dg2+ 1-0
+
+Botvinnik,Mikhail - O'Kelly de Galway,Alberic [A07]
+Budapest Budapest (10), 1952
+
+1.Sf3 Sf6 2.g3 g6 3.Lg2 Lg7 4.0-0 d5 5.d3 0-0 6.Sbd2 Sc6 7.e4 dxe4 8.dxe4 e5 9.Te1 Te8 10.c3 Sd7 11.Dc2 Sc5 12.Lf1 a5 13.b3 f5 14.Lc4+ Kh8 15.La3 Lf8 16.Lf7 Te7 17.Lxg6 hxg6 18.Lxc5 Tf7 19.Lxf8 Dxf8 20.Sc4 Te7 21.exf5 Lxf5 22.Dc1 e4 23.Sh4 Df6 24.Df4 Tf8 25.Tad1 Tef7 26.Sxf5 gxf5 27.Td5 Dxc3 28.Ted1 a4 29.Se3 Se7 30.Td7 axb3 31.Txc7 Db4 32.axb3 Kg8 33.Tdd7 1-0
+
+Botvinnik,Mikhail - Petrosian,Tigran V [B92]
+Budapest Budapest (15), 1952
+
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 a6 6.Le2 e5 7.Sb3 Le7 8.0-0 0-0 9.f4 Sbd7 10.a4 b6 11.Ld3 Lb7 12.De2 Te8 13.fxe5 Sxe5 14.Lf4 Dc7 15.Kh1 Sfd7 16.Sd4 g6 17.Sf3 Lf6 18.Sxe5 Sxe5 19.Tae1 Lg7 20.h3 Dc5 21.Le3 Db4 22.Lc1 Te7 ½-½
+
+Botvinnik,Mikhail - Pilnik,Herman [D54]
+Budapest Budapest (17), 1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.Lg5 Le7 5.e3 0-0 6.Tc1 h6 7.Lh4 b6 8.cxd5 exd5 9.Ld3 Lb7 10.f3 c5 11.Sge2 Sbd7 12.0-0 Te8 13.Lf2 Ld6 14.Te1 a6 15.Sg3 Db8 16.Kh1 cxd4 17.exd4 Txe1+ 18.Dxe1 Sf8 19.Sce2 Se6 20.Sf5 Lf8 21.Le3 Se8 22.Dh4 Dd8 23.Dg4 Kh8 24.Sf4 Dg5 25.Sxe6 Dxg4 26.fxg4 fxe6 27.Sh4 Kg8 28.Sg6 Ld6 29.g5 hxg5 30.Lxg5 Sf6 31.Kg1 Tc8 32.Tf1 Tc7 33.Lxf6 gxf6 34.Txf6 Tc1+ 35.Tf1 Tc7 36.g3 b5 37.Te1 Lc8 38.Se5 Kg7 39.Kg2 b4 40.h4 a5 41.g4 1-0
+
+Botvinnik,Mikhail - Simagin,Vladimir [A25]
+URS-ch20 Moscow, 1952
+
+1.c4 e5 2.Sc3 Sc6 3.g3 f5 4.Lg2 Sf6 5.e3 Le7 6.d4 e4 7.f3 0-0 8.Sge2 Lb4 9.0-0 Lxc3 10.Sxc3 exf3 11.Dxf3 d6 12.Ld2 Ld7 13.Tae1 De8 14.Dd1 Dg6 15.Sd5 Sxd5 16.cxd5 Se7 17.Db3 b6 18.Tc1 Tac8 19.Tc3 f4 20.exf4 Sf5 21.Le3 Df6 22.Td1 Tfe8 23.Lf2 Te7 24.Dc2 Tce8 25.Lf3 Dg6 26.Kh1 Df7 27.Dd2 Sh6 28.Te1 Lg4 29.Txe7 Txe7 30.Kg1 Lxf3 31.Txf3 Dxd5 32.Te3 Txe3 33.Dxe3 Kf7 34.b3 c5 35.dxc5 dxc5 36.Dc3 Sg4 37.h3 Sf6 38.Dc2 Se4 39.Le1 Dd4+ 40.Kg2 Dd5 41.Kf1 h5 42.Ke2 De6 43.Kd1 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D13]
+URS-ch20 Moscow, 1952
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.cxd5 cxd5 5.Sf3 Sc6 6.Lf4 e6 7.e3 Le7 8.Ld3 0-0 9.h3 Ld7 10.0-0 Db6 11.De2 Tfc8 12.Tac1 Le8 13.Tfd1 Dd8 14.Lb1 a6 15.Se5 b5 16.Sxc6 Txc6 17.De1 Tac8 18.Se2 Se4 19.Txc6 Txc6 20.Sc1 Sd6 21.Sd3 Sc4 22.De2 f6 23.Lg3 Lg6 24.f3 Db6 25.Lf2 Lxd3 26.Lxd3 Dc7 27.e4 Sb6 28.g3 dxe4 29.fxe4 e5 30.d5 Tc1 31.Kg2 Txd1 32.Dxd1 Sa4 33.b3 Sc5 34.Dc2 Ld6 35.Le2 Kf8 36.a4 bxa4 37.bxa4 Da5 38.Lxc5 Lxc5 39.Lxa6 Ke7 40.Le2 Kd6 41.h4 De1 42.Lf3 Db4 43.Kh3 g6 44.Lg2 h5 45.Kh2 Ke7 46.Dd1 Da3 47.Lf3 Ld6 48.Kg2 Da2+ 49.Kh3 Da3 50.Lg2 f5 51.Kh2 f4 52.Df3 Dxf3 53.Lxf3 fxg3+ 54.Kxg3 Lb4 55.Kf2 Kd6 56.Le2 La5 57.Lb5 Ld8 58.Kg3 Ke7 59.Lc6 Lc7 60.Lb7 Kd7 61.La6 Ld8 62.Lb5+ Ke7 63.Lf1 La5 64.Kf2 Kd6 65.Lh3 Ld8 66.Kg3 Kc5 67.Ld7 Kd4 68.Kf3 Lxh4 69.a5 Kc5 70.Le8 Ld8 71.a6 Kb6 ½-½
+
+Botvinnik,Mikhail - Stahlberg,Gideon [D35]
+Budapest Budapest (4), 1952
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.Sc3 Le7 5.cxd5 exd5 6.Lf4 c6 7.Dc2 g6 8.h3 Lf5 9.Dc1 0-0 10.e3 Se4 11.Le2 Ld6 12.Lxd6 Dxd6 13.Sd2 Sxd2 14.Dxd2 Sd7 15.0-0 Le6 16.Ld3 f5 17.Tae1 Tae8 18.Se2 Te7 19.Lb1 Sf6 20.f3 Sh5 21.Tf2 Lc8 22.f4 Tfe8 23.Tf3 b6 24.Sc1 c5 25.Sd3 cxd4 26.exd4 Txe1+ 27.Sxe1 Sxf4 28.Txf4 Txe1+ 29.Dxe1 Dxf4 30.De8+ Kg7 31.Dxc8 Dxd4+ 32.Kf1 Dd1+ 33.Kf2 Dxb1 34.Dc3+ Kf7 35.Dc7+ Ke6 36.Dc6+ Ke5 37.Dc3+ Kd6 38.Df6+ Kc5 39.De7+ ½-½
+
+Botvinnik,Mikhail - Taimanov,Mark E [D46]
+URS-ch20 playoff-1pl Moscow (2), 1952
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 c6 5.e3 Sbd7 6.Ld3 Lb4 7.a3 La5 8.Dc2 0-0 9.Ld2 Lc7 10.0-0 dxc4 11.Lxc4 e5 12.Tae1 exd4 13.exd4 Sb6 14.Le2 Lg4 15.Lg5 Dd6 16.Se5 Lxe2 17.Txe2 h6 18.Lxf6 Dxf6 19.Se4 Dd8 20.Sc5 Tb8 21.Tfe1 Dd5 22.Sf3 Ld6 23.De4 Tfd8 24.Dxd5 Sxd5 25.g3 Sc7 ½-½
+
+Botvinnik,Mikhail - Taimanov,Mark E [E40]
+URS-ch20 Moscow, 1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 Sc6 5.Sge2 d5 6.a3 Le7 7.cxd5 exd5 8.g3 0-0 9.Lg2 Sa5 10.0-0 c6 11.Sa4 b6 12.Sac3 La6 13.Tb1 Tc8 14.Dc2 Ld6 15.b4 Sb7 16.e4 dxe4 17.Sxe4 Te8 18.Lg5 Le7 19.Lxf6 Lxf6 20.Tfd1 Sd6 21.Sxf6+ Dxf6 22.Sc3 Lc4 23.Dd2 Sb5 24.Se4 Dg6 25.a4 Txe4 26.axb5 Te2 27.Df4 Lxb5 28.Lf3 Te7 29.h4 Td8 30.Tbc1 Ted7 31.d5 cxd5 32.Txd5 Txd5 33.Lxd5 Df6 34.Tc7 Dxf4 35.gxf4 Le8 36.Lc4 Kf8 37.b5 Td4 38.Kg2 Txf4 39.Kg3 Tf5 40.Txa7 Lxb5 41.Ta8+ Ke7 42.Ta7+ Ld7 43.Tb7 b5 44.Ld3 Tc5 45.Lxh7 g6 46.Lg8 Td5 47.h5 Tg5+ 48.Kf4 Txh5 49.Ke4 Tf5 50.f4 Kd6 0-1
+
+Botvinnik,Mikhail - Taimanov,Mark E [E40]
+URS-ch20 playoff-1pl Moscow (4), 1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 Sc6 5.Sge2 d5 6.a3 Le7 7.cxd5 exd5 8.Sf4 0-0 9.Le2 Lf5 10.g4 Le6 11.Sxe6 fxe6 12.0-0 Dd7 13.f4 Sd8 14.Ld3 Sf7 15.b4 a5 16.b5 Sd6 17.Df3 a4 18.Ta2 c6 19.bxc6 Dxc6 20.Tc2 Dd7 21.g5 Sfe8 22.Lxh7+ Kxh7 23.Dh3+ Kg8 24.Sxd5 Ld8 25.g6 Sf6 26.Sxf6+ gxf6 27.g7 Te8 28.Dh8+ Kf7 29.Dh5+ Kg8 30.Tg2 Sf7 31.Tf3 Ta5 32.Dh4 e5 33.Th3 Dxh3 34.Dxh3 exf4 35.exf4 Lb6 36.Lb2 Tb5 37.Kf1 La5 38.Tc2 Tb3 39.Dd7 Tbe3 40.Dxa4 Te1+ 41.Kf2 Lc7 42.Dxe8+ 1-0
+
+Botvinnik,Mikhail - Taimanov,Mark E [E50]
+URS-ch20 playoff-1pl Moscow (6), 1952
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sf3 Te8 6.Ld3 d6 7.0-0 Lxc3 8.bxc3 Sbd7 9.e4 e5 10.Sd2 b6 11.Te1 Lb7 12.f3 Sf8 13.Sf1 Se6 14.Lc2 c5 15.La4 Tf8 16.d5 Sc7 17.Lg5 h6 18.Lh4 g5 19.Lf2 Sce8 20.Se3 Sg7 21.g4 h5 22.h3 h4 23.Dd2 Sh7 24.Teb1 Dc7 25.Ld1 Tfb8 26.a4 Lc8 27.Kh2 Sf8 28.Sg2 f6 29.Le2 Sg6 30.Lf1 Ld7 31.Tb2 Se8 32.Dc2 Dd8 33.Le1 Sc7 34.Ld2 De8 35.Kg1 a6 36.Taa2 Ta7 37.Kf2 Tab7 38.Kg1 Se7 39.Se3 Sg6 40.Sg2 Kg7 41.Ta3 Sf4 42.Se3 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [C90]
+Moscow training m2 Moscow, 31.10.1951
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Le7 6.Te1 b5 7.Lb3 0-0 8.d3 d6 9.c3 Sa5 10.Lc2 c5 11.Sbd2 Le6 12.Sf1 Sd7 13.d4 cxd4 14.cxd4 f6 15.Se3 Te8 16.d5 Lf7 17.b4 Sc4 18.Sxc4 bxc4 19.La4 a5 20.bxa5 Tf8 21.Lc6 Txa5 22.Ld2 Ta3 23.Te3 Txe3 24.Lxe3 Sb8 25.Lb5 c3 26.Db3 Da5 27.Tc1 Tc8 28.Lc4 Sd7 29.Txc3 Sc5 30.Lxc5 Txc5 31.Tc2 Le8 32.Ld3 Kf8 33.Txc5 Dxc5 34.Dc4 Da3 35.g3 Ld8 36.Kg2 Lb6 37.Se1 Da5 38.Sc2 Dd2 39.Le2 Lc5 40.Dd3 Da5 41.Da6 Dd2 42.Se3 Ld7 43.Kf3 De1 44.Lf1 Ke7 45.De2 Dc3 46.Dc2 De1 47.Dd1 Dc3 48.Ld3 g6 49.Dc2 De1 50.Dd1 Dc3 51.De2 Dc1 52.Kg2 h5 53.Sc4 h4 54.gxh4 Df4 55.Se3 Dxh4 56.Df3 Kd8 57.Lc2 Kc7 58.Dg3 Dxg3+ 59.Kxg3 Lxe3 60.fxe3 Kb6 61.h4 Kc5 62.Ld1 Le8 63.a3 Kc4 64.Kf2 Kc3 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D94]
+Moscow training m2 Moscow, 10.1951
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.e3 g6 5.Sf3 Lg7 6.Le2 0-0 7.0-0 b6 8.b3 Lb7 9.Lb2 e6 10.Dc2 Sbd7 11.Tfd1 De7 12.e4 dxe4 13.Sxe4 c5 14.Sxf6+ Sxf6 15.dxc5 Dxc5 16.Ld4 De7 17.Se5 Tfd8 18.Lf3 Sg4 19.Lxb7 Dxb7 20.Sf3 Lxd4 21.Sxd4 Dc7 22.Sf3 Txd1+ 23.Txd1 Td8 24.Txd8+ Dxd8 25.h3 Sf6 26.Kf1 Dd6 27.Ke2 e5 28.Dd2 Dc5 29.Dg5 Sd7 30.Dd8+ Sf8 31.Df6 Sd7 32.Dd8+ Sf8 33.Sg5 Kg7 34.Se4 Da3 35.Df6+ Kg8 36.Sd6 1-0
+
+Botvinnik,Mikhail - Bronstein,David I [D71]
+World Championship 19th Moscow (23), 08.05.1951
+
+1.d4 Sf6 2.c4 g6 3.g3 c6 4.Lg2 d5 5.cxd5 cxd5 6.Sc3 Lg7 7.Sh3 Lxh3 8.Lxh3 Sc6 9.Lg2 e6 10.e3 0-0 11.Ld2 Tc8 12.0-0 Sd7 13.Se2 Db6 14.Lc3 Tfd8 15.Sf4 Sf6 16.Db3 Se4 17.Dxb6 axb6 18.Le1 Sa5 19.Sd3 Lf8 20.f3 Sd6 21.Lf2 Lh6 22.Tac1 Sac4 23.Tfe1 Sa5 24.Kf1 Lg7 25.g4 Sc6 26.b3 Sb5 27.Ke2 Lf8 28.a4 Sc7 29.Lg3 Sa6 30.Lf1 f6 31.Ted1 Sa5 32.Txc8 Txc8 33.Tc1 Txc1 34.Sxc1 La3 35.Kd1 Lxc1 36.Kxc1 Sxb3+ 37.Kc2 Sa5 38.Kc3 Kf7 39.e4 f5 40.gxf5 gxf5 41.Ld3 Kg6 42.Ld6 Sc6 43.Lb1 Kf6 44.Lg3 fxe4 45.fxe4 h6 46.Lf4 h5 47.exd5 exd5 48.h4 Sab8 49.Lg5+ Kf7 50.Lf5 Sa7 51.Lf4 Sbc6 52.Ld3 Sc8 53.Le2 Kg6 54.Ld3+ Kf6 55.Le2 Kg6 56.Lf3 S6e7 57.Lg5 1-0
+
+Botvinnik,Mikhail - Bronstein,David I [E69]
+World Championship 19th Moscow (21), 04.05.1951
+
+1.d4 Sf6 2.c4 d6 3.Sc3 e5 4.Sf3 Sbd7 5.g3 g6 6.Lg2 Lg7 7.0-0 0-0 8.e4 c6 9.h3 Sh5 10.Le3 De7 11.Sh2 Kh8 12.Te1 a6 13.a3 Tb8 14.Lf1 Shf6 15.Dd2 b5 16.cxb5 axb5 17.Tad1 Sb6 18.Lh6 Lxh6 19.Dxh6 Le6 20.Sf3 Lb3 21.Td2 Sfd7 22.De3 Lc4 23.Lg2 f6 24.Tc2 Lb3 25.Tce2 Sc4 26.Dd3 Sa5 27.Td2 Sb6 28.Db1 Sbc4 29.Tde2 b4 30.axb4 Txb4 31.h4 Sb6 32.Sa2 Lxa2 33.Dxa2 Sbc4 34.h5 Tfb8 35.hxg6 hxg6 36.Db1 Kg7 37.dxe5 fxe5 38.Dc1 Sxb2 39.Dc3 Sa4 40.Dc1 Tc4 41.Dg5 Dxg5 42.Sxg5 Sb3 43.f4 Sd4 44.Ta2 Tb2 45.Txb2 Sxb2 46.Kh2 Sd3 47.Te3 Tc3 48.Lf1 Tc2+ 49.Kh3 Sf2+ 50.Kh4 Tc1 51.Lg2 Tg1 52.Lh3 Th1 53.fxe5 dxe5 54.Ta3 Kf6 55.Sh7+ Ke7 56.Sg5 Kd6 57.Sf7+ Ke7 58.Kg5 Kxf7 59.Ta7+ Ke8 60.Ld7+ Kd8 61.Kxg6 Sxe4 62.g4 Tf1 63.Lf5 Sxf5 64.gxf5 Ke8 0-1
+
+Botvinnik,Mikhail - Bronstein,David I [D75]
+World Championship 19th Moscow (19), 27.04.1951
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 d5 5.cxd5 Sxd5 6.Sf3 0-0 7.0-0 c5 8.e4 Sf6 9.e5 Sd5 10.dxc5 Sb4 11.Sc3 S8c6 12.a3 Sd3 13.Le3 Lg4 14.h3 Lxf3 15.Dxf3 Sdxe5 16.De4 Dd3 17.Da4 Dc4 18.Tad1 Tad8 19.Ld5 Dxa4 20.Sxa4 e6 21.La2 Sf3+ 22.Kg2 Sfd4 23.g4 h6 24.Td2 Kh7 25.f4 f5 26.Sc3 e5 27.fxe5 Lxe5 28.Sd5 fxg4 29.hxg4 Txf1 30.Kxf1 Tf8+ 31.Tf2 Txf2+ 32.Lxf2 a6 33.Kg2 Kg7 34.Lc4 Se6 35.b4 Lb2 36.a4 Se5 37.Le2 Ld4 38.Lg3 a5 39.bxa5 Sxc5 40.Sc7 Sc6 41.a6 bxa6 42.Sxa6 Se4 43.Lc7 Sc3 44.Lf3 Se5 45.a5 h5 46.g5 Sc4 47.Sb4 Sb5 48.Ld8 Kf8 49.Sc6 Lc5 50.Le2 Se3+ 51.Kf3 Sd4+ 52.Sxd4 Lxd4 53.Ld3 Sg4 54.Lxg6 Se5+ 55.Ke4 Sc6 56.Lb6 Lxb6 57.axb6 h4 58.Lf5 Ke7 59.Kf4 Kd6 60.Le4 1-0
+
+Botvinnik,Mikhail - Bronstein,David I [E45]
+World Championship 19th Moscow (17), 22.04.1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 La6 6.a3 Le7 7.Sg3 d5 8.cxd5 Lxf1 9.Sxf1 exd5 10.Sg3 Dd7 11.Df3 Sc6 12.0-0 g6 13.Ld2 0-0 14.Sce2 h5 15.Tfc1 h4 16.Sf1 Se4 17.Sf4 a5 18.Tc2 Ld8 19.Le1 Se7 20.De2 Sd6 21.f3 g5 22.Sd3 De6 23.a4 Sg6 24.h3 f5 25.Lc3 Lf6 26.Te1 Tae8 27.Dd1 Tf7 28.b3 Tfe7 29.Lb2 f4 30.Se5 Lxe5 31.dxe5 Sf7 32.exf4 Sxf4 33.Sh2 c5 34.Sg4 d4 35.Sf6+ Dxf6 0-1
+
+Botvinnik,Mikhail - Bronstein,David I [C08]
+World Championship 19th Moscow (15), 17.04.1951
+
+1.d4 e6 2.e4 d5 3.Sd2 c5 4.exd5 exd5 5.Sgf3 Sf6 6.Lb5+ Ld7 7.Lxd7+ Sbxd7 8.0-0 Le7 9.dxc5 Sxc5 10.Sd4 Dd7 11.S2f3 0-0 12.Se5 Dc8 13.Lg5 Te8 14.Sd3 Sxd3 15.Dxd3 Dg4 16.Le3 Lc5 17.h3 Dg6 18.Dxg6 hxg6 19.Tad1 Te4 20.c3 b6 21.Sc2 Td8 22.Td3 Kf8 23.Tfd1 Ke7 24.Kf1 Kd7 25.Lg5 Kc6 26.b4 Lf8 27.Se3 Te5 28.f4 Te4 29.f5 Te5 30.Lf4 Te4 31.Lg5 Te5 32.Lf4 Te4 33.Lg5 ½-½
+
+Botvinnik,Mikhail - Bronstein,David I [E44]
+World Championship 19th Moscow (13), 13.04.1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 Lb7 6.a3 Lxc3+ 7.Sxc3 0-0 8.Ld3 c5 9.d5 b5 10.0-0 bxc4 11.Lxc4 exd5 12.Sxd5 Sc6 13.b3 Sxd5 14.Lxd5 Tb8 15.Lb2 Se7 16.Dg4 Sg6 17.Lxb7 Txb7 18.b4 a5 19.Lc3 axb4 20.axb4 cxb4 21.Lxb4 Te8 22.Lc3 Dh4 23.Df3 Tc7 24.Ld4 Sf8 25.Ta5 Se6 26.Le5 Tc6 27.Lg3 Dc4 28.Td5 Sc5 29.Td4 De6 30.Dd5 h6 31.h3 Ta8 32.Tfd1 Dxd5 33.Txd5 Se4 34.Txd7 Sxg3 35.fxg3 Ta2 36.T1d2 Txd2 37.Txd2 Kf8 38.g4 Ke7 39.Kf2 Tf6+ 40.Ke2 Ta6 41.Td5 Ta2+ 42.Kf3 g5 43.Tf5 Kf8 44.Tf6 Kg7 45.Td6 Tb2 46.g3 Ta2 47.h4 Th2 48.Td1 Kf6 49.e4 Kg6 50.h5+ Kf6 51.Td6+ Kg7 52.e5 Th1 53.e6 fxe6 54.Txe6 Tf1+ 55.Ke4 Te1+ 56.Kd5 Td1+ ½-½
+
+Botvinnik,Mikhail - Bronstein,David I [E17]
+World Championship 19th Moscow (11), 08.04.1951
+
+1.d4 e6 2.Sf3 Sf6 3.c4 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.b3 d5 8.cxd5 exd5 9.Lb2 Sbd7 10.Sc3 Te8 11.Se5 Lf8 12.Tc1 Sxe5 13.dxe5 Txe5 14.Sb5 Te7 15.Lxf6 gxf6 16.e4 dxe4 17.Dg4+ Lg7 18.Tfd1 Df8 19.Sd4 Lc8 20.Dh4 f5 21.Sc6 Te8 22.Lh3 Lh6 23.Tc2 e3 24.fxe3 Lxe3+ 25.Kh1 Le6 26.Lg2 a5 27.Lf3 Kh8 28.Sd4 Tad8 29.Txc7 Ld5 30.Te1 Dd6 31.Tc2 Te4 32.Lxe4 Lxe4+ 33.Dxe4 fxe4 34.Sf5 Db4 35.Txe3 Td1+ 36.Kg2 Td2+ 37.Txd2 Dxd2+ 38.Kh3 Df2 39.Kg4 f6 0-1
+
+Botvinnik,Mikhail - Bronstein,David I [A91]
+World Championship 19th Moscow (9), 03.04.1951
+
+1.d4 e6 2.c4 f5 3.g3 Sf6 4.Lg2 Le7 5.Sc3 0-0 6.d5 Lb4 7.Ld2 e5 8.e3 d6 9.Sge2 a6 10.Dc2 De8 11.f3 b5 12.Db3 Lc5 13.cxb5 Ld7 14.Sa4 La7 15.b6 Lxa4 16.b7 Lxb3 17.bxa8D Lb6 18.axb3 Db5 19.Sc3 Dxb3 20.Txa6 Sxa6 21.Dxa6 Sxd5 22.Da4 Dxa4 23.Sxa4 Lxe3 24.Lf1 Ta8 25.b3 Lxd2+ 26.Kxd2 Kf8 27.Ld3 g6 28.Tc1 Tb8 29.Sc3 Sb4 30.Le2 Ta8 31.Sa4 c6 32.Tc4 Tb8 33.Ld1 Ke7 34.Sb2 d5 35.Th4 h5 36.g4 hxg4 37.fxg4 f4 38.g5 Tf8 39.Th7+ Kd6 40.Tg7 e4 41.Txg6+ Ke5 ½-½
+
+Botvinnik,Mikhail - Bronstein,David I [A94]
+World Championship 19th Moscow (7), 30.03.1951
+
+1.d4 d5 2.c4 e6 3.Sf3 c6 4.g3 f5 5.Lg2 Sf6 6.0-0 Le7 7.b3 0-0 8.La3 b6 9.Lxe7 Dxe7 10.Se5 Lb7 11.Sd2 Sbd7 12.Sxd7 Sxd7 13.e3 Tac8 14.Tc1 c5 15.De2 Sf6 16.cxd5 Lxd5 17.Lxd5 exd5 18.Sf3 Tc7 19.Tc2 Tfc8 20.Tfc1 Se4 21.Se5 Sf6 22.Dd3 g6 23.Da6 Kg7 24.De2 Dd6 25.a4 Se8 26.Dd2 Sf6 27.Dc3 Se4 28.Dd3 cxd4 29.exd4 a5 30.Kg2 Sf6 31.De2 f4 32.gxf4 Sh5 33.Txc7+ Txc7 34.Txc7+ Dxc7 35.Dg4 Sf6 36.De6 Sh5 37.Dd7+ Dxd7 38.Sxd7 Sxf4+ 39.Kf3 Sd3 40.Sxb6 Sb4 41.Kf4 Kf6 42.Sd7+ Ke7 43.Se5 Ke6 44.Ke3 Kf5 45.f3 g5 46.Kd2 h5 47.Sd3 Sa6 48.Sc5 Sb4 49.Sd3 Sa6 50.h3 Sc7 51.Ke3 Sa6 52.Ke2 Ke6 53.Kd2 Ke7 54.Kc3 Kd6 55.b4 axb4+ 56.Sxb4 Sc7 57.a5 Sb5+ 58.Kd3 Ke6 59.Ke3 Sa7 60.a6 Sb5 61.Sc6 Sc7 62.Sb4 Kf5 63.a7 Ke6 64.Kf2 h4 65.f4 gxf4 66.Kf3 1-0
+
+Botvinnik,Mikhail - Bronstein,David I [E43]
+World Championship 19th Moscow (5), 25.03.1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.Sf3 b6 7.0-0 Lb7 8.Sa4 cxd4 9.a3 Le7 10.exd4 Dc7 11.b4 Sg4 12.g3 f5 13.Sc3 a6 14.Te1 Sc6 15.Lf1 Sd8 16.Lf4 Ld6 17.Lxd6 Dxd6 18.Lg2 Sf7 19.c5 Dc7 20.Tc1 Tae8 21.Sa4 b5 22.Sc3 f4 23.d5 fxg3 24.fxg3 exd5 25.Dd4 Sf6 26.Sh4 Te5 27.Txe5 Dxe5 28.Dxe5 Sxe5 29.Sf5 Sc4 30.Td1 Kh8 31.Te1 Sxa3 32.Sd6 Lc6 33.Ta1 Sc2 34.Txa6 d4 35.Scxb5 Lxg2 36.Kxg2 Sg4 37.Sf5 d3 38.Td6 Txf5 39.Txd3 Sge3+ 0-1
+
+Botvinnik,Mikhail - Bronstein,David I [C08]
+World Championship 19th Moscow (3), 20.03.1951
+
+1.e4 e6 2.d4 d5 3.Sd2 c5 4.exd5 exd5 5.Lb5+ Ld7 6.De2+ Le7 7.dxc5 Sf6 8.Sgf3 0-0 9.0-0 Te8 10.Sb3 Lxc5 11.Dd3 a6 12.Lxd7 Sbxd7 13.Lg5 Lf8 14.Tad1 Dc7 15.c3 h6 16.Lh4 Te4 17.Lg3 Db6 18.Sfd2 Tee8 19.Dc2 Tac8 20.Sf3 g6 21.Tfe1 Lg7 22.Txe8+ Txe8 23.Lf4 Lf8 24.h3 Kh7 25.Sh2 Se5 26.Le3 Dc7 27.Ld4 Se4 28.Lxe5 Dxe5 29.Sg4 Df4 30.Dc1 Dd6 31.Dc2 Sf6 32.Sxf6+ Dxf6 33.Dd3 Td8 34.De3 Lg7 35.g3 h5 36.Kg2 Td6 37.Sd4 Td7 38.Sf3 Lh6 39.Dd4 Dxd4 40.Sxd4 Lg7 41.Sc2 a5 42.a4 Td8 43.Kf3 Lf6 44.Sd4 Kg7 45.Sb5 Kf8 46.Sc7 d4 47.c4 Le7 48.Sd5 Lc5 49.Ke2 Te8+ 50.Kd3 b6 51.g4 Kg7 52.Th1 h4 53.g5 Te5 54.Tg1 Kf8 55.f3 Kg7 56.f4 Te8 57.Kd2 Te6 58.Te1 Txe1 59.Kxe1 Kf8 60.Ke2 Ke8 61.Kd3 Kd7 62.Ke4 Kd6 63.Sf6 Ke6 ½-½
+
+Botvinnik,Mikhail - Bronstein,David I [A91]
+World Championship 19th Moscow (1), 16.03.1951
+
+1.d4 e6 2.c4 f5 3.g3 Sf6 4.Lg2 Le7 5.Sc3 0-0 6.e3 d6 7.Sge2 c6 8.0-0 e5 9.d5 De8 10.e4 Dh5 11.exf5 Lxf5 12.f3 Dg6 13.Le3 Sbd7 14.Dd2 cxd5 15.cxd5 Ld8 16.Tac1 La5 17.g4 Ld3 18.Tfd1 Lc4 19.Dc2 Dxc2 20.Txc2 Sb6 21.Tcd2 La6 22.Lf2 Sc4 23.Tc2 Lb6 24.Lxb6 axb6 25.Te1 Se3 26.Td2 Sc4 27.Tc2 Se3 28.Td2 Sc4 29.Tc2 ½-½
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [C83]
+Moscow training m1 Moscow, 07.03.1951
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Le7 6.Te1 b5 7.Lb3 0-0 8.c3 d5 9.d4 Sxe4 10.dxe5 Le6 11.Sd4 Sa5 12.Lc2 c5 13.Sxe6 fxe6 14.Dg4 Sxf2 15.Dxe6+ Kh8 16.Le3 Se4 17.Sd2 Sxd2 18.Lxd2 Sc4 19.Dh3 Lh4 20.Te2 d4 21.Le1 g5 22.Lxh4 gxh4 23.Te4 Ta7 24.Txh4 Tff7 25.cxd4 cxd4 26.Td1 Se3 27.e6 Sxc2 28.exf7 Txf7 29.De6 Tg7 30.Te4 1-0
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [D75]
+Moscow training m1 Moscow, 03.1951
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 d5 5.cxd5 Sxd5 6.Sf3 0-0 7.0-0 c5 8.e4 Sf6 9.e5 Sd5 10.dxc5 Sc6 11.De2 Da5 12.Sbd2 Dxc5 13.Sb3 Db6 14.Td1 e6 15.h4 Dc7 16.Te1 b6 17.Ld2 a5 18.Tac1 Dd7 19.a3 La6 20.De4 Tac8 21.h5 Tfe8 22.hxg6 hxg6 23.Lg5 Sce7 24.Sbd4 Txc1 25.Txc1 Tc8 26.Txc8+ Dxc8 27.Dh4 Sc6 28.Sxc6 Dxc6 29.Lh6 Lf8 30.Lxf8 Kxf8 31.Sg5 Dc1+ 32.Kh2 Ke8 33.Lxd5 exd5 34.Dh8+ Kd7 35.Sxf7 Dd1 36.Dd8+ Kc6 37.Da8+ Kb5 38.Sd6+ 1-0
+
+Botvinnik,Mikhail - Geller,Efim P [D23]
+URS-ch19 Moscow, 1951
+
+1.d4 Sf6 2.g3 d5 3.c4 dxc4 4.Sf3 Sc6 5.Sc3 e5 6.Sxe5 Sxe5 7.dxe5 Dxd1+ 8.Sxd1 Se4 9.Lg2 Lb4+ 10.Kf1 Sc5 11.Le3 Le6 12.Sc3 0-0-0 13.f4 Lxc3 14.bxc3 Sa4 15.Tc1 Ld5 16.Lh3+ Kb8 17.Tg1 The8 18.Kf2 Le4 19.Tgd1 Txd1 20.Txd1 Sxc3 21.Tc1 Sxa2 22.Ta1 Sb4 23.Lxa7+ Ka8 24.Lb6+ Kb8 25.La7+ Ka8 26.Le3+ Sa6 27.Ta4 Ld5 28.Ld7 Td8 29.Lb5 Le6 30.Lxa6 bxa6 31.Txa6+ Kb7 32.Ta5 Td1 33.Tc5 Th1 34.Kg2 Ta1 35.Tb5+ Kc6 36.Tc5+ Kd7 37.f5 Lxf5 38.Txc4 Ta6 39.g4 Le6 40.Td4+ Kc8 41.Kf3 Ta5 42.g5 c5 43.Th4 c4 44.Txh7 g6 45.Th8+ Kc7 46.Td8 Ld5+ 47.Kf2 c3 48.Td6 c2 49.h4 Lc4 50.Td4 La6 51.Tf4 Txe5 52.Txf7+ Kc6 53.Tf6+ Kd5 54.Txa6 Txe3 55.Ta1 Tc3 56.Tc1 Kc4 57.Ke1 Kb3 58.Kd2 Kb2 59.Txc2+ Txc2+ 60.Kd3 Kb3 61.e4 Tc4 62.e5 Tb4 0-1
+
+Botvinnik,Mikhail - Keres,Paul [E26]
+URS-ch19 Moscow, 1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.a3 Lxc3+ 7.bxc3 b6 8.e4 d6 9.Se2 e5 10.0-0 Sd7 11.Da4 Dc7 12.d5 Sa5 13.Sg3 0-0 14.Dd1 Te8 15.Sf5 Sf8 16.Se3 Sg6 17.g3 De7 18.Ta2 Lh3 19.Te1 Ld7 20.f3 a6 21.a4 Teb8 22.Lf1 De8 23.Sf5 Df8 24.Tb2 f6 25.f4 Sh8 26.Dg4 Lxf5 27.Dxf5 Sf7 28.Dh5 Tb7 29.De2 De8 30.Dd1 Tab8 31.Ld3 b5 32.axb5 axb5 33.cxb5 c4 34.Lc2 Dc8 35.La4 Sb3 36.Le3 Ta8 37.Ta2 Txb5 38.Lxb3 cxb3 39.Txa8 Dxa8 40.c4 Tb4 41.Ld2 Da7+ 42.Kh1 Tb8 43.Df3 Dd4 44.Dc3 Df2 45.De3 Dxe3 46.Lxe3 b2 47.Tb1 Tb3 48.c5 Txe3 49.Txb2 g6 50.c6 Tc3 51.Tb7 Kg7 52.c7 Tc2 53.Kg1 h5 54.h4 Tc4 55.Kg2 Tc2+ 56.Kf1 Tc4 57.Kg2 Tc2+ 58.Kf1 Tc4 ½-½
+
+Botvinnik,Mikhail - Kopylov,Nikolai G [A81]
+URS-ch19 Moscow, 1951
+
+1.d4 f5 2.g3 Sf6 3.Lg2 g6 4.Sc3 Lg7 5.Lg5 Sc6 6.Dd2 d5 7.Lxf6 Lxf6 8.Sxd5 Lxd4 9.Sxc7+ Kf7 10.Sf3 Lxb2 11.Tb1 Dxd2+ 12.Sxd2 Lc3 13.Tb3 Lxd2+ 14.Kxd2 Le6 15.Sxe6 Kxe6 16.Txb7 Thd8+ 17.Kc1 Sd4 18.Te1 Tac8 19.Tb2 Tc5 20.e3 Sb5 21.Td1 Tdc8 22.Td5 Txd5 23.Lxd5+ Kxd5 24.Txb5+ Ke4 25.Tb7 Te8 26.Txa7 Kf3 27.a4 Kxf2 28.a5 g5 29.a6 Kxe3 30.Td7 e5 31.a7 Ta8 32.Txh7 f4 33.gxf4 gxf4 34.Kd1 f3 35.c4 Td8+ 36.Kc2 f2 37.Tf7 Ta8 0-1
+
+Botvinnik,Mikhail - Kotov,Alexander [A53]
+URS-ch19 Moscow, 1951
+
+1.d4 Sf6 2.c4 d6 3.Sc3 e5 4.d5 Lf5 5.g3 Le7 6.Sf3 Se4 7.Sxe4 Lxe4 8.Lh3 c6 9.0-0 cxd5 10.Sd2 Lg6 11.Da4+ Sd7 12.cxd5 f5 13.e4 0-0 14.exf5 Lxf5 15.Lxf5 Txf5 16.Se4 Sc5 17.Dc2 Sxe4 18.Dxe4 Tf7 19.h4 Db6 20.b3 Ld8 21.Le3 ½-½
+
+Botvinnik,Mikhail - Lipnitsky,Isaak [E51]
+URS-ch19 Moscow, 1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 d5 5.a3 Le7 6.Sf3 0-0 7.b4 Sbd7 8.Lb2 c6 9.Dc2 Te8 10.Ld3 dxc4 11.Lxc4 a5 12.b5 Sb6 13.Ld3 cxb5 14.Sxb5 Ld7 15.Se5 Tc8 16.De2 Sa4 17.0-0 Db6 18.Tab1 Sxb2 19.Txb2 Ted8 20.Tfb1 Le8 21.Dd2 a4 22.Sa7 Dxa7 23.Txb7 Da8 24.Txe7 Tb8 25.Tc7 Txb1+ 26.Lxb1 Sd5 27.Tc1 Db8 28.Dc2 g6 29.La2 Se7 30.h3 Kf8 31.Dc7 Tc8 32.Dxb8 Txb8 33.Tc2 Sf5 34.Sc4 Tc8 35.Tb2 Se7 36.e4 Td8 37.Td2 Lb5 38.Se3 Sc6 39.d5 Se5 40.Tb2 Ld3 41.Tb4 1-0
+
+Botvinnik,Mikhail - Moisieev,Oleg L [E45]
+URS-ch19 Moscow, 1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 La6 6.a3 Le7 7.Sf4 0-0 8.b4 d5 9.b5 Lb7 10.cxd5 exd5 11.Lb2 c5 12.Le2 c4 13.0-0 a6 14.a4 Lb4 15.Dc2 Dd7 16.Tfb1 Te8 17.La3 Lxa3 18.Txa3 Dd6 19.Ta2 a5 20.Dc1 Sbd7 21.Da3 Dxa3 22.Txa3 Sf8 23.h4 Tad8 24.Lf3 Se6 25.Sh5 Sxh5 26.Lxh5 g6 27.Lf3 f5 28.Ta2 Kg7 29.Kf1 h6 30.g3 Kf6 31.Kg2 Th8 32.Th1 The8 33.Td2 Te7 34.Te2 Tee8 35.Kf1 Th8 36.Ke1 The8 37.Kd2 Te7 38.Tee1 Tee8 39.Se2 Th8 40.g4 Thg8 41.Teg1 fxg4 42.Lxg4 Tdf8 43.Lxe6 Kxe6 44.Sf4+ Kd6 45.Th2 Tf6 46.Thg2 Lc8 47.Txg6 Tgxg6 48.Txg6 Txg6 49.Sxg6 Lf5 50.Se5 Lb1 51.Kc3 La2 52.e4 dxe4 53.Sxc4+ Lxc4 54.Kxc4 h5 55.d5 Ke5 56.d6 Kxd6 57.Kd4 1-0
+
+Botvinnik,Mikhail - Novotelnov,Nikolay Alexandrovi [E45]
+URS-ch19 Moscow, 1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 La6 6.a3 Le7 7.Sf4 d5 8.b3 0-0 9.Lb2 c6 10.Ld3 Ld6 11.0-0 Sbd7 12.Sh5 Sxh5 13.Dxh5 f5 14.De2 Tc8 15.f3 Dh4 16.g3 Dh3 17.Tad1 dxc4 18.Lxc4 Lxc4 19.bxc4 Tce8 20.f4 Sf6 21.e4 Sg4 22.e5 Le7 23.Td3 Tc8 24.Dg2 Dh5 25.h3 Sh6 26.Lc1 g5 27.fxg5 Lxg5 28.Lxg5 Dxg5 29.Se2 Sf7 30.Sf4 Dh6 31.De2 Sg5 32.Kh2 Tfd8 33.Dh5 Dxh5 34.Sxh5 Sf7 35.Te1 Kf8 36.g4 fxg4 37.hxg4 Ke7 38.Kg3 b5 39.c5 a5 40.Kf4 Tg8 41.Sf6 Tg7 42.Th1 h6 43.a4 b4 44.Td2 Tg6 45.Ke3 Td8 46.Tdh2 Tb8 47.Tf2 Th8 48.Thf1 Sd8 49.Tf4 Tg7 50.Th1 Tg6 51.Se4 Thg8 52.Kf3 T8g7 53.Sd2 Tg8 54.Sb3 Sb7 55.Kg3 T8g7 56.Th2 Tg8 57.Th4 Th8 58.Kf3 Th7 59.Sd2 Sd8 60.Sc4 Sb7 61.Th3 Thg7 62.Se3 Th7 63.Th2 Sd8 64.Ke4 Tf7 65.Sc4 Txf4+ 66.Kxf4 Sb7 67.Kg3 Kf7 68.Sd2 Sd8 69.Sb3 Sb7 70.Tf2+ Kg7 71.Kh4 Kh7 72.Sc1 Sd8 73.Sb3 Sb7 74.Sd2 Tg8 75.Tf7+ Tg7 76.Txg7+ Kxg7 77.Kh5 b3 78.Sxb3 Kh7 79.d5 exd5 80.e6 Kg7 81.e7 Kf7 82.Kxh6 Kxe7 83.g5 Sd8 84.g6 Se6 85.Sxa5 d4 86.Sxc6+ Kd7 87.Se5+ 1-0
+
+Botvinnik,Mikhail - Simagin,Vladimir [D49]
+URS-ch19 Moscow, 1951
+
+1.d4 d5 2.c4 e6 3.Sc3 c6 4.e3 Sf6 5.Sf3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 a6 9.e4 c5 10.e5 cxd4 11.Sxb5 axb5 12.exf6 Lb7 13.0-0 gxf6 14.Lxb5 Tg8 15.Lf4 Ta5 16.a4 Txb5 17.axb5 Se5 18.Lxe5 fxe5 19.Ta7 Dd5 20.Txb7 Dxb7 21.g3 Ld6 22.Te1 f6 23.Db3 Kf7 24.Sxd4 Dd5 25.Dxd5 exd5 26.Sf5 Ke6 27.Sxd6 Kxd6 28.Tc1 d4 29.Tc6+ Kd5 30.Txf6 Tc8 31.Kf1 Tc2 32.Tf7 Txb2 33.Txh7 Tb1+ 34.Ke2 Tb2+ 35.Kf1 Tb1+ 36.Kg2 e4 37.Td7+ Kc4 38.h4 Tb2 39.Kf1 Tb1+ 40.Kg2 Tb2 41.Kf1 Tb1+ 42.Kg2 ½-½
+
+Botvinnik,Mikhail - Taimanov,Mark E [E40]
+URS-ch19 Moscow, 1951
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 Sc6 5.Sge2 d5 6.a3 Le7 7.Sg3 h5 8.cxd5 exd5 9.Ld3 h4 10.Sf1 h3 11.g3 0-0 12.Sd2 Lg4 13.f3 Lc8 14.b4 a5 15.b5 Sb8 16.0-0 c5 17.bxc6 bxc6 18.Sa4 La6 19.Sb3 Lb5 20.Sbc5 Sa6 21.Sxa6 Lxa6 22.Tb1 Dc7 23.Lxa6 Txa6 24.Dd3 Ta7 25.Ld2 Ld6 26.e4 dxe4 27.fxe4 Td8 28.Df3 Lf8 29.Lc3 Te8 30.e5 Sd5 31.Ld2 Dd7 32.Tb3 Tb7 33.Txb7 Dxb7 34.Sc3 Sxc3 35.Lxc3 Lxa3 36.Lxa5 Lb2 37.Lb6 Dd7 ½-½
+
+Botvinnik,Mikhail - Reshevsky,Samuel Herman [C49]
+World Championship 18th Den Haag/Moscow (24), 13.05.1948
+
+1.e4 e5 2.Sf3 Sc6 3.Sc3 Sf6 4.Lb5 Lb4 5.0-0 0-0 6.d3 Lxc3 7.bxc3 d6 8.Lg5 De7 9.Te1 Sd8 10.d4 Se6 11.Lc1 Td8 12.Lf1 Sf8 13.Sh4 Sg4 14.g3 Df6 15.f3 Sh6 16.Le3 Te8 17.Dd2 Sg6 18.Sg2 Lh3 19.Le2 Lxg2 20.Kxg2 d5 21.exd5 exd4 22.cxd4 Sf5 23.Lf2 Ted8 24.c4 h5 25.h4 b5 26.Dg5 Dxg5 27.hxg5 h4 28.Ld3 hxg3 29.Lxg3 Sxd4 30.Tad1 c5 31.dxc6 Sxc6 32.Le4 Tac8 33.Txd8+ Sxd8 34.Lf5 Ta8 35.Te8+ Kh7 36.cxb5 f6 37.Lc7 Se6 38.Txa8 Sxc7 39.Txa7 Sxb5 40.Td7 fxg5 41.a4 1-0
+
+Botvinnik,Mikhail - Euwe,Max [D35]
+World Championship 18th Den Haag/Moscow (22), 09.05.1948
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.cxd5 exd5 5.Sc3 c6 6.Dc2 g6 7.Lg5 Lg7 8.e3 Lf5 9.Ld3 Lxd3 10.Dxd3 0-0 11.0-0 Sbd7 12.Se5 De8 13.Sxd7 Dxd7 14.b4 Tfe8 ½-½
+
+Botvinnik,Mikhail - Keres,Paul [D06]
+World Championship 18th Den Haag/Moscow (20), 04.05.1948
+
+1.d4 d5 2.Sf3 Lf5 3.c4 e6 4.cxd5 exd5 5.Db3 Sc6 6.Lg5 Le7 7.Lxe7 Sgxe7 8.e3 Dd6 9.Sbd2 0-0 10.Tc1 a5 11.a3 Tfc8 12.Ld3 a4 13.Dc2 Lxd3 14.Dxd3 Sd8 15.0-0 Se6 16.Tc3 b5 17.Dc2 Tcb8 18.Se1 Sc8 19.Tc6 De7 20.Sd3 Sb6 21.Sb4 Td8 22.Df5 Td6 23.Tfc1 Txc6 24.Txc6 Td8 25.Txb6 cxb6 26.Sc6 Dc7 27.Sxd8 Dxd8 28.Dc2 Dc7 29.Dxc7 Sxc7 30.Sb1 Kf8 31.Kf1 Ke7 32.Ke2 Kd6 33.Kd3 Kc6 34.Sc3 Se8 35.Sa2 f6 36.f3 Sc7 37.Sb4+ Kd6 38.e4 dxe4+ 39.fxe4 Se6 40.Ke3 Sc7 41.Kd3 Se6 42.Sd5 Kc6 43.h4 Sd8 44.Sf4 Kd6 45.Sh5 Se6 46.Ke3 Ke7 47.d5 Sc5 48.Sxg7 Kd6 49.Se6 Sd7 50.Kd4 Se5 51.Sg7 Sc4 52.Sf5+ Kc7 53.Kc3 Kd7 54.g4 Se5 55.g5 fxg5 56.hxg5 Sf3 57.Kb4 Sxg5 58.e5 h5 59.e6+ Kd8 60.Kxb5 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [D76]
+World Championship 18th Den Haag/Moscow (18), 27.04.1948
+
+1.d4 Sf6 2.c4 g6 3.g3 d5 4.cxd5 Sxd5 5.Lg2 Lg7 6.Sf3 0-0 7.0-0 Sb6 8.Sc3 a5 9.Lf4 c6 10.Dc1 Te8 11.Td1 Sa6 12.h3 a4 13.e4 Ld7 14.Se5 Dc8 15.Kh2 Td8 16.Lg5 f6 17.Sxd7 Dxd7 18.Le3 Kh8 19.Lf1 f5 20.d5 c5 21.Lb5 Dc7 22.Lf4 Le5 23.Lxe5+ Dxe5 24.f4 Dg7 25.De3 fxe4 26.Tac1 a3 27.bxa3 Sc8 28.Sxe4 Sd6 29.Lxa6 Sxe4 30.Dxe4 Txa6 31.Txc5 Txa3 32.Td2 Tda8 33.De6 Tc3 34.Txc3 Dxc3 35.De5+ Dxe5 36.fxe5 Kg7 37.Kg2 Kf7 38.Tf2+ Ke8 39.Td2 Ta3 40.Tb2 Td3 41.Tb5 Kd8 42.a4 b6 43.Txb6 Txd5 44.Tb8+ Kd7 45.Th8 Txe5 46.Txh7 Ke6 47.Th4 Te2+ 48.Kf3 Ta2 49.Te4+ Kf6 50.Tf4+ Kg7 51.Tc4 Ta3+ 52.Kg4 e5 53.Kh4 Kh6 54.Tb4 Ta1 55.Kg4 Ta3 56.h4 Kg7 57.h5 gxh5+ 58.Kxh5 Kf6 59.Kh4 Kf5 60.g4+ Kf6 61.Tb6+ Kf7 62.Tb7+ Kg6 63.Tb4 Kf6 64.Tb6+ Kf7 65.Tb7+ Kg6 66.Ta7 e4 67.Ta6+ Kf7 68.g5 e3 69.Kg3 e2+ 70.Kf2 Te3 71.Ke1 Kg7 72.Ta7+ Kg6 73.Ta8 Kg7 74.a5 Te5 75.g6 Kxg6 76.a6 Kg7 77.Ta7+ Kg6 78.Tb7 Ta5 79.Tb6+ Kf7 80.Kxe2 Ke7 ½-½
+
+Botvinnik,Mikhail - Reshevsky,Samuel Herman [E29]
+World Championship 18th Den Haag/Moscow (14), 18.04.1948
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.a3 Lxc3+ 6.bxc3 Sc6 7.Ld3 0-0 8.Se2 b6 9.e4 Se8 10.Le3 d6 11.0-0 Sa5 12.Sg3 La6 13.De2 Dd7 14.f4 f5 15.Tae1 g6 16.Td1 Df7 17.e5 Tc8 18.Tfe1 dxe5 19.dxe5 Sg7 20.Sf1 Tfd8 21.Lf2 Sh5 22.Lg3 De8 23.Se3 Da4 24.Da2 Sxg3 25.hxg3 h5 26.Le2 Kf7 27.Kf2 Db3 28.Dxb3 Sxb3 29.Ld3 Ke7 30.Ke2 Sa5 31.Td2 Tc7 32.g4 Tcd7 33.gxf5 gxf5 34.Ted1 h4 35.Ke1 Sb3 36.Sd5+ exd5 37.Lxf5 Sxd2 38.Txd2 dxc4 39.Lxd7 Txd7 40.Tf2 Ke6 41.Tf3 Td3 42.Ke2 0-1
+
+Botvinnik,Mikhail - Euwe,Max [D49]
+World Championship 18th Den Haag/Moscow (12), 13.04.1948
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.Sc3 c6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 a6 9.e4 c5 10.e5 cxd4 11.Sxb5 axb5 12.exf6 Db6 13.fxg7 Lxg7 14.0-0 Sc5 15.Lf4 Lb7 16.Te1 Td8 17.Tc1 Td5 18.Le5 Lxe5 19.Txe5 Txe5 20.Sxe5 Sxd3 21.Dxd3 f6 22.Dg3 fxe5 23.Dg7 Tf8 24.Tc7 Dxc7 25.Dxc7 Ld5 26.Dxe5 d3 27.De3 Lc4 28.b3 Tf7 29.f3 Td7 30.Dd2 e5 31.bxc4 bxc4 32.Kf2 Kf7 33.Ke3 Ke6 34.Db4 Tc7 35.Kd2 Tc6 36.a4 1-0
+
+Botvinnik,Mikhail - Keres,Paul [E28]
+World Championship 18th Den Haag/Moscow (10), 25.03.1948
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.a3 Lxc3+ 6.bxc3 Te8 7.Se2 e5 8.Sg3 d6 9.Le2 Sbd7 10.0-0 c5 11.f3 cxd4 12.cxd4 Sb6 13.Lb2 exd4 14.e4 Le6 15.Tc1 Te7 16.Dxd4 Dc7 17.c5 dxc5 18.Txc5 Df4 19.Lc1 Db8 20.Tg5 Sbd7 21.Txg7+ Kxg7 22.Sh5+ Kg6 23.De3 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [D98]
+World Championship 18th Den Haag/Moscow (8), 18.03.1948
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Db3 dxc4 6.Dxc4 0-0 7.e4 Lg4 8.Le3 Sfd7 9.Sd2 Sb6 10.Dd3 c6 11.f3 Le6 12.Td1 Sa6 13.a3 Dd7 14.Dc2 Sc7 15.Sb3 Lc4 16.Le2 Lxe2 17.Dxe2 Tad8 18.0-0 De6 19.Sc5 Dc8 20.Kh1 Sd7 21.Sb3 b6 22.Dc4 Db7 23.f4 e6 24.Tc1 Sf6 25.Lg1 Tc8 26.Tc2 Tfd8 27.De2 Sb5 28.e5 Sxc3 29.bxc3 Sd5 30.c4 Se7 31.Sd2 Sf5 32.Se4 Sxd4 33.Lxd4 Txd4 34.Sd6 Txd6 35.exd6 c5 36.Td2 Td8 37.Df3 Dxf3 38.Txf3 Ld4 39.g3 Txd6 40.Kg2 f5 41.a4 Kf7 42.Tb3 Kf6 43.Ta2 a5 44.Td2 Ke7 45.Kf3 Kd7 46.g4 h6 47.Tg2 Ke7 48.Td3 Kf7 49.h4 fxg4+ 50.Txg4 h5 51.Tg2 Td8 52.Tgd2 Ke8 53.Tg2 Kf7 54.Tgd2 Ke8 55.Ke2 Ke7 56.Td1 Tf8 57.Tf1 Lf6 58.Tb3 Lxh4 59.Txb6 Lg3 60.Tb7+ Kf6 61.Tb5 Kf5 62.Txc5+ Ke4 63.Te5+ Kd4 64.Td1+ Kxc4 65.Te4+ Kc5 66.Kf3 h4 67.Tb1 Kd6 68.Tb6+ Kd7 69.Kg4 Tf5 70.Td4+ Ke7 71.Tb7+ Kf6 72.Tb5 e5 73.Td6+ Kg7 74.Txa5 Txf4+ 75.Kh3 Kh6 76.Taa6 Kh5 77.Txg6 Txa4 78.Th6+ Kg5 79.Thg6+ Kh5 ½-½
+
+Botvinnik,Mikhail - Reshevsky,Samuel Herman [E51]
+World Championship 18th Den Haag/Moscow (4), 09.03.1948
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 d5 5.a3 Le7 6.Sf3 0-0 7.b4 Sbd7 8.Lb2 c6 9.Ld3 dxc4 10.Lxc4 Ld6 11.Se2 a5 12.b5 Sb6 13.Ld3 cxb5 14.Lxb5 Ld7 15.Db3 a4 16.Dd3 Ta5 17.Sc3 De8 18.Lxd7 Dxd7 19.0-0 Tc8 20.e4 Sc4 21.Lc1 e5 22.Td1 exd4 23.Dxd4 De6 24.Ta2 h6 25.h3 Ta6 26.Sd5 Sxe4 27.Te2 f5 28.g4 Lc5 29.gxf5 Dxf5 30.Dxe4 Dxh3 31.Sh2 Tcc6 32.Sf4 1-0
+
+Botvinnik,Mikhail - Euwe,Max [D46]
+World Championship 18th Den Haag/Moscow (2), 04.03.1948
+
+1.d4 d5 2.c4 e6 3.Sf3 Sf6 4.Sc3 c6 5.e3 Sbd7 6.Ld3 Lb4 7.a3 La5 8.Dc2 De7 9.Ld2 dxc4 10.Lxc4 e5 11.0-0 0-0 12.Tae1 Lc7 13.Se4 Sxe4 14.Dxe4 a5 15.La2 Sf6 16.Dh4 e4 17.Se5 Lxe5 18.dxe5 Dxe5 19.Lc3 De7 20.f3 Sd5 21.Dxe7 Sxe7 22.fxe4 b6 23.Td1 Sg6 24.Td6 La6 25.Tf2 Lb5 26.e5 Se7 27.e4 c5 28.e6 f6 29.Txb6 Lc6 30.Txc6 Sxc6 31.e7+ Tf7 32.Ld5 1-0
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [C84]
+Moscow training m Moscow, 01.11.1947
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Le7 6.d4 exd4 7.e5 Se4 8.Te1 Sc5 9.Lxc6 dxc6 10.Sxd4 Se6 11.Sf5 Dxd1 12.Txd1 Lf8 13.Sc3 c5 14.Sd5 Ld7 15.Le3 0-0-0 16.Td2 Te8 17.Tad1 Lc6 18.f4 h5 19.Sh4 Sd4 20.c4 g5 21.Sf3 Lxd5 22.cxd5 Sf5 23.Lf2 gxf4 24.d6 cxd6 25.exd6 Sxd6 26.Txd6 Lxd6 27.Txd6 Te2 28.Lxc5 Txb2 29.Ld4 Tb1+ 30.Kf2 Td8 31.Tf6 Td7 32.Txf4 Tb4 33.g4 hxg4 34.Txg4 Ta4 35.h4 Txa2+ 36.Kg3 Td5 37.Tf4 b5 38.Txf7 b4 39.Tf8+ Kd7 40.Tb8 Ta3 41.Tb7+ Ke6 ½-½
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [D41]
+Moscow training m Moscow, 11.1947
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.Sc3 c5 5.cxd5 Sxd5 6.e3 cxd4 7.exd4 Sc6 8.Lc4 Le7 9.0-0 0-0 10.Te1 Sxc3 11.bxc3 b6 12.Ld3 Lb7 13.Dc2 g6 14.Lh6 Te8 15.Dd2 Tc8 16.Tab1 Lf6 17.h4 Dd6 18.Lf4 Da3 19.h5 Sa5 20.Le5 De7 21.Lxf6 Dxf6 22.Se5 Ted8 23.Sg4 Dg7 24.hxg6 hxg6 25.Dg5 Kf8 26.Tb5 Sc6 27.Sf6 Se7 28.Te3 Sg8 29.Sxg8 Kxg8 30.De7 Lc6 31.Tbe5 Td7 32.Dh4 Dh8 33.Df4 Dg7 34.Tg3 Ld5 35.Teg5 Txc3 36.Lxg6 Txg3 37.Lxf7+ Kf8 38.Txg7 Txg7 39.Lxe6+ 1-0
+
+Botvinnik,Mikhail - Kholmov,Ratmir D [E47]
+Chigorin Memorial Moscow, 1947
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 0-0 5.Ld3 d6 6.Sge2 e5 7.0-0 Sc6 8.d5 Sb8 9.a3 Lxc3 10.Sxc3 a5 11.e4 Se8 12.Le3 f6 13.Dd2 Tf7 14.b4 Sd7 15.c5 b6 16.cxb6 Sxb6 17.bxa5 Txa5 18.Sb5 Ta8 19.Dc2 Sa4 20.Tfb1 g6 21.Sa7 c5 22.Sxc8 Dxc8 23.Lb5 Tfa7 24.Lc6 f5 25.f3 f4 26.Lf2 g5 27.Tb3 g4 28.fxg4 Dxg4 29.Lxa8 Txa8 30.Tab1 1-0
+
+Botvinnik,Mikhail - Kottnauer,Cenek [D13]
+Chigorin Memorial Moscow, 1947
+
+1.Sf3 d5 2.d4 Sf6 3.c4 c6 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 e6 7.e3 Ld6 8.Ld3 0-0 9.0-0 b6 10.Tc1 Lb7 11.a3 Tc8 12.De2 Lxf4 13.exf4 Sa5 14.Tc2 Sc4 15.Tfc1 a6 16.Sb1 b5 17.b3 Sd6 18.Txc8 Lxc8 19.Se5 Ld7 20.g4 g6 21.Kg2 Sfe8 22.De3 f6 23.Sf3 Sg7 24.h3 Db6 25.Tc5 Sb7 26.Tc2 Tc8 27.Txc8+ Lxc8 28.g5 Dc7 29.gxf6 Sh5 30.Se5 Sxf6 31.Dd2 Sd6 32.Dc2 Dxc2 33.Lxc2 Sf7 34.Sc3 Sxe5 35.fxe5 Se8 36.Kf3 Sc7 37.Ke3 Kf7 38.Se2 Ke7 39.Sf4 a5 40.Sd3 Sa6 41.b4 axb4 42.axb4 Sb8 43.Kd2 Sc6 44.Kc3 Sd8 45.h4 Sf7 46.Sf4 Ld7 47.Kd2 Le8 48.Ld3 Sh6 49.h5 Sf5 50.hxg6 hxg6 51.Kc3 Kf7 52.Le2 Ld7 53.Sd3 Ke7 54.Sc5 Le8 55.Sa6 Kd8 56.Lg4 Ld7 57.Sc5 Ke7 58.Kd3 Lc8 59.Lh3 Ke8 60.Kc3 1-0
+
+Botvinnik,Mikhail - Novotelnov,Nikolay Alexandrovi [D75]
+Chigorin Memorial Moscow, 1947
+
+1.d4 Sf6 2.c4 g6 3.Sf3 Lg7 4.g3 0-0 5.Lg2 d5 6.cxd5 Sxd5 7.0-0 c5 8.e4 Sb6 9.d5 e6 10.Lg5 f6 11.Le3 Sa6 12.Sc3 Sc4 13.Lc1 e5 14.Sb5 Ld7 15.a4 Db6 16.b3 Sa5 17.Te1 Sb4 18.Sa3 a6 19.Le3 Dd6 20.Sd2 b5 21.Lf1 f5 22.f3 f4 23.Lf2 fxg3 24.hxg3 Lh6 25.Le3 Lxe3+ 26.Txe3 Db6 27.Kf2 Sb7 28.Sc2 Sxc2 29.Dxc2 g5 30.Dc3 Df6 31.axb5 axb5 32.Txa8 Txa8 33.Te1 h5 34.Ta1 Te8 35.Ta7 Db6 36.Txb7 Dxb7 37.De3 g4 38.Dg5+ Kf8 39.Df6+ Kg8 40.Dg6+ Kf8 41.Df6+ Kg8 42.Dg6+ Kf8 43.Dxh5 Ta8 44.Dh8+ Kf7 45.Dh7+ Kf8 46.Dh8+ Kf7 47.Dh7+ Kf8 48.Lxb5 Dxb5 49.Dh8+ Kf7 50.Dxa8 Dd3 51.Da5 Lb5 52.Dc7+ Ke8 53.Dxe5+ Kd7 54.Df5+ Ke8 55.Dh5+ 1-0
+
+Botvinnik,Mikhail - Pachman,Ludek [A28]
+Chigorin Memorial Moscow, 1947
+
+1.c4 Sf6 2.Sc3 e5 3.Sf3 Sc6 4.e3 Lb4 5.d4 exd4 6.exd4 d5 7.Lg5 Lg4 8.a3 Le7 9.Le3 0-0 10.h3 Lxf3 11.gxf3 Te8 12.Le2 dxc4 13.Lxc4 Ld6 14.Dd3 De7 15.0-0-0 Sh5 16.Thg1 Df6 17.Tg5 Txe3 18.Txg7+ Sxg7 19.fxe3 Te8 20.Sd5 Dh6 21.Kb1 Sa5 22.e4 Sxc4 23.Dxc4 c6 24.Sc3 De6 25.d5 cxd5 26.Sxd5 f5 27.Te1 Kh8 28.Dd3 fxe4 29.Txe4 Dg6 30.Ka2 Txe4 31.fxe4 De6 32.Ka1 Le5 33.Db5 b6 34.Df1 Kg8 35.Df3 Se8 36.Db3 Sc7 37.Df3 Sxd5 38.exd5 Df6 39.Dg4+ Kf7 40.Dd7+ De7 41.Df5+ Kg7 42.Ka2 Kh6 43.b4 Dg5 44.De6+ Df6 45.Dd7 a6 0-1
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [E40]
+Chigorin Memorial Moscow, 1947
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 De7 5.Sge2 b6 6.a3 Lxc3+ 7.Sxc3 Lb7 8.d5 d6 9.Le2 Sbd7 10.0-0 0-0 11.e4 exd5 12.exd5 Tfe8 13.Le3 a6 14.Dc2 Se5 15.Tae1 Lc8 16.Ld4 Ld7 17.f4 Sg6 18.g4 Dd8 19.g5 Sg4 20.Dd2 h6 21.f5 S6e5 22.h3 Sf6 23.gxf6 Dxf6 24.Df4 Te7 25.Kh1 c5 26.Lg1 g6 27.fxg6 Dxf4 28.Txf4 fxg6 29.Tf6 Lf5 30.Txd6 Sxc4 31.Te6 Txe6 32.dxe6 Lxe6 33.Lf3 1-0
+
+Botvinnik,Mikhail - Trifunovic,Petar [D14]
+Chigorin Memorial Moscow, 1947
+
+1.d4 d5 2.Sf3 Sf6 3.c4 c6 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 Lf5 7.e3 e6 8.Db3 Lb4 9.Lb5 0-0 10.0-0 Lxc3 11.Lxc6 Lxb2 12.Lxb7 Lxa1 13.Txa1 ½-½
+
+Botvinnik,Mikhail - Tsvetkov,Alexandar K [E08]
+Chigorin Memorial Moscow, 1947
+
+1.c4 Sf6 2.d4 e6 3.g3 d5 4.Lg2 Le7 5.Sf3 0-0 6.0-0 dxc4 7.Dc2 Sbd7 8.Sbd2 Sb6 9.Sxc4 Sxc4 10.Dxc4 Tb8 11.Lf4 Sd5 12.Ld2 Ld7 13.Se5 Le8 14.Tac1 c6 15.Tfd1 f6 16.Sd3 Lf7 17.Dc2 Ld6 18.e4 Sc7 19.Le3 De8 20.a4 a6 21.Dc3 Lg6 22.Da5 Tf7 23.Sf4 Td7 24.Sxg6 Dxg6 25.Db6 Dh5 26.Db3 Tdd8 27.d5 exd5 28.La7 Tbc8 29.Dxb7 f5 30.exd5 1-0
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [D13]
+Moscow training m Moscow, 17.07.1946
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.cxd5 cxd5 5.Sc3 e6 6.Lf4 Db6 7.Dc2 Sc6 8.e3 Ld7 9.Le2 Le7 10.Sd2 Tc8 11.a3 0-0 12.0-0 Dd8 13.Tfc1 Se8 14.Lg3 Sd6 15.Sb3 Se4 16.Dd1 Sxg3 17.hxg3 Sa5 18.Sc5 Lxc5 19.dxc5 Df6 20.b4 Sc6 21.Sb5 Tfd8 22.Dd2 a6 23.Sd6 Tb8 24.a4 b6 25.Tab1 bxc5 26.bxc5 a5 27.Sb7 Tdc8 28.Tb6 d4 29.Lb5 dxe3 30.Dxe3 Se5 31.c6 Sg4 32.Dd2 Tc7 33.f3 Se5 34.Dd6 Dg5 35.f4 Dxg3 36.Dxe5 Tcc8 37.Tc3 Dg4 38.cxd7 Dd1+ 39.Kh2 Txc3 40.Dxb8+ 1-0
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [C84]
+Moscow training m Moscow, 13.07.1946
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Le7 6.d4 exd4 7.e5 Se4 8.Sxd4 0-0 9.Te1 Sxd4 10.Txe4 Se6 11.Sc3 Sc5 12.Td4 f6 13.Lxd7 Lxd7 14.e6 Sxe6 15.Txd7 De8 16.Td3 Ld6 17.Le3 Dc6 18.Dd2 f5 19.f3 Tae8 20.Sd5 Dc4 21.Lf2 Le5 22.c3 Sc5 23.Te3 c6 24.Tae1 Sd7 25.Sb6 Sxb6 26.Txe5 Txe5 27.Txe5 Sd5 28.b3 Dxc3 29.Txd5 Da1+ 30.Dd1 Dxa2 31.Td7 b5 32.Lc5 Te8 33.Td8 1-0
+
+Botvinnik,Mikhail - Alexander,Conel Hughes [E49]
+ENG-URS radio Soviet Union (1), 1946
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 d5 5.a3 Lxc3+ 6.bxc3 c5 7.cxd5 exd5 8.Ld3 0-0 9.Se2 b6 10.a4 La6 11.Lxa6 Sxa6 12.La3 Te8 13.Dd3 c4 14.Dc2 Dd7 15.0-0 Sb8 16.Tae1 Sc6 17.Sg3 Sa5 18.f3 Sb3 19.e4 Dxa4 20.Db2 a5 21.e5 b5 22.Ld6 Te6 23.exf6 Txd6 24.fxg7 b4 25.Te5 Te8 26.f4 Dd7 27.De2 Tde6 28.f5 Txe5 29.dxe5 bxc3 30.f6 Da7+ 31.Kh1 Sd4 32.De3 Ta8 33.Dxc3 a4 34.Dxd4 Dxd4 35.Sf5 h5 36.Sxd4 Te8 37.Sf5 d4 38.e6 1-0
+
+Botvinnik,Mikhail - Denker,Arnold Sheldon [C83]
+Staunton Memorial Groningen (6), 1946
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Sxe4 6.d4 b5 7.Lb3 d5 8.dxe5 Le6 9.c3 Le7 10.Sbd2 0-0 11.De2 Sc5 12.Sd4 Sxd4 13.cxd4 Sxb3 14.Sxb3 Tc8 15.Le3 c5 16.dxc5 d4 17.Sxd4 Lc4 18.Dg4 h5 19.Dg3 Lxf1 20.Txf1 Lxc5 21.Lh6 g6 22.Lxf8 Lxd4 23.Ld6 Dd7 24.b3 Df5 25.Df3 Tc2 26.Dxf5 gxf5 27.a3 Tc3 28.Tb1 Tc2 29.Tf1 Tc3 30.g3 Txb3 31.Td1 Lb6 32.Td2 f4 33.gxf4 h4 34.h3 Txh3 35.Kg2 Tc3 36.Le7 h3+ 37.Kh2 Tf3 38.Lh4 Txf4 39.Kxh3 Ta4 40.Td6 Lc7 41.Td5 Txa3+ 42.Kg4 b4 43.Ld8 Tc3 44.Lxc7 Txc7 45.Td8+ Kg7 46.Tb8 a5 47.f4 ½-½
+
+Botvinnik,Mikhail - Euwe,Max [D27]
+Staunton Memorial Groningen (9), 1946
+
+1.d4 d5 2.Sf3 Sf6 3.c4 dxc4 4.e3 e6 5.Lxc4 c5 6.0-0 a6 7.a4 Sc6 8.De2 Le7 9.Td1 Dc7 10.Sc3 0-0 11.b3 Ld7 12.Lb2 Tac8 13.d5 exd5 14.Sxd5 Sxd5 15.Lxd5 Lg4 16.Dc4 Lh5 17.Lxc6 Dxc6 18.Se5 De8 19.Td5 Td8 20.Sd7 Txd7 21.Txh5 Dd8 22.Tf1 g6 23.Th3 Td1 24.g4 Txf1+ 25.Kxf1 b5 26.axb5 axb5 27.Df4 f6 28.e4 Dd1+ 29.Kg2 Ld6 30.Df3 Dxf3+ 31.Txf3 Le5 32.Lxe5 fxe5 33.Tc3 Tc8 34.Kf3 Kf7 35.Ke3 Ke6 36.f4 exf4+ 37.Kxf4 c4 38.bxc4 bxc4 39.h4 h6 40.g5 h5 41.Ke3 Ke5 42.Tc2 c3 43.Kd3 Td8+ 44.Ke3 Td4 45.Txc3 Txe4+ 46.Kf3 Txh4 47.Tc6 Tf4+ 48.Ke3 Te4+ 49.Kf3 Kf5 50.Tf6+ Kxg5 51.Txg6+ ½-½
+
+Botvinnik,Mikhail - Flohr,Salo [D42]
+Staunton Memorial Groningen (12), 1946
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.Sc3 c5 5.cxd5 Sxd5 6.e3 Sc6 7.Ld3 cxd4 8.exd4 Le7 9.0-0 0-0 10.Te1 Scb4 11.Le4 Sf6 12.Lb1 b6 13.Se5 Lb7 14.Te3 Sbd5 15.Th3 g6 16.Lh6 Te8 17.Dd2 Tc8 18.Ld3 a6 19.Te1 b5 20.Tg3 Sh5 21.Th3 Shf6 22.Lb1 Tc7 23.Tg3 Sh5 24.Th3 Shf6 25.De2 Sxc3 26.bxc3 b4 27.Tg3 Txc3 28.Sxf7 Dd5 29.Se5 Txg3 30.fxg3 Dxd4+ 31.Kh1 Ld6 32.Lf4 Sh5 33.Td1 Sxf4 34.gxf4 Dxf4 35.Txd6 Ld5 36.Lc2 Tf8 37.h3 Df1+ 38.Dxf1 Txf1+ 39.Kh2 Tf2 40.Txd5 exd5 41.Lb3 Kg7 ½-½
+
+Botvinnik,Mikhail - Guimard,Carlos Enrique [C10]
+Staunton Memorial Groningen (18), 1946
+
+1.e4 e6 2.d4 d5 3.Sd2 dxe4 4.Sxe4 Sd7 5.g3 Sgf6 6.Sxf6+ Sxf6 7.Lg2 c5 8.Se2 Db6 9.0-0 Ld7 10.c4 cxd4 11.Sxd4 Td8 12.Le3 Lc5 13.b4 Dxb4 14.Tb1 Dc3 15.Txb7 0-0 16.De2 Tc8 17.Sb5 De5 18.Sxa7 Lxa7 19.Txa7 Lc6 20.f3 Tfd8 21.Ta3 h5 22.Td3 h4 23.Txd8+ Txd8 24.gxh4 Tb8 25.Dd3 Tb2 26.Tf2 Txf2 27.Lxf2 Da1+ 28.Lf1 Sh5 29.Dd6 La4 30.a3 Ld1 31.Dd4 Dc1 32.Dd8+ Kh7 33.Dd3+ f5 34.Le3 Da1 35.Ld4 Dc1 36.Le3 Da1 37.Ld4 Dc1 38.De3 Db1 39.Kf2 La4 40.Dd2 Lc6 41.De3 Dd1 42.Le2 Dc2 43.Le5 Le8 44.Dc3 Db1 45.Db2 Dh1 46.Da1 Dxa1 47.Lxa1 Sf4 48.Lf1 Sg6 49.Kg3 Se7 50.Kf4 Sg6+ 51.Kg5 Sf8 52.h5 Lc6 53.f4 Kg8 54.Le2 Sh7+ 55.Kh4 Kf7 56.Kg3 Sf6 57.Kf2 1-0
+
+Botvinnik,Mikhail - Kotov,Alexander [E24]
+Staunton Memorial Groningen (14), 1946
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.a3 Lxc3+ 5.bxc3 d5 6.cxd5 exd5 7.Lg5 c5 8.f3 h6 9.Lxf6 Dxf6 10.e3 0-0 11.Se2 Te8 12.Kf2 De7 13.Dd2 Sd7 14.Sf4 Sf6 15.Ld3 Ld7 16.h3 Dd6 17.Thb1 b6 18.Lf1 Te7 19.a4 Tae8 20.Te1 c4 21.g4 g5 22.Se2 Txe3 23.Sg3 Dxg3+ 24.Kxg3 Se4+ 0-1
+
+Botvinnik,Mikhail - Kottnauer,Cenek [D35]
+Staunton Memorial Groningen (16), 1946
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.cxd5 exd5 5.Sc3 Ld6 6.Lg5 c6 7.Dc2 0-0 8.e3 Te8 9.Ld3 h6 10.Lh4 Le6 11.Se5 c5 12.0-0 cxd4 13.exd4 Sc6 14.Sxc6 bxc6 15.Lg3 Lxg3 16.hxg3 Sg4 17.Dd2 Tb8 18.b3 Df6 19.Df4 Dxf4 20.gxf4 Tb4 21.Tfd1 Kf8 22.Lf1 Sf6 23.Tac1 Ld7 24.f3 Sh5 25.Se2 a5 26.g4 Sf6 27.Sc3 h5 28.g5 Sg8 29.Sa4 Se7 30.Sc5 Lc8 31.a3 Tb8 32.Ld3 Sf5 33.Lxf5 Lxf5 34.Kf2 h4 35.Th1 h3 36.Tce1 f6 37.g6 Txe1 38.Txe1 Tc8 39.Kg3 Lxg6 40.Kxh3 Lf5+ 41.Kg3 Tb8 42.Te2 Kf7 43.Kf2 Lc8 44.Ke1 Ta8 45.Kd2 Ta7 46.Te1 Te7 47.Tb1 Ta7 48.a4 Ke7 49.Th1 Kd6 50.Th8 Lf5 51.Te8 Kc7 52.Kc3 Kb6 53.b4 axb4+ 54.Kxb4 Tf7 55.Ta8 1-0
+
+Botvinnik,Mikhail - O'Kelly de Galway,Alberic [E44]
+Staunton Memorial Groningen (8), 1946
+
+1.c4 Sf6 2.d4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 Lb7 6.a3 Le7 7.d5 0-0 8.Sg3 b5 9.dxe6 fxe6 10.Sxb5 c5 11.Sd6 Lc6 12.e4 Dc7 13.Sb5 Db7 14.e5 Se4 15.Le3 a6 16.Sc3 Sxc3 17.bxc3 Lxg2 18.Tb1 Dc6 19.Tg1 Lxf1 20.Kxf1 Tf7 21.Dh5 Da4 22.Dg4 Sc6 23.De4 Taf8 24.Sh5 Kh8 25.Tg4 Sa5 26.Kg2 Dc6 27.Sg3 Sxc4 28.Dxc6 Sxe3+ 29.fxe3 dxc6 30.Se4 g6 31.Tb7 Kg7 32.Tf4 g5 33.Txf7+ Txf7 34.Tc7 a5 35.Sd6 Lxd6 36.exd6 1-0
+
+Botvinnik,Mikhail - Reshevsky,Samuel Herman [E49]
+URS-USA Moscow (1), 1946
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.a3 Lxc3+ 7.bxc3 d5 8.Se2 dxc4 9.Lxc4 Sc6 10.a4 Dc7 11.La3 b6 12.Dc2 Td8 13.Tc1 Sa5 14.La2 cxd4 15.cxd4 Dxc2 16.Txc2 Ld7 17.Sc3 Tdc8 18.Kd2 Sc4+ 19.Lxc4 Txc4 20.Thc1 Tac8 21.Kd3 e5 22.f3 Lf5+ 23.e4 Txd4+ 24.Ke3 Le6 25.Sb5 Txc2 26.Txc2 Txa4 27.Ld6 Ta5 28.Sc7 h6 29.Sxe6 fxe6 30.Tc8+ Kh7 31.g4 Tb5 32.h4 a5 33.Ta8 Tb3+ 34.Ke2 Tb2+ 35.Ke3 Ta2 36.Lxe5 Sd7 37.Lxg7 Kxg7 38.Ta7 Ta3+ 39.Ke2 Ta2+ 40.Ke3 Ta3+ 41.Ke2 a4 42.Txd7+ Kf8 43.Td3 Ta1 44.Td1 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D98]
+Staunton Memorial Groningen (3), 1946
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Db3 dxc4 6.Dxc4 0-0 7.e4 Lg4 8.Le3 Sc6 9.d5 Lxf3 10.gxf3 Se5 11.De2 c6 12.f4 Sed7 13.Lg2 Sb6 14.Td1 Dc7 15.0-0 Tfd8 16.Tc1 Dd7 17.Tfd1 Dg4 18.Dxg4 Sxg4 19.Lxb6 axb6 20.dxc6 bxc6 21.e5 Sh6 22.Lxc6 Txd1+ 23.Txd1 Tc8 24.Sd5 Lf8 25.Tc1 Sf5 26.Tc4 e6 27.Sxb6 Tb8 28.Sa4 Td8 29.Le4 Sh4 30.Kf1 Lh6 31.Lb7 Sf5 32.Ke2 Sd4+ 33.Ke3 Sf5+ 34.Kf3 Sd4+ 35.Ke4 Se2 36.Tc8 Txc8 37.Lxc8 Sxf4 38.b4 Sh3 39.b5 Sxf2+ 40.Kd4 Lf4 41.h3 f6 42.Lxe6+ Kg7 43.exf6+ Kxf6 44.Sc5 Ke7 45.Kd5 g5 46.a4 Sd1 47.a5 Sc3+ 48.Kc6 Sxb5 49.Kxb5 Lb8 50.Kb6 1-0
+
+Botvinnik,Mikhail - Szabo,Laszlo [D41]
+Staunton Memorial Groningen (1), 1946
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.Sc3 c5 5.cxd5 Sxd5 6.e3 Sc6 7.Lc4 Sxc3 8.bxc3 cxd4 9.exd4 Le7 10.0-0 0-0 11.Ld3 b6 12.Dc2 g6 13.Lh6 Te8 14.Lb5 Lb7 15.c4 a6 16.Lxc6 Lxc6 17.Se5 Tc8 18.Db2 La8 19.Tac1 b5 20.c5 Dd5 21.f3 f6 22.Sg4 Ted8 23.Tfd1 g5 24.Se3 Dc6 25.h4 De8 26.hxg5 fxg5 27.Sg4 Dg6 28.Te1 Lf6 29.Tcd1 Td5 30.Txe6 Lxd4+ 31.Dxd4 1-0
+
+Botvinnik,Mikhail - Vidmar,Milan Sr [E01]
+Staunton Memorial Groningen (5), 1946
+
+1.d4 d5 2.Sf3 Sf6 3.c4 e6 4.g3 dxc4 5.Da4+ Dd7 6.Dxc4 Dc6 7.Sbd2 Dxc4 8.Sxc4 Lb4+ 9.Ld2 Lxd2+ 10.Sfxd2 Sc6 11.e3 Sb4 12.Ke2 Ld7 13.Lg2 Lc6 14.f3 Sd7 15.a3 Sd5 16.e4 S5b6 17.Sa5 Lb5+ 18.Ke3 0-0-0 19.Thc1 Sb8 20.b3 Ld7 21.Lf1 Sc6 22.Sxc6 Lxc6 23.a4 Le8 24.a5 Sa8 25.a6 b6 26.b4 Kb8 27.Tc3 c6 28.Tac1 f6 29.Sb1 Ld7 30.Sa3 Sc7 31.b5 Sxb5 32.Lxb5 cxb5 33.Tc7 Tc8 34.Tb7+ Ka8 35.Txd7 Txc1 36.Sxb5 Thc8 37.Txg7 h6 38.Txa7+ Kb8 39.Tb7+ Ka8 40.Ta7+ Kb8 41.Tb7+ Ka8 42.g4 e5 43.d5 T1c5 44.Ta7+ Kb8 45.Tb7+ Ka8 46.Txb6 Tb8 47.Txb8+ Kxb8 48.a7+ Kb7 49.Sd6+ Kxa7 50.Se8 Kb6 51.Sxf6 Tc3+ 52.Kf2 Tc7 53.h4 Tf7 54.Sh5 Kc7 55.g5 hxg5 56.hxg5 Th7 57.Sf6 Th2+ 58.Kg3 Th1 59.Kg2 Th8 60.g6 1-0
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [D14]
+Moscow training m Moscow, 05.1945
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 Lf5 7.e3 Db6 8.Lb5 Lg4 9.Db3 Lxf3 10.gxf3 e6 11.Tc1 Tc8 12.Sa4 Da5+ 13.Ke2 Lb4 14.Ld3 0-0 15.a3 Le7 16.Dxb7 Dxa4 17.Lb5 Sxd4+ 18.exd4 Dxd4 19.Txc8 Dxf4 20.Thc1 Ld8 21.Db8 Sh5 22.Dxf4 Sxf4+ 23.Kf1 Lb6 24.b4 d4 25.a4 Sd5 26.Txf8+ Kxf8 27.Tc8+ Ke7 28.a5 Lc7 29.Lc6 Sxb4 30.Txc7+ Kd6 31.Td7+ Kxc6 32.Txa7 Kb5 33.Txf7 Kxa5 34.Txg7 Sd5 35.Ke2 Sf4+ 36.Kd2 Kb4 37.Txh7 Kc4 38.h4 Kd5 39.h5 Ke5 40.Th8 1-0
+
+Botvinnik,Mikhail - Alatortsev,Vladimir [D13]
+URS-ch14 Moscow, 1945
+
+1.d4 Sf6 2.Sf3 d5 3.c4 c6 4.cxd5 cxd5 5.Sc3 e6 6.Lf4 Ld6 7.e3 0-0 8.Ld3 a6 9.0-0 b5 10.Se5 Lb7 11.Tc1 h6 12.Lb1 De7 13.Dd3 Tc8 14.Se2 Sbd7 15.Sxd7 Dxd7 16.Le5 Le7 17.f3 Txc1 18.Sxc1 Kf8 19.Dd2 Dd8 20.Sd3 Sd7 21.Lg3 Tc8 22.Tc1 Txc1+ 23.Dxc1 Dc8 24.Dd2 Ke8 25.Kf2 Dc4 26.b4 Dc8 27.Sc5 Sxc5 28.bxc5 Lc6 29.Le5 f6 30.Lg3 Dd8 31.Ke1 a5 32.Dd3 f5 33.Kd1 Kf7 34.Le5 Lf6 35.Lf4 Lg5 36.g3 Lxf4 37.exf4 g6 38.Kd2 Db8 39.Kc1 Kf8 40.De3 Dc7 41.g4 Kf7 42.h4 h5 43.a3 Db8 44.Lc2 Le8 45.g5 Ke7 46.Ld3 Lc6 47.a4 b4 48.Lb5 Lxb5 49.axb5 Dxb5 50.De5 Dc4+ 51.Kd2 Dc3+ 52.Ke2 Dc2+ 53.Ke3 Dc3+ 54.Kf2 Dc2+ 55.Kg3 Dc1 56.Dd6+ Ke8 57.Dxe6+ Kd8 58.Dxd5+ Kc7 59.Dd6+ Kc8 60.Dc6+ Kb8 61.De8+ Kc7 62.Df7+ Kc8 ½-½
+
+Botvinnik,Mikhail - Boleslavsky,Isaak [C79]
+URS-ch14 Moscow, 1945
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 d6 6.c3 Ld7 7.d4 g6 8.Sbd2 De7 9.Te1 Lg7 10.Sf1 0-0 11.Lg5 h6 12.Lh4 De8 13.Lc2 Sh5 14.Se3 Se7 15.dxe5 dxe5 16.Lg3 Sxg3 17.hxg3 Td8 18.De2 Sc8 19.Tad1 c6 20.Td2 De7 21.Ted1 Sb6 22.b4 Le6 23.Lb3 Txd2 24.Dxd2 Lxb3 25.axb3 De6 26.c4 Lf6 27.c5 Sc8 28.Dd7 Dxb3 29.Dxb7 Lg5 30.Sxg5 hxg5 31.Dxa6 Se7 32.Db7 Te8 33.Dd7 Kf8 34.Dd6 Dxb4 35.Sg4 Ta8 36.Dxe5 Db3 37.Td7 Sg8 38.Dd6+ Kg7 39.Dd4+ Kh7 40.Sf6+ Sxf6 41.Dxf6 Kg8 42.Kh2 Tf8 43.Dxc6 Kg7 44.Dd5 Db1 45.Dd4+ Kh7 46.c6 1-0
+
+Botvinnik,Mikhail - Bondarevsky,Igor [E68]
+URS-ch14 Moscow, 1945
+
+1.d4 Sf6 2.c4 d6 3.Sc3 e5 4.Sf3 Sbd7 5.g3 g6 6.Lg2 Lg7 7.0-0 0-0 8.e4 c6 9.b3 exd4 10.Sxd4 Te8 11.Lb2 Sc5 12.Dc2 Sg4 13.Tad1 Dg5 14.h3 Sh6 15.b4 Se6 16.Sf3 De7 17.Tfe1 f6 18.Kh2 Sf7 19.Sh4 Sf8 20.f4 a5 21.b5 Le6 22.bxc6 bxc6 23.Sf5 Db7 24.Sxg7 Kxg7 25.c5 dxc5 26.Sa4 Db4 27.Sxc5 Lc4 28.Df2 Tab8 29.La1 Ted8 30.e5 Txd1 31.Txd1 Tb5 32.Sd7 Da4 33.exf6+ Kg8 34.Td2 Tb1 35.Sxf8 Txa1 36.Sd7 Db4 37.Tb2 Txa2 38.De3 Sd6 39.De7 Lf7 40.Df8# 1-0
+
+Botvinnik,Mikhail - Bronstein,David I [E68]
+URS-ch14 Moscow, 1945
+
+1.Sf3 Sf6 2.d4 d6 3.c4 Sbd7 4.g3 g6 5.Lg2 Lg7 6.Sc3 e5 7.0-0 0-0 8.e4 c6 9.d5 cxd5 10.cxd5 Sc5 11.Dc2 a5 12.Sd2 b6 13.Sb3 La6 14.Td1 Scd7 15.a4 Tc8 16.Lh3 Tc7 17.Le3 h5 18.Lg5 De8 19.f3 Sh7 20.Le3 De7 21.Lf1 Lxf1 22.Txf1 f5 23.De2 f4 24.Sb5 Tcc8 25.gxf4 exf4 26.Ld4 Shf6 27.Sa7 Tce8 28.Dg2 Kh7 29.Tac1 Sc5 30.Sc6 Dd7 31.Sxc5 bxc5 32.Lc3 Lh6 33.Tcd1 Df7 34.Tfe1 Lg7 35.Lxa5 Sd7 36.Lc3 g5 37.Lxg7 Dxg7 38.Kh1 Se5 39.Tg1 Kh6 40.Sxe5 Dxe5 41.Dh3 Tf6 42.Tg2 Tg8 43.Tdg1 Dd4 44.Te1 Tfg6 45.Df5 Dd3 46.Tf2 Dd4 47.Tg2 Tf6 48.Td2 Txf5 49.Txd4 Te5 50.Td3 Tb8 51.b3 g4 52.Kg2 Kg5 53.a5 Ta8 54.Ta1 Te7 55.Ta3 Tea7 56.e5 dxe5 57.d6 Kf5 58.Td5 Td8 59.Ta2 Ke6 60.Txc5 Txd6 61.Tac2 Td5 62.Txd5 Kxd5 63.b4 Ta8 64.Kf2 Tb8 ½-½
+
+Botvinnik,Mikhail - Denker,Arnold Sheldon [D13]
+USA-URS radio m Soviet Union (2), 1945
+
+1.d4 d5 2.Sf3 Sf6 3.c4 c6 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 Da5 7.e3 Se4 8.Db3 e6 9.Ld3 Lb4 10.Tc1 Sxc3 11.bxc3 La3 12.Tb1 b6 13.e4 dxe4 14.Lb5 Ld7 15.Sd2 a6 16.Lxc6 Lxc6 17.Sc4 Df5 18.Ld6 e3 19.Sxe3 Dxb1+ 20.Dxb1 Lxd6 21.Dxb6 Kd7 22.Db3 Tab8 23.Dc2 Tb5 24.0-0 Th5 25.h3 Tb8 26.c4 g6 27.Sg4 Tf5 28.Se5+ Lxe5 29.dxe5 Txe5 30.Dd2+ 1-0
+
+Botvinnik,Mikhail - Flohr,Salo [D22]
+URS-ch14+ Moscow, 1945
+
+1.d4 d5 2.c4 dxc4 3.Sf3 a6 4.e3 Lg4 5.Lxc4 e6 6.Db3 Lxf3 7.gxf3 Ta7 8.Ld2 Sf6 9.Sc3 Sbd7 10.Le2 c5 11.d5 e5 12.a4 Ld6 13.0-0 De7 14.Kh1 e4 15.Tg1 exf3 16.Lxf3 Se5 17.Le2 0-0 18.f4 Sg6 19.Ld3 Taa8 20.Dc2 Dc7 21.b3 Tfe8 22.Taf1 Tad8 23.Dd1 Lxf4 24.exf4 Sxd5 25.Sxd5 Txd5 26.Tg3 Ted8 27.De2 Dd7 28.Tff3 Td4 29.Lc3 Te8 30.Df1 Sh4 31.Lxd4 cxd4 32.Tf2 Te3 33.Kg1 De7 34.Te2 Dc5 35.Tc2 Df8 36.Txe3 dxe3 37.Dh3 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [D53]
+URS-ch14 Moscow, 1945
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.Lg5 Le7 5.Sf3 Sbd7 6.e3 h6 7.Lf4 0-0 8.c5 c6 9.Ld3 b6 10.b4 a5 11.a3 axb4 12.axb4 Txa1 13.Dxa1 Sh5 14.Da7 Sxf4 15.exf4 bxc5 16.bxc5 f6 17.0-0 e5 18.Lf5 exd4 19.Sa4 Sb6 20.Lxc8 Sxc8 21.Db7 d3 22.Dxc6 Sa7 23.Da6 Dc7 24.Dxd3 Dc6 25.Dc2 Sb5 26.Db3 Kh8 27.Tb1 Ta8 28.g3 Ta5 29.Db4 Da6 30.Sb6 Sa3 31.Tc1 Tb5 32.De1 Lxc5 33.De8+ Kh7 34.Sxd5 Dd6 35.De4+ Kh8 36.Td1 Tb2 37.Se3 Df8 38.Sh4 Kg8 39.De6+ Kh7 40.Df5+ Kg8 41.Sg6 1-0
+
+Botvinnik,Mikhail - Koblencs,Aleksandrs [D46]
+URS-ch14 Moscow, 1945
+
+1.d4 d5 2.c4 e6 3.Sf3 Sf6 4.Sc3 c6 5.e3 Sbd7 6.Ld3 Le7 7.0-0 0-0 8.b3 b6 9.Lb2 Lb7 10.De2 Tc8 11.Tac1 Ld6 12.e4 dxc4 13.bxc4 e5 14.dxe5 Lxe5 15.Tcd1 De7 16.Sh4 Db4 17.Dc2 Sc5 18.a3 Da5 19.Sf5 Tcd8 20.f4 Sxd3 21.Txd3 Dc5+ 22.Kh1 Dxc4 23.fxe5 Txd3 24.exf6 Td7 25.Dc1 Tfd8 26.Tg1 1-0
+
+Botvinnik,Mikhail - Kotov,Alexander [A13]
+URS-ch14 Moscow, 1945
+
+1.Sf3 d5 2.c4 e6 3.b3 Sf6 4.Lb2 c5 5.e3 Sc6 6.d4 cxd4 7.exd4 Lb4+ 8.Sbd2 dxc4 9.Lxc4 a6 10.0-0 b5 11.Ld3 Le7 12.a3 Dd5 13.Te1 Lb7 14.b4 0-0 15.Se4 Tfd8 16.Tc1 Tac8 17.Sc5 Lxc5 18.Txc5 Dd6 19.d5 exd5 20.Lf5 Ta8 21.Sd4 Te8 22.Sxc6 Lxc6 23.Te3 Txe3 24.fxe3 Te8 25.Dc2 Ld7 26.Lxf6 Lxf5 27.Dxf5 Dxf6 28.Dxf6 gxf6 29.Kf2 Te5 30.Tc8+ Kg7 31.Td8 Kg6 32.Td6 Te6 33.Txd5 Tc6 34.Td3 Kf5 35.Kf3 Ke6 36.g4 Tc4 37.Td8 Tc3 38.Te8+ Kd6 39.Th8 Txa3 40.Txh7 Ke6 41.Th8 Ke7 42.h4 Ta4 43.Ta8 Txb4 44.Txa6 f5 45.gxf5 Txh4 46.e4 b4 47.Tb6 b3 48.Ke3 Th3+ 49.Kd4 f6 50.Te6+ Kf7 51.Tc6 Ke7 52.Tb6 Tg3 ½-½
+
+Botvinnik,Mikhail - Smyslov,Vassily [D13]
+URS-ch14 Moscow, 1945
+
+1.d4 d5 2.Sf3 Sf6 3.c4 c6 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 e6 7.e3 Le7 8.Ld3 0-0 9.h3 Ld7 10.0-0 a6 11.Tc1 Le8 12.Lb1 Sh5 13.Lh2 f5 14.Sa4 Ld6 15.Sc5 Lxh2+ 16.Sxh2 De7 17.Db3 Tf7 18.g4 fxg4 19.hxg4 Sf6 20.f4 b6 21.Dxb6 Tb8 22.Dxa6 e5 23.dxe5 Sxe5 24.fxe5 Dxe5 25.De6 Dg3+ 26.Kh1 Txb2 27.Tc2 Tb8 28.Tg2 Dh4 29.g5 Sh5 30.g6 hxg6 31.Lxg6 1-0
+
+Botvinnik,Mikhail - Alatortsev,Vladimir [D18]
+URS-ch13 Moscow (15), 12.06.1944
+
+1.d4 d5 2.Sf3 Sf6 3.c4 c6 4.Sc3 dxc4 5.a4 Lf5 6.e3 e6 7.Lxc4 Lb4 8.0-0 Sbd7 9.De2 Lg6 10.Se5 Sxe5 11.dxe5 Sd7 12.f4 Sb6 13.Td1 Dh4 14.Lb3 Lh5 15.De1 Dxe1+ 16.Txe1 Sd5 17.Lxd5 cxd5 18.Ld2 0-0 19.Se4 Le7 20.Sd6 Lxd6 21.exd6 Tfd8 22.Lb4 Tac8 23.Tac1 f6 24.a5 Le8 25.Kf2 Lb5 26.Lc5 a6 27.Ted1 Kf7 28.g4 La4 29.Td4 Lb5 30.Tc3 Lc6 31.Td1 La4 32.Td2 Lb5 33.Kg3 Lc6 34.e4 dxe4 35.Lb6 Td7 36.h4 h5 37.g5 Te8 38.Lc7 Kg6 39.Tf2 Kf5 40.Tc5+ Ld5 41.Tf1 Tf8 42.Tc3 Tff7 43.Tf2 e5 44.fxe5+ Kxe5 45.g6 Tf8 46.Td2 e3 47.Txe3+ Le4 48.Lb6 f5 49.Ld4+ Ke6 50.Kf4 Txd6 51.Lxg7 Txd2 52.Lxf8 Kf6 53.Tg3 Ld5 54.Lc5 Td1 55.Tg5 Tf1+ 56.Ke3 Tf3+ 57.Kd4 Lg8 58.Ld6 Ke6 59.Lb8 Tb3 60.Txh5 Tb4+ 61.Ke3 Tg4 62.Th8 Txg6 63.h5 Tg4 64.Lf4 Lf7 65.Th6+ Kd5 66.Td6+ Kc5 67.h6 Th4 68.Td7 Th3+ 69.Kd2 Ld5 70.h7 Lc6 71.Te7 Le4 72.Le5 1-0
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [C48]
+URS-ch13 Moscow (13), 08.06.1944
+
+1.e4 e5 2.Sf3 Sc6 3.Sc3 Sf6 4.Lb5 Sd4 5.Sxd4 exd4 6.e5 dxc3 7.exf6 Dxf6 8.dxc3 c6 9.Ld3 d5 10.0-0 Lc5 11.Dh5 h6 12.Le3 Lb6 13.Tae1 0-0 14.Lxb6 axb6 15.a3 Le6 16.De5 Dxe5 17.Txe5 Tfe8 18.Tfe1 Kf8 19.f4 Ld7 ½-½
+
+Botvinnik,Mikhail - Makogonov,Vladimir Andreevich [C48]
+URS-ch13 Moscow (11), 06.06.1944
+
+1.e4 e5 2.Sf3 Sc6 3.Sc3 Sf6 4.Lb5 Sd4 5.La4 Lc5 6.d3 0-0 7.0-0 c6 8.h3 d6 9.Sxd4 Lxd4 10.Se2 Lb6 11.Sg3 Sd7 12.c3 Sc5 13.Lc2 d5 14.Df3 Lc7 15.Le3 d4 16.cxd4 exd4 17.Ld2 a5 18.Dh5 b6 19.f4 f5 20.b4 g6 21.Dh6 axb4 22.Lxb4 Df6 23.Lxc5 bxc5 24.Lb3+ Kh8 25.Tae1 La6 26.exf5 gxf5 27.Dxf6+ Txf6 28.Tf3 c4 29.Lxc4 Lxc4 30.dxc4 Tff8 31.c5 Tad8 32.Td1 Td5 33.Se2 Txc5 34.Kf1 Te8 35.Tfd3 Tc2 36.Sxd4 Txa2 37.Sxf5 Lxf4 38.Td8 Ta8 39.T8d7 c5 40.g3 Le5 41.Te1 ½-½
+
+Botvinnik,Mikhail - Boleslavsky,Isaak [C04]
+URS-ch13 Moscow (9), 02.06.1944
+
+1.e4 e6 2.d4 d5 3.Sd2 Sc6 4.Sgf3 Sf6 5.e5 Sd7 6.Sb3 f6 7.Lb5 Le7 8.Lf4 0-0 9.exf6 gxf6 10.0-0 Sb6 11.Te1 Ld6 12.Lg3 a6 13.Ld3 Sa4 14.Tb1 b5 15.c3 Ld7 16.Sh4 Tf7 17.Te3 Tg7 18.De2 Df8 19.Lxd6 Dxd6 20.Tg3 Txg3 21.hxg3 De7 22.Te1 Dg7 23.Dc2 Sd8 24.Sc1 Tc8 25.b3 Sb6 26.b4 Ta8 27.Sb3 Sb7 28.Sc5 Sxc5 29.bxc5 Sa4 30.c6 Lc8 31.c4 bxc4 32.Lxc4 Sb6 33.Ld3 Tb8 34.Dc5 Df8 35.Lxh7+ Kg7 36.Sf5+ exf5 37.Te7+ Kh8 38.Lg6 Le6 39.Txe6 Dxc5 40.dxc5 Sa4 41.Lxf5 Sc3 42.Te7 Sb5 43.Ld3 Tc8 44.a4 Sd4 45.Lxa6 Sxc6 46.Te6 1-0
+
+Botvinnik,Mikhail - Flohr,Salo [A09]
+URS-ch13 Moscow (7), 30.05.1944
+
+1.Sf3 d5 2.c4 d4 3.e3 Sc6 4.exd4 Sxd4 5.Sxd4 Dxd4 6.Sc3 c6 7.d3 e5 8.Le3 Dd8 9.Le2 Sf6 10.0-0 Le7 11.Kh1 0-0 12.f4 exf4 13.Txf4 Le6 14.d4 Dd7 15.Ld3 Lg4 16.Dd2 Lh5 17.Lf5 Dc7 18.Taf1 Lg6 19.Th4 Tfe8 20.Lf4 Dd8 21.Lxg6 fxg6 22.Th3 Dd7 23.a3 Tad8 24.Td3 De6 25.d5 cxd5 26.cxd5 Da6 27.Td1 Ld6 28.h3 h6 29.Lxd6 Dxd6 30.Te3 Txe3 31.Dxe3 a6 32.Dd3 Sh5 33.Te1 Sg3+ 34.Kg1 Tf8 35.De3 Kh7 36.Se4 Sxe4 37.Dxe4 Tf5 38.Td1 Tf6 39.Db4 Dxb4 40.axb4 Td6 41.Kf2 Kg8 42.Ke3 Kf7 43.Tf1+ Tf6 44.Txf6+ gxf6 45.g4 Ke7 46.h4 Kd6 47.Ke4 b6 48.h5 gxh5 49.gxh5 a5 50.Kf5 axb4 51.Kxf6 Kxd5 52.Kg6 Ke6 53.Kxh6 Kf6 54.b3 Kf7 55.Kg5 Kg7 56.Kf5 Kh6 57.Ke5 Kxh5 58.Kd5 Kg5 59.Kc6 Kf5 60.Kxb6 Ke6 61.Kc5 Kd7 62.Kxb4 Kc6 63.Ka5 1-0
+
+Botvinnik,Mikhail - Khavin,Abram Leonidovich [D41]
+URS-ch13 Moscow (5), 27.05.1944
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Sf6 5.Sc3 e6 6.Sf3 Le7 7.cxd5 Sxd5 8.Lc4 Sc6 9.0-0 a6 10.Te1 b5 11.Lxd5 exd5 12.Lg5 0-0 13.Lxe7 Sxe7 14.Sd2 Ta7 15.Sb3 Tc7 16.Dd2 Tc6 17.Se2 Sf5 18.Tac1 Th6 19.Df4 Sd6 20.Sc5 Th4 21.Df3 Sf5 22.Tcd1 Te8 23.Sg3 Txe1+ 24.Txe1 Se7 25.h3 Kf8 26.De3 Sc6 27.Sb3 De7 28.Dc1 Dd6 29.Sa5 Ld7 30.Sxc6 Dxc6 31.Dg5 Th6 32.De7+ 1-0
+
+Botvinnik,Mikhail - Ravinsky,Grigory Ionovich [D41]
+URS-ch13 Moscow (3), 24.05.1944
+
+1.Sf3 Sf6 2.d4 d5 3.c4 e6 4.Sc3 c5 5.cxd5 Sxd5 6.e3 Le7 7.Lc4 Sc6 8.0-0 cxd4 9.exd4 0-0 10.Le3 a6 11.Ld3 Scb4 12.Lb1 b5 13.Se4 Lb7 14.Ld2 Db6 15.Te1 Tac8 16.Lg5 f6 17.Lc1 Dc7 18.Sc5 Lxc5 19.dxc5 Dxc5 20.Sd4 Sc7 21.Le3 Dd5 22.f3 Dh5 23.Db3 Sbd5 24.Lf2 Kh8 25.Le4 f5 26.Lxd5 Lxd5 27.Da3 Df7 28.Tac1 Tcd8 29.De3 Td7 30.b3 Df6 31.Df4 Se8 32.Sc6 Lxc6 33.Txc6 Db2 34.Tcxe6 Sf6 35.Dxf5 Td2 36.Te8 Tg8 37.Txg8+ Sxg8 38.Dc5 Dxa2 39.b4 Te2 40.Txe2 Dxe2 41.h3 De6 42.Lh4 h6 43.Ld8 Dd7 44.Lh4 De6 45.f4 De4 46.Dd6 Kh7 47.Ld8 De1+ 48.Kh2 De4 49.Dd2 Se7 50.Lxe7 Dxe7 51.Kg3 De4 52.Kf2 Dc4 53.Ke3 De6+ 54.Kd4 Dd6+ 55.Kc3 Dc6+ 56.Kb2 Df6+ 57.Kb1 Kh8 58.Kc2 Dg6+ 59.Kc3 Dc6+ 60.Kd4 Dd6+ 61.Ke3 De6+ 62.Kf2 De4 63.g4 Kh7 64.Kg3 Db1 65.Kg2 De4+ 66.Kf2 Kh8 67.Kg3 Db1 68.f5 Da1 69.De3 Df6 70.De6 Dc3+ 71.Kh4 Dd2 72.De7 Df4 73.Kh5 Kh7 74.h4 Dc4 75.g5 hxg5 76.hxg5 Dc8 77.De4 Df8 78.f6+ Kg8 79.De6+ Df7+ 80.Dxf7+ Kxf7 81.fxg7 Kxg7 82.g6 a5 83.bxa5 b4 84.a6 b3 85.a7 b2 86.a8D b1D 87.Da7+ Kf6 88.Df7+ Ke5 89.Kh6 Dh1+ 90.Kg7 Kd4 91.Df6+ Kc5 92.Kg8 Kb5 93.g7 Ka4 94.Kf7 Dh5+ 95.Ke7 Dc5+ 96.Dd6 Dg5+ 97.Kf8 Df5+ 98.Ke8 Dh5+ 99.Kf8 Df5+ 100.Ke7 Dg5+ 101.Df6 Dc5+ 102.Kd7 Dd5+ 103.Kc7 Da5+ 104.Kb7 Db5+ 105.Db6 Dd7+ 106.Dc7 Db5+ 107.Ka7 Dd5 108.Kb8 Dg8+ 109.Ka7 Dd5 110.Df4+ Ka5 111.Df6 Dc5+ 112.Kb7 Db5+ 113.Kc7 Dc5+ 114.Kd7 Dd5+ 115.Ke7 Dc5+ 116.Kf7 Dc4+ 117.Ke7 Dc5+ 118.Ke6 Dc8+ 119.Ke5 Dc3+ 120.Kf5 Dd3+ 121.Kg5 De3+ 122.Kg6 De8+ 123.Kh6 Dg8 124.De5+ Ka4 125.Kg6 Dc8 126.Df4+ 1-0
+
+Botvinnik,Mikhail - Sokolsky,Alexey [E40]
+URS-ch13 Moscow (1), 21.05.1944
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 Sc6 5.Sge2 e5 6.a3 Lxc3+ 7.Sxc3 exd4 8.exd4 d5 9.c5 h6 10.Lb5 0-0 11.0-0 Lf5 12.f3 Te8 13.g4 Lh7 14.Lf4 a6 15.La4 Te6 16.Lxc6 bxc6 17.Dd2 Sd7 18.Tae1 Sf8 19.Le5 Dd7 20.Kh1 f6 21.Lg3 Tae8 22.Txe6 Sxe6 23.Te1 Sg5 24.Txe8+ Dxe8 25.Kg2 h5 26.h3 hxg4 27.hxg4 Se6 28.Se2 Sg5 29.Sc3 Se6 30.De3 Kf7 31.Kf2 g5 32.Sa2 Lb1 33.Sc3 Lh7 ½-½
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [D55]
+Moscow training m Moscow, 11.05.1944
+
+1.d4 d5 2.c4 e6 3.Sc3 Sf6 4.Sf3 Le7 5.Lg5 0-0 6.e3 h6 7.Lxf6 Lxf6 8.Tc1 c6 9.h4 Sd7 10.g4 g6 11.cxd5 exd5 12.h5 g5 13.Ld3 Lg7 14.Lf5 Te8 15.Kf1 Sb6 16.Sd2 Lxf5 17.gxf5 Sc8 18.Se2 Lf8 19.Kg2 Ld6 20.Sf1 Df6 21.Dd3 Lc7 22.f3 Sd6 23.Seg3 Tad8 24.b3 g4 25.f4 Kh8 26.Tc2 Te7 27.Kg1 Tde8 28.Thh2 Lb6 29.Kh1 Lc7 30.Thg2 Tg8 31.Kg1 Lb6 32.Kh1 Se4 33.Kg1 Sd6 34.Kh1 a6 35.Th2 La7 36.Thg2 Se4 37.a4 Lb6 38.Sxe4 dxe4 39.Dc3 Dxf5 40.d5+ Kh7 41.Db4 Ld8 42.dxc6 Dxh5+ 43.Th2 Da5 44.Dxa5 Lxa5 45.Sg3 Te6 46.cxb7 Tb8 47.b4 Lb6 48.a5 Lxe3 49.Tc7 Tf6 50.Thc2 Txf4 51.b5 Tf6 52.Kg2 axb5 53.Sxe4 Te6 54.Sc5 Lxc5 55.T2xc5 b4 56.Tb5 Kg6 57.Tc8 1-0
+
+Botvinnik,Mikhail - Boleslavsky,Isaak [B59]
+Sverdlovsk Sverdlovsk (4), 1943
+
+1.e4 c5 2.Sf3 Sc6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 d6 6.Le2 e5 7.Sb3 Le7 8.0-0 0-0 9.f4 exf4 10.Lxf4 Le6 11.Ld3 Se5 12.Kh1 Db6 13.De2 Sxd3 14.cxd3 Lxb3 15.Le3 Db4 16.axb3 Dxb3 17.Ta5 De6 18.Ld4 Ld8 19.Taf5 Sd7 20.Dg4 Se5 21.Dg3 f6 22.Sd5 a6 23.Dh3 Te8 24.g4 h6 25.Dg3 Tc8 26.Lc3 a5 27.h4 b5 28.Dh3 Sf7 29.Lxf6 Lxf6 30.Sxf6+ gxf6 31.Txf6 Dd7 32.Txf7 Dxf7 33.Txf7 Kxf7 34.g5 hxg5 35.Df5+ Kg7 36.Dxg5+ Kh7 37.Dxb5 Tf8 38.Dd7+ Kg8 39.De6+ Kg7 40.Dd7+ Kg8 41.Kg2 Tc2+ 42.Kg3 Tcf2 43.Dxd6 T2f7 44.Dd5 Kh8 45.e5 Tg7+ 46.Kh3 Tg6 47.d4 Tf1 48.De4 Tgg1 49.d5 Th1+ 50.Kg4 Thg1+ 51.Kh5 Tf7 52.e6 1-0
+
+Botvinnik,Mikhail - Kan,Ilia Abramovich [B84]
+Sverdlovsk Sverdlovsk (9), 1943
+
+1.e4 c5 2.Sf3 e6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 d6 6.Le2 a6 7.a4 Dc7 8.f4 Sbd7 9.0-0 b6 10.Lf3 Lb7 11.f5 e5 12.Sb3 Sc5 13.De2 Le7 14.Kh1 h6 15.Ld2 Td8 16.Le1 Dc8 17.Td1 Da8 18.Sxc5 dxc5 19.Lg3 Txd1 20.Txd1 Db8 21.Sd5 Sxd5 22.exd5 Ld6 23.f6 g6 24.Lxe5 Kd8 25.Lxd6 Dxd6 26.De7+ Dxe7 27.fxe7+ Kd7 28.d6 Lxf3 29.gxf3 Tc8 30.Kg2 g5 31.Td5 Tg8 32.Kg3 f6 33.Kg4 Ke6 34.Kh5 a5 35.Kxh6 Kf7 36.Kh5 Th8+ 37.Kg4 Th4+ 38.Kg3 Th8 39.f4 gxf4+ 40.Kxf4 Ke6 41.d7 Kxe7 42.d8D+ Txd8 43.Txd8 Kxd8 44.Kf5 1-0
+
+Botvinnik,Mikhail - Konstantinopolsky,Alexander C [B14]
+Sverdlovsk Sverdlovsk (3), 1943
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.c4 Sf6 5.Sc3 e6 6.Sf3 Le7 7.Lg5 0-0 8.Tc1 Sc6 9.c5 Se4 10.Lxe7 Dxe7 11.Le2 Ld7 12.a3 f5 13.Lb5 Sg5 14.Lxc6 Sxf3+ 15.Dxf3 bxc6 16.Df4 Tae8 17.0-0 e5 18.Dxe5 Dxe5 19.dxe5 Txe5 20.f4 Te7 21.Tfe1 Tfe8 22.Txe7 Txe7 23.Kf2 Kf7 24.Td1 Te8 25.Td2 h6 26.Te2 Tb8 27.Ke3 Tb3 28.Kd4 Kf6 29.Sa2 Tb8 30.b4 g5 31.g3 gxf4 32.gxf4 a6 33.Sc3 Tg8 34.a4 Tg4 35.Tf2 Le6 36.b5 axb5 37.axb5 cxb5 38.Sxb5 Tg1 39.Sc3 Kf7 40.Tb2 Tf1 41.Se2 Te1 42.Ke5 d4 43.Kxd4 Kg6 44.Sc3 Kh5 45.Te2 Txe2 46.Sxe2 Kg4 47.Ke5 Lc8 48.Sd4 h5 49.Sxf5 Ld7 50.Sg7 La4 51.f5 Kg5 52.Se6+ 1-0
+
+Botvinnik,Mikhail - Makogonov,Vladimir Andreevich [D41]
+Sverdlovsk Sverdlovsk (14), 1943
+
+1.e4 c6 2.c4 d5 3.exd5 cxd5 4.d4 Sf6 5.Sc3 e6 6.Sf3 Le7 7.cxd5 Sxd5 8.Lc4 Sc6 9.0-0 0-0 10.Te1 a6 11.Ld3 Scb4 12.Lb1 b5 13.Se4 Sf6 14.a3 Sbd5 15.Sc5 Db6 16.Dc2 a5 17.Ld2 Td8 18.La2 Lb7 19.Tac1 b4 20.Lb1 Tac8 21.Sg5 g6 22.Txe6 fxe6 23.Sxh7 Kh8 24.Sg5 Tg8 25.Sf7+ Kh7 26.Sg5+ Kh8 ½-½
+
+Botvinnik,Mikhail - Ragozin,Viacheslav [E44]
+Sverdlovsk Sverdlovsk (1), 1943
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 Lb7 6.a3 Le7 7.d5 0-0 8.Sg3 d6 9.Le2 c6 10.e4 Sa6 11.dxc6 Lxc6 12.b4 Sc7 13.0-0 Db8 14.Le3 b5 15.a4 bxc4 16.b5 Lb7 17.Lxc4 d5 18.exd5 Scxd5 19.Sxd5 Sxd5 20.Lxd5 Lxd5 21.Sf5 Lf6 22.Ld4 exf5 23.Lxf6 Db7 24.Ta3 gxf6 25.Tg3+ Kh8 26.Dd4 De7 27.Dxd5 De6 28.Dd4 Tfd8 29.Dh4 Tg8 30.Td1 Tg4 31.Txg4 fxg4 32.h3 Tg8 33.hxg4 Txg4 34.Dh6 De7 35.a5 Tg6 36.Dh3 De2 37.Dd3 Dg4 38.g3 Dh3 39.Df3 h5 40.b6 axb6 41.axb6 Dc8 1-0
+
+Botvinnik,Mikhail - Smyslov,Vassily [C46]
+Sverdlovsk Sverdlovsk (12), 1943

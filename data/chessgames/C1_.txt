@@ -1,0 +1,1101 @@
+
+
+Reshevsky,Samuel Herman (2415) - Bagirov,Vladimir (2485) [D94]
+Moscow Veterans Moscow, 1991
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.e3 g6 5.Sc3 Lg7 6.Ld3 0-0 7.0-0 Lg4 8.h3 Lxf3 9.Dxf3 e6 10.Td1 Sbd7 11.cxd5 exd5 12.b4 a6 13.a4 Te8 14.Ld2 Sf8 15.b5 axb5 16.axb5 Se6 17.Txa8 Dxa8 18.h4 Da3 19.Lf1 h5 20.Tb1 Dd6 21.bxc6 bxc6 22.g3 Sg4 23.Se2 Tb8 24.Txb8+ Dxb8 25.Sc3 Db2 26.Le1 Db7 ½-½
+
+Reshevsky,Samuel Herman (2415) - Geller,Efim P (2525) [D58]
+Moscow Veterans Moscow, 1991
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lg5 h6 6.Lh4 0-0 7.e3 b6 8.Le2 Lb7 9.0-0 Sbd7 10.Tc1 c5 11.cxd5 Sxd5 12.Lxe7 ½-½
+
+Reshevsky,Samuel Herman (2415) - Gipslis,Aivars (2465) [E38]
+Moscow Veterans Moscow, 1991
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 c5 5.dxc5 Dc7 6.a3 Lxc5 7.Sf3 a6 8.Lg5 Le7 9.e3 d6 10.Le2 b6 11.0-0 Lb7 12.Tfd1 0-0 13.Tac1 Sbd7 14.e4 Tac8 15.h3 Db8 16.Lf4 Tfd8 17.Db1 Se8 18.b4 h6 19.Le3 Sef6 20.Lf4 Se8 21.Le3 Sef6 ½-½
+
+Reshevsky,Samuel Herman (2415) - Krogius,Nikolai V (2535) [E33]
+Moscow Veterans Moscow, 1991
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 Sc6 5.Sf3 d6 6.a3 Lxc3+ 7.Dxc3 De7 8.b4 0-0 9.Lb2 Te8 10.b5 Sb8 11.g3 b6 12.Lg2 Lb7 13.0-0 Sbd7 14.a4 a6 15.Tfc1 Tec8 16.e3 h6 17.La3 De8 18.Lb4 Le4 ½-½
+
+Reshevsky,Samuel Herman (2415) - Smyslov,Vassily (2535) [A29]
+Moscow rapid Moscow (3), 1991
+
+1.c4 Sf6 2.Sc3 e5 3.Sf3 Sc6 4.g3 Lb4 5.Lg2 0-0 6.0-0 e4 7.Sg5 Lxc3 8.bxc3 Te8 9.d3 exd3 10.exd3 d6 11.h3 h6 12.Sf3 Se5 13.Sh4 Tb8 14.Te1 Ld7 15.f4 Sg6 16.Txe8+ Dxe8 17.Sf3 c5 18.g4 Lc6 19.Df1 Td8 20.Ld2 Dd7 21.Te1 Te8 22.d4 Txe1 23.Dxe1 De7 24.Dxe7 Sxe7 25.d5 La4 26.Se1 b5 27.g5 Sd7 28.gxh6 gxh6 29.f5 Kg7 30.Lf4 Sxf5 31.Le4 Kf6 32.Lxf5 Kxf5 33.Lxd6 bxc4 34.Le7 Ke4 35.Kf2 Kxd5 36.Ke3 Ke6 37.Ld8 Sb6 38.Sf3 Sd5+ 39.Kd2 Kf5 40.h4 Ke4 41.Sh2 f5 42.La5 Ld7 43.Sf1 f4 44.Ke2 Lg4+ 45.Kd2 Kf3 46.Ke1 Kg2 47.Sd2 f3 48.Se4 Lf5 49.Sf2 Se3 0-1
+
+Reshevsky,Samuel Herman (2415) - Smyslov,Vassily (2535) [D94]
+Moscow Veterans Moscow, 1991
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.e3 g6 5.Sf3 Lg7 6.Le2 0-0 7.0-0 Lg4 8.cxd5 cxd5 9.Db3 b6 10.h3 Le6 11.Se5 Se4 12.Sd3 Sc6 13.Sf4 Sa5 14.Sxe6 Sxb3 15.Sxd8 Sxc3 16.bxc3 Sxc1 17.Taxc1 Tfxd8 18.f4 Tac8 19.c4 dxc4 20.Lxc4 a5 21.a4 e6 22.La6 Ta8 23.Lb7 Tab8 24.Tc7 Lf8 25.La6 Ld6 26.Tc6 Lb4 27.Kf2 h5 28.g4 hxg4 29.hxg4 Kg7 30.f5 Td6 31.Tc7 gxf5 32.gxf5 exf5 33.Ke2 Tf6 34.Ld3 Th8 35.Lxf5 Th2+ 36.Kd3 Ta2 37.Tg1+ Kf8 38.Lh7 Ta3+ 39.Ke4 Te6+ 40.Kf5 Ke8 41.Tg8+ Lf8 42.Kf4 Texe3 43.Le4 Tec3 44.Lc6+ Txc6 45.Txc6 Kd7 46.Txb6 Ld6+ 47.Ke4 Txa4 48.Tb7+ Lc7 49.Kd5 Ta1 50.Ta8 Ta2 51.Taa7 Tc2 52.Txa5 Kc8 53.Tab5 f5 54.Ta7 f4 55.Tc5 Txc5+ 56.Kxc5 Kb8 57.Ta3 Kb7 58.Tb3+ Kc8 59.Kc6 1-0
+
+Reshevsky,Samuel Herman (2415) - Smyslov,Vassily (2535) [E38]
+Moscow rapid Moscow (1), 1991
+
+1.c4 Sf6 2.d4 e6 3.Sc3 Lb4 4.Dc2 c5 5.dxc5 Sa6 6.a3 Lxc3+ 7.Dxc3 Sxc5 8.b4 Sce4 9.Dd4 d5 10.cxd5 Dxd5 11.Dxd5 exd5 12.Lb2 Ke7 13.Sf3 Ld7 14.e3 Thc8 15.Ld3 a6 16.Sd4 Sd6 17.Ke2 Sc4 18.Lc1 Se4 19.f3 Sc3+ 20.Kf2 Se5 21.Ld2 Sxd3+ 0-1
+
+Reshevsky,Samuel Herman (2430) - Donaldson,John W (2400) [D49]
+USA op USA, 1990
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.Sf3 e6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 a6 9.e4 c5 10.e5 cxd4 11.Sxb5 Sg4 12.Sd6+ Lxd6 13.exd6 Db6 14.Da4 Tb8 15.h3 Sgf6 16.0-0 Dxd6 17.b3 Db4 18.Dxb4 Txb4 19.La3 Tb8 20.Tac1 Lb7 21.Ld6 Ta8 22.Sxd4 Sd5 23.f4 S7f6 24.Sf3 Td8 25.La3 Sxf4 26.Tc7 Lxf3 27.Lxa6 Ta8 28.Tfc1 Le2 29.Tc8+ Txc8 30.Txc8+ Kd7 31.Txh8 Lxa6 32.Tf8 e5 33.Txf7+ Ke6 34.Txg7 Ld3 35.Lb2 S6d5 36.Kf2 Lb1 37.Lxe5 Kxe5 38.a4 Lc2 39.a5 Se6 40.Tb7 Sc5 41.Tb5 Kd4 42.Tb8 Lxb3 43.a6 Sxa6 44.Txb3 Sc5 45.Tb8 Ke5 46.Kf3 h5 47.Kg3 Se4+ 48.Kh4 Sdf6 49.g4 hxg4 50.hxg4 Ke6 51.g5 ½-½
+
+Reshevsky,Samuel Herman (2430) - Gallagher,Joseph G (2470) [A70]
+USA op USA, 1990
+
+1.d4 Sf6 2.Sf3 c5 3.c4 e6 4.d5 exd5 5.cxd5 d6 6.Sc3 g6 7.e4 Lg7 8.h3 0-0 9.Ld3 b5 10.Sxb5 Sxe4 11.0-0 La6 12.a4 Sf6 13.Lf4 Te8 14.Lxd6 Sxd5 15.Le4 Lxb5 16.axb5 Txe4 17.Dxd5 Te6 18.Dxa8 Txd6 19.Txa7 Lxb2 20.Tb7 Tb6 21.Da5 Td6 22.Da2 1-0
+
+Reshevsky,Samuel Herman (2430) - Seltzer,Robert [A57]
+USA op USA, 1990
+
+1.d4 Sf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.b6 d6 6.Sc3 Sbd7 7.e4 g6 8.a4 Dxb6 9.a5 Dc7 10.Sf3 Lg7 11.Sd2 0-0 12.Sc4 Tb8 13.Le2 Se8 14.0-0 e5 15.dxe6 fxe6 16.Le3 Se5 17.Sb6 Sc6 18.Da4 Lb7 19.Lc4 De7 20.Tad1 Sd4 21.Lxd4 cxd4 22.Se2 Lxe4 23.Dd7 Tb7 24.Dxe6+ Dxe6 25.Lxe6+ Kh8 26.Sxd4 Sc7 27.Tfe1 d5 28.Ld7 Sb5 29.Se6 Tg8 30.Sxg7 Txg7 31.f3 Lc2 32.Te8+ Tg8 33.Txg8+ Kxg8 34.Txd5 Tc7 35.Lxb5 axb5 36.Td7 Tc6 37.Tb7 Lf5 38.a6 1-0
+
+Reshevsky,Samuel Herman (2430) - Damljanovic,Branko (2555) [E91]
+GMA Baleares op Palma de Mallorca (4), 1989
+
+1.d4 Sf6 2.c4 c5 3.d5 g6 4.Sc3 Lg7 5.e4 d6 6.Sf3 0-0 7.Le2 e6 8.0-0 Te8 9.Sd2 Sa6 10.Te1 Sc7 11.Lf1 Tb8 12.a4 b6 13.Sb3 a6 14.Lg5 h6 15.Lh4 e5 16.Ld3 Tf8 17.f3 De8 18.Lf2 Sh5 19.g3 Lh3 20.Sd2 Dd8 21.Lf1 Lc8 22.Tb1 a5 23.Lg2 Tb7 24.Sf1 Sf6 25.Le3 Sh7 26.Dd2 h5 27.Lh6 h4 28.Lxg7 Kxg7 29.g4 Df6 30.h3 Ld7 31.Se3 Sa6 32.Tf1 Sb4 33.Tf2 Le8 34.Tbf1 Te7 35.Sb5 Tb7 36.b3 Lxb5 37.cxb5 Df4 38.Sc4 Td8 39.Td1 f6 40.Dxf4 exf4 41.Lf1 Sg5 42.Kg2 Kf7 43.Ld3 Sxd3 44.Txd3 Ke7 45.Td1 Sf7 46.Sb2 Se5 47.Sd3 Sxd3 48.Txd3 Kf7 49.Tc3 Te7 50.Tc4 Tde8 51.Te2 Te5 52.Kf2 Kg7 53.Te1 Kh6 54.Tc2 f5 55.Tc4 Kg5 56.Te2 Tf8 57.Te1 fxe4 58.fxe4 f3 59.Te3 Tf4 60.Te1 Tf7 61.Te3 Tfe7 62.Kxf3 Tf7+ 63.Kg2 Tf4 64.Te1 Kf6 65.Te3 Kg5 66.Te2 Kf6 67.Te1 Te7 68.e5+ dxe5 69.Txf4+ exf4 70.g5+ Kf7 71.Td1 Te3 72.d6 Ke8 73.d7+ Kd8 74.Td6 Tg3+ 75.Kf2 Txh3 76.Txg6 Kxd7 77.Txb6 Txb3 78.Tf6 Tb2+ 79.Kf3 h3 80.Kxf4 h2 81.Th6 c4 82.Ke5 c3 83.Th7+ Kc8 84.g6 Tg2 0-1
+
+Reshevsky,Samuel Herman (2450) - Shamkovich,Leonid (2450) [E18]
+GMA op Moscow (9), 1989
+
+1.Sf3 Sf6 2.d4 e6 3.g3 b6 4.Lg2 Lb7 5.c4 Le7 6.0-0 0-0 7.Sc3 Se4 8.Ld2 d5 9.cxd5 exd5 10.Tc1 Sd7 ½-½
+
+Reshevsky,Samuel Herman (2450) - Smagin,Sergey (2540) [E46]
+GMA op Moscow (4), 1989
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sge2 d5 6.a3 Le7 7.cxd5 exd5 8.Sf4 c6 9.Ld3 Ld6 10.0-0 Te8 11.b4 Sbd7 12.f3 Sb6 13.Sfe2 a5 14.Tb1 axb4 15.axb4 De7 16.e4 Sfd7 17.b5 c5 18.e5 Sxe5 19.dxe5 Lxe5 20.f4 Lf6 21.f5 d4 22.Se4 c4 23.Sxf6+ Dxf6 24.Lb2 cxd3 25.Dxd3 Ta2 26.Sxd4 Td8 27.Tfd1 Sa4 28.La1 Dg5 29.Df3 h5 30.h3 Sb6 31.f6 Dxf6 32.Dxf6 gxf6 33.Sf3 Txd1+ 34.Txd1 Le6 35.Lxf6 Sd5 36.Le5 f6 37.Lxf6 Sf4 38.Td2 Txd2 39.Sxd2 Ld5 40.Lg5 Se2+ 41.Kh2 Kf7 42.Le3 b6 ½-½
+
+Reshevsky,Samuel Herman (2430) - Vasiukov,Evgeni (2515) [A88]
+GMA Baleares op Palma de Mallorca (2), 1989
+
+1.d4 f5 2.g3 Sf6 3.c4 d6 4.Sf3 g6 5.Sc3 Lg7 6.Lg2 0-0 7.0-0 Sa6 8.b3 c6 9.Lb2 De8 10.d5 Ld7 11.Sd4 Tc8 12.Tb1 Sc5 13.b4 Sce4 14.Sxe4 Sxe4 15.Se6 Lxe6 16.Lxg7 Kxg7 17.dxe6 Sf6 18.Dd4 b6 19.c5 Dd8 20.Tfd1 bxc5 21.bxc5 d5 22.Tb7 Tc7 23.Tdb1 Dc8 24.Txc7 Dxc7 25.Da4 Dc8 26.Dxa7 Dxe6 27.e3 Se4 28.Lxe4 fxe4 29.Da4 Df6 30.Dc2 Ta8 31.a4 h5 32.h4 Kf7 33.Db2 Dxb2 34.Txb2 Ta5 35.Ta2 Ke6 36.Kf1 Kd7 37.f3 Kc7 38.fxe4 dxe4 39.Tf2 Txc5 40.Tf7 Tf5+ 41.Txf5 gxf5 42.Ke2 Kb6 0-1
+
+Reshevsky,Samuel Herman (2450) - Vyzmanavin,Alexey (2550) [E15]
+GMA op Moscow (3), 1989
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.g3 La6 5.b3 Lb4+ 6.Ld2 Le7 7.Lg2 d5 8.0-0 0-0 9.Se5 Lb7 10.Lc3 Se4 11.Lb2 Sd7 12.Sd3 Ld6 13.Sd2 De7 14.Sf3 c5 15.Sfe5 Tfd8 16.e3 cxd4 17.Sxd7 dxc4 18.bxc4 dxe3 19.Sf6+ Sxf6 20.Lxf6 gxf6 21.Dg4+ Kh8 22.Lxb7 Dxb7 23.fxe3 Le7 24.Tad1 Td7 25.Se5 fxe5 26.Txd7 Dxd7 27.Txf7 Tg8 28.Dh5 Tg7 29.Dxe5 Dd1+ 30.Kg2 De2+ 31.Kg1 Dd1+ 32.Kf2 ½-½
+
+Reshevsky,Samuel Herman (2450) - Westerinen,Heikki MJ (2400) [A21]
+GMA op Moscow (7), 1989
+
+1.c4 e5 2.Sc3 f5 3.g3 Sf6 4.Lg2 Lb4 5.Db3 c5 6.a3 Lxc3 7.Dxc3 De7 8.b4 Sc6 9.b5 Sd4 10.e3 d6 11.Lb2 0-0 12.0-0-0 Se4 13.Lxe4 fxe4 14.Tf1 Lh3 15.Te1 Lg2 16.exd4 exd4 17.Dc2 Txf2 18.Sh3 Lxh3 19.Txe4 Df7 20.Tf4 Txf4 21.gxf4 Dxf4 22.Dd3 Lf5 23.De2 De4 0-1
+
+Reshevsky,Samuel Herman (2465) - Brooks,Michael A (2345) [E95]
+World op Philadelphia, 1988
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Sf3 0-0 6.Le2 Sbd7 7.0-0 e5 8.Te1 c6 9.Lf1 exd4 10.Sxd4 Te8 11.Tb1 a6 12.Lf4 Sc5 13.Dc2 Sg4 14.Tbd1 Df6 15.Lc1 De7 16.Lf4 Lxd4 17.Txd4 Se6 18.Dd2 Sxd4 19.Dxd4 Se5 20.Lg3 h5 21.h3 g5 22.Td1 h4 23.Lh2 f6 24.f4 gxf4 25.Lxf4 Lxh3 26.Df2 Lg4 27.Le2 Lxe2 28.Sxe2 Tad8 29.Sd4 Sg6 30.Te1 Sxf4 31.Sf5 De5 32.Dxh4 Td7 33.Sh6+ Kf8 34.Sf5 Tg7 35.Dh6 Dxf5 0-1
+
+Reshevsky,Samuel Herman (2445) - Ilijic,Milan (2285) [E94]
+Belgrade GMA op Belgrade, 1988
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Le2 c6 6.Sf3 0-0 7.0-0 e5 8.Dc2 exd4 9.Sxd4 Sbd7 10.Td1 Te8 11.Lg5 a5 12.f3 a4 13.Dd2 Da5 14.Sc2 Se5 15.b4 Db6+ 16.Le3 Da6 17.Sa3 Le6 18.Sd5 Lxd5 19.cxd5 b5 20.dxc6 Sc4 21.Lxc4 bxc4 22.b5 Dc8 23.Sxc4 Sxe4 24.fxe4 Lxa1 25.Sxd6 De6 26.Txa1 Tad8 27.Td1 Txd6 28.Dxd6 Dxe4 29.Ld4 De2 30.Tf1 Dxa2 31.Df6 Kf8 32.Dh8+ 1-0
+
+Reshevsky,Samuel Herman (2465) - Parmentier,Xavier (2340) [E94]
+Lugano op Lugano, 1988
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 0-0 5.Le2 d6 6.Sf3 e5 7.Le3 c6 8.0-0 Sbd7 9.Dc2 Sg4 10.Lg5 De8 11.d5 f5 12.dxc6 bxc6 13.Tad1 De6 14.exf5 gxf5 15.Dd2 Tb8 16.b3 Dg6 17.Sh4 Dh5 18.h3 f4 19.Lxg4 Dxg5 20.Sf3 Dg6 21.Dxd6 Tf6 22.Dc7 e4 23.Sh4 Dg5 24.Sxe4 Dxh4 25.Sxf6+ 1-0
+
+Reshevsky,Samuel Herman (2445) - Rogulj,Branko (2355) [A40]
+Belgrade GMA op Belgrade, 1988
+
+1.d4 1-0
+
+Reshevsky,Samuel Herman (2445) - Sandic,Vladeta (2290) [A33]
+Belgrade GMA op Belgrade, 1988
+
+1.c4 c5 2.Sf3 Sf6 3.Sc3 Sc6 4.d4 cxd4 5.Sxd4 e6 6.g3 Lc5 7.Sb3 Le7 8.Lg2 0-0 9.0-0 d6 10.Sd4 Ld7 11.Sdb5 Db8 12.Lf4 Se5 13.Dd4 Tc8 14.Sa3 Lc6 15.e4 Sg6 16.Ld2 b6 17.Tfd1 Td8 18.h3 d5 19.cxd5 Lc5 20.Dd3 b5 21.Saxb5 exd5 22.exd5 Db6 23.Le3 Tab8 24.Lxc5 Dxc5 25.Dd4 Df8 26.Sxa7 Le8 27.Tab1 Dd6 28.De3 Tb7 29.Sc6 Tbd7 30.Sb5 Df8 31.Sxd8 Txd8 32.Db6 Ld7 33.Sc7 Tb8 34.Da7 Tc8 35.d6 Dd8 36.b4 Se5 37.Dd4 Sc6 38.Dc5 Sb8 39.b5 g6 40.b6 Df8 41.b7 Td8 1-0
+
+Reshevsky,Samuel Herman (2465) - Vezzosi,Paolo (2270) [E90]
+Lugano op Lugano, 1988
+
+1.d4 Sf6 2.c4 c5 3.d5 d6 4.Sc3 g6 5.e4 Lg7 6.Ld3 0-0 7.Sf3 e6 8.0-0 Sa6 9.dxe6 fxe6 10.e5 dxe5 11.a3 Sh5 12.g3 Sb8 13.Sg5 Sf6 14.Sce4 De7 15.Sxf6+ Lxf6 16.Se4 Sc6 17.h4 Kh8 18.Lh6 Tf7 19.Sg5 Lxg5 20.Lxg5 Dc7 21.h5 Sd4 22.Le4 Ld7 23.hxg6 hxg6 24.Dd3 Lc6 25.f4 exf4 26.Lxg6 f3 27.Kf2 Sf5 28.Th1+ Kg7 29.Lf4 Dd7 30.Lxf5 Txf5 31.Ld6 Dd8 32.g4 Dg5 33.gxf5 Dg2+ 34.Ke3 f2 35.f6+ Kxf6 36.Th6+ 1-0
+
+Reshevsky,Samuel Herman (2445) - Xu Jun (2505) [A53]
+Belgrade GMA op Belgrade, 1988
+
+1.d4 Sf6 2.Sf3 d6 3.c4 Lg4 4.e3 Sbd7 5.h3 Lh5 6.Sc3 e5 7.Le2 Le7 8.0-0 0-0 9.b3 Te8 10.Lb2 Lf8 11.b4 c6 12.c5 exd4 13.exd4 d5 14.Te1 h6 15.Sd2 Lg6 16.Lf3 Le7 17.g3 Sh7 18.Lg2 Lf6 19.Sf3 Sg5 20.Sxg5 hxg5 21.Txe8+ Dxe8 22.b5 Sf8 23.bxc6 bxc6 24.Dd2 Dd7 25.Sd1 Se6 26.Se3 Lh5 27.Te1 a5 28.Lf1 a4 29.Le2 Lxe2 30.Txe2 a3 31.Lc3 Ta7 32.Sc2 Db7 33.Lb4 g6 34.Lxa3 Db1+ 35.Kg2 Dxa2 36.Lb4 Dc4 37.Lc3 Ta2 38.Te3 Db3 39.Te2 Sxc5 40.dxc5 Dxc3 41.Dxc3 Lxc3 42.Sd4 Txe2 43.Sxe2 Lb2 44.Kf3 f6 45.Ke3 Kf7 46.Kd3 Ke6 47.f4 gxf4 48.Sxf4+ Kf5 49.Sg2 g5 50.Se3+ Ke5 51.Sc2 Ke6 52.g4 Le5 53.Sb4 Kd7 54.Ke2 Ld4 55.Sd3 Ke6 56.Sb4 Lxc5 57.Sxc6 Kd6 58.Sd8 Kd7 59.Kf3 Lf8 60.Sf7 Ke8 0-1
+
+Reshevsky,Samuel Herman (2455) - Dimitrijevic,Darko (2325) [E42]
+Lugano op Lugano, 1987
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Sge2 b6 6.a3 La5 7.Tb1 De7 8.Ld2 Lxc3 9.Sxc3 Lb7 10.f3 0-0 11.Ld3 Sc6 12.dxc5 bxc5 13.0-0 Tfd8 14.e4 Se5 15.Lg5 Dd6 16.Le2 Dd4+ 17.Kh1 Sxc4 18.Db3 Sb6 19.Tbd1 De5 20.f4 Db8 21.e5 c4 22.Db5 Lc6 23.Da5 Sfd5 24.Sxd5 Lxd5 25.Lxd8 Dxd8 26.Lf3 Dc7 27.Lxd5 exd5 28.Tfe1 Dc6 29.f5 Tc8 30.Dc3 Dh6 31.f6 Df4 32.Tf1 Dg5 33.Tde1 Dg4 34.h3 Dg6 35.Dd2 Dh5 36.Dd4 Dg5 37.Te3 g6 38.Tfe1 1-0
+
+Reshevsky,Samuel Herman (2455) - Ernst,Thomas (2465) [A57]
+Lugano op Lugano, 1987
+
+1.d4 Sf6 2.c4 c5 3.d5 b5 4.f3 bxc4 5.e4 d6 6.Lxc4 g6 7.Se2 Lg7 8.Sbc3 0-0 9.0-0 La6 10.Sb5 Sfd7 11.Sec3 Sb6 12.Le2 S8d7 13.a4 Db8 14.a5 Sc8 15.Da4 Db7 16.Ta3 Tb8 17.Tb3 Se5 18.Sd4 Dc7 19.Lxa6 cxd4 20.Txb8 Dxb8 21.Se2 d3 22.Sf4 Lh6 23.b4 Sb6 24.axb6 Dxb6+ 25.Kh1 Dd4 26.Se6 fxe6 27.Lxh6 Sg4 28.Lxf8 Sf2+ 29.Txf2 Dxf2 30.h3 Kxf8 31.Lxd3 De1+ 32.Kh2 Dc3 33.Dc2 De5+ 34.g3 exd5 35.exd5 Dxd5 36.f4 Dd4 37.b5 Kg7 38.h4 d5 39.Lf1 1-0
+
+Reshevsky,Samuel Herman (2455) - Gruenfeld,Yehuda (2535) [A70]
+Lugano op Lugano, 1987
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 d6 6.e4 g6 7.Lf4 Lg7 8.Sf3 0-0 9.Sd2 Sh5 10.Le3 Sd7 11.Le2 Se5 12.f4 Sg4 13.Lxg4 Dh4+ 14.g3 Dxg4 15.Dxg4 Lxg4 16.h3 Ld7 17.g4 Lxc3 18.bxc3 Sf6 19.Kf2 Tfe8 20.Kf3 Lb5 21.c4 La4 22.The1 Sd7 23.Tab1 b6 24.g5 f5 25.gxf6 Sxf6 26.Lg1 Tf8 27.Lh2 Tf7 28.Ke3 Te8 29.Kd3 Ld7 30.Kc3 Lxh3 31.e5 Tfe7 32.Sf3 Lf5 33.Tb2 Se4+ 34.Kb3 a6 35.Tbe2 Sf6 36.Sg5 Sg4 37.e6 Kg7 38.Lg3 b5 39.cxb5 axb5 40.Sf7 Txf7 41.exf7 Txe2 42.Txe2 Kxf7 43.a4 bxa4+ 44.Kxa4 Sf6 45.Tb2 Ld7+ 46.Kb3 Sxd5 47.f5 c4+ 48.Kxc4 Se3+ 49.Kd3 Sxf5 50.Lh2 g5 51.Ke4 Ke6 52.Kf3 h5 53.Te2+ Kf6 54.Td2 Lc6+ 55.Kf2 Ke6 56.Te2+ Kd7 57.Tb2 g4 58.Tb4 Ke6 59.Tc4 Lh1 60.Tb4 Lc6 61.Tc4 Lb5 62.Tf4 Ld3 63.Tb4 Kd5 64.Ta4 Lc2 65.Ta5+ Ke6 66.Ta2 Le4 67.Ta4 d5 68.Ta6+ Kf7 69.Le5 h4 70.Tf6+ Ke7 71.Tg6 g3+ 72.Kg1 Kf7 73.Tf6+ Kg8 74.Tg6+ Kh7 75.Tg4 Lc2 76.Kh1 Lb1 77.Kg1 Le4 78.Lc7 Ld3 79.Le5 Le2 80.Tg5 Se3 81.Tg7+ Kh6 82.Te7 Kh5 83.Lxg3 1-0
+
+Reshevsky,Samuel Herman (2455) - Miles,Anthony J (2565) [A56]
+Philadelphia op Philadelphia, 1987
+
+1.d4 Sf6 2.c4 c5 3.d5 e5 4.Sc3 d6 5.e4 Le7 6.h3 0-0 7.Ld3 a6 8.Sf3 Sbd7 9.g4 Te8 10.Tg1 Sf8 11.g5 Sh5 12.Sxe5 g6 13.Sg4 Lxg5 14.Sh6+ Lxh6 15.Lxh6 Dh4 16.Dd2 f6 17.Le2 Sd7 18.0-0-0 Se5 19.Le3 b5 20.cxb5 axb5 21.Sxb5 Txa2 22.Sc3 Ta1+ 23.Kc2 Txd1 24.Dxd1 Sf4 25.Lg4 Sxh3 26.Lxc8 Txc8 27.Th1 Sg4 28.Kb1 Tb8 29.Da4 Sxe3 30.Da7 Tf8 31.fxe3 Dg3 32.Ka2 Sg5 33.Sb5 De5 34.Sc3 h5 35.Th4 Dg3 36.Th1 Df3 37.Th4 Dxe3 38.Da6 Df2 39.Th1 Tb8 40.Tb1 Dc2 41.Ka1 Db3 0-1
+
+Reshevsky,Samuel Herman (2455) - Seirawan,Yasser (2595) [A30]
+Lugano op Lugano, 1987
+
+1.Sf3 c5 2.c4 b6 3.g3 Lb7 4.Lg2 g6 5.d4 cxd4 6.Dxd4 Sf6 7.Sc3 d6 8.Sd5 Lg7 9.Lg5 Sbd7 10.Sd2 Kf8 11.Sb3 Sxd5 12.Lh6 S7f6 13.Lxg7+ Kxg7 14.cxd5 e5 15.Dd3 De8 16.Sd2 Da4 17.0-0 La6 18.De3 Tac8 19.Se4 Sxe4 20.Lxe4 f5 21.Ld3 Lxd3 22.Dxd3 Tc5 23.b3 Da5 24.e4 Tf8 25.exf5 Txd5 26.De3 Txf5 27.Tfd1 Tf6 28.a4 Tc5 29.Tac1 Db4 30.Txc5 Dxc5 31.De2 d5 32.Td2 d4 33.Tc2 Dd5 34.Dd3 Tf7 35.Te2 Tc7 36.Tc2 Txc2 37.Dxc2 d3 38.Dd2 a5 39.Dg5 Kf7 40.Dh6 d2 41.Dxh7+ Kf8 42.Dh6+ Ke7 43.Dh4+ Ke8 0-1
+
+Reshevsky,Samuel Herman (2455) - Short,EG [C87]
+NWC August op Seattle, 1987
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 d6 6.Te1 Le7 7.c3 Ld7 8.d4 0-0 9.h3 De8 10.Kh1 Td8 11.Sbd2 exd4 12.cxd4 Kh8 13.Sf1 d5 14.e5 Se4 15.Kg1 Sxe5 16.Sxe5 Lxa4 17.b3 Lb5 18.Sd2 f6 19.Sef3 Lb4 20.Te3 f5 21.Lb2 Df7 0-1
+
+Reshevsky,Samuel Herman (2485) - Alburt,Lev O (2515) [A57]
+Reykjavik op Reykjavik (9), 1986
+
+1.d4 Sf6 2.Sf3 c5 3.d5 b5 4.c4 Lb7 5.a4 b4 6.Dc2 d6 7.e4 e5 8.dxe6 fxe6 9.Sbd2 Sc6 10.g3 g6 11.Sb3 Lg7 12.Lg2 0-0 13.0-0 De7 14.h3 Sxe4 15.Dxe4 Sd4 16.Dxb7 Se2+ 17.Kh2 Dxb7 18.Sg1 Da6 19.Sxe2 Dxc4 20.Lf4 Dxe2 21.Lxa8 Txa8 22.Lxd6 Dd3 0-1
+
+Reshevsky,Samuel Herman (2485) - Alterman,Vladimir I (2370) [D11]
+Holon op Holon, 1986
+
+1.d4 d5 2.Sf3 Sf6 3.c4 c6 4.e3 Lg4 5.Sc3 e6 6.h3 Lh5 7.Le2 Sbd7 8.Db3 Db6 9.0-0 Le7 10.Dd1 0-0 11.b3 Tfd8 12.c5 Da5 13.Lb2 b6 14.cxb6 axb6 15.a3 Da7 16.g4 Lg6 17.Sh4 Db8 18.Sxg6 hxg6 19.Lf3 e5 20.dxe5 Sxe5 21.Lg2 Se8 22.Dc2 Lf6 23.g5 Le7 24.Tfd1 Sd7 25.h4 Sc5 26.b4 Se6 27.b5 d4 28.exd4 Sxd4 29.De4 Lc5 30.bxc6 Sc7 31.Se2 Te8 32.Txd4 Txe4 33.Txe4 Dd8 34.Sc3 Dd2 35.Te2 Df4 36.Se4 Te8 37.Tae1 Txe4 38.Lxe4 Dxh4 39.Le5 Dxg5+ 40.Lg2 Se6 41.c7 Sxc7 42.Lxc7 Dh4 43.Ld8 g5 44.Le7 Ld4 45.Td1 Dg4 46.Kf1 f6 47.Ld5+ Kh8 48.Td3 Le5 49.Le4 f5 50.Lg2 1-0
+
+Reshevsky,Samuel Herman (2485) - Arnason,Arni A (2240) [D35]
+Reykjavik op Reykjavik (2), 1986
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.cxd5 exd5 5.Lf4 Sf6 6.e3 0-0 7.Ld3 c6 8.Dc2 Lg4 9.h3 Lh5 10.Sge2 Lg6 11.0-0 Te8 12.a3 Lxd3 13.Dxd3 Ld6 14.Lg5 Sbd7 15.b4 a6 16.Sa4 h6 17.Lh4 Dc7 18.Sc5 Se4 19.Sxe4 Txe4 20.Lg3 Sb6 21.a4 Sc4 22.b5 Tae8 23.Lxd6 Dxd6 24.Sg3 T4e6 25.bxa6 bxa6 26.e4 Df4 27.Ta2 Tb8 28.e5 c5 29.Se2 De4 30.Dxe4 dxe4 31.Tc1 Tb2 32.Txb2 Sxb2 33.Txc5 Sxa4 34.Tc8+ Kh7 35.Sg3 f6 36.Sxe4 fxe5 37.d5 Sb6 38.d6 Sd7 39.Td8 Sb6 40.d7 Kg6 41.Te8 1-0
+
+Reshevsky,Samuel Herman (2485) - Hickl,Joerg (2370) [E80]
+Holon op Holon, 1986
+
+1.d4 Sf6 2.c4 c5 3.d5 g6 4.Sc3 d6 5.e4 Lg7 6.f3 Sa6 7.Lg5 Sc7 8.Ld3 e6 9.Dd2 0-0 10.Sge2 exd5 11.cxd5 Tb8 12.0-0 b5 13.Tac1 Ld7 14.Sd1 Sa6 15.Kh1 Te8 16.Df4 Sb4 17.Lb1 h6 18.Lxh6 Sbxd5 19.Dd2 De7 20.Sf2 Tbd8 21.Tcd1 Sb6 22.Lg5 d5 23.Df4 Lc8 24.Sg4 Lxg4 25.fxg4 dxe4 26.Txd8 Txd8 27.Lxe4 Td6 28.h3 De6 29.Sg3 Sh7 30.Lh6 Le5 31.Df3 Td8 32.Se2 Te8 33.Lc6 Tc8 34.Lxb5 Lxb2 35.Sf4 Dxa2 36.Ld3 Lg7 37.Lxg7 Kxg7 38.Db7 Sf8 39.Le4 Dc4 40.Tf3 Td8 41.Dxa7 Dxe4 42.Dxb6 Td1+ 43.Kh2 Td5 44.Db3 Td4 45.g3 Td2+ 46.Sg2 Se6 47.Dc3+ Sd4 48.Te3 Dd5 49.Dxd2 Sf3+ 50.Txf3 Dxd2 51.Kg1 c4 52.Kf1 c3 53.Se1 c2 54.Sxc2 Dxc2 55.Kg1 Kf8 56.Tf2 Dd3 57.Kg2 De3 58.Tf4 Dd2+ 59.Kg1 De3+ 60.Kh2 Dd2+ 61.Kg1 Dd7 62.Kh2 Ke7 63.g5 Ke6 64.h4 Ke5 65.Kg2 Dd2+ 66.Kf3 Dc2 67.Kg4 ½-½
+
+Reshevsky,Samuel Herman (2485) - Illescas Cordoba,Miguel (2465) [A56]
+Holon op Holon, 1986
+
+1.d4 Sf6 2.c4 c5 3.d5 a6 4.a4 e5 5.Sc3 d6 6.g3 Le7 7.Lg2 0-0 8.Sf3 Se8 9.e4 Sd7 10.0-0 g6 11.Se1 Sg7 12.Sd3 f5 13.f4 Lf6 14.Ld2 exf4 15.Lxf4 Ld4+ 16.Kh1 Sf6 17.exf5 Lxc3 18.bxc3 Lxf5 19.Sf2 Dd7 20.Dd2 Sgh5 21.Lh6 Tfe8 22.a5 Se4 23.Sxe4 Lxe4 24.Lxe4 Txe4 25.Tae1 Txe1 26.Dxe1 Te8 27.Df2 Sg7 28.g4 De7 29.Kg1 ½-½
+
+Reshevsky,Samuel Herman (2485) - Kristiansen,Jens (2395) [B08]
+Reykjavik op Reykjavik (4), 1986
+
+1.d4 g6 2.e4 Lg7 3.Sf3 d6 4.Le2 Sf6 5.Sc3 0-0 6.0-0 c6 7.a4 Sbd7 8.a5 e5 9.Le3 Dc7 10.Dd2 Te8 11.d5 cxd5 12.Sb5 Db8 13.exd5 a6 14.Sc3 Sg4 15.Lg5 h6 16.Lh4 b5 17.Se1 Sgf6 18.f3 Lb7 19.b4 e4 20.Lxf6 Sxf6 21.fxe4 Sxe4 22.Sxe4 Lxa1 23.Lf3 Lg7 24.Df4 Da7+ 25.Kh1 f5 26.Sg3 Tad8 27.Sd3 Dd4 28.Se2 Dxf4 29.Sexf4 g5 30.Se6 Tc8 31.Lh5 Te7 32.Txf5 Txc2 33.h4 Td2 34.hxg5 Txd3 35.Lf3 hxg5 36.Txg5 Lc8 37.Tg6 Lxe6 38.dxe6 d5 39.Tg5 Txf3 40.gxf3 d4 1-0
+
+Reshevsky,Samuel Herman (2485) - Magen,Avraham (2260) [A55]
+Holon op Holon, 1986
+
+1.d4 Sf6 2.c4 d6 3.Sc3 Sbd7 4.Sf3 c6 5.e4 e5 6.Le2 Le7 7.0-0 0-0 8.Te1 Te8 9.Lf1 Dc7 10.Tb1 a5 11.a3 Sf8 12.h3 Sg6 13.b4 axb4 14.axb4 Ld7 15.Db3 exd4 16.Sxd4 Lf8 17.Lg5 Sh5 18.Dd1 Shf4 19.Dd2 Se6 20.Le3 Sxd4 21.Lxd4 f5 22.exf5 Lxf5 23.Txe8 Txe8 24.Ta1 Df7 25.g3 Se5 26.Lxe5 Txe5 27.Ta8 Te8 28.Ta7 Dc7 29.b5 Db6 30.Ta1 Lg6 31.Sd1 Dc5 32.Se3 Le7 33.h4 Tf8 34.Td1 Le4 35.Dd4 Dxd4 36.Txd4 Lf3 37.Lg2 Lxg2 38.Kxg2 g6 39.Td1 Ta8 40.bxc6 bxc6 41.Tb1 Kf7 42.Tb6 Tc8 43.Tb7 Ke6 44.Kf3 d5 45.cxd5+ cxd5 46.Sxd5 Ld6 47.Sf4+ Lxf4 48.Kxf4 h6 49.g4 Kf6 50.Kg3 Th8 51.f3 g5 52.h5 Ke6 53.f4 gxf4+ 54.Kxf4 Kf6 55.Ta7 Ke6 56.Ta6+ Kd5 57.Kf5 Tf8+ 58.Tf6 Th8 59.Tf7 Kd6 60.Kf6 Tg8 61.Tg7 1-0
+
+Reshevsky,Samuel Herman (2485) - Olafsson,David (2325) [A52]
+Reykjavik op Reykjavik (6), 1986
+
+1.d4 Sf6 2.c4 e5 3.dxe5 Sg4 4.Sf3 Sc6 5.Lf4 Lb4+ 6.Sc3 De7 7.Dd5 Lxc3+ 8.bxc3 f6 9.exf6 Sxf6 10.Dd3 d6 11.e3 0-0 12.Le2 Sd8 13.c5 d5 14.c4 Se6 15.Le5 Sxc5 16.Dd4 dxc4 17.Dxc4+ Le6 18.Dh4 Sce4 19.0-0 Lg4 20.Lb2 Tad8 21.h3 Le6 22.Tfd1 Txd1+ 23.Lxd1 Db4 24.Le5 c5 25.Lc2 Sd2 26.Lxf6 Sxf3+ 27.gxf3 Txf6 28.Dxh7+ Kf7 29.Dh5+ Ke7 30.De5 Txf3 31.Dxg7+ Tf7 32.Dg5+ Kf8 33.Td1 Ld7 34.Lg6 Da4 35.Td6 Tg7 36.Tf6+ Kg8 37.Lf7+ 1-0
+
+Reshevsky,Samuel Herman (2485) - Karl,Hans (2310) [E91]
+Lugano op Lugano (4), 1985
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Sf3 0-0 6.Le2 c5 7.0-0 Lg4 8.d5 e6 9.Le3 exd5 10.cxd5 a6 11.a4 Sbd7 12.Sd2 Lxe2 13.Dxe2 Se8 14.a5 Sc7 15.Ta3 De7 16.Tb3 Tab8 17.Te1 Tfe8 18.Sc4 Se5 19.Lf4 Sxc4 20.Dxc4 Le5 21.Lxe5 Dxe5 22.Te3 Dd4 23.De2 Te7 24.g3 Se8 25.Td3 Df6 26.Tb6 c4 27.Td1 Tc8 28.Tb4 Tc5 29.Txc4 Txa5 30.b4 Ta3 31.Db2 Txc3 32.Dxc3 Dxc3 33.Txc3 Txe4 34.Te3 1-0
+
+Reshevsky,Samuel Herman (2460) - Arnason,Jon L (2500) [A70]
+Reykjavik op Reykjavik (9), 1984
+
+1.d4 Sf6 2.c4 e6 3.Sf3 c5 4.d5 exd5 5.cxd5 d6 6.Sc3 g6 7.Sd2 Lg7 8.e4 0-0 9.Ld3 Te8 10.0-0 Sbd7 11.Sc4 Se5 12.Sxe5 Txe5 13.Lf4 Te8 14.Dd2 a6 15.a4 c4 16.Lc2 Tb8 17.a5 b5 18.axb6 Dxb6 19.Le3 ½-½
+
+Reshevsky,Samuel Herman (2460) - Blocker,Calvin (2390) [E12]
+New York International New York (3), 1984
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.Sc3 Lb7 5.a3 Le7 6.d5 0-0 7.e4 d6 8.Ld3 c6 9.0-0 cxd5 10.cxd5 exd5 11.exd5 Sbd7 12.Te1 Te8 13.Lf4 a6 14.a4 g6 15.Lf1 Sh5 16.Le3 Tc8 17.Le2 Shf6 18.h3 Se5 19.Sd2 Lf8 20.Sde4 Sxe4 21.Sxe4 h6 22.Sc3 Sd7 23.Dd4 Lg7 24.Df4 Sc5 25.Tad1 Tc7 26.Lf1 Tce7 27.Ld2 Sb3 28.Txe7 Dxe7 29.Le3 Sc5 30.Ld4 f5 31.b4 Sd7 32.Td3 Lxd4 33.Dxd4 Df6 34.Df4 g5 35.Dd2 Kg7 36.f4 Sf8 37.Tg3 Sg6 38.fxg5 De5 39.gxh6+ Kh7 40.Dg5 Tg8 41.Te3 Dd4 42.Se2 1-0
+
+Reshevsky,Samuel Herman - Christiansen,Larry Mark [E39]
+Hollywood m Hollywood (7), 1984
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 c5 5.dxc5 0-0 6.a3 Lxc5 7.Sf3 Sc6 8.Lf4 b6 9.Td1 Lb7 10.e3 Sh5 11.Lg3 f5 12.b4 Le7 13.Le2 Sxg3 14.hxg3 a6 15.g4 g6 16.gxf5 gxf5 17.e4 fxe4 18.Sxe4 Tf7 19.Th5 Tg7 20.Sfg5 Lxg5 21.Sxg5 De7 22.Txh7 Se5 23.f4 d5 24.Th6 Sxc4 25.Dc3 Sd6 26.Ld3 e5 27.Lh7+ Txh7 28.Txh7 Df6 29.Dg3 Dg6 30.Dh3 Te8 31.Th8+ Kg7 32.Txe8 Dxe8 33.Dh7+ Kf6 34.Dh6+ Kf5 35.g4+ Kxg4 36.Dh3+ Kxf4 37.Se6+ 1-0
+
+Reshevsky,Samuel Herman (2460) - Haik,Aldo (2405) [A55]
+New York International New York (6), 1984
+
+1.d4 Sf6 2.c4 d6 3.Sc3 Sbd7 4.e4 e5 5.Sf3 Le7 6.Le2 0-0 7.0-0 c6 8.Te1 Te8 9.Lf1 a6 10.a4 a5 11.Dc2 Lf8 12.h3 exd4 13.Sxd4 g6 14.Lf4 Dc7 15.Tad1 Sc5 16.g3 Sfd7 17.Le3 Lg7 18.f4 Db6 19.g4 Sf6 20.Lf2 Db4 21.f5 Sfd7 22.g5 Se5 23.b3 Sf3+ 24.Sxf3 Dxc3 25.Dxc3 Lxc3 26.Te3 Lb4 27.fxg6 hxg6 28.e5 dxe5 29.Txe5 Se6 30.h4 Kf8 31.Se1 Sf4 32.Txe8+ Kxe8 33.Le3 Sh5 34.Sc2 Le7 35.Le2 Lf5 36.Sd4 Le4 37.Lf3 Lxf3 38.Sxf3 Td8 39.Txd8+ Lxd8 40.Kg2 Ke7 41.Sd2 Ke6 42.Kf3 f5 43.Ld4 Lc7 44.Lf2 Le5 45.c5 Lc3 46.Sc4 Kd7 47.Le3 Sg7 48.Sd6 Se6 49.Sxb7 Lb4 50.Sd6 Le1 51.Lf2 Lxf2 52.Kxf2 Sxc5 53.Sc4 Sxb3 54.Se5+ Ke6 55.Sxg6 Sc5 56.Kf3 Sxa4 57.h5 Kf7 58.Se5+ Kg7 59.Kf4 Sb6 60.Kxf5 Sc8 61.h6+ Kh7 62.Kf6 Sd6 63.g6+ Kxh6 64.Sf7+ 1-0
+
+Reshevsky,Samuel Herman (2460) - Hardarson,Robert (2295) [A77]
+Reykjavik op Reykjavik (2), 1984
+
+1.d4 Sf6 2.Sf3 e6 3.c4 c5 4.d5 exd5 5.cxd5 d6 6.Sc3 g6 7.Sd2 Lg7 8.e4 0-0 9.Le2 Te8 10.0-0 a6 11.a4 Sbd7 12.Dc2 Dc7 13.Sc4 Se5 14.Sa3 c4 15.Lf4 Sfd7 16.Tfe1 Tb8 17.Tac1 Da5 18.Sxc4 Sxc4 19.Lxc4 Se5 20.Lf1 Ld7 21.Db3 b5 22.axb5 axb5 23.Ta1 Dc7 24.Tec1 Sc4 25.Db4 Ld4 26.Ta6 Lc5 27.Db3 Db7 28.Tca1 Se5 29.h3 f5 30.exf5 Lxf5 31.Sxb5 Df7 32.Dg3 Sd3 33.Sxd6 Lxd6 34.Lxd6 Sxb2 35.Lxb8 1-0
+
+Reshevsky,Samuel Herman (2460) - Hjorth,Greg (2415) [D34]
+New York International New York (9), 1984
+
+1.d4 d5 2.c4 e6 3.Sf3 c5 4.cxd5 exd5 5.g3 Sc6 6.Lg2 Sf6 7.0-0 Le7 8.dxc5 Lxc5 9.Sc3 0-0 10.Sa4 Lb6 11.b3 Te8 12.Lb2 Lg4 13.Tc1 Dd6 14.Sxb6 axb6 15.a3 Tad8 16.Dd3 d4 17.Db5 Te4 18.Tfd1 h6 19.Dxb6 Txe2 20.La1 Te7 21.h3 Lxf3 22.Lxf3 Se5 23.Dxd6 Sxf3+ 24.Kg2 Txd6 25.Kxf3 Se4 26.Tc2 d3 27.Tc4 Sg5+ 28.Kg2 Ted7 29.h4 Se6 30.Td2 Td5 31.b4 b5 32.Tc1 Kh7 33.f4 Sc7 34.Kf3 f6 35.Tc6 h5 36.Tc5 Txc5 37.bxc5 Se6 38.c6 Td6 39.Ke3 Txc6 40.Txd3 Tc2 41.f5 Sc7 42.Td7 Kh6 43.Ld4 Tc6 44.Ke4 Sa6 45.Kd5 Tc2 46.Le3+ Kh7 47.Ld4 Kg8 48.Ta7 Sc7+ 49.Ke4 Tc4 50.Kd3 Tc6 51.Tb7 Kh7 52.Lc3 Tc5 53.Lb4 Td5+ 54.Kc2 Sa6 55.Lf8 Kg8 56.Lxg7 Txf5 57.Lh6 Tf2+ 58.Kd1 Tf3 59.Txb5 Txa3 60.Lf4 Ta2 61.Txh5 Sb4 62.Tf5 Kg7 63.h5 Sd3 64.Ld2 Se5 65.Lb4 Tg2 66.Le7 Sg4 67.Tf3 Kh6 ½-½
+
+Reshevsky,Samuel Herman (2460) - Hoi,Carsten (2400) [B38]
+Reykjavik op Reykjavik (4), 1984
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 0-0 5.Sf3 c5 6.Le2 cxd4 7.Sxd4 d6 8.0-0 Sc6 9.Le3 Ld7 10.Dd2 Sxd4 11.Lxd4 Lc6 12.f3 a5 13.Sd5 Lxd5 14.cxd5 Sd7 15.Tac1 Lxd4+ 16.Dxd4 Tc8 17.Lb5 Txc1 18.Txc1 Sc5 19.Kh1 Db6 20.a4 Tc8 21.h3 Dd8 22.Dc3 b6 23.f4 Df8 24.e5 Td8 25.Df3 Dh6 26.Tf1 Tf8 27.exd6 exd6 28.f5 Dh4 29.De3 g5 30.f6 Se4 31.Tf3 Kh8 32.Kg1 Sc5 33.g4 Tg8 34.Kg2 Dh6 35.Tf5 Dh4 36.De7 h5 37.Tf3 Tg6 38.Df8+ 1-0
+
+Reshevsky,Samuel Herman (2460) - Olafsson,Helgi (2445) [E12]
+New York International New York (4), 1984
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.Sc3 Lb7 5.a3 d5 6.cxd5 Sxd5 7.e3 g6 8.Lb5+ c6 9.Ld3 Lg7 10.0-0 0-0 11.Sa4 Sc7 12.De2 Sd7 13.Td1 De8 14.Ld2 e5 15.dxe5 c5 16.e4 Sxe5 17.Sxe5 Dxe5 18.Lc3 De7 19.Lxg7 Kxg7 20.Sc3 Tad8 21.De3 Td7 22.Lc2 Tfd8 23.Txd7 Txd7 24.Td1 Txd1+ 25.Lxd1 Se6 26.Lb3 Sd4 ½-½
+
+Reshevsky,Samuel Herman (2460) - Ree,Hans (2480) [A85]
+Reykjavik op Reykjavik (7), 1984
+
+1.d4 e6 2.c4 b6 3.Sc3 Lb4 4.Sf3 Lb7 5.e3 f5 6.Ld3 Sf6 7.0-0 Lxc3 8.bxc3 0-0 9.La3 d6 10.d5 exd5 11.Sd4 Te8 12.cxd5 Lxd5 13.c4 Le4 14.Sxf5 Sc6 15.Lb2 Lxd3 16.Dxd3 Se5 17.Dc2 Dd7 18.Tac1 Tf8 19.f3 Tae8 20.e4 Df7 21.h3 Sed7 22.Kh2 Sc5 23.Tce1 Dg6 24.g4 Tf7 25.Dd2 Td7 26.f4 ½-½
+
+Reshevsky,Samuel Herman (2460) - Schneider,Lars Ake (2440) [E12]
+Reykjavik op Reykjavik (10), 1984
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 La6 5.Dc2 Lb7 6.Sc3 c5 7.e4 cxd4 8.Sxd4 Lc5 9.Sb3 Sc6 10.Sxc5 bxc5 11.Ld3 d6 12.0-0 h6 13.Tb1 0-0 14.f4 Sd4 15.Dd1 Sd7 16.Le3 Tb8 17.b4 La8 18.Dd2 e5 19.f5 Dh4 20.h3 Tfc8 21.b5 Lb7 22.a4 Sf8 23.f6 gxf6 24.Lxh6 Sfe6 25.Le3 Kh8 26.Df2 Dxf2+ 27.Txf2 Tg8 28.Txf6 Sf4 29.Lxf4 exf4 30.Txf4 Tg3 31.Th4+ Kg7 32.Tg4+ Txg4 33.hxg4 Lc8 34.e5 dxe5 35.Te1 f6 36.g5 Lb7 37.gxf6+ Kxf6 38.Le4 Lxe4 39.Sxe4+ Kf5 40.Sxc5 Tc8 41.Se4 Kf4 42.Sd6 Tc5 43.Kf2 Sf5 44.Te4+ Kg5 45.Sxf5 Kxf5 46.Ke3 Tc7 47.g4+ Ke6 48.Kd3 Th7 49.Kc3 Th1 50.Kb4 Tf1 51.Te3 Tg1 52.a5 Txg4 53.b6 axb6 54.axb6 Kd7 55.Txe5 Tg1 56.Kc5 1-0
+
+Reshevsky,Samuel Herman (2460) - Solmundarson,Magnus (2265) [D25]
+Reykjavik op Reykjavik (1), 1984
+
+1.d4 d5 2.Sf3 Sf6 3.c4 dxc4 4.e3 Lg4 5.Lxc4 e6 6.h3 Lh5 7.Sbd2 Sbd7 8.Le2 c5 9.0-0 Le7 10.b3 0-0 11.Lb2 Tc8 12.a4 Sd5 13.Sc4 cxd4 14.Sxd4 Lxe2 15.Dxe2 Sc5 16.Tfd1 Se4 17.Sxe6 fxe6 18.Dg4 Sg5 19.h4 h5 20.Dg3 De8 21.hxg5 Dg6 22.f4 Lf6 23.Lxf6 gxf6 24.e4 h4 25.Df3 Sb4 26.gxf6 Txf6 27.Td7 Tcf8 1-0
+
+Reshevsky,Samuel Herman (2533) - Glueck,David (2360) [B08]
+US op Pasadena (10), 1983
+
+1.d4 g6 2.e4 Lg7 3.Sc3 d6 4.h3 a6 5.a4 Sf6 6.Sf3 0-0 7.Le2 b6 8.0-0 Lb7 9.d5 Sbd7 10.Sd4 Sc5 11.Lf3 e5 12.dxe6 Sxe6 13.Sxe6 fxe6 14.Lg5 De8 15.Ta3 Sd7 16.b4 Se5 17.Le2 Dc6 18.Tb3 Sf7 19.Ld2 d5 20.exd5 exd5 21.Sxd5 Kh8 22.b5 axb5 23.axb5 Dxd5 24.Lf3 Dd7 25.Lxb7 Tad8 26.Td3 Dxb5 27.Le3 Txd3 28.Dxd3 Dxd3 29.cxd3 Td8 30.Tc1 Txd3 31.Lf4 c5 32.La6 Ta3 33.Lc4 Se5 34.Te1 Sxc4 35.Te8+ Lf8 36.Lh6 1-0
+
+Reshevsky,Samuel Herman (2533) - Jarecki,John (2171) [D31]
+US op Pasadena (3), 1983
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.cxd5 exd5 5.Lf4 c6 6.e3 Lf5 7.g4 Lg6 8.Sf3 Sd7 9.Ld3 Sgf6 10.h3 Se4 11.Dc2 Sg5 12.Lxg5 Lxg5 13.0-0-0 Lxd3 14.Dxd3 Le7 15.Kb1 0-0 16.h4 b5 17.Sg5 Sf6 18.f3 Te8 19.e4 dxe4 20.fxe4 Sxg4 21.e5 g6 22.Df3 Lxg5 23.hxg5 Dxg5 24.Se4 Df5 25.Dxg4 1-0
+
+Reshevsky,Samuel Herman (2533) - Pahl,Roger (1800) [E12]
+US op Pasadena (7), 1983
+
+1.d4 Sf6 2.Sf3 b6 3.c4 Lb7 4.Sc3 e6 5.a3 d5 6.cxd5 Sxd5 7.e3 Le7 8.Lb5+ c6 9.Ld3 Sd7 10.0-0 c5 11.e4 Sxc3 12.bxc3 0-0 13.De2 Te8 14.Lb2 Sf6 15.Se5 Dc7 16.f4 Tad8 17.Kh1 Lf8 18.Tae1 a6 19.a4 b5 20.axb5 axb5 21.Tf3 g6 22.Th3 Lg7 23.Df2 cxd4 24.cxd4 Da5 25.De2 Sh5 26.Tf1 Sf6 27.f5 exf5 28.exf5 g5 29.Tg3 h6 30.Lxb5 Txe5 31.dxe5 Td2 32.Lc3 Txe2 33.Lxa5 Txe5 34.Tb3 Lc8 35.Lc3 Td5 36.Lc4 Tc5 37.Ld3 Ld7 38.Lb2 Td5 39.Lc4 Tc5 40.Ld3 Td5 41.Lb1 Lb5 42.Te1 Ld7 43.Tb8+ Kh7 44.Td8 Sg4 45.f6+ 1-0
+
+Reshevsky,Samuel Herman (2533) - Sanchez,Gabriel (2270) [D22]
+US op Pasadena (5), 1983
+
+1.d4 d5 2.c4 dxc4 3.Sf3 Sf6 4.e3 Lg4 5.Lxc4 e6 6.0-0 a6 7.h3 Lh5 8.Sc3 Sc6 9.Le2 Ld6 10.Sd2 Lxe2 11.Dxe2 e5 12.d5 Sb4 13.e4 Sc2 14.Tb1 Sd4 15.Dd3 0-0 16.Sc4 Sb5 17.Lg5 Le7 18.Le3 Sd7 19.Sa5 Sd6 20.b4 Lg5 21.Tfe1 g6 22.Sa4 Lxe3 23.Txe3 Sf6 24.Sc3 Dd7 25.Sc4 ½-½
+
+Reshevsky,Samuel Herman (2533) - Staggers,Tim (1860) [E92]
+US op Pasadena (1), 1983
+
+1.d4 Sf6 2.Sf3 g6 3.c4 Lg7 4.Sc3 0-0 5.e4 d6 6.Le2 e5 7.Le3 c6 8.Dd2 Sg4 9.Lg5 f6 10.Lh4 Sh6 11.h3 Sf7 12.0-0 Sd7 13.b4 Te8 14.Tfd1 Sf8 15.Lg3 Dc7 16.Dc2 f5 17.c5 dxc5 18.dxe5 Sxe5 19.Lc4+ Kh8 20.Sg5 Le6 21.Lxe6 Sxe6 22.Sxe6 Txe6 23.exf5 gxf5 24.Dxf5 Df7 25.Dc2 cxb4 26.Se2 Sd7 27.Sd4 Tee8 28.Tab1 a5 29.Sf5 Lc3 30.Sd6 Dg7 31.Sxe8 Txe8 32.Df5 Sb6 33.Dxa5 Sd5 34.Dc5 Dg6 35.Tbc1 Ta8 36.Txc3 1-0
+
+Reshevsky,Samuel Herman (2533) - Yee,Karl Y (2371) [A97]
+US op Pasadena (9), 1983
+
+1.d4 f5 2.Sf3 Sf6 3.c4 e6 4.g3 d6 5.Lg2 Le7 6.0-0 0-0 7.Sc3 De8 8.Te1 Se4 9.Dc2 Dg6 10.Sd2 Sxc3 11.Dxc3 Sc6 12.d5 Lf6 13.Dc2 Sd8 14.dxe6 Sxe6 15.Sf3 Ld7 16.Ld2 Lc6 17.Lc3 Dg4 18.b3 Le4 19.Db2 Lxc3 20.Dxc3 Tf6 21.h3 Dh5 22.Sd2 Lxg2 23.Kxg2 Th6 24.h4 Dg4 25.Df3 Txh4 26.Dxb7 Dh3+ 27.Kg1 Dh2+ 28.Kf1 Dh1+ 29.Dxh1 Txh1+ 30.Kg2 Txe1 31.Txe1 Te8 32.Sf3 a5 33.e3 g6 34.Td1 Tb8 35.Sd4 ½-½
+
+Reshevsky,Samuel Herman (2500) - Birnboim,Nathan (2460) [D76]
+Beersheba Beersheba (3), 1982
+
+1.d4 Sf6 2.Sf3 g6 3.c4 Lg7 4.g3 0-0 5.Lg2 d5 6.cxd5 Sxd5 7.0-0 Sc6 8.e4 Sb6 9.d5 Sa5 10.Sc3 c6 11.Te1 Te8 12.Sg5 Sbc4 13.h3 h6 14.Sf3 cxd5 15.exd5 Ld7 16.g4 ½-½
+
+Reshevsky,Samuel Herman (2500) - Ciocaltea,Victor (2460) [E96]
+Beersheba Beersheba (5), 1982
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Sf3 0-0 6.Le2 Sbd7 7.0-0 e5 8.Te1 c6 9.Lf1 a5 10.Tb1 Te8 11.d5 cxd5 12.cxd5 ½-½
+
+Reshevsky,Samuel Herman (2500) - Gurevich,Dmitry (2470) [A40]
+Beersheba Beersheba (12), 1982
+
+1.c4 c5 2.Sf3 g6 3.e4 Lg7 4.d4 Da5+ 5.Sc3 d6 6.Le2 Lg4 7.dxc5 dxc5 8.0-0 Sc6 9.Sd5 Lxf3 10.Lxf3 e6 11.Ld2 Dd8 12.Lc3 Sd4 13.Sf4 Se7 14.Sd3 b6 15.e5 Tc8 16.Le4 0-0 17.Dd2 Dc7 18.f4 Tcd8 19.Df2 f6 20.exf6 Lxf6 21.Kh1 Lg7 22.Tae1 Tf7 23.g4 Sc8 24.Lg2 ½-½
+
+Reshevsky,Samuel Herman - Gurevich,Dmitry [A57]
+New York New York, 1982
+
+1.d4 Sf6 2.c4 c5 3.d5 b5 4.Sf3 g6 5.a4 bxc4 6.Sc3 d6 7.e4 Lg7 8.h3 0-0 9.Lxc4 La6 10.Lb5 Lxb5 11.axb5 Sbd7 12.0-0 Dc8 13.De2 Db7 14.Sd2 Tfe8 15.Sc4 a6 16.Sa5 Dc8 17.Sc6 e6 18.Dd3 exd5 19.Sxd5 Sxd5 20.Dxd5 Lf8 21.Lg5 h6 22.Lh4 g5 23.Lxg5 Sb6 24.Dd2 axb5 25.Sa7 Dd7 26.Sxb5 Txa1 27.Txa1 Te6 28.Sc3 hxg5 29.Dxg5+ Tg6 30.Dh5 De6 31.Ta7 Lg7 32.Tb7 Sd7 33.Df5 Lxc3 34.bxc3 Se5 35.Tb8+ Kg7 36.Dh5 Th6 37.Dg5+ Sg6 38.Td8 Th8 39.Txh8 Kxh8 40.De3 Kg7 41.Kh2 Se5 42.g4 Dxg4 43.hxg4 Sxg4+ 44.Kg3 Sxe3 45.fxe3 c4 46.e5 dxe5 47.e4 Kg6 48.Kg4 f5+ 49.exf5+ Kf6 50.Kf3 Kxf5 51.Ke3 e4 52.Kf2 Kf4 53.Ke2 e3 54.Ke1 Ke5 55.Kf1 Kf4 56.Ke1 Kf5 57.Kf1 Ke5 58.Ke1 e2 59.Kf2 Kf4 0-1
+
+Reshevsky,Samuel Herman (2500) - Gutman,Lev (2450) [D77]
+Beersheba Beersheba (7), 1982
+
+1.Sf3 Sf6 2.d4 g6 3.c4 Lg7 4.g3 0-0 5.Lg2 d5 6.0-0 dxc4 7.Sa3 a5 8.Sxc4 Le6 9.Se3 a4 10.Dd3 Sc6 11.Ld2 Sd5 12.Tfc1 Sb6 13.Lc3 h6 14.Td1 Ld5 15.Sxd5 Sxd5 16.Le1 a3 17.b3 Scb4 18.Dc4 Sa6 19.e4 Sb6 20.De2 e6 21.b4 De7 22.Tab1 Sb8 23.Dc2 Tc8 24.Td3 S8d7 25.Tbb3 e5 26.dxe5 c5 27.Tb1 c4 28.Tdd1 Sxe5 29.Sxe5 Lxe5 30.f4 Lb2 31.e5 c3 32.Td3 Dxb4 33.Td6 Da4 34.Txg6+ Kf8 35.Df5 Dd4+ 36.Lf2 c2 37.Lxd4 cxb1D+ 38.Dxb1 Tc1+ 39.Dxc1 Lxc1 40.Txb6 1-0
+
+Reshevsky,Samuel Herman (2500) - Pasman,Michael (2310) [A30]
+Beersheba Beersheba (9), 1982
+
+1.c4 Sf6 2.Sc3 c5 3.Sf3 e6 4.g3 b6 5.Lg2 Lb7 6.d4 cxd4 7.Dxd4 Le7 8.0-0 d6 9.b3 0-0 10.Td1 Sbd7 11.Lb2 a6 12.De3 Dc7 13.Sd4 Lxg2 14.Kxg2 Tfe8 15.Tac1 Lf8 16.Kg1 Tac8 17.Se4 Sxe4 18.Dxe4 Db8 19.b4 Tc7 20.Tc2 ½-½
+
+Reshevsky,Samuel Herman (2500) - Shvidler,Eliahu (2200) [D99]
+Beersheba Beersheba (1), 1982
+
+1.d4 Sf6 2.Sf3 g6 3.c4 Lg7 4.Sc3 d5 5.Db3 dxc4 6.Dxc4 0-0 7.e4 Lg4 8.Le3 Sfd7 9.Td1 Sb6 10.Db3 e6 11.Lb5 Lxf3 12.gxf3 Dh4 13.e5 Sc6 14.Se4 h6 15.Lxc6 bxc6 16.Dc2 Sd5 17.Lc1 Se7 18.Ke2 Tad8 19.Le3 Td5 20.Sc3 Td7 21.De4 Dh5 22.Dg4 Tb8 23.b3 Sd5 24.Se4 Dxg4 25.fxg4 Lf8 26.Tc1 Tb6 27.Tc4 Ta6 28.Ta4 Txa4 29.bxa4 Td8 30.Tb1 Lb4 31.Lxh6 f5 32.exf6 Kf7 33.Tb3 Ld6 34.Tf3 g5 35.Lxg5 Tb8 36.Sxd6+ cxd6 37.Tb3 Tf8 38.Tb7+ Kg6 39.Tg7# 1-0
+
+Reshevsky,Samuel Herman (2500) - Stean,Michael (2505) [D47]
+Beersheba Beersheba (11), 1982
+
+1.d4 Sf6 2.Sf3 e6 3.c4 d5 4.Sc3 c6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 Lb7 9.0-0 b4 10.Sa4 c5 11.dxc5 Lxc5 12.Sxc5 Sxc5 13.Lb5+ Ke7 14.De2 ½-½
+
+Reshevsky,Samuel Herman (2485) - Bradford,Joseph M (2385) [A31]
+Lone Pine op Lone Pine, 1981
+
+1.d4 Sf6 2.c4 c5 3.Sf3 cxd4 4.Sxd4 b6 5.f3 Lb7 6.e4 d6 7.Le2 Sbd7 8.0-0 a6 9.Sc3 e6 10.Lg5 Le7 11.Dd2 0-0 12.Tfe1 Tc8 13.Tac1 Te8 14.Lf1 Se5 15.b3 h6 16.Le3 Lf8 17.Sc2 Dc7 18.Ld4 Sfd7 19.Df2 La8 20.Sa4 Sc5 21.Sb2 Db7 22.Sb4 Le7 23.S4d3 Sg6 24.Ted1 Sd7 25.Tc2 Lg5 26.Le3 Lxe3 27.Dxe3 d5 28.exd5 exd5 29.Df2 dxc4 30.Sxc4 b5 31.Sd6 Txc2 32.Dxc2 Db6+ 33.Sf2 Td8 34.Sf5 Sdf8 35.Txd8 Dxd8 36.Dc5 Dg5 37.b4 Lb7 38.Sd6 Dxc5 39.bxc5 Ld5 40.Sd3 a5 41.a3 Lc6 42.Sc1 Se6 43.Sb3 b4 44.axb4 axb4 45.Lb5 Se7 46.Kf2 Kf8 47.Lxc6 Sxc6 48.Ke3 Ke7 49.Sf5+ Kf6 50.Ke4 Sc7 51.Sfd4 Se7 52.Sc2 Sed5 53.Kd4 h5 54.Kc4 Ke5 55.Sc1 h4 56.Sd3+ Ke6 57.h3 f5 58.Sdxb4 Sf4 59.Se3 Sg6 60.c6 Se7 61.Kc5 Sc8 62.Sbd5 Sa6+ 63.Kb5 Sb8 64.c7 Sd6+ 65.Kc5 Sd7+ 66.Kd4 Sb5+ 67.Kc4 Sd6+ 68.Kd3 g6 69.Sc4 Sc8 70.Kd4 g5 71.Sce3 Sf8 72.f4 gxf4 73.Sxf4+ Kf6 74.Kd5 Sd7 75.Sc4 Sa7 76.Se6 f4 77.Kd6 1-0
+
+Reshevsky,Samuel Herman (2470) - Browne,Walter S (2570) [E12]
+USA-ch/zt South Bend (3), 1981
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 c5 5.d5 La6 6.Dc2 exd5 7.cxd5 g6 8.Sc3 Lg7 9.e4 Lxf1 10.Kxf1 d6 11.g3 0-0 12.Kg2 Te8 13.Te1 a6 14.a4 Sbd7 15.h3 Dc7 16.g4 c4 17.Lf4 Sc5 18.e5 dxe5 19.Sxe5 Sh5 20.gxh5 Lxe5 21.Lxe5 Txe5 22.Txe5 Dxe5 23.De2 Dxe2 24.Sxe2 Sd3 25.Sc3 Td8 26.hxg6 hxg6 27.Tb1 b5 28.axb5 axb5 29.Sxb5 Txd5 30.Sa3 Tg5+ 31.Kf3 Tf5+ 32.Ke3 Sxf2 33.Sxc4 Sxh3 34.b4 Sf4 ½-½
+
+Reshevsky,Samuel Herman (2485) - Burger,Karl (2405) [E48]
+Lone Pine op Lone Pine, 1981
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.Sge2 d5 7.0-0 cxd4 8.exd4 dxc4 9.Lxc4 Ld6 10.Sg3 a6 11.a3 b5 12.La2 Lb7 13.Lg5 h6 14.Lxf6 Dxf6 15.d5 Le5 16.dxe6 fxe6 17.Dg4 Kh8 18.Lxe6 Lxc3 19.bxc3 Sc6 20.Sh5 Dxc3 21.Tad1 Tad8 22.Sf4 Se5 23.Txd8 Txd8 24.Df5 Te8 25.Dh5 Lc6 26.Td1 Dc2 27.Ld5 Td8 28.Te1 Lxd5 29.Dxe5 Lf7 ½-½
+
+Reshevsky,Samuel Herman (2470) - Byrne,Robert E (2510) [D37]
+USA-ch/zt South Bend (5), 1981
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 Le7 5.Lf4 0-0 6.e3 c5 7.dxc5 Lxc5 8.cxd5 exd5 9.Le2 Sc6 10.0-0 Le6 11.Tc1 Tc8 12.Lg5 Le7 13.Sd4 Sxd4 14.Dxd4 Da5 15.a3 Tc6 16.e4 dxe4 17.Sxe4 Td8 18.De3 ½-½
+
+Reshevsky,Samuel Herman (2470) - Christiansen,Larry Mark (2575) [B51]
+Jacksonville playoff Jacksonville (1), 1981
+
+1.e4 c5 2.Sf3 Sc6 3.Lb5 d6 4.0-0 Ld7 5.c3 Sf6 6.Te1 a6 7.La4 b5 8.Lc2 Lg4 9.h3 Lxf3 10.Dxf3 g6 11.a4 Tb8 12.axb5 axb5 13.Sa3 Sd7 14.De2 Db6 15.Ld3 c4 16.Lc2 Sc5 17.d3 cxd3 18.Lxd3 Sxd3 19.Dxd3 Lg7 20.Le3 Db7 21.b4 0-0 22.f4 Tfc8 23.Sc2 Ta8 24.Kh2 h5 25.Ld2 e6 26.Sa3 Tab8 27.Sc2 Se7 28.Ta5 Sc6 29.Taa1 Ta8 ½-½
+
+Reshevsky,Samuel Herman (2470) - Christiansen,Larry Mark (2575) [E91]
+USA-ch/zt South Bend (14), 1981
+
+1.d4 Sf6 2.Sf3 c5 3.d5 g6 4.c4 Lg7 5.Sc3 0-0 6.e4 d6 7.Le2 e6 8.0-0 Te8 9.Sd2 Sa6 10.Te1 Sc7 11.Lf1 b6 12.Sf3 exd5 13.cxd5 Lg4 14.h3 Lxf3 15.Dxf3 Sd7 16.Lf4 Se5 17.Dg3 Lf6 18.a4 a6 19.De3 Tb8 20.Tab1 b5 21.b4 c4 22.Dd2 bxa4 23.Sxa4 Sb5 24.Lxe5 Lxe5 25.Lxc4 Df6 26.Dd3 h5 27.g3 h4 28.f4 hxg3 29.Tf1 Lxf4 30.Lxb5 axb5 31.Sc3 Dg5 32.Kg2 Le5 33.Tbe1 Kg7 34.Sxb5 Th8 35.Th1 Th4 36.Sd4 Txb4 37.Sf3 Df6 38.Thf1 Tf4 39.Te2 g5 40.Dc2 Tb8 41.Dd3 Th8 42.Tee1 g4 43.Sxe5 gxh3+ 44.Kg1 h2+ 45.Kh1 g2+ 46.Kxg2 h1D+ 47.Txh1 Tf2+ 0-1
+
+Reshevsky,Samuel Herman (2485) - Ivanov,Igor V (2430) [A36]
+Lone Pine op Lone Pine, 1981
+
+1.c4 c5 2.Sc3 g6 3.g3 Lg7 4.Lg2 Sc6 5.a3 e6 6.Tb1 Sge7 7.b4 cxb4 8.axb4 d5 9.cxd5 exd5 10.b5 Sa5 11.La3 d4 12.Se4 0-0 13.Sh3 Sc4 14.Lb4 Te8 15.Sf4 Sf5 16.Db3 Sb6 17.0-0 Le5 18.Df3 Ld7 19.Lc5 Tc8 20.Sd3 Lg7 21.h4 Sc4 22.Tfc1 Se5 23.Sxe5 Txe5 24.Lxa7 Txb5 25.Dd3 Txc1+ 26.Txc1 b6 27.Dc4 Le5 28.f4 Sxg3 29.fxe5 Sxe4 30.Dxd4 Sc5 31.Dd6 Se6 32.e3 Tb2 33.Tf1 Le8 34.Dxd8 Sxd8 35.d4 Sc6 36.Ta1 Se7 37.Tc1 La4 38.Le4 Sf5 39.Lxf5 gxf5 40.Tc8+ Kg7 41.d5 Lb3 42.d6 Le6 43.Tb8 Kg6 44.Txb6 Txb6 45.Lxb6 Kh5 46.Ld8 Kg4 47.Kf2 f4 ½-½
+
+Reshevsky,Samuel Herman (2470) - Kavalek,Lubomir (2595) [E12]
+Jacksonville playoff Jacksonville (2), 1981
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 c5 5.d5 La6 6.Dc2 exd5 7.cxd5 Lb7 8.e4 De7 9.Ld3 Sxd5 10.0-0 Sc7 11.Sc3 Sc6 12.Lg5 f6 13.Lf4 Se6 14.Sd5 Dd8 15.Lg3 Le7 16.Lc4 Dc8 17.Tad1 La6 18.Td2 Lxc4 19.Dxc4 Ld8 20.Tfd1 0-0 21.Se3 Scd4 22.Sxd4 cxd4 23.Txd4 Dxc4 24.Txc4 Tf7 25.Sf5 b5 26.Tc2 a6 27.Tdc1 Tf8 28.Td1 g6 29.Se3 Lb6 30.Sd5 Ld4 31.h4 Tf7 32.Ld6 Le5 33.Lb4 Sd4 34.Tcd2 a5 35.Lc3 Sb3 36.Td3 Sc5 37.Te3 Lxc3 38.Sxc3 b4 39.Sd5 bxa3 40.bxa3 Tb8 41.e5 fxe5 42.Txe5 Se6 43.Se3 Sf4 44.Sg4 Kf8 45.Txa5 Se2+ 46.Kh2 Tf4 47.Kh3 Tb3+ 48.f3 Td4 49.Txd4 Sxd4 50.Td5 Sc6 51.Sf6 Txa3 52.Sxh7+ Ke7 53.Sg5 Ta5 54.Td2 Sd8 55.Kg4 Se6 56.f4 Sg7 57.Sf3 d6 58.Sd4 Tc5 59.Td3 Kf7 60.Kf3 Se8 61.g4 Sg7 62.Ta3 Tc1 63.Ta7+ Kf8 64.h5 gxh5 65.g5 Tf1+ 66.Ke4 Te1+ 67.Kd5 Tf1 68.Ke4 Te1+ 69.Kf3 Tf1+ 70.Kg3 Td1 71.Sf3 Td3 72.Kf2 Tc3 73.g6 Tc4 74.Tf7+ Kg8 75.Sg5 h4 76.Kf3 Tc3+ 77.Kg4 Tg3+ 78.Kxh4 Tg1 79.Tf6 Se8 80.Tf7 Sg7 81.Td7 Sf5+ 82.Kh5 Sg7+ 83.Kh4 Sf5+ 84.Kh3 Tg3+ 85.Kh2 Tg4 86.Tf7 Txf4 87.Sh3 Tg4 88.Txf5 Txg6 89.Sg5 Kg7 90.Kg3 ½-½
+
+Reshevsky,Samuel Herman (2470) - Kogan,Boris (2440) [A33]
+USA-ch/zt South Bend (15), 1981
+
+1.Sf3 c5 2.c4 Sf6 3.Sc3 Sc6 4.d4 cxd4 5.Sxd4 e6 6.g3 Lc5 7.Sb3 Lb4 8.Lg2 d5 9.cxd5 Sxd5 10.0-0 Sxc3 11.Dxd8+ Sxd8 12.bxc3 Lxc3 13.Tb1 a5 14.Td1 f6 15.a3 Tf8 16.Sc5 Tf7 17.Lf4 g5 18.Ld6 e5 19.Ld5 Ld4 20.Lxf7+ Kxf7 21.e3 Lxc5 22.Lxc5 Lg4 23.Tdc1 Lf3 24.Lb6 Se6 25.Tb5 a4 26.h3 h5 27.Ta5 Txa5 28.Lxa5 Lc6 29.Tc4 Sg7 30.Lb6 Sf5 31.Lc5 Ke6 32.Tb4 Sh6 33.f4 g4 34.h4 Kf5 35.Ld6 Sf7 36.Lc7 Sh6 37.Kf2 Sg8 38.e4+ Lxe4 39.fxe5 Lc6 40.Tc4 Ke6 41.exf6 Sxf6 42.Lf4 Sd7 43.Ke3 Kf5 44.Kd4 Kf6 45.Lg5+ Kf7 46.Tc1 Sf8 47.Ke5 Kg6 48.Le7 Sd7+ 49.Ke6 Sb6 50.Tc5 Ld7+ 51.Kd6 Lc6 52.Ld8 Sc8+ 53.Ke6 Kh6 54.Lc7 1-0
+
+Reshevsky,Samuel Herman (2485) - Kogan,Boris (2430) [A75]
+Lone Pine op Lone Pine, 1981
+
+1.d4 Sf6 2.c4 c5 3.d5 g6 4.Sc3 Lg7 5.e4 d6 6.Sf3 0-0 7.Le2 e6 8.0-0 exd5 9.cxd5 a6 10.a4 Lg4 11.Lf4 Te8 12.Dc2 Dc7 13.h3 Lxf3 14.Lxf3 Sbd7 15.Tfe1 Tab8 16.Le2 h6 17.a5 Te7 18.Ta4 Tbe8 19.Kh1 Sh7 20.h4 h5 21.Dd3 Le5 22.Ld2 Sdf6 23.Lf3 Dd7 24.b3 Sg4 25.Lxg4 Dxg4 26.g3 Dh3+ 27.Kg1 f5 28.Df1 Dxf1+ 29.Kxf1 Sf6 30.exf5 Lxc3 31.Lxc3 Sxd5 32.Txe7 Txe7 33.Ld2 gxf5 34.f3 Kf7 35.Kf2 Ke6 36.g4 hxg4 37.fxg4 fxg4 38.Txg4 Sf6 39.Tf4 Th7 40.b4 Sd5 41.Te4+ Kd7 42.bxc5 dxc5 43.Ke2 Kc6 44.Te6+ Kb5 45.Te5 Kc4 46.h5 Kd4 47.Tg5 Te7+ 48.Kd1 Te4 49.h6 Th4 50.Tg1 c4 51.Lg5 Se3+ 52.Ke2 Th3 53.h7 Th2+ 54.Kf3 Th3+ 55.Ke2 Th2+ 56.Kf3 Th3+ 57.Ke2 ½-½
+
+Reshevsky,Samuel Herman (2470) - Peters,Jack (2445) [A46]
+USA-ch/zt South Bend (9), 1981
+
+1.d4 e6 2.g3 c5 3.Sf3 b5 4.Lg2 Lb7 5.c3 Sf6 6.0-0 h6 7.Sbd2 Le7 8.e4 cxd4 9.Sxd4 a6 10.e5 Sd5 11.c4 bxc4 12.Sxc4 Dc7 13.De2 0-0 14.Ld2 Sc6 15.Sb3 a5 16.De4 La6 17.Tfc1 Lxc4 18.Txc4 Dxe5 19.Dxe5 Sxe5 20.Ta4 Sd3 21.Lxd5 exd5 22.Lc3 Lb4 23.Td1 Lxc3 24.Txd3 Lxb2 25.Txd5 Lc3 26.Txd7 Tfd8 ½-½
+
+Reshevsky,Samuel Herman (2470) - Seirawan,Yasser (2565) [E12]
+USA-ch/zt South Bend (6), 1981
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 exd5 7.Lg5 Sbd7 8.g3 Le7 9.Lxf6 Sxf6 10.Da4+ c6 11.Lg2 0-0 12.0-0 c5 13.Tfd1 De8 14.Dc2 Td8 15.a4 a6 16.a5 b5 17.dxc5 Lxc5 18.e3 De7 19.Sd4 Tfe8 20.Tac1 Lb4 21.Sb3 Se4 22.Sxe4 dxe4 23.Txd8 Txd8 24.Sd4 Lxa5 ½-½
+
+Reshevsky,Samuel Herman (2485) - Sosonko,Gennadi (2595) [E12]
+Lone Pine op Lone Pine, 1981
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.Sc3 Lb7 5.a3 d5 6.cxd5 Sxd5 7.e3 Le7 8.Ld3 Sxc3 9.bxc3 c5 10.0-0 Sc6 11.De2 0-0 12.Td1 cxd4 13.cxd4 Sa5 14.Lb2 Tc8 15.e4 Lf6 16.Tac1 Txc1 17.Txc1 Db8 18.Td1 Tc8 19.e5 Le7 20.Sd2 Dc7 21.Dh5 g6 22.De2 Dd7 23.h3 Dd5 24.Le4 Da2 25.Lxb7 Sxb7 26.Se4 Lxa3 27.Dd2 Kg7 ½-½
+
+Reshevsky,Samuel Herman (2470) - Tarjan,James Edward (2540) [E12]
+USA-ch/zt South Bend (11), 1981
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 exd5 7.g3 Le7 8.Lg2 0-0 9.Lf4 c5 10.0-0 Sa6 11.dxc5 bxc5 12.Db3 Db6 13.Dxb6 axb6 14.Se5 Tab8 15.Tfd1 d4 16.Sb5 Lxg2 17.Kxg2 Tbc8 18.e3 dxe3 19.Lxe3 Sc7 20.Sxc7 Txc7 21.a4 Tb8 22.Ta3 Ta8 23.Sc4 Tb7 24.h3 Kf8 25.g4 Ke8 26.Lf4 Td8 27.Txd8+ Kxd8 28.Td3+ Ke8 29.Le5 Kf8 30.Kf3 Sd7 31.Lf4 h6 32.Kg2 Ta7 33.b3 Tb7 34.Kf1 Ke8 35.Sa3 Sb8 36.Sb5 Sc6 37.Ke2 Td7 38.Txd7 Kxd7 39.Lc7 Ld8 40.Lxd8 Sxd8 ½-½
+
+Reshevsky,Samuel Herman (2490) - Balashov,Yuri S (2600) [E46]
+Lone Pine op Lone Pine (1), 1980
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sge2 d5 6.a3 Le7 7.cxd5 Sxd5 8.Sxd5 exd5 9.Sf4 c6 10.Ld3 Sd7 11.b4 Sf6 12.0-0 a6 13.f3 Te8 14.g4 Ld6 15.Tf2 a5 16.b5 c5 17.Tg2 cxd4 18.exd4 Dc7 19.Se2 Le6 20.De1 Sd7 21.f4 Sf6 22.f5 Ld7 23.Tb1 Se4 24.b6 Dd8 25.Df1 Df6 26.Kh1 Tac8 27.Lb5 De7 28.Lxd7 Dxd7 29.Df3 Tc4 30.g5 a4 31.f6 g6 32.Lf4 Df5 33.Tf1 Lxf4 34.Dxf4 Dxf4 35.Sxf4 Txd4 36.Tc1 Sxg5 37.Se2 Tde4 38.Txg5 Txe2 39.Tc7 Tf2 40.Txb7 h6 41.Kg1 Tb2 42.Te7 Td8 43.Tge5 Txb6 44.Te8+ Txe8 45.Txe8+ Kh7 46.Ta8 Txf6 47.Txa4 Tf3 0-1
+
+Reshevsky,Samuel Herman (2490) - Barbeau,Sylvain [D97]
+Quebec op Montreal, 1980
+
+1.d4 Sf6 2.Sf3 g6 3.c4 Lg7 4.Sc3 d5 5.Db3 dxc4 6.Dxc4 0-0 7.e4 a6 8.Le2 b5 9.Db3 c5 10.dxc5 Le6 11.Dc2 Dc7 12.Le3 Sg4 13.Ld4 Lxd4 14.Sxd4 Dxc5 15.Td1 Sc6 16.Sd5 Dxc2 17.Sxc2 Sf6 18.Sc7 Tad8 19.Sxe6 Txd1+ 20.Kxd1 fxe6 21.f3 Td8+ 22.Kc1 e5 23.Td1 Sd4 24.Sxd4 exd4 25.e5 Sh5 26.g3 Sg7 27.Kd2 Sf5 28.Tc1 Td5 29.f4 Se3 30.b4 Td8 31.Tc6 Sd5 32.a3 a5 33.bxa5 b4 34.axb4 d3 35.Lf3 Sxb4 36.Tb6 Td4 37.Kc3 Sc2 38.Ld1 Td5 39.a6 Se3 40.Lb3 d2 41.a7 d1S+ 42.Lxd1 Sxd1+ 43.Kc4 1-0
+
+Reshevsky,Samuel Herman (2490) - Christiansen,Larry Mark (2485) [D97]
+Lone Pine op Lone Pine (5), 1980
+
+1.Sf3 Sf6 2.d4 g6 3.c4 Lg7 4.Sc3 d5 5.Db3 dxc4 6.Dxc4 0-0 7.e4 Sa6 8.Da4 c5 9.d5 Ld7 10.Lb5 Sb4 11.0-0 a6 12.Lxd7 Sxd7 13.Se1 Se5 14.a3 Sbd3 15.Sxd3 Sxd3 16.Dc4 Sxc1 17.Taxc1 Tc8 18.a4 Db6 19.Tc2 e6 20.f4 Tfe8 21.e5 Db4 22.b3 b5 23.axb5 axb5 24.Sxb5 exd5 25.Dxb4 cxb4 26.Tfc1 Txc2 27.Txc2 f6 28.Sc7 Tc8 29.e6 Lf8 30.Tc6 d4 31.Kf2 Td8 32.Ke2 d3+ 33.Kd2 f5 34.Ta6 Le7 35.Ta8 Txa8 36.Sxa8 Ld8 37.Kxd3 Kf8 38.Kc4 Ke7 39.Kxb4 Kxe6 40.Kc5 g5 41.fxg5 Lxg5 42.Sc7+ Ke5 43.Sd5 h5 44.b4 h4 45.b5 h3 46.g3 Ld8 47.Sf4 Ke4 48.Sxh3 Kf3 49.Sf4 Kf2 50.b6 Kg1 51.h4 Kf2 52.b7 Lc7 53.h5 Kxg3 54.Se6 1-0
+
+Reshevsky,Samuel Herman (2490) - De Firmian,Nick E (2430) [E12]
+Lone Pine op Lone Pine (7), 1980
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 c5 5.d5 d6 6.Sc3 exd5 7.cxd5 g6 8.e4 Lg7 9.Sd2 0-0 10.Le2 a6 11.a4 Ta7 12.0-0 Te7 13.f4 Se8 14.Sc4 b5 15.axb5 axb5 16.Sxb5 Txe4 17.Ld3 Te7 18.f5 Lxf5 19.Lxf5 gxf5 20.Lg5 f6 21.Lf4 Te4 22.Db3 Sd7 23.Sbxd6 Sxd6 24.Sxd6 Tb4 25.Dg3 Kh8 26.Sxf5 Tg8 27.b3 Lf8 28.Dh3 c4 29.bxc4 Txc4 30.Dd3 Db6+ 31.Kh1 Db2 32.Lg3 Se5 33.Db1 De2 34.Ta2 Dh5 35.d6 Tcg4 36.Lxe5 fxe5 37.Db5 e4 38.Ta8 Txg2 39.De5+ 1-0
+
+Reshevsky,Samuel Herman (2490) - Ginsburg,Mark (2370) [E46]
+Lone Pine op Lone Pine (3), 1980
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sge2 d5 6.a3 Le7 7.cxd5 exd5 8.Sf4 c6 9.Ld3 Sbd7 10.0-0 Te8 11.b4 Ld6 12.f3 Sf8 13.Sfe2 Dc7 14.h3 a5 15.Tb1 axb4 16.axb4 De7 17.e4 Lxb4 18.e5 Sh5 19.De1 Lxc3 20.Dxc3 g6 21.f4 f5 22.Ta1 Txa1 23.Dxa1 Dh4 24.Kh2 Se6 25.Ld2 Dd8 26.Da7 Shg7 27.Tb1 h6 28.Da3 Sc7 29.Lb4 g5 30.g3 Sce6 31.Tf1 Sf8 32.Dc1 Le6 33.g4 gxf4 34.Dxf4 Db6 35.Tb1 Sg6 36.Dxh6 Sxe5 37.Ld2 Sf3+ 38.Kg3 Dc7+ 39.Kxf3 Dh2 40.Lf4 fxg4+ 41.hxg4 Lxg4+ 42.Kxg4 Dg2+ 43.Sg3 Se6 1-0
+
+Reshevsky,Samuel Herman (2485) - Benjamin,Joel (2320) [E92]
+Lone Pine op Lone Pine (1), 1979
+
+1.c4 Sf6 2.Sc3 g6 3.e4 d6 4.d4 Lg7 5.Le2 0-0 6.Sf3 e5 7.Le3 De7 8.dxe5 dxe5 9.Sd5 Sxd5 10.cxd5 Td8 11.0-0 c6 12.Lc4 b5 13.Lb3 Lb7 14.Sg5 c5 15.d6 Txd6 16.Lxf7+ Kh8 17.Df3 Tf6 18.Dh3 h6 19.Tad1 Sc6 20.Td7 Lc8 21.Txe7 Lxh3 22.Tc7 Tc8 23.Txc6 Tcxc6 24.Ld5 Ld7 25.Sf7+ Kh7 26.Sxe5 Tc7 27.Sxd7 Txd7 28.Lxc5 Ta6 29.b4 Ta3 30.h4 h5 31.Td1 Kh8 32.Td2 Tc3 33.f4 Tc1+ 34.Kh2 Lf6 35.g3 Kg7 36.Tf2 a6 37.f5 Td1 38.fxg6 T1xd5 39.exd5 Txd5 40.Te2 a5 41.a3 Kxg6 42.Le7 Lxe7 43.Txe7 axb4 44.axb4 Kf6 45.Te4 Kf5 46.Tf4+ Kg6 47.Kg2 Td2+ 48.Kf3 Td3+ 49.Kf2 Td2+ 50.Ke3 Tg2 51.Kf3 Td2 52.g4 hxg4+ 53.Txg4+ Kf6 54.Ke4 Td1 55.Tg5 Th1 56.Th5 Kg6 57.Txb5 Txh4+ 58.Kd5 Kf6 59.Tb7 Th1 60.b5 Td1+ 61.Kc6 Tc1+ 62.Kb6 Ke6 63.Th7 Kd6 64.Kb7 Tb1 65.b6 Tb2 66.Th6+ Kd7 67.Th1 Td2 68.Tc1 Td3 69.Kb8 Td2 70.b7 Tb2 71.Ta1 Kc6 1-0
+
+Reshevsky,Samuel Herman (2485) - Gligoric,Svetozar (2560) [A30]
+Lone Pine op Lone Pine (3), 1979
+
+1.c4 c5 2.Sf3 Sf6 3.Sc3 e6 4.g3 b6 5.Lg2 Lb7 6.d4 cxd4 7.Dxd4 Le7 8.0-0 0-0 9.e4 d6 10.Td1 Sbd7 11.De3 a6 12.b3 Dc7 13.Lb2 Tfe8 14.h3 Lf8 15.Td2 Tad8 16.Tc1 Db8 17.La3 Sc5 18.Lxc5 bxc5 19.e5 dxe5 20.Txd8 Txd8 21.Sxe5 Lxg2 22.Kxg2 Dc7 23.Td1 Txd1 24.Sxd1 Sd7 25.Sxd7 Dxd7 26.Sc3 h6 27.h4 Le7 28.Sa4 Dd6 ½-½
+
+Reshevsky,Samuel Herman (2485) - Sigurjonsson,Gudmundur (2490) [E63]
+Lone Pine op Lone Pine (8), 1979
+
+1.c4 Sf6 2.Sc3 g6 3.d4 Lg7 4.Sf3 d6 5.g3 0-0 6.Lg2 Sc6 7.0-0 a6 8.b3 Tb8 9.Lb2 b5 10.cxb5 axb5 11.Tc1 Sa5 12.Dc2 Lb7 13.Tfd1 Dd7 14.Se1 Lxg2 15.Kxg2 c5 16.dxc5 Db7+ 17.e4 dxc5 18.f3 c4 19.Sd5 Sxd5 20.Txd5 cxb3 21.axb3 Tfc8 22.Db1 Txc1 23.Lxc1 e6 24.Td3 Dc7 ½-½
+
+Reshevsky,Samuel Herman (2485) - Van der Sterren,Paul (2400) [E15]
+Lone Pine op Lone Pine (5), 1979
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 La6 5.b3 c6 6.Lg2 d5 7.Sbd2 Sbd7 8.0-0 Le7 9.Te1 0-0 10.e4 Tc8 11.Lb2 c5 12.e5 Se8 13.Tc1 Sc7 14.a4 Sb8 15.dxc5 bxc5 16.La3 Sd7 17.Dc2 h6 18.h4 De8 19.Sh2 Sb6 20.a5 Sd7 21.f4 Sb8 22.f5 Dd7 23.f6 gxf6 24.exf6 Lxf6 25.Lxc5 Tfd8 26.Sg4 Lg7 27.Le3 dxc4 28.bxc4 Dd3 29.Sxh6+ Lxh6 30.Lxh6 Dxc2 31.Txc2 Sb5 32.Lg5 Td4 33.Lf6 Td7 34.Te5 Sd4 35.Tg5+ Kf8 36.Th5 1-0
+
+Reshevsky,Samuel Herman (2490) - Beliavsky,Alexander G (2545) [E14]
+Vilnius Vilnius (14), 1978
+
+1.d4 Sf6 2.c4 c5 3.Sf3 e6 4.e3 b6 5.Sc3 a6 6.Ld3 Lb7 7.0-0 Le7 8.e4 cxd4 9.Sxd4 d6 10.De2 Sc6 11.Sxc6 Lxc6 12.Lg5 0-0 13.Tad1 Db8 14.f4 h6 15.Lh4 b5 16.cxb5 axb5 17.Kh1 Ld8 18.a3 b4 19.axb4 Dxb4 20.Le1 Db7 21.e5 dxe5 22.fxe5 Sd7 23.Se4 Ta4 24.Sd6 Da8 25.Lb5 Lxb5 26.Dxb5 Tg4 27.Lg3 Sb6 28.Txf7 Da4 29.Txf8+ Kxf8 30.De2 Tg6 31.Tf1+ Kg8 32.Dd3 Dg4 33.Sf7 Le7 34.Db5 Dc4 35.De8+ Lf8 36.Sxh6+ Kh7 37.Dxf8 Txh6 38.Df3 Sd5 39.b3 Dc2 40.Dd1 Dc3 41.Tf3 Db4 42.Dd3+ Kg8 43.h3 Dg4 44.Le1 Sf4 45.Df1 Sg6 46.Lg3 Th5 47.Dd3 Kh7 48.Kg1 Db4 49.Kh2 Db7 50.Dd4 Kh6 51.b4 Db5 52.Dd6 Dc4 53.b5 Dxb5 54.Dxe6 De2 55.Tf5 De4 56.Txh5+ Kxh5 57.Df7 Kh6 58.Dg8 Sf4 59.Da2 Dxe5 60.Df7 Kg5 61.Dd7 Kf6 62.Dc6+ Kf5 63.h4 De4 64.Dd7+ Se6 65.Df7+ Kg4 66.Df2 g5 67.Df6 gxh4 68.Dxh4+ Kf5 69.Dh7+ 1-0
+
+Reshevsky,Samuel Herman (2490) - Damjanovic,Mato (2455) [D47]
+Vilnius Vilnius (12), 1978
+
+1.c4 Sf6 2.Sf3 e6 3.Sc3 d5 4.d4 c6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 Lb7 9.e4 b4 10.Sa4 c5 11.e5 Sd5 12.Sxc5 Lxc5 13.dxc5 Da5 14.De2 Sxc5 15.Lc4 Sb6 16.Ld2 Td8 ½-½
+
+Reshevsky,Samuel Herman (2490) - Dorfman,Josif D (2550) [D47]
+Vilnius Vilnius (8), 1978
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Sc3 c6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 Lb7 9.e4 b4 10.Sa4 c5 11.e5 Sd5 12.0-0 cxd4 13.Te1 g6 14.Lg5 Da5 15.Sd2 La6 16.Lxa6 Dxa6 17.Tc1 Lg7 18.Sc4 0-0 19.b3 h6 20.Lh4 Tac8 21.Dxd4 Tc6 22.Lg3 Tfc8 23.Dd2 T8c7 24.h3 S7b6 25.Saxb6 axb6 26.Kh2 Tc5 27.Sd6 Tc3 28.Se4 Txc1 29.Txc1 Txc1 30.Dxc1 Da8 31.h4 ½-½
+
+Reshevsky,Samuel Herman (2490) - Espig,Lutz (2470) [A55]
+Vilnius Vilnius (7), 1978
+
+1.d4 Sf6 2.Sf3 d6 3.c4 Sbd7 4.Sc3 e5 5.e4 Le7 6.Le2 0-0 7.0-0 c6 8.Te1 a6 9.d5 cxd5 10.cxd5 b5 11.a3 Sb6 12.b3 Lg4 13.Le3 Db8 14.Sd2 Ld7 15.f3 Tc8 16.Tc1 h6 17.Sa2 Db7 18.Txc8+ Sxc8 19.Dc2 Ld8 20.Lf1 Lb6 21.Dc3 Se7 22.Lxb6 Dxb6+ 23.De3 Db7 24.Tc1 Tc8 25.Txc8+ Dxc8 26.Sc3 Dc7 27.a4 Da5 28.Sa2 Sc8 29.Kf2 bxa4 30.b4 Dc7 31.Lxa6 Sb6 32.Ke1 Se8 33.g4 Sf6 34.Ld3 Sh7 35.h4 Sf8 36.h5 Sh7 37.Lf1 Sg5 38.Kd1 Sc8 39.Ke1 Db8 40.Kf2 Lb5 41.Lg2 Sb6 ½-½
+
+Reshevsky,Samuel Herman (2465) - Formanek,Edward W (2410) [A89]
+Lone Pine op Lone Pine (5), 1978
+
+1.d4 f5 2.g3 Sf6 3.Lg2 g6 4.c4 Lg7 5.Sc3 0-0 6.Sf3 d6 7.0-0 Sc6 8.d5 Sa5 9.Dd3 c5 10.Sg5 Tb8 11.Tb1 a6 12.h3 h6 13.Sf3 b5 14.Sd2 bxc4 15.Sxc4 Sxc4 16.Dxc4 Tb4 17.Dd3 Lb7 18.a3 Tb3 19.Dc2 Db6 20.e4 fxe4 21.Sxe4 Sxd5 22.Sd2 Tb5 23.Dxg6 Tf6 24.Dg4 Kh8 25.Se4 Lc8 26.Dxc8+ 1-0
+
+Reshevsky,Samuel Herman (2465) - Garcia Palermo,Carlos H (2385) [A17]
+Lone Pine op Lone Pine (4), 1978
+
+1.c4 e6 2.Sc3 Sf6 3.Sf3 b6 4.e4 Lb7 5.Ld3 Sc6 6.Lc2 e5 7.d4 exd4 8.Sxd4 Lc5 9.Le3 Se5 10.Sf5 0-0 11.De2 Lxe3 12.Sxe3 Te8 13.0-0 Sc6 14.Sf5 Se7 15.Se3 Sg6 16.f3 De7 17.Tad1 De5 18.Lb1 c6 19.g3 Dc7 20.Td2 Tad8 21.Tfd1 Se7 22.f4 d6 23.Df2 a6 24.a4 Sc8 25.g4 Sd7 26.g5 Sf8 27.h4 a5 28.h5 De7 29.Sf5 De6 30.h6 g6 31.Dd4 f6 32.Sg7 Dg4+ 33.Tg2 Dxf4 34.Sxe8 Txe8 35.Dxf6 Dxf6 36.gxf6 Se6 37.e5 Td8 38.exd6 Txd6 39.Txd6 Sxd6 40.Td2 Sf7 41.Td7 Lc8 42.Ta7 Sf8 43.Le4 Le6 44.Lxc6 Lxc4 45.Sd5 Sxh6 46.Se7+ 1-0
+
+Reshevsky,Samuel Herman (2490) - Lebredo Zarragoit,Gerardo (2385) [A26]
+Vilnius Vilnius (3), 1978
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 g6 5.Lg2 Lg7 6.0-0 0-0 7.d3 d6 8.a3 a5 9.Tb1 Sd4 10.Sd2 c6 11.e3 Sf5 12.Sf3 Te8 13.e4 Sd4 14.Sxd4 exd4 15.Se2 Sd7 16.b4 axb4 17.axb4 Sb6 18.Dc2 f5 19.c5 fxe4 20.cxb6 exd3 21.Dxd3 Lf5 22.Db3+ Kh8 23.Tb2 Dxb6 24.Sf4 Ta1 25.h3 Dc7 26.g4 Lc8 27.Tc2 Tf8 28.Ld2 Txf1+ 29.Lxf1 De7 30.Lc1 Le5 31.Te2 Df6 32.Sd3 Df3 33.Dc2 Lg7 34.Lf4 1-0
+
+Reshevsky,Samuel Herman (2490) - Lechtynsky,Jiri (2420) [D55]
+Vilnius Vilnius (5), 1978
+
+1.d4 Sf6 2.Sf3 e6 3.c4 d5 4.Sc3 Le7 5.Lg5 0-0 6.e3 h6 7.Lxf6 Lxf6 8.cxd5 exd5 9.b4 Te8 10.Le2 Lf5 11.0-0 c6 12.Ld3 Lg4 13.h3 Lxf3 14.Dxf3 Dd6 15.Tab1 Sd7 16.a4 a6 17.Tfd1 Sf8 18.e4 ½-½
+
+Reshevsky,Samuel Herman (2490) - Petrosian,Tigran V (2620) [E61]
+Vilnius Vilnius (10), 1978
+
+1.d4 Sf6 2.Sf3 d6 3.c4 Lg4 4.Sc3 g6 5.e3 Lg7 6.Le2 0-0 7.0-0 c6 8.h3 Lxf3 9.Lxf3 Te8 10.e4 e5 11.d5 c5 12.Lg5 Sbd7 13.Dd2 a6 14.Le2 Tb8 15.a3 Dc7 16.a4 Sf8 17.g3 h5 18.Ld3 S8h7 19.Le3 De7 20.Tab1 Sd7 21.h4 ½-½
+
+Reshevsky,Samuel Herman (2490) - Piesina,Gintautas (2200) [E49]
+Vilnius Vilnius (1), 1978
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 Lxc3+ 7.bxc3 dxc4 8.Lxc4 c5 9.Se2 Dc7 10.Ld3 Sc6 11.0-0 e5 12.Dc2 Le6 13.Tb1 Tac8 14.Lf5 Lxf5 15.Dxf5 Tfd8 16.Lb2 Dd7 17.Df3 De6 18.dxe5 Sxe5 19.Dxb7 Tb8 20.Dxa7 Da2 21.Dxc5 Sd3 22.Da5 Sxb2 23.Sd4 Sc4 24.Txb8 Txb8 25.Dc7 Tf8 26.h3 Sd2 27.Te1 Sde4 28.Tf1 Dxa3 29.c4 Dc5 30.Df4 Dxc4 31.Tb1 h6 32.Tb8 Txb8 33.Dxb8+ Kh7 34.Df4 Sd2 35.Sf5 Dc1+ 0-1
+
+Reshevsky,Samuel Herman (2465) - Rogoff,Kenneth (2520) [E05]
+Lone Pine op Lone Pine (7), 1978
+
+1.d4 Sf6 2.c4 e6 3.g3 d5 4.Lg2 Le7 5.Sf3 0-0 6.0-0 dxc4 7.Da4 a6 8.Dxc4 b5 9.Dc2 Lb7 10.Sbd2 Sbd7 11.e4 c5 12.e5 Sd5 13.De4 Db6 14.dxc5 Sxc5 15.Dg4 Tac8 16.h4 Sd3 17.Sb3 Tc4 18.Dh5 f5 19.exf6 Sxf6 20.Dg5 Lxf3 21.Lxf3 Sd5 22.Dh5 g6 23.Dxd5 exd5 24.Lxd5+ Kg7 25.Le3 Dd6 26.Lg2 Sxb2 27.Tab1 Lf6 28.Sd2 Da3 29.Sxc4 bxc4 30.g4 Kh8 31.g5 Lg7 32.Tfe1 c3 33.Le4 Db4 0-1
+
+Reshevsky,Samuel Herman (2465) - Speelman,Jonathan S (2410) [E43]
+Lone Pine op Lone Pine (2), 1978
+
+1.c4 b6 2.Sc3 Lb7 3.d4 e6 4.e3 Sf6 5.Sf3 Lb4 6.Ld3 c5 7.0-0 0-0 8.Sa4 cxd4 9.exd4 Le7 10.Te1 Te8 11.Lf4 d6 12.Tc1 Sbd7 13.a3 Tc8 14.b4 Sf8 15.c5 Sg6 16.Lg3 Sd5 17.Lb5 Tf8 18.Dd2 Sc7 19.Lf1 Lxf3 20.gxf3 h5 21.cxd6 Lxd6 22.Tc6 Lxg3 23.hxg3 h4 24.Sc3 Se7 25.Tc4 Sf5 26.Se2 hxg3 27.fxg3 Sd5 28.Txc8 Dxc8 29.g4 Sfe3 30.Sf4 Dc7 31.Sh5 Sxf1 32.Txf1 Dc3 33.Dxc3 Sxc3 34.Kf2 Tc8 35.Sf4 Tc6 36.Ke3 b5 37.g5 Sa4 38.Se2 Sb6 39.Kd3 Sd5 40.f4 Kf8 41.f5 Ke7 ½-½
+
+Reshevsky,Samuel Herman (2465) - Van Riemsdijk,Herman C (2375) [E01]
+Lone Pine op Lone Pine (9), 1978
+
+1.d4 Sf6 2.c4 c5 3.Sf3 cxd4 4.Sxd4 e6 5.g3 d5 6.Lg2 dxc4 7.Da4+ Sbd7 8.0-0 e5 9.Sf5 g6 10.Sh6 De7 11.Sc3 Db4 12.Dc2 Sb6 13.Lg5 Lg7 14.Tad1 Le6 15.Lxb7 Tb8 16.a3 Dc5 17.Le3 De7 18.Lc6+ Kf8 19.Td2 Td8 20.Lg2 Sg8 21.Sxg8 Kxg8 22.a4 Db4 23.Ta1 Da5 24.Lb7 Tb8 25.Lf3 h6 26.h4 h5 27.Td6 Te8 28.Sb5 Sc8 29.Ld2 1-0
+
+Reshevsky,Samuel Herman (2490) - Adorjan,Andras (2530) [B09]
+IBM Amsterdam (4), 1977
+
+1.e4 d6 2.d4 Sf6 3.Sc3 g6 4.f4 Lg7 5.Sf3 0-0 6.Ld3 Sc6 7.e5 dxe5 8.dxe5 Sd5 9.Ld2 Sb6 10.a3 f6 11.exf6 exf6 12.0-0 Lg4 13.h3 Lxf3 14.Dxf3 f5 15.Tad1 Kh8 16.Le3 Df6 17.Lb5 Tad8 18.Lxc6 Dxc6 19.Dxc6 bxc6 20.Txd8 Txd8 21.Td1 Td6 22.Lc5 Txd1+ 23.Sxd1 a6 24.b3 Sd5 25.g3 Sc3 26.Sf2 Se2+ 27.Kg2 Sd4 28.Lxd4 Lxd4 29.Sd3 a5 30.b4 a4 31.Kf3 Kg7 32.Ke2 Kf6 33.Kd2 Ke6 34.c3 Lg1 35.Sb2 c5 36.b5 Kd5 37.Ke2 h6 38.h4 h5 39.Kf3 c4 40.Sxa4 La7 41.Sb2 Lb6 42.a4 La5 43.Sd1 Kc5 44.Ke3 Lb6 45.Kd2 c6 46.bxc6 Kxc6 47.Se3 Kc5 48.Sc2 Kd6 49.Sd4 Kd5 50.Kd1 La5 51.Kc2 Lc7 52.Sf3 Lb6 53.Se5 Lf2 54.a5 Kc5 55.a6 Kb5 56.Sxg6 Kxa6 ½-½
+
+Reshevsky,Samuel Herman (2490) - Browne,Walter S (2545) [B85]
+Lone Pine op Lone Pine (9), 1977
+
+1.e4 c5 2.Sf3 e6 3.d4 cxd4 4.Sxd4 a6 5.Sc3 Dc7 6.Le2 Sc6 7.Le3 Sf6 8.0-0 Le7 9.f4 d6 10.De1 0-0 11.Dg3 Sxd4 12.Lxd4 b5 13.e5 dxe5 14.Lxe5 Dc5+ 15.Kh1 Lb7 16.Ld3 g6 17.Tae1 b4 18.Sd1 Sh5 19.Dh3 f6 20.Dxe6+ Tf7 21.Lc4 Taf8 22.Lb8 Kh8 23.Sf2 Tg7 24.Sd3 Dc8 25.Ld6 Lxd6 26.Dxd6 Sg3+ 27.Kg1 Sxf1 28.Kxf1 a5 29.Sc5 Db8 30.Dd4 Td8 31.De3 Ld5 32.Lxd5 Txd5 33.Sd3 Dc8 34.Te2 Tf7 35.b3 Kg7 36.Sb2 Dg4 37.h3 Df5 38.Sd3 h5 39.Df3 Dd7 40.g4 hxg4 41.hxg4 Tf8 42.Kg2 Td4 43.Sf2 Td2 44.Txd2 Dxd2 45.Db7+ Kh6 46.Kf3 Dc3+ 47.Kg2 Te8 48.g5+ fxg5 49.Dd7 Te3 50.Sg4+ Kh5 51.Sxe3 Dxe3 52.Dh7+ Kg4 53.Dd7+ Kxf4 54.Df7+ Kg4 55.Dd7+ ½-½
+
+Reshevsky,Samuel Herman (2490) - Byrne,Robert E (2580) [E63]
+USA-ch Mentor (8), 1977
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sc6 7.0-0 a6 8.b3 Tb8 9.Lb2 b5 10.cxb5 axb5 11.d5 Sa5 12.Te1 c5 13.dxc6 Sxc6 14.Sd4 Sxd4 ½-½
+
+Reshevsky,Samuel Herman (2490) - Dake,Arthur William (2365) [A26]
+Lone Pine op Lone Pine (3), 1977
+
+1.Sf3 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.0-0 d6 6.Sc3 e5 7.d3 Sc6 8.Tb1 a5 9.a3 Ld7 10.b4 axb4 11.axb4 Dc8 12.Lg5 Lh3 13.Lxf6 Lxf6 14.Sd5 Ld8 15.Ta1 Lxg2 16.Kxg2 Tb8 17.b5 Se7 18.Sc3 Sf5 19.Ta4 Sg7 20.Dd2 Se6 21.Dh6 Lf6 22.Sd5 Dd8 23.Sxf6+ Dxf6 24.Ta7 De7 25.De3 Tfe8 26.Sd2 Dg5 27.Se4 Dd8 28.Sc3 Kg7 29.h4 h5 30.Tb1 Te7 31.Sd5 Td7 32.Dd2 Ta8 33.Txa8 Dxa8 34.e3 Da3 35.d4 Td8 36.b6 cxb6 37.Txb6 exd4 38.exd4 Td7 39.De3 Dxe3 40.fxe3 f5 41.Kf3 Kf7 42.Ke2 Sd8 43.Kd3 Sc6 44.Sf4 Te7 45.Tb1 Td7 46.Sd5 Se7 47.Sf4 Sg8 48.e4 fxe4+ 49.Kxe4 Sf6+ 50.Kd3 Te7 51.Tf1 Kg7 52.d5 Sd7 53.Se6+ Kg8 54.Kd4 b6 55.Ta1 Sc5 56.Ta8+ Kh7 57.Sg5+ Kg7 58.Td8 Te1 59.Txd6 Td1+ 60.Ke3 Td3+ 61.Kf4 Td4+ 62.Ke5 Txc4 63.Tc6 Sd3+ 64.Ke6 Txc6+ 65.dxc6 Sc5+ 66.Ke7 Sa6 67.Se6+ Kh6 68.c7 Sxc7 69.Sxc7 g5 70.Kf6 gxh4 71.gxh4 1-0
+
+Reshevsky,Samuel Herman (2490) - Day,Lawrence A (2355) [D40]
+Lone Pine op Lone Pine (1), 1977
+
+1.c4 e6 2.Sc3 d5 3.d4 c5 4.e3 Sf6 5.Sf3 Sc6 6.a3 a6 7.cxd5 exd5 8.Le2 cxd4 9.exd4 Se4 10.0-0 Le7 11.Ld3 Sxc3 12.bxc3 0-0 13.Dc2 h6 14.Te1 Lg4 15.Dd1 Dd7 16.Lb1 Lf5 17.Se5 Sxe5 18.Lxf5 Dxf5 19.Txe5 Dd7 20.Df3 Tfd8 21.Lf4 Lf8 22.g4 f6 23.Tee1 Tac8 24.a4 Tc4 25.a5 Dc6 ½-½
+
+Reshevsky,Samuel Herman (2490) - Donner,Jan Hein (2470) [D35]
+IBM Amsterdam (15), 1977
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Sc3 Le7 5.cxd5 exd5 6.Lg5 c6 7.Lxf6 Lxf6 8.b4 Lg4 9.e3 Lxf3 10.gxf3 Sd7 11.Le2 Le7 12.Db3 Ld6 13.e4 dxe4 14.fxe4 Db6 15.Td1 Dxb4 16.Dc2 Sb6 17.Kf1 Td8 18.Tg1 Lxh2 19.Tg2 Lc7 20.a3 De7 21.e5 0-0 22.Se4 Lxe5 23.dxe5 Txd1+ 24.Lxd1 Dxe5 25.Dc3 Dxc3 26.Sxc3 Td8 27.Tg3 Sc4 28.a4 Kf8 29.Le2 Td4 30.Ld3 Se5 31.Lc2 h5 32.Ke2 g6 33.Se4 b6 34.Sg5 Tg4 35.Txg4 Sxg4 36.Le4 c5 37.Ld5 f6 38.Se4 Ke7 39.f4 Sh6 40.Sc3 Sf5 41.La2 Sd4+ 42.Kf2 Kf8 43.Se4 Ke7 44.Sc3 f5 45.Sd5+ Kd6 46.Sc3 Ke7 47.Sd5+ Kf8 48.Sc7 Kg7 49.Se8+ Kh6 50.Sd6 h4 51.Lc4 Sc2 52.Sc8 Sa3 53.Lf1 c4 54.Sxa7 g5 55.fxg5+ Kxg5 56.Sc8 c3 57.Ld3 ½-½
+
+Reshevsky,Samuel Herman (2490) - Ghizdavu,Dumitru (2410) [A57]
+USA-ch Mentor (6), 1977
+
+1.d4 Sf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.e3 g6 6.Sc3 Lg7 7.Sf3 d6 8.a4 0-0 9.Db3 Sbd7 10.Ta3 Tb8 11.Le2 axb5 12.Lxb5 La6 13.0-0 Lxb5 14.axb5 Se8 15.Dc4 Sc7 16.e4 Tb7 ½-½
+
+Reshevsky,Samuel Herman (2490) - Grefe,John A (2425) [E12]
+USA-ch Mentor (1), 1977
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.Sc3 Lb7 5.Lg5 h6 6.Lh4 g5 7.Lg3 Sh5 8.e3 Sxg3 9.hxg3 Lg7 10.Ld3 Sc6 11.g4 De7 12.a3 0-0-0 13.Dc2 h5 14.gxh5 g4 15.Sd2 f5 16.Se2 Dg5 17.0-0-0 Txh5 18.d5 Se5 19.Sf4 Sxd3+ 20.Dxd3 Df6 21.Dc2 Txh1 22.Txh1 Lh6 23.dxe6 dxe6 24.Th2 Lxf4 25.exf4 g3 26.fxg3 Dd4 27.Th1 Lxg2 28.Te1 Df2 29.Dd1 Lf3 30.Tf1 Txd2 0-1
+
+Reshevsky,Samuel Herman (2490) - Hulak,Krunoslav (2525) [E65]
+IBM Amsterdam (2), 1977
+
+1.c4 Sf6 2.Sf3 c5 3.Sc3 Sc6 4.g3 g6 5.Lg2 Lg7 6.0-0 0-0 7.d4 d6 8.dxc5 dxc5 9.Le3 Da5 10.Sd5 Sd7 11.Dc1 e6 12.Ld2 Dd8 13.Sc3 Sd4 14.Lh6 Sxf3+ 15.Lxf3 Se5 16.Lg2 Lxh6 17.Dxh6 Sxc4 18.Se4 De7 19.Dc1 Se5 20.Dc3 Sd7 21.Tac1 Tb8 22.Tfd1 e5 23.Sxc5 Sf6 24.Se4 Sxe4 25.Lxe4 Lh3 26.Dc7 Db4 27.Ld5 Tbc8 28.Dxe5 Txc1 29.Txc1 Dd2 30.Ta1 Tc8 31.f4 Lg4 32.Lxb7 Tc2 33.De8+ Kg7 34.De5+ Kg8 35.De8+ Kg7 ½-½
+
+Reshevsky,Samuel Herman (2490) - Lein,Anatoly (2525) [E09]
+USA-ch Mentor (10), 1977
+
+1.d4 Sf6 2.c4 e6 3.g3 d5 4.Lg2 Le7 5.Sf3 0-0 6.0-0 Sbd7 7.Dc2 c6 8.Sbd2 b6 9.e4 Lb7 10.b3 Tc8 11.Lb2 c5 12.e5 Se8 13.cxd5 Lxd5 14.Tac1 Sc7 15.Dd3 cxd4 16.Tfd1 Sc5 17.Dxd4 Lb7 18.Dg4 Sd3 19.Sf1 Lc5 20.Td2 Sa6 21.Sg5 Lxf2+ 22.Txf2 Txc1 23.Lxc1 Lxg2 24.Dh5 h6 25.Sxf7 De8 26.Sxh6+ gxh6 27.Txf8+ Dxf8 28.Dg6+ Kh8 29.Dxd3 Sb4 30.De2 Lb7 31.De3 Sxa2 32.Ld2 Dc5 33.Dxc5 bxc5 34.Lxh6 Ld5 35.Sd2 Sc1 36.Le3 Sxb3 37.Sxb3 Lxb3 38.Lxc5 a5 39.Kf2 Kg7 40.g4 a4 41.Kg3 1-0
+
+Reshevsky,Samuel Herman (2490) - Liberzon,Vladimir M (2550) [B69]
+IBM Amsterdam (8), 1977
+
+1.e4 c5 2.Sf3 Sc6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 d6 6.Lg5 e6 7.Dd2 a6 8.0-0-0 Ld7 9.f4 Le7 10.Sf3 b5 11.Lxf6 gxf6 12.Ld3 b4 13.Se2 Da5 14.Kb1 Dc5 15.Tc1 a5 16.c3 Db6 17.Sfd4 bxc3 18.Dxc3 Sxd4 19.Dxd4 Ld8 20.f5 Dxd4 21.Sxd4 Lb6 22.Sc6 Lc5 23.Lb5 Tg8 24.fxe6 fxe6 25.g3 Tg5 26.a4 Kf7 27.Thd1 Lxc6 28.Lxc6 Tb8 29.Lb5 h5 30.Tf1 h4 31.gxh4 Th5 32.Le2 Txh4 33.e5 f5 34.exd6 Lxd6 35.Lc4 Kf6 36.Tfe1 Le5 37.Tc2 Tb6 38.h3 Ld4 39.Td2 Lc3 0-1
+
+Reshevsky,Samuel Herman (2490) - Matera,Salvatore Joseph (2430) [E68]
+USA-ch Mentor (12), 1977
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sbd7 7.0-0 e5 8.Dc2 c6 9.e4 De7 10.Td1 exd4 11.Sxd4 a5 12.h3 Sc5 13.Lf4 Td8 14.Sb3 Le6 15.Lf1 Sh5 16.Le3 f5 17.Sxc5 dxc5 18.exf5 Lxf5 19.De2 Sf6 20.g4 Le6 21.Sa4 Sd7 22.Lg5 Lf6 23.Lxf6 Dxf6 24.Te1 Te8 25.Lg2 Lf7 26.Dd2 Dd4 27.Tad1 Se5 28.Dg5 Sd3 29.Te3 Lxc4 30.Sb6 Dxb2 31.Texd3 Dxb6 32.Td7 Db2 33.Dh4 Dh8 34.Txb7 Tab8 35.Ta7 Ld5 36.Txd5 Te1+ 37.Kh2 cxd5 38.Lxd5+ Kf8 1-0
+
+Reshevsky,Samuel Herman (2490) - Olafsson,Helgi (2385) [E69]
+Lone Pine op Lone Pine (5), 1977
+
+1.Sf3 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.0-0 c6 6.d4 d6 7.Sc3 Sbd7 8.e4 e5 9.h3 Db6 10.d5 cxd5 11.cxd5 Se8 12.Tb1 Dd8 13.Lg5 f6 14.Le3 De7 15.Sd2 f5 16.exf5 gxf5 17.f4 Kh8 18.Kh2 Tg8 19.fxe5 Sxe5 20.De2 Ld7 21.Sf3 Sf6 22.Tbe1 Sh5 23.Sg5 Lf6 24.Sge4 fxe4 25.Dxh5 Sd3 26.Txf6 Dxf6 27.Lxe4 Dg7 28.Lg5 h6 29.Lxd3 Dxg5 30.Df3 Taf8 ½-½
+
+Reshevsky,Samuel Herman (2490) - Ree,Hans (2460) [B85]
+IBM Amsterdam (13), 1977
+
+1.e4 c5 2.Sf3 e6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 d6 6.Le2 a6 7.f4 Le7 8.Le3 0-0 9.0-0 Dc7 10.a4 Sc6 11.Kh1 Td8 12.Sb3 b6 13.De1 Tb8 14.Df2 Sb4 15.Lf3 e5 16.a5 bxa5 17.Sxa5 Sc6 18.Sc4 Te8 19.Lb6 Db7 20.f5 Ld7 21.Tfd1 Tec8 22.b3 Sb4 23.La7 Sxc2 24.Lxb8 Sxa1 25.Lxd6 Sxb3 26.Lxe7 Txc4 27.Lxf6 gxf6 28.Sd5 Tc6 29.Dh4 Sd4 30.Sxf6+ 1-0
+
+Reshevsky,Samuel Herman (2490) - Sunye Neto,Jaime (2265) [A07]
+Lone Pine op Lone Pine (7), 1977
+
+1.Sf3 Sf6 2.g3 d5 3.Lg2 c6 4.d3 Lf5 5.0-0 e6 6.Sbd2 h6 7.De1 Lc5 8.e4 Lh7 9.De2 0-0 10.b3 a5 11.a3 Sbd7 12.Lb2 b5 13.Kh1 Db6 14.Sh4 Ld4 15.c3 Lc5 16.e5 Se8 17.f4 Le7 18.d4 Sc7 19.b4 Db8 20.Sb3 axb4 21.axb4 Txa1 22.Txa1 Sb6 23.Sf3 Sc4 24.Lc1 Db6 25.h3 Le4 26.Se1 Lxg2+ 27.Kxg2 Ta8 28.Txa8+ Sxa8 29.Da2 Db8 30.Sd3 Sab6 31.Sdc5 Da8 32.Dxa8+ Sxa8 33.Sb7 Sab6 34.S3a5 Sa4 35.Sxc4 dxc4 36.Ld2 Kf8 37.Sa5 Sb6 38.Sxc6 Sd5 39.Kf3 Ke8 40.Sa7 Sc7 41.Ke4 Kd7 42.Le1 h5 43.g4 hxg4 44.hxg4 g6 45.Ld2 Lh4 46.f5 gxf5+ 47.gxf5 exf5+ 48.Kxf5 Lf2 49.Kf6 Ke8 50.Sc8 Lh4+ 51.Kf5 Kd7 52.Sd6 f6 53.exf6 Kxd6 54.Lf4+ Kc6 55.Lxc7 Kxc7 56.Kg6 Kd7 57.f7 Le7 58.Kg7 Ke6 59.f8D Lxf8+ 60.Kxf8 Kf6 61.Ke8 Ke6 62.Kd8 Kd6 63.Kc8 Kc6 64.Kb8 Kb6 65.d5 1-0
+
+Reshevsky,Samuel Herman (2490) - Tarjan,James Edward (2495) [A78]
+USA-ch Mentor (4), 1977
+
+1.d4 Sf6 2.c4 c5 3.d5 g6 4.Sc3 Lg7 5.e4 0-0 6.Sf3 d6 7.Le2 e6 8.0-0 Te8 9.Sd2 Sa6 10.Te1 exd5 11.cxd5 Sc7 12.a4 b6 13.Dc2 Tb8 14.Sc4 La6 15.Lf4 Lxc4 16.Lxc4 Sh5 17.Le3 a6 18.Le2 b5 19.axb5 axb5 20.Lxh5 gxh5 21.Se2 h4 22.Sf4 b4 23.Sh5 Lh8 24.Lh6 Ld4 25.Dd2 Kh8 26.Lg5 Te7 27.Df4 f6 28.Lxf6+ Lxf6 29.Dxf6+ Kg8 30.Dxh4 Tf7 31.Dg3+ Kh8 32.e5 Sxd5 33.e6 Te7 34.Tad1 Sc7 35.Txd6 1-0
+
+Reshevsky,Samuel Herman (2490) - Tatai,Stefano (2480) [B92]
+IBM Amsterdam (6), 1977
+
+1.e4 c5 2.Sf3 d6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 a6 6.Le2 e5 7.Sb3 Le7 8.0-0 Le6 9.f4 Dc7 10.a4 Sbd7 11.Le3 0-0 12.Kh1 exf4 13.Txf4 Se5 14.Sd4 Tfe8 15.a5 Tac8 16.Sf5 Lxf5 17.Txf5 Dc6 18.Ta4 Ld8 19.h3 Sfd7 20.Ld3 Sc5 21.Ta1 Dd7 22.Sd5 De6 23.b4 Scd7 24.Tb1 Sf6 25.Sxf6+ Lxf6 26.b5 Sc4 27.Lc1 Le5 28.Tf1 Te7 29.De2 h6 30.Lf4 Sa3 31.Tb3 Sxb5 32.Lxe5 Dxe5 33.Lxb5 axb5 34.Txb5 Tc5 35.Tfb1 Txb5 36.Txb5 Df4 37.Df3 Dc1+ 38.Kh2 Dxc2 39.a6 Da4 40.Txb7 Txb7 41.axb7 Db5 42.Dd1 Dxb7 43.Dxd6 Dxe4 44.Dd7 Df4+ 45.Kh1 h5 46.Kg1 Kh7 47.De8 g5 48.Db5 Kg7 49.Db2+ f6 50.Db7+ Kg6 51.Dc8 Dd4+ 52.Kh2 De5+ 53.Kh1 Kf7 54.Dh8 g4 55.Dh7+ Ke6 56.hxg4 hxg4 57.Dg8+ Kf5 58.Dh7+ Kf4 59.Dh6+ Dg5 60.Dh7 De5 61.Dh4 f5 62.Df2+ Kg5 63.g3 De4+ 64.Kh2 Kf6 65.Db6+ Ke5 66.Dc5+ Ke6 67.Kg1 De1+ 68.Kg2 Dd2+ 69.Kg1 Dd1+ 70.Kh2 Dd3 71.Da5 De2+ 72.Kg1 De3+ 73.Kg2 Df3+ 74.Kh2 Df2+ 75.Kh1 Df1+ 76.Kh2 Dh3+ 77.Kg1 Dxg3+ 78.Kh1 Df3+ 79.Kg1 Dd1+ 80.Kf2 Dd4+ 81.Kf1 Dd3+ 0-1
+
+Reshevsky,Samuel Herman (2490) - Timman,Jan H (2590) [A29]
+IBM Amsterdam (10), 1977
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 Lc5 5.d3 h6 6.Lg2 d6 7.0-0 a6 8.e3 0-0 9.h3 Lf5 10.Sd5 La7 11.e4 Lh7 12.Sxf6+ Dxf6 13.Le3 Lxe3 14.fxe3 De7 15.De2 a5 16.Sd2 Sb4 17.Sb1 f5 18.Sc3 fxe4 19.Txf8+ Txf8 20.Lxe4 Lxe4 21.dxe4 Dg5 22.Kg2 h5 23.h4 Dg4 24.Te1 Sc2 25.Dxc2 Tf3 26.Se2 Txe3 27.c5 dxc5 28.Dc4+ Kh7 29.Df7 Txe2+ 30.Txe2 Dxe2+ 31.Kg1 De1+ 32.Kh2 De2+ 33.Kg1 Dg4 34.Kf2 Dg6 35.Dxc7 Dxe4 36.Dxc5 Dd4+ 37.Dxd4 exd4 38.Kf3 g5 39.Ke4 Kg6 40.a4 d3 41.Kxd3 gxh4 42.gxh4 Kf5 0-1
+
+Reshevsky,Samuel Herman (2490) - Zuckerman,Bernard (2450) [E69]
+USA-ch Mentor (5), 1977
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sbd7 7.0-0 e5 8.e4 c6 9.h3 Db6 10.Te1 Te8 11.d5 Sc5 12.Tb1 a5 13.b3 Dc7 14.dxc6 bxc6 15.La3 Lf8 16.Dd2 Se6 17.Tbd1 c5 18.Sb5 ½-½
+
+Reshevsky,Samuel Herman (2515) - Georgievski,Vanco (2250) [D47]
+Skopje Skopje (1), 1976
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.Sf3 e6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 b4 9.Se4 Sxe4 10.Lxe4 Lb7 11.0-0 Sf6 12.Ld3 Le7 13.e4 0-0 14.De2 Tc8 15.Td1 c5 16.e5 Sd5 17.dxc5 Txc5 18.De4 g6 19.Dg4 Dc8 20.Lg5 Lxg5 21.Sxg5 h5 22.Dh4 La6 23.Se4 Tc6 24.Dg5 Dd8 25.Dh6 Te8 26.Lxa6 1-0
+
+Reshevsky,Samuel Herman (2515) - Ivanovic,Bozidar (2385) [B12]
+Skopje Skopje (12), 1976
+
+1.d4 g6 2.e4 c6 3.Sf3 d5 4.e5 Lg4 5.Le2 e6 6.Sbd2 Sd7 7.0-0 h5 8.Sb3 Le7 9.a4 Kf8 10.Ld2 Sh6 11.a5 Kg7 12.Ta4 Sf5 13.Se1 b5 14.Ta1 c5 15.dxc5 Sxc5 16.Sxc5 Lxc5 17.Sf3 Lxf3 18.Lxf3 a6 19.c3 Tc8 20.b4 La7 21.Dc1 Dc7 22.Te1 The8 23.Dd1 Dd8 24.Tc1 Dh4 25.Te2 Tc4 26.De1 g5 27.Kh1 Dxh2+ 28.Kxh2 Th4+ 29.Kg1 Sg3 0-1
+
+Reshevsky,Samuel Herman (2515) - Karpov,Anatoly (2695) [A39]
+Skopje Skopje (7), 1976
+
+1.Sf3 c5 2.c4 Sf6 3.g3 g6 4.Lg2 Lg7 5.0-0 0-0 6.d4 cxd4 7.Sxd4 Sc6 8.Sc3 Sxd4 9.Dxd4 d6 10.Dd3 a6 11.Ld2 Tb8 12.Tac1 ½-½
+
+Reshevsky,Samuel Herman (2515) - Kurajica,Bojan (2525) [A26]
+Skopje Skopje (9), 1976
+
+1.c4 g6 2.g3 Lg7 3.Lg2 e5 4.Sc3 d6 5.d3 f5 6.e4 Sc6 7.Sge2 Sh6 8.0-0 0-0 9.exf5 Lxf5 10.h3 Sf7 11.a3 h5 12.Sd5 Dd7 13.Kh2 Tae8 14.Sec3 Sd4 15.Se4 Dd8 16.f4 c6 17.Sdc3 Se6 18.Se2 De7 19.Ta2 exf4 20.gxf4 Sh6 21.b4 Td8 22.S4g3 d5 23.cxd5 cxd5 24.Sxf5 Sxf5 25.De1 Dd6 26.Sc3 Sc7 27.Se2 Tde8 28.Df2 b6 29.Sg3 Sd4 30.Kh1 Sce6 31.Le3 Te7 32.h4 Lh6 33.f5 Lg7 34.Lh3 Le5 35.Dg2 Lxg3 36.fxe6 Sxe6 37.Txf8+ Sxf8 38.Te2 Lxh4 39.Lf4 Dxf4 40.Dxd5+ 0-1
+
+Reshevsky,Samuel Herman (2515) - Matanovic,Aleksandar (2525) [E43]
+Skopje Skopje (14), 1976
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Ld3 Lb7 6.Sf3 0-0 7.0-0 c5 8.a3 Lxc3 9.bxc3 d5 10.cxd5 exd5 11.dxc5 bxc5 12.Tb1 Dc7 13.c4 dxc4 14.Lf5 Sbd7 15.Lb2 Le4 16.Lxe4 Sxe4 17.Dd5 c3 18.Dxe4 Tfe8 19.Dc2 cxb2 20.Txb2 Tab8 21.Tfb1 Txb2 22.Txb2 h6 ½-½
+
+Reshevsky,Samuel Herman (2515) - Nicevski,Risto (2395) [A76]
+Skopje Skopje (11), 1976
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 d6 6.Sf3 g6 7.e4 Lg7 8.Le2 0-0 9.0-0 Te8 10.Dc2 Sa6 11.a3 Lg4 12.Lf4 c4 13.Lxc4 Lxf3 14.gxf3 Sh5 15.Lg3 Le5 16.Lb5 Tf8 17.Lxa6 bxa6 18.Lxe5 dxe5 19.Se2 Tb8 20.Tad1 Dg5+ 21.Kh1 Tfc8 22.Sc3 ½-½
+
+Reshevsky,Samuel Herman (2515) - Timman,Jan H (2550) [A16]
+Skopje Skopje (3), 1976
+
+1.Sf3 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.Da4+ Ld7 6.Db3 Sb6 7.d4 Lg7 8.Lf4 0-0 9.Td1 Sc6 10.e3 a5 11.Le2 a4 12.Dc2 Lf5 13.e4 Lg4 14.d5 Sb4 15.Dc1 Lxf3 16.Lxf3 a3 17.bxa3 Txa3 18.e5 Ta5 19.0-0 S4xd5 20.Sxd5 Sxd5 21.Lxd5 Txd5 22.Txd5 Dxd5 23.Dxc7 ½-½
+
+Reshevsky,Samuel Herman (2515) - Vaganian,Rafael A (2550) [C05]
+Skopje Skopje (5), 1976
+
+1.e4 e6 2.d4 d5 3.Sd2 Sf6 4.e5 Sfd7 5.f4 c5 6.c3 Sc6 7.Sdf3 Da5 8.Kf2 Le7 9.Ld3 Db6 10.Se2 f6 11.exf6 Lxf6 12.Kg3 cxd4 13.cxd4 0-0 14.Te1 e5 15.fxe5 Sdxe5 16.dxe5 Lh4+ 17.Kxh4 Txf3 18.Tf1 Db4+ 19.Lf4 De7+ 20.Lg5 De6 21.Lf5 Txf5 22.Sf4 Dxe5 23.Dg4 Tf7 24.Dh5 Se7 25.g4 Sg6+ 26.Kg3 Ld7 27.Tae1 Dd6 28.Lh6 Taf8 0-1
+
+Reshevsky,Samuel Herman (2530) - Bilek,Istvan (2495) [B07]
+Lone Pine op Lone Pine (10), 24.04.1975
+
+1.d4 g6 2.e4 Lg7 3.c3 d6 4.f4 Sf6 5.Ld3 e5 6.Sf3 exd4 7.cxd4 0-0 8.0-0 Lg4 9.Sc3 Sfd7 10.Le3 Sc6 11.Le2 Se7 12.Sg5 Lxe2 13.Dxe2 h6 14.Sf3 c6 15.g4 b5 16.Dg2 b4 17.Se2 Sf6 18.Sd2 Te8 19.Tf3 Sxe4 ½-½
+
+Reshevsky,Samuel Herman (2530) - Yanofsky,Daniel Abraham (2415) [A30]
+Lone Pine op Lone Pine (7), 21.04.1975
+
+1.Sf3 c5 2.c4 Sf6 3.g3 b6 4.Lg2 Lb7 5.0-0 g6 6.b3 Lg7 7.Lb2 0-0 8.d4 cxd4 9.Dxd4 Sa6 10.Td1 Sc5 11.Df4 d6 12.Sc3 Sfe4 13.Dc1 f5 14.Sxe4 Lxe4 15.Lxg7 Kxg7 16.b4 Se6 17.Db2+ Kg8 18.Sd4 Sxd4 19.Lxe4 Sxe2+ 20.Dxe2 fxe4 21.Dxe4 Tc8 22.Tac1 De8 ½-½
+
+Reshevsky,Samuel Herman (2530) - Commons,Kim S (2415) [A40]
+Lone Pine op Lone Pine (5), 17.04.1975
+
+1.Sf3 c5 2.c4 g6 3.e4 Lg7 4.d4 Da5+ 5.Sc3 Sf6 6.Ld3 Sg4 7.Le2 Sc6 8.d5 Sd4 9.Ld2 Sxe2 10.Dxe2 d6 11.0-0 0-0 12.Tfe1 Ld7 13.h3 Se5 14.Sxe5 Lxe5 15.Kh1 Lg7 16.f4 e5 17.dxe6 fxe6 18.Tf1 Dc7 19.Tad1 Lc6 20.Le1 a6 21.Dd3 Tad8 22.Lh4 Td7 23.f5 gxf5 24.exf5 Lxc3 25.bxc3 Tg7 26.Td2 Txf5 27.Txf5 exf5 28.Dxf5 Df7 29.Dc8+ Df8 30.De6+ Df7 31.Dc8+ Df8 ½-½
+
+Reshevsky,Samuel Herman (2530) - Vranesic,Zvonko (2430) [D36]
+Lone Pine op Lone Pine (4), 16.04.1975
+
+1.Sf3 Sf6 2.c4 e6 3.Sc3 d5 4.cxd5 exd5 5.d4 Le7 6.Lg5 c6 7.Dc2 0-0 8.Lf4 Te8 9.e3 Sbd7 10.Ld3 Sf8 11.0-0 Sh5 12.Lg3 Sxg3 13.hxg3 Ld6 14.a3 Lg4 15.Sh2 Lh5 16.Lf5 Lg6 17.Lxg6 Sxg6 18.Df5 De7 19.Sf3 De6 20.Dc2 Dg4 21.Tfe1 Tad8 22.e4 dxe4 23.Sxe4 Lb8 24.Sc5 Dc8 25.Db3 b6 26.Sd3 Txe1+ 27.Txe1 h6 28.Dc4 Dd7 29.a4 Lc7 30.Sb4 c5 31.dxc5 Dxa4 32.b3 Dd7 33.c6 Dd6 34.Sa6 b5 35.Dxb5 Lb6 36.Tc1 Tc8 37.c7 Se7 38.b4 g6 39.g4 Kg7 40.Dc4 De6 41.Dc3+ Kg8 42.Dc4 Dxc4 43.Txc4 Kf8 44.Se5 Ke8 45.b5 f6 46.Sc6 Sd5 47.Tc2 Sxc7 48.Sxa7 Lxa7 49.Txc7 Txc7 50.Sxc7+ Kd7 51.Sd5 f5 52.gxf5 gxf5 53.g3 Ld4 54.Kg2 Kd6 55.Se3 Ke6 56.Kh3 Ke5 57.b6 f4 58.b7 La7 59.Sg4+ Kf5 60.Sxh6+ Kg6 61.Sg4 Lb8 62.gxf4 Lxf4 63.Se3 Kf7 64.Sd5 Le5 65.Sb4 1-0
+
+Reshevsky,Samuel Herman (2530) - Ghizdavu,Dumitru (2425) [D33]
+Lone Pine op Lone Pine (2), 14.04.1975
+
+1.Sf3 Sf6 2.c4 c5 3.g3 e6 4.Lg2 d5 5.cxd5 exd5 6.d4 Sc6 7.0-0 h6 8.b3 Le6 9.Sc3 Tc8 10.Lb2 Le7 11.dxc5 Lxc5 12.Tc1 Le7 13.Sa4 b6 14.Sc3 0-0 15.Sb5 Dd7 16.Sbd4 Sxd4 17.Sxd4 Lh3 18.Dd3 Lxg2 19.Kxg2 Se4 20.Db5 Dxb5 21.Sxb5 Lc5 22.e3 a6 23.Sd4 Tfd8 24.Tfd1 Kh7 25.h4 b5 26.a3 Tc7 27.Se2 Lb6 28.Txc7 Lxc7 29.Tc1 Ld6 30.Sd4 Sc5 31.Td1 Lf8 32.Sc6 Td6 33.Sa5 Td7 34.b4 Se4 35.f3 Sf6 36.Sb3 Tc7 37.Td2 Tc4 38.Kf2 h5 39.Ke2 Kg6 40.Sd4 Ld6 41.Kf2 Lb8 42.Tc2 Ld6 43.Td2 Le5 44.Ke2 Lxd4 45.Lxd4 Sd7 46.Kd3 Sf6 47.Tc2 Txc2 48.Kxc2 Se8 49.Kd3 Sd6 50.e4 dxe4+ 51.fxe4 f5 ½-½
+
+Reshevsky,Samuel Herman (2530) - Bisguier,Arthur Bernard (2445) [A04]
+USA-ch Oberlin (1), 1975
+
+1.Sf3 ½-½
+
+Reshevsky,Samuel Herman (2530) - Browne,Walter S (2550) [E69]
+USA-ch Oberlin (5), 1975
+
+1.Sf3 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.0-0 d6 6.d4 Sbd7 7.Sc3 e5 8.h3 Te8 9.e4 exd4 10.Sxd4 Sc5 11.Te1 a5 12.Dc2 a4 13.Le3 c6 14.Tad1 Sfd7 15.f4 Da5 16.Lf2 Sb6 17.Lf1 Se6 18.Dd2 Sxd4 19.Lxd4 Lxd4+ 20.Dxd4 Le6 21.f5 gxf5 22.exf5 Lxf5 23.Dxd6 Lg6 24.a3 Dg5 25.h4 Dg4 26.Td4 ½-½
+
+Reshevsky,Samuel Herman (2530) - Grefe,John A (2470) [A89]
+USA-ch Oberlin (7), 1975
+
+1.Sf3 d6 2.d4 f5 3.g3 Sf6 4.Lg2 g6 5.0-0 Lg7 6.c4 0-0 7.Sc3 Sc6 8.d5 Sa5 9.Sd2 c5 10.Dc2 a6 11.b3 Tb8 12.Lb2 b5 13.Tab1 Ld7 14.e3 Dc7 15.Se2 Tb6 16.Lc3 Sb7 17.Sf4 Tb8 18.Tfe1 Sg4 19.Lxg7 Kxg7 20.e4 Sd8 21.exf5 Lxf5 22.Le4 Lxe4 23.Sxe4 Se5 24.Sg5 Dc8 25.Sfe6+ Sxe6 26.Sxe6+ Kf7 27.Dc3 Dh8 28.cxb5 axb5 29.f4 Sg4 30.Sg5+ Kg8 31.Df3 Dd4+ 32.Kg2 Sf6 33.Tbd1 Db2+ 34.Te2 Da3 35.De3 Da8 36.De6+ Kh8 37.Dxe7 Tf8 38.Se6 1-0
+
+Reshevsky,Samuel Herman (2530) - Kavalek,Lubomir (2555) [D76]
+USA-ch Oberlin (8), 1975
+
+1.Sf3 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.0-0 d5 6.cxd5 Sxd5 7.d4 Sc6 8.Sc3 Sb6 9.e3 e5 10.Sxe5 Sxe5 11.dxe5 Lxe5 12.De2 Te8 13.Td1 ½-½
+
+Reshevsky,Samuel Herman (2530) - Lombardy,William James (2520) [D63]
+USA-ch Oberlin (12), 1975
+
+1.Sf3 Sf6 2.c4 e6 3.Sc3 d5 4.d4 Le7 5.Lg5 0-0 6.Tc1 c6 7.e3 Sbd7 8.Ld3 a6 9.c5 e5 10.dxe5 Se8 11.Lf4 Sxc5 12.Lb1 Lg4 13.Dc2 g6 14.Sd4 Se6 15.Lh6 S8g7 16.0-0 Te8 17.Dd2 Sxd4 18.exd4 Lf5 19.Lxg7 Lxb1 20.Txb1 Kxg7 21.b4 f6 22.f4 fxe5 23.dxe5 d4 24.Se4 Dd5 25.Dd3 Tad8 26.f5 gxf5 27.Txf5 Kh8 28.Tbf1 De6 29.Tf7 Dg6 30.T1f3 Tg8 31.g3 Tg7 32.T7f5 De6 33.a3 Kg8 34.Sf6+ Lxf6 35.exf6 Tg4 36.f7+ Kf8 37.Kg2 De4 38.Dxe4 Txe4 39.Tg5 Ke7 40.Tg7 Tf8 41.Txh7 b6 42.Th6 Te6 43.Th4 c5 44.bxc5 bxc5 45.Tf5 Txf7 46.Txc5 Te2+ 47.Kh3 Tff2 48.Txd4 Txh2+ 49.Kg4 Te3 50.Kf4 Txa3 51.Te5+ Kf6 52.Td6+ Kf7 53.g4 Tb2 54.Td7+ Kf8 55.Tf5+ Ke8 56.Tg7 Ta4+ 57.Kg3 Te4 58.Tf6 a5 59.Ta6 Kf8 60.Th7 Kg8 61.Tc7 Tbe2 62.Txa5 Te7 63.Tcc5 T2e3+ 64.Kh4 Kg7 ½-½
+
+Reshevsky,Samuel Herman (2530) - Peters,Jack (2335) [E42]
+USA-ch Oberlin (3), 1975
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Sge2 cxd4 6.exd4 d5 7.a3 Lxc3+ 8.Sxc3 dxc4 9.Lxc4 0-0 10.0-0 Sc6 11.Le3 b6 12.Dd3 Lb7 13.Tad1 Sd5 14.Sxd5 exd5 15.La2 Dd6 16.Tfe1 Tfe8 17.Lb1 g6 18.Ld2 Df6 19.Lc3 Tad8 20.La2 Dd6 21.Db5 Te6 22.Txe6 Dxe6 23.Te1 Dd7 24.De2 Dd6 25.Df3 b5 26.Dd3 b4 27.Ld2 bxa3 28.bxa3 Df6 29.Lc3 Dd6 30.Ld2 Df6 31.Le3 Lc8 32.Dd2 Dd6 33.Lg5 f6 34.Lf4 Dxa3 35.Tc1 Lb7 36.h4 De7 37.Tc5 De4 38.Le3 Kh8 39.Dc3 Se7 40.Da5 Tc8 41.Dxa7 Ta8 42.Dxb7 Txa2 43.Tc1 De6 44.Lh6 Te2 45.Tc7 Te1+ 46.Kh2 Dd6+ 47.g3 Dd8 48.Td7 1-0
+
+Reshevsky,Samuel Herman (2530) - Tarjan,James Edward (2480) [A21]
+USA-ch Oberlin (10), 1975
+
+1.g3 g6 2.Lg2 Lg7 3.c4 e5 4.Sc3 d6 5.Tb1 Sf6 6.e4 0-0 7.Sge2 c6 8.0-0 Sbd7 9.b4 Te8 10.d3 a6 11.a4 a5 12.b5 Sc5 13.h3 Sh5 14.Le3 Ld7 15.bxc6 bxc6 16.d4 exd4 17.Lxd4 De7 18.g4 Lxd4 19.Dxd4 Sf6 20.Sg3 Teb8 21.f4 ½-½
+
+Reshevsky,Samuel Herman (2550) - Kirov,Nino (2465) [A34]
+Nice ol (Men) fin-A Nice (9), 24.06.1974
+
+1.c4 Sf6 2.Sc3 c5 3.Sf3 d5 4.cxd5 Sxd5 5.g3 g6 6.Lg2 Lg7 7.0-0 Sc6 8.Db3 Sc7 9.d3 0-0 10.Le3 b6 11.Tac1 Se6 12.Sg5 Sed4 13.Dd1 Lb7 14.Sf3 Dd7 15.a3 Tfd8 16.Lxd4 Sxd4 17.Sxd4 Lxg2 18.Kxg2 Lxd4 19.Dd2 a5 20.Df4 De6 21.e3 Lg7 22.Tfd1 Td7 23.d4 cxd4 24.exd4 Db3 25.Td2 e6 26.Se4 Dd5 27.f3 Df5 28.De3 Tad8 29.Sc3 Lxd4 30.De2 Lg7 31.Tcd1 Txd2 32.Txd2 Txd2 33.Dxd2 Df6 34.De2 Dd4 35.Kh3 Dc5 36.Sd1 Dc1 37.Kg2 Ld4 38.a4 h5 39.Dd3 Lxb2 40.Dd8+ Kg7 41.Dxb6 Lf6 42.Dd6 Dc2+ 0-1
+
+Reshevsky,Samuel Herman (2550) - Sax,Gyula (2505) [E17]
+Nice ol (Men) fin-A Nice (5), 19.06.1974
+
+1.Sf3 c5 2.c4 e6 3.g3 b6 4.Lg2 Lb7 5.0-0 Sf6 6.b3 Le7 7.Lb2 0-0 8.d4 d5 9.cxd5 Lxd5 10.dxc5 Lxc5 11.Sbd2 Sc6 12.Se4 Le7 13.Sd4 Tc8 14.Tc1 Se8 15.Sxc6 Lxc6 16.Dd4 f6 ½-½
+
+Reshevsky,Samuel Herman (2550) - Pfleger,Helmut (2535) [A09]
+Nice ol (Men) fin-A Nice (1), 15.06.1974
+
+1.Sf3 d5 2.c4 d4 3.d3 g6 4.e3 dxe3 5.Lxe3 Lg7 6.Dd2 Sc6 7.d4 Lg4 8.d5 Lxf3 9.gxf3 Se5 10.Le2 Sf6 11.Ld4 Sed7 12.Sc3 c5 13.Le3 0-0 14.f4 Se8 15.h4 Sd6 16.h5 a6 17.Kf1 Tb8 18.hxg6 hxg6 19.f5 Sxf5 20.Lf4 Se5 21.Ld3 e6 22.De2 Te8 23.Td1 ½-½
+
+Reshevsky,Samuel Herman (2550) - Schammo,Jean [D31]
+Nice ol (Men) qual-B Nice (7), 13.06.1974
+
+1.d4 d5 2.Sf3 e6 3.c4 Le7 4.Sc3 c6 5.e4 dxe4 6.Sxe4 Sf6 7.Ld3 Sbd7 8.0-0 0-0 9.De2 Te8 10.Lf4 Sf8 11.Tad1 Sg6 12.Sxf6+ Lxf6 13.Lg3 Da5 14.a3 Ld7 15.c5 Dd8 16.De4 Lc8 17.Tfe1 Dd5 18.De3 Dd8 19.Se5 Lh4 20.Sc4 Lxg3 21.hxg3 Te7 22.Sd6 Tc7 23.f4 Ld7 24.De4 Df6 25.Te2 Sf8 26.g4 g6 27.g5 Dd8 28.De5 1-0
+
+Reshevsky,Samuel Herman (2550) - Shaw,Terrey Ian (2380) [A00]
+Nice ol (Men) qual-B Nice (6), 12.06.1974
+
+ ½-½
+
+Reshevsky,Samuel Herman (2550) - Benko,Pal C (2510) [A16]
+USA-ch Chicago (7), 1974
+
+1.Sf3 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.Da4+ Ld7 6.Db3 Sb6 7.d4 Lg7 8.Lf4 0-0 9.e3 Le6 10.Dc2 Sc6 11.Le2 Sb4 12.Dd1 c5 13.0-0 Tc8 ½-½
+
+Reshevsky,Samuel Herman (2550) - Browne,Walter S (2575) [B36]
+USA-ch Chicago (5), 1974
+
+1.Sf3 c5 2.c4 g6 3.d4 cxd4 4.Sxd4 Sc6 5.e4 Sf6 6.Sc3 d6 7.Le2 Sxd4 8.Dxd4 Lg7 9.Lg5 0-0 10.Dd2 Le6 11.Tc1 Da5 12.f3 Tfc8 13.b3 a6 14.Sa4 Dxd2+ 15.Kxd2 Tc6 16.Le3 Sd7 17.Sc3 Tac8 18.Sd5 Lxd5 19.cxd5 Lc3+ 20.Kd3 T6c7 21.f4 Lb2 22.Txc7 Txc7 23.Tb1 Lg7 24.Tc1 Txc1 25.Lxc1 Sc5+ 26.Ke3 a5 27.Ld1 b5 28.a3 a4 29.bxa4 bxa4 30.Ld2 Lb2 31.Lb4 Lc1+ 32.Kf3 Kf8 33.h4 h5 34.e5 f5 35.exf6 exf6 36.g4 hxg4+ 37.Kxg4 f5+ 38.Kg5 Kg7 39.Lc3+ Kh7 40.Lc2 Se4+ 41.Lxe4 fxe4 42.Lb4 e3 0-1
+
+Reshevsky,Samuel Herman (2550) - Gilden,Lawrence C (2375) [A05]
+USA-ch Chicago (3), 1974
+
+1.Sf3 Sf6 2.g3 b5 3.Lg2 Lb7 4.0-0 e6 5.d3 Le7 6.e4 d6 7.a4 bxa4 8.Txa4 Sbd7 9.Sbd2 Sb6 10.Ta5 0-0 11.Sb3 c5 12.Ta1 Dc7 13.Sa5 Sfd7 14.Sxb7 Dxb7 15.d4 Dc7 16.Ld2 cxd4 17.Sxd4 Dc4 18.Le3 Lf6 19.b3 Dc8 20.Ta5 a6 21.c4 Dc7 22.Ta2 Sc5 23.Dc2 Lxd4 24.Lxd4 e5 25.Lc3 Sc8 26.Tfa1 Se7 27.b4 Se6 28.Dd3 Tfc8 29.Lf1 Db7 30.Dxd6 Sc6 31.Dd3 Sxb4 32.Db1 Tcb8 33.Tb2 a5 34.Txa5 Txa5 35.Txb4 Dxb4 36.Lxb4 Ta4 37.Db2 Taxb4 38.Dxe5 Td8 39.Lh3 Tb1+ 40.Kg2 Sd4 41.De7 Tbb8 42.c5 Te8 43.Dd6 1-0
+
+Reshevsky,Samuel Herman - Gilden,Lawrence C [E57]
+US op New York (9), 1974
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.Sf3 c5 7.0-0 Sc6 8.a3 cxd4 9.exd4 Lxc3 10.bxc3 dxc4 11.Lxc4 Da5 12.Db3 Dc7 13.Le2 e5 14.dxe5 Sxe5 15.Sd4 Sg6 16.Te1 b6 17.Lg5 Sg4 18.Lxg4 Lxg4 19.h3 Lc8 20.Ld2 Lb7 21.Te3 Tad8 22.Tae1 Ld5 23.Dd1 Dd6 24.Dg4 f5 25.Sxf5 Df6 26.Se7+ Sxe7 27.Txe7 Dxf2+ 28.Kh2 Dxg2+ 29.Dxg2 Lxg2 30.Le3 ½-½
+
+Reshevsky,Samuel Herman (2550) - Grefe,John A (2470) [E92]
+USA-ch Chicago (11), 1974
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Le2 0-0 6.Sf3 e5 7.Le3 De7 8.d5 Sh5 9.Sg1 Sf4 10.Lf1 f5 11.g3 fxe4 12.Sxe4 Lf5 13.f3 Sh5 14.Se2 Sd7 15.S2c3 Sdf6 16.Ld3 Sxe4 17.Sxe4 Sf6 18.Dc2 Sxe4 19.Lxe4 Dd7 20.0-0 Lxe4 21.Dxe4 Dh3 22.Tf2 b6 23.Dg4 Dxg4 24.fxg4 Txf2 25.Kxf2 e4 26.Tb1 a5 27.b3 h5 28.gxh5 gxh5 29.Ke2 Kh7 30.Tf1 Kg6 31.Tf4 Te8 32.g4 hxg4 33.Txg4+ Kh7 34.h4 Lf6 35.Tf4 Kg7 36.h5 a4 37.Tg4+ Kf7 38.Tf4 Kg7 39.b4 Lc3 40.b5 Lb2 41.Kf2 Te5 42.h6+ Kg6 43.Tg4+ Kh5 44.Tg7 Tf5+ 45.Ke2 Tf3 46.Txc7 Th3 47.Lxb6 Ta3 48.h7 Kg4 49.Tc8 Txa2 50.Ke3 Lc1+ 51.Kxe4 Te2+ 52.Kd3 Td2+ 53.Kc3 Th2 54.h8D Lb2+ 55.Kb4 1-0
+
+Reshevsky,Samuel Herman - Hort,Vlastimil [D93]
+US op New York (7), 1974
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Lf4 Lg7 5.e3 0-0 6.Tc1 c6 7.Sf3 Db6 8.Dd2 Se4 9.Sxe4 dxe4 ½-½
+
+Reshevsky,Samuel Herman (2550) - Karklins,Andrew (2400) [E48]
+USA-ch Chicago (13), 1974
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.Sge2 cxd4 7.exd4 d5 8.cxd5 Sxd5 9.0-0 Sc6 10.Lc2 Le7 11.Dd3 g6 12.a3 b6 13.Se4 Lb7 14.Lh6 Te8 15.Tac1 f5 16.Sd2 a6 17.Sf3 Lf6 18.Lb3 Dd6 19.h4 Tac8 20.La2 Tc7 21.Tfe1 Td7 22.h5 Sd8 23.Se5 Sf7 24.Sxd7 Dxd7 25.Ld2 g5 26.Sc3 Sc7 27.d5 Te7 28.De3 Sxd5 29.Sxd5 Lxd5 30.Lxd5 Dxd5 31.Tc8+ Kg7 32.Lb4 Ld4 33.De2 Td7 34.Dxe6 Dxe6 35.Txe6 Se5 36.Tf8 Lxf2+ 37.Kxf2 Sd3+ 38.Kg1 Sxb4 39.Txf5 Sd3 40.h6+ 1-0
+
+Reshevsky,Samuel Herman (2542) - Le Grand,Mike (1751) [E49]
+US op New York (1), 1974
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 Lxc3+ 7.bxc3 Sc6 8.Se2 e5 9.cxd5 Sxd5 10.0-0 Sde7 11.Lb2 f5 12.c4 exd4 13.exd4 Sg6 14.f4 Dd6 15.Dc2 Sce7 16.d5 c5 17.Tae1 Ld7 18.Sg3 Tae8 19.Sh5 Tf7 20.Dc3 Sh4 21.Sxg7 Dh6 22.g3 Txg7 23.Dxg7+ Dxg7 24.Lxg7 Kxg7 25.gxh4 Kf6 26.Kf2 Tg8 27.Tg1 Tf8 28.h5 Sg8 29.Tg3 Sh6 30.h3 Sf7 31.Tge3 Sd6 32.Te6+ 1-0
+
+Reshevsky,Samuel Herman - Levy,Louis [D50]
+US op New York (11), 1974
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.Lg5 c5 5.cxd5 cxd4 6.Da4+ Dd7 7.Dxd4 Sc6 8.Dd1 Sxd5 9.Ld2 Sxc3 10.Lxc3 Lb4 11.Lxb4 Sxb4 12.a3 Sc6 13.e3 0-0 14.Se2 De7 15.Sc3 Td8 16.Dc2 Se5 17.Le2 Ld7 18.0-0 Lc6 19.Tad1 Dg5 20.e4 Dh4 21.Txd8+ Txd8 22.Td1 h6 23.b4 b6 24.g3 De7 25.f4 Sg6 26.Txd8+ Dxd8 27.Dd3 Dc8 28.Kf2 Sf8 29.Ke3 Lb7 30.Kd2 a6 31.Dd6 Sd7 32.e5 b5 33.Ld3 Lc6 34.Ke3 Sb6 35.Kd4 g6 36.g4 Sd5 37.Le4 Sxc3 38.Dxc6 Dd8+ 39.Kxc3 Dd1 40.Lc2 Da1+ 41.Kb3 Dd4 42.De4 1-0
+
+Reshevsky,Samuel Herman (2542) - Strenzwilk,Denis (2112) [E63]
+US op New York (3), 1974
+
+1.Sf3 Sf6 2.g3 g6 3.b3 Lg7 4.Lb2 0-0 5.Lg2 d6 6.0-0 Sc6 7.c4 a6 8.Sc3 Tb8 9.d4 Ld7 10.Tc1 b5 11.cxb5 axb5 12.d5 Sa5 13.Sd4 e5 14.dxe6 fxe6 15.b4 Sc4 16.La1 d5 17.Sb3 c6 18.e4 De7 19.Sc5 Tbd8 20.exd5 exd5 21.h3 Lc8 22.Se2 Se4 23.Lxg7 Dxg7 24.Dd4 Scd2 25.Dxg7+ Kxg7 26.Tfd1 Txf2 27.Sf4 Te8 28.Lxe4 Txf4 29.gxf4 Sxe4 30.Sd3 Lxh3 31.Txc6 Lg4 32.Tc7+ Kh6 33.Te1 Ta8 34.Se5 Le6 35.Te2 Sg3 36.Th2+ Sh5 37.Te7 Ta6 38.Tb7 g5 39.fxg5+ Kxg5 40.Txh7 Sf4 41.Sf3+ Kf5 42.T7h4 Ta3 43.Sd4+ Ke5 44.Txf4 Kxf4 45.Sxe6+ Ke4 46.Kf1 d4 47.Te2+ Kd5 48.Ke1 Kc4 49.Kd1 Ta4 1-0
+
+Reshevsky,Samuel Herman (2550) - Weinstein,Norman (2470) [E60]
+USA-ch Chicago (9), 1974
+
+1.Sf3 Sf6 2.c4 c5 3.g3 g6 4.Lg2 Lg7 5.0-0 0-0 6.d4 d6 7.Sbd2 Sc6 8.d5 Sa5 9.Se1 e5 10.a3 b6 11.b4 Sb7 12.Lb2 Sg4 13.e4 f5 14.exf5 gxf5 15.h3 Sh6 16.f4 Sf7 17.Db3 Ld7 18.Sc2 Dc7 19.Se3 Tae8 20.fxe5 Sxe5 21.b5 Dd8 22.Sf3 Sa5 23.Dc2 Sxf3+ 24.Txf3 Lxb2 25.Dxb2 Txe3 26.Txe3 Sxc4 27.Dc3 Sxe3 28.Dxe3 Lxb5 29.De6+ Kg7 30.Lf1 Lxf1 31.Txf1 Df6 32.Te1 Dxe6 33.Txe6 Tf6 34.Te7+ Tf7 35.Te6 Td7 36.Kf2 Kf7 37.Th6 Kg7 38.Te6 Kf7 39.Th6 Ke8 40.Ke3 Te7+ 41.Kd3 Kd7 42.a4 a6 43.Kc2 b5 44.a5 c4 45.Th5 Tf7 46.Th6 Tg7 47.g4 fxg4 48.hxg4 b4 49.Th4 Ke7 50.g5 Txg5 51.Txh7+ Kf6 52.Tb7 Txd5 53.Txb4 Txa5 54.Kc3 d5 55.Kd4 Tb5 56.Ta4 a5 57.Ta1 Ke6 58.Th1 Kd6 59.Th6+ Kc7 60.Th7+ Kb6 61.Th6+ Ka7 62.Th7+ Ka6 63.Th6+ Tb6 64.Th1 Tb5 65.Th6+ Ka7 66.Th7+ Tb7 67.Th2 Td7 68.Kc5 c3 69.Kc6 Td8 70.Kb5 Tb8+ 0-1
+
+Reshevsky,Samuel Herman - Wozney,Thomas [A30]
+US op New York (5), 1974
+
+1.Sf3 Sf6 2.g3 g6 3.b3 Lg7 4.Lb2 c5 5.c4 0-0 6.Lg2 Sc6 7.0-0 b6 8.d4 cxd4 9.Sxd4 Lb7 10.Sc3 Tc8 11.Dd2 d6 12.Sc2 Dd7 13.e4 Tfd8 14.Tad1 a6 15.Se3 b5 16.cxb5 axb5 17.Sxb5 La6 18.a4 Tb8 19.Tc1 Lxb5 20.axb5 Txb5 21.Lxf6 Lxf6 22.Sd5 Kg7 23.b4 Tdb8 24.Tc4 Se5 25.Tc2 Sc6 26.Tb1 Le5 27.Tc4 e6 28.Se3 d5 29.exd5 exd5 30.Sg4 h5 31.Sxe5 Sxe5 32.Td4 De7 33.Dc3 Kg8 34.Lxd5 Df6 35.Lg2 Sg4 36.Dd2 Tf5 37.Tf1 h4 38.Txg4 1-0
+
+Reshevsky,Samuel Herman (2565) - Savon,Vladimir A (2570) [A77]
+Petropolis Interzonal Petropolis (16), 15.08.1973
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 d6 6.e4 g6 7.Sf3 Lg7 8.Le2 0-0 9.0-0 Te8 10.Sd2 Sbd7 11.a4 Tb8 12.Dc2 a6 13.Sc4 Sb6 14.Sa3 Ld7 15.Lg5 h6 16.Lf4 Sxa4 17.Lxd6 Sxc3 18.bxc3 Sxe4 19.Lxb8 Sxc3 20.Lf3 Dxb8 21.Tae1 Txe1 22.Txe1 b5 23.Dd2 Dd6 24.Te3 Sa4 25.Da5 c4 26.Sb1 Lf5 27.Sd2 c3 28.Se4 Da3 29.Sxc3 Lxc3 30.Dd8+ Kg7 31.g4 Dc1+ 32.Kg2 Lf6 33.Dd6 Lb1 34.Te8 Dc5 35.Db8 Sb6 36.Th8 Le7 37.Tg8+ Kh7 38.De8 h5 39.Dxf7+ Kh6 40.Dxg6+ Lxg6 0-1
+
+Reshevsky,Samuel Herman (2565) - Biyiasas,Peter (2395) [B08]
+Petropolis Interzonal Petropolis (15), 13.08.1973
+
+1.d4 g6 2.e4 d6 3.Sf3 Sf6 4.Sc3 Lg7 5.Le2 0-0 6.0-0 Lg4 7.Le3 Sc6 8.Dd2 e5 9.dxe5 dxe5 10.Tad1 Dxd2 11.Txd2 Tfd8 12.Tfd1 Txd2 13.Txd2 Se8 14.h3 Lxf3 15.Lxf3 Sd4 16.Ld1 Sd6 17.Td3 c5 18.f3 f5 19.g4 b5 20.Sd5 fxe4 21.fxe4 Sxe4 22.Ta3 Td8 23.Se7+ Kf8 24.Txa7 Lf6 25.Lh6+ Ke8 26.c3 Lxe7 27.cxd4 cxd4 28.Kg2 Sd6 29.a4 b4 30.a5 Tb8 31.La4+ Kf7 32.Lb3+ Ke8 33.a6 Sb5 34.La4 Kd8 35.Tb7 Txb7 36.axb7 Kc7 37.Lxb5 Kxb7 38.Kf3 Kb6 39.Lc4 Kc5 40.b3 1-0
+
+Reshevsky,Samuel Herman (2565) - Tan Lian Ann (2365) [E59]
+Petropolis Interzonal Petropolis (13), 11.08.1973
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.Sf3 c5 7.0-0 Sc6 8.a3 Lxc3 9.bxc3 dxc4 10.Lxc4 Dc7 11.Lb5 b6 12.Te1 Td8 13.e4 Lb7 14.e5 Se8 15.Dd3 a6 16.La4 c4 17.Dd1 Se7 18.Lc2 Lxf3 19.Dxf3 Sg6 20.a4 Dd7 21.Le4 Tab8 22.La3 Se7 23.Dh3 f5 24.exf6 Sxf6 25.Lxe7 Dxe7 26.Lf5 Dc7 27.Txe6 Tf8 28.Tae1 h6 29.Df3 Kh8 30.h3 Tbe8 31.Txe8 Sxe8 32.Lc2 Sf6 33.Df5 b5 34.axb5 axb5 35.Te6 Ta8 36.g4 Kg8 37.Dxb5 Df4 38.Txf6 Ta1+ 39.Kg2 gxf6 40.De8+ Kg7 41.De7+ Kg8 42.Lh7+ Kh8 43.Lg6 1-0
+
+Reshevsky,Samuel Herman (2565) - Panno,Oscar (2580) [D93]
+Petropolis Interzonal Petropolis (11), 07.08.1973
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Lf4 Lg7 5.e3 0-0 6.Db3 c6 7.Sf3 Da5 8.Sd2 Sbd7 9.Le2 Sh5 10.Lxh5 dxc4 11.Sxc4 Dxh5 12.0-0 b6 13.Tfd1 La6 14.h3 g5 15.Lg3 g4 16.hxg4 Dxg4 17.e4 De6 18.Se3 Dxb3 19.axb3 Lb7 20.Sf5 Tfe8 21.b4 Lf8 22.b5 cxb5 23.Sxb5 Lxe4 24.Se3 Ted8 25.Sc7 Tab8 26.f3 Lg6 27.Txa7 Tbc8 28.Scd5 Sf6 29.Sxe7+ Lxe7 30.Txe7 Sd5 31.Sxd5 Txd5 32.Le5 b5 33.b4 Kf8 34.Tb7 Lf5 35.Ta1 Ke8 36.Ta6 Tc4 37.Tab6 Lc8 38.Tb8 Kd7 39.Txb5 Txb5 40.Txb5 La6 41.Td5+ Ke7 42.b5 Lb7 43.Td6 1-0
+
+Reshevsky,Samuel Herman (2565) - Ljubojevic,Ljubomir (2570) [A42]
+Petropolis Interzonal Petropolis (9), 04.08.1973
+
+1.d4 g6 2.c4 Lg7 3.e4 d6 4.Sc3 Sd7 5.Sf3 e5 6.Le2 c6 7.0-0 Sh6 8.Tb1 0-0 9.b4 f5 10.Lg5 De8 11.d5 Sf7 12.dxc6 bxc6 13.Lc1 Lb7 14.exf5 gxf5 15.Sh4 e4 16.Tb3 De6 17.Sxf5 Dxf5 18.Lg4 Dg6 19.Lxd7 Se5 20.Lh3 Tf3 21.Se2 Sd3 22.Sf4 Txf4 23.Txd3 exd3 24.Lxf4 Lc8 25.Lxc8 Txc8 26.Te1 Tf8 27.Dd2 Df5 28.g3 d5 29.c5 h5 30.h4 Ld4 31.Kg2 Tf7 32.f3 Kh7 33.Td1 Le5 34.Lxe5 Dxe5 35.Dxd3+ Kg8 36.f4 Db2+ 37.Td2 Dxb4 38.Dg6+ Kf8 39.Dh6+ Tg7 40.Te2 Dxc5 41.Dh8+ Kf7 42.De8+ Kf6 43.De6# 1-0
+
+Reshevsky,Samuel Herman (2565) - Hug,Werner (2445) [E92]
+Petropolis Interzonal Petropolis (7), 02.08.1973
+
+1.Sf3 Sf6 2.d4 g6 3.c4 c5 4.d5 d6 5.Sc3 Lg7 6.e4 0-0 7.Le2 e5 8.Lg5 h6 9.Lh4 Dc7 10.Sd2 Sh7 11.0-0 Lf6 12.Lxf6 Sxf6 13.a3 Kg7 14.b4 Sa6 15.Tb1 De7 16.Dc2 h5 17.bxc5 Sxc5 18.Sb3 Sfd7 19.Sxc5 Sxc5 20.Sa4 Sa6 21.Dc3 b6 22.f4 f6 23.f5 De8 24.Dg3 g5 25.Sc3 Th8 26.De3 Sc5 27.Sb5 De7 28.Tf3 La6 29.Sc3 Tac8 30.Th3 Df7 31.Tb4 Tc7 32.Df3 Sb7 33.Sb1 Kf8 34.Df1 Sc5 35.Sd2 Lc8 36.Dd1 h4 37.Tb1 Ld7 38.Lg4 La4 39.De2 De8 40.Kh1 Ke7 41.Df1 Kd8 42.Ld1 Lxd1 43.Dxd1 Dh5 44.De1 Dg4 45.Kg1 ½-½
+
+Reshevsky,Samuel Herman (2565) - Gheorghiu,Florin (2530) [E62]
+Petropolis Interzonal Petropolis (5), 29.07.1973
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.Sf3 Sc6 7.0-0 e5 8.d5 Se7 9.e4 c5 10.Se1 Se8 11.Sd3 f5 12.f4 exf4 13.Lxf4 fxe4 14.Sxe4 h6 15.h4 Sf5 16.Dd2 ½-½
+
+Reshevsky,Samuel Herman (2565) - Smyslov,Vassily (2600) [E17]
+Petropolis Interzonal Petropolis (3), 26.07.1973
+
+1.Sf3 Sf6 2.c4 b6 3.d4 Lb7 4.g3 e6 5.Lg2 Le7 6.Sc3 Se4 7.Ld2 Lf6 8.Dc2 Sxd2 9.Dxd2 d5 10.cxd5 exd5 11.Se5 0-0 12.0-0 c5 13.e3 cxd4 14.exd4 Sa6 15.Tac1 Sc7 16.Sd1 g6 17.Se3 Lg7 18.Tc2 Dd6 19.Tfc1 Se6 20.f4 Tae8 21.h4 Te7 22.h5 Tc7 23.hxg6 hxg6 24.Txc7 Sxc7 25.Lh3 Td8 26.Tc2 Se8 27.a3 Sf6 28.Dc1 Se4 29.Tc7 Sxg3 30.Lg4 La6 31.Txf7 Tf8 32.Txf8+ Lxf8 33.Dc6 Dxc6 34.Sxc6 Ld6 35.Sxd5 Lb7 36.Ld7 Lxc6 37.Lxc6 Se2+ 38.Kf2 Sxf4 39.Sf6+ Kf7 40.Se4 Ke7 41.Ke3 Se6 42.Ld5 Lf4+ 43.Kd3 g5 44.Sc3 Lc1 45.Kc2 Le3 46.Se2 Sxd4+ 47.Sxd4 Lxd4 ½-½
+
+Reshevsky,Samuel Herman (2565) - Polugaevsky,Lev (2640) [E17]
+Petropolis Interzonal Petropolis (1), 24.07.1973
+
+1.Sf3 Sf6 2.c4 e6 3.g3 b6 4.Lg2 Lb7 5.d4 Le7 6.Sc3 Se4 7.Ld2 d5 8.cxd5 exd5 9.Se5 Sxd2 10.Dxd2 0-0 11.0-0 c6 12.e4 dxe4 13.Lxe4 f6 14.Sc4 f5 15.Lg2 La6 16.b3 f4 17.De2 Kh8 18.a4 Lb4 19.Sa2 Ld6 20.Tfe1 Dc7 21.De4 Lxc4 22.bxc4 a5 23.Sc3 Lb4 24.Tac1 Ta7 25.De6 Dd8 26.Te4 Te7 27.Dh3 f3 ½-½
+
+Reshevsky,Samuel Herman - Byrne,Robert E [E92]
+USA-ch playoff Chicago, 1973
+
+1.c4 g6 2.Sc3 Lg7 3.d4 Sf6 4.e4 d6 5.Le2 0-0 6.Sf3 e5 7.Le3 Sg4 8.Lg5 f6 9.Lc1 f5 10.Lg5 De8 11.dxe5 Sxe5 12.Sxe5 Dxe5 13.exf5 Dxf5 14.Le3 Sc6 15.Dd2 Le6 16.0-0 Tae8 17.b3 Lc8 18.Tad1 Df7 19.Sd5 b6 20.f4 Sd8 21.Lf3 Se6 22.Lg4 Sc5 23.Lxc8 Txc8 24.f5 gxf5 25.Txf5 Dd7 26.Tdf1 Txf5 27.Txf5 c6 28.Lxc5 Kh8 29.Se7 Dxe7 30.Dxd6 De2 31.Tf2 Dh5 32.Le3 Te8 33.Tf3 c5 34.h3 Dh4 35.Lf2 De4 36.Te3 Db1+ 37.Kh2 Tg8 38.Lg3 Dxa2 39.Le5 Dxg2+ 40.Kxg2 Lxe5+ 0-1
+
+Reshevsky,Samuel Herman (2565) - Camara,Helder (2405) [A07]
+Netanya-A Netanya (4), 1973
+
+1.Sf3 d5 2.g3 Lf5 3.Lg2 c6 4.0-0 Sf6 5.d3 Sbd7 6.Sbd2 e6 7.De1 Lg6 8.e4 Lc5 9.Sh4 Dc7 10.Sb3 Lb6 11.a4 a5 12.Lf4 e5 13.Lg5 dxe4 14.dxe4 h6 15.Sxg6 fxg6 16.Le3 g5 17.Td1 0-0 18.Dc3 Lxe3 19.Dxe3 Kh7 20.Dc3 b6 21.Td2 c5 22.Dc4 Sb8 23.Tfd1 Sc6 24.c3 Tad8 25.Lf1 Txd2 26.Txd2 Td8 27.De6 Txd2 28.Sxd2 Dd7 29.Dxd7 Sxd7 30.Lb5 Scb8 31.Sc4 Kg6 32.Kf1 Kf6 33.Ke2 Ke7 34.Ke3 Kd8 35.f4 gxf4+ 36.gxf4 exf4+ 37.Kxf4 Kc7 38.Kf5 Sf8 39.e5 Sbd7 40.Lxd7 1-0
+
+Reshevsky,Samuel Herman (2565) - Czerniak,Moshe (2370) [B08]
+Netanya-A Netanya (12), 1973
+
+1.Sf3 g6 2.e4 Lg7 3.d4 d6 4.Le2 Sf6 5.Sc3 0-0 6.0-0 b6 7.Te1 Lb7 8.Lf1 c5 9.d5 Sa6 10.Lg5 h6 11.Lh4 Sc7 12.a4 a6 13.Sd2 Tb8 14.Sc4 b5 15.axb5 axb5 16.Sa5 La8 17.Dd2 Kh7 18.f3 Sd7 19.Ta2 c4 20.Se2 Tc8 21.Sd4 Sb8 22.f4 Dd7 23.f5 g5 24.Lf2 e6 25.dxe6 fxe6 26.fxe6 Sxe6 27.Sf5 c3 28.Dxd6 Df7 29.Dg3 Sf4 30.Sxg7 Dxa2 31.b4 Kxg7 32.h4 De6 33.hxg5 hxg5 34.Lxb5 Kg6 35.Sb3 Sc6 36.Sc5 Dd6 37.Dxc3 Se5 38.Ld4 Sg4 39.e5 Dd5 40.Ld3+ Kh6 41.Le4 Df7 42.Df3 Dh5 43.Dg3 Lxe4 44.Txe4 Tcd8 45.Sb3 Kg6 46.Txf4 Txf4 47.Dd3+ Kg7 48.Dh3 Tfxd4 49.Sxd4 Txd4 0-1
+
+Reshevsky,Samuel Herman (2565) - Damjanovic,Mato (2465) [A05]
+Netanya-A Netanya (14), 1973
+
+1.Sf3 Sf6 2.g3 b5 3.Lg2 Lb7 4.0-0 c5 5.d3 d5 6.c4 dxc4 7.dxc4 Dxd1 8.Txd1 b4 9.a3 a5 10.axb4 axb4 11.Txa8 Lxa8 12.Lf4 Sfd7 13.Sbd2 Lxf3 14.Sxf3 f6 15.Lc7 e6 16.Ta1 Le7 17.Ta7 Kf7 18.Sd2 Tc8 19.f4 Ke8 20.Se4 Txc7 21.Txc7 Kd8 22.Tb7 h6 23.Sf2 f5 24.Sd3 Ld6 25.e4 fxe4 26.Lxe4 e5 27.Kg2 exf4 28.Sxf4 g5 29.Sd3 Sf6 30.Sxc5 1-0
+
+Reshevsky,Samuel Herman (2560) - Hecht,Hans Joachim (2505) [E17]
+London London, 1973
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Le7 6.Sc3 Se4 7.Ld2 d6 8.d5 Sxd2 9.Sxd2 e5 10.e4 Sd7 11.b4 h5 12.h4 g6 13.Lh3 Sf6 14.Sf1 Kf8 15.Se3 Kg7 16.Kf1 Lc8 17.Lxc8 Dxc8 18.Kg2 Sg4 19.Sxg4 hxg4 20.f3 gxf3+ 21.Dxf3 Dd7 22.Tae1 Taf8 23.h5 Lg5 24.b5 Le7 25.Sd1 Dc8 26.Se3 Lg5 27.a4 a5 28.hxg6 Txh1 29.Sf5+ Kxg6 30.Txh1 Th8 31.Dg4 Dd8 32.Se7+ Kf6 33.Sc6 1-0
+
+Reshevsky,Samuel Herman (2560) - Karaklajic,Nikola (2420) [A07]
+London London, 1973
+
+1.Sf3 d5 2.g3 Sc6 3.Lg2 e5 4.d3 Sf6 5.0-0 h6 6.c4 dxc4 7.Da4 Ld6 8.Dxc4 0-0 9.Sc3 Le6 10.Da4 Dd7 11.Ld2 Lh3 12.Tac1 Tfe8 13.Tfe1 Lxg2 14.Kxg2 a6 15.Se4 Sxe4 16.Dxe4 De6 ½-½
+
+Reshevsky,Samuel Herman - Kavalek,Lubomir [B37]
+USA-ch playoff Chicago, 1973
+
+1.Sf3 g6 2.c4 Lg7 3.Sc3 c5 4.d4 cxd4 5.Sxd4 Sc6 6.Sc2 d6 7.e4 Sh6 8.Le2 f5 9.h4 fxe4 10.h5 Lf5 11.hxg6 hxg6 12.Se3 Sf7 13.Txh8+ Lxh8 14.g4 Le6 15.Dc2 Sg5 16.Sxe4 Sd4 17.Dd3 Sdf3+ 18.Kf1 Da5 19.Lxf3 Sxf3 20.Ld2 Sxd2+ 21.Sxd2 Lxb2 22.Tb1 Le5 23.Txb7 Kf7 24.Sf3 Th8 25.Sg5+ Kf6 26.Sxe6 Th1+ 27.Kg2 Th2+ 28.Kf3 Th3+ 29.Ke4 Kxe6 30.Dd5+ Dxd5+ 31.Sxd5 Kf7 32.Txe7+ Kf8 33.c5 Ta3 34.c6 Ta4+ 35.Kf3 Tc4 36.c7 Lf6 37.Td7 1-0
+
+Reshevsky,Samuel Herman (2565) - Kavalek,Lubomir (2565) [E92]
+Netanya-A Netanya (8), 1973
+
+1.Sf3 g6 2.d4 Sf6 3.c4 Lg7 4.Sc3 0-0 5.e4 d6 6.Le2 e5 7.Le3 De7 8.dxe5 dxe5 9.Sd5 Sxd5 10.cxd5 c6 11.0-0 cxd5 12.exd5 e4 13.Sd4 a6 14.Db3 Sd7 15.Tfd1 Le5 16.Td2 Ld6 17.g3 Se5 ½-½
+
+Reshevsky,Samuel Herman (2560) - Keene,Raymond (2445) [E15]
+London London, 1973
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 La6 5.Da4 Lb7 6.Lg2 c5 7.dxc5 bxc5 8.0-0 Le7 9.Td1 0-0 10.Sc3 Db6 11.Dc2 d6 12.b3 Sc6 13.Sa4 Dc7 14.Lb2 h6 15.Sc3 Tfd8 16.e3 a6 17.De2 Tab8 18.Tac1 Sb4 19.Se1 Lxg2 20.Kxg2 Db7+ 21.Kg1 Se4 22.Sxe4 Dxe4 23.Lc3 a5 24.Sd3 Tb7 ½-½
+
+Reshevsky,Samuel Herman (2565) - Pachman,Ludek (2510) [D42]
+Netanya-A Netanya (1), 1973
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 c5 5.cxd5 Sxd5 6.e3 Sc6 7.Ld3 Le7 8.0-0 0-0 9.Te1 b6 10.Se4 cxd4 11.exd4 Scb4 12.Lb1 Sf6 13.Sxf6+ Lxf6 14.a3 Sd5 15.Dd3 g6 16.Lh6 Lg7 17.Dd2 Lb7 18.Le4 De7 19.Se5 Tfd8 20.h4 Lxh6 21.Dxh6 Sf6 22.Lxb7 Dxb7 23.Tad1 Tac8 24.Td3 De7 25.g4 Sd5 26.Sf3 Df8 27.Dd2 Dd6 28.Te5 Dc6 29.Kg2 Dc1 30.Te1 Dxd2 31.Txd2 Tc7 32.Kg3 h6 33.Se5 Tdc8 34.Ted1 Tc2 35.Kf3 Txd2 36.Txd2 Tc1 37.Sd3 Th1 38.Kg3 Kg7 39.f3 Kf6 40.Sf4 Sxf4 41.Kxf4 Txh4 42.d5 exd5 43.Txd5 Th2 44.Td7 Txb2 45.Txa7 Tb5 46.Kg3 Ta5 47.Tc7 Tc5 48.Tb7 Tc6 49.a4 Ke6 50.Ta7 f5 51.gxf5+ Kxf5 52.a5 bxa5 53.Txa5+ Kf6 54.f4 Tc3+ 55.Kg2 h5 56.Te5 ½-½
+
+Reshevsky,Samuel Herman (2565) - Peretz,Malkiel (2365) [A05]
+Netanya-A Netanya (3), 1973
+
+1.Sf3 c5 2.g3 g6 3.Lg2 Lg7 4.0-0 Sc6 5.d3 Sf6 6.e4 0-0 7.Sbd2 d6 8.Te1 Ld7 9.h3 e5 10.Sc4 b5 11.Se3 Le6 12.a4 bxa4 13.Txa4 Dd7 14.Sg5 Sd4 15.Ta3 Tfb8 16.Sxe6 Dxe6 17.c3 Sb5 18.Ta5 Sc7 19.Sc4 Sd7 20.f4 Tb5 21.f5 De7 22.Txb5 Sxb5 23.Tf1 Tf8 24.h4 Sc7 25.Da4 gxf5 26.Dxa7 Sf6 27.Txf5 Dd7 28.Db6 Sfe8 29.Kh2 Se6 30.Tf1 S6c7 31.Lh3 Da4 32.b3 Da2+ 33.Ld2 Da8 34.Sxd6 Sxd6 35.Dxd6 Da2 36.Tf2 Sb5 37.Dxc5 Dxb3 38.Ld7 Tb8 39.Lc6 Sc7 40.c4 Se6 41.Da7 Db6 42.Dxb6 Txb6 43.Ld5 Sc5 44.Txf7 Kh8 45.Tc7 1-0
+
+Reshevsky,Samuel Herman (2565) - Tatai,Stefano (2460) [A05]
+Netanya-A Netanya (10), 1973
+
+1.Sf3 Sf6 2.g3 g6 3.b3 Lg7 4.Lb2 0-0 5.Lg2 c5 6.c4 Sc6 7.0-0 d5 8.cxd5 Sxd5 9.Lxg7 Kxg7 10.Dc1 b6 11.d4 Sxd4 12.Sxd4 cxd4 13.Dc4 Le6 14.Dxd4+ Sf6 15.Da4 Tc8 16.Dxa7 Dd6 17.Sa3 Tfd8 18.Da6 Db4 19.Sc4 Lxc4 20.bxc4 Dxc4 21.Dxb6 Td2 22.a4 Dxe2 23.a5 Sd5 24.Db7 Tc7 25.Db8 Tc6 26.Db7 Tf6 27.Da7 Sb4 28.Tae1 Da6 29.Txe7 Ta2 30.Db8 Dxa5 31.Te8 Dc5 32.Tg8+ Kh6 33.Df8+ Dxf8 34.Txf8 Kg7 35.Td8 Sc6 36.Td5 Se7 37.Td7 Sc6 38.f4 Sb4 39.Td4 Tb2 40.Tfd1 Ta6 41.T1d2 Txd2 42.Txd2 Ta1+ 43.Kf2 Ta2 44.Txa2 Sxa2 45.Ke3 Sc3 46.Lc6 f5 47.Kd3 Sa2 48.Kc4 Sc1 49.Lb5 Se2 50.Kd3 Sxf4+ 51.gxf4 g5 52.fxg5 h6 ½-½
+
+Reshevsky,Samuel Herman (2560) - Timman,Jan H (2470) [B08]
+London London, 1973
+
+1.Sf3 g6 2.d4 Lg7 3.e4 d6 4.Le2 Sf6 5.Sc3 0-0 6.0-0 Lg4 7.Lf4 Sfd7 8.Le3 Sc6 9.d5 Lxf3 10.Lxf3 Sce5 11.Le2 Sb6 12.b3 Sf3+ 13.Lxf3 Lxc3 14.Tc1 c5 15.dxc6 bxc6 16.Ld4 Lxd4 17.Dxd4 Sd7 18.Tcd1 Da5 19.a4 Tab8 20.De3 Tb4 21.Le2 Dc5 22.Dxc5 Sxc5 23.f3 a5 24.Td2 Kg7 25.Tfd1 Sd7 26.Td4 Tfb8 27.Txb4 Txb4 28.Kf2 f5 29.exf5 gxf5 30.g3 ½-½
+
+Reshevsky,Samuel Herman (2560) - Vujacic,Borivoje [D55]
+London London, 1973
+
+1.d4 e6 2.Sf3 d5 3.c4 Le7 4.Sc3 Sf6 5.Lg5 0-0 6.e3 h6 7.Lxf6 Lxf6 8.cxd5 exd5 9.b4 Le6 10.Le2 Sd7 11.0-0 Te8 12.Se1 Le7 13.Sd3 c6 14.a4 a5 15.b5 Ld6 16.Dd2 Lf5 17.Sf4 Df6 18.Tfc1 Tec8 19.Sh5 Dh4 20.Sf4 Df6 21.Sd1 Sf8 22.Sb2 Lxf4 23.exf4 Se6 24.bxc6 bxc6 25.Td1 Tab8 26.g4 Lxg4 27.Lxg4 Dg6 28.f3 f5 29.Sd3 fxg4 30.Se5 Df5 31.fxg4 De4 32.f5 Sg5 33.h4 Sf3+ 34.Sxf3 Dxf3 35.Dg2 Df4 36.Ta3 Tb2 37.Dg3 De4 38.Te3 Dc2 39.Tde1 Dxa4 40.De5 Tf8 41.g5 Td2 42.f6 Dxd4 43.De6+ Kh8 44.De7 Tg8 45.f7 Tf8 ½-½
+
+Reshevsky,Samuel Herman (2565) - Yanofsky,Daniel Abraham (2460) [A04]
+Netanya-A Netanya (6), 1973
+
+1.Sf3 g6 2.g3 Lg7 3.Lg2 c5 4.0-0 Sc6 5.e4 e5 6.c3 Sge7 7.d3 0-0 8.a4 d6 9.Sbd2 h6 10.Tb1 a5 11.Sc4 Le6 12.Sfd2 f5 13.f4 exf4 14.Txf4 d5 15.exd5 Lxd5 16.Lxd5+ Sxd5 17.Tf2 Te8 18.Db3 Tb8 19.Sf3 Kh7 20.Ld2 ½-½
+
+Reshevsky,Samuel Herman (2565) - Benko,Pal C (2515) [A17]
+USA-ch New York (10), 1972
+
+1.Sf3 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 0-0 5.a3 Lxc3 6.Dxc3 c5 7.g3 b6 8.Lg2 Lb7 9.0-0 d6 10.b4 Sc6 11.d3 e5 12.e4 Sd7 13.Ta2 a6 14.Le3 Sd4 ½-½
+
+Reshevsky,Samuel Herman (2565) - Bisguier,Arthur Bernard (2430) [A07]
+USA-ch New York (1), 1972
+
+1.Sf3 d5 2.g3 Sc6 3.c4 dxc4 4.Da4 g6 5.Lg2 Lg7 6.Sc3 Sh6 7.Dxc4 Sf5 8.0-0 0-0 9.d3 h6 10.Ld2 e5 11.Tac1 Le6 12.Da4 Sd6 13.Le3 Dd7 14.Tfd1 Sf5 15.Ld2 Sd6 16.Le3 Sf5 17.Lc5 Tfd8 18.Sd2 Sfe7 19.Lxe7 Sxe7 20.Lxb7 Tab8 21.Lf3 Txb2 22.Dxa7 Sf5 23.e3 Lf8 24.Sc4 Lxc4 25.dxc4 Dc8 26.c5 h5 27.Da3 Tb8 28.Txd8 Dxd8 29.Se4 Sg7 30.Da6 Se6 31.Td1 Dc8 32.Dc6 Lg7 33.a4 Tb2 34.a5 Ta2 35.Sd6 Dd8 36.Sxf7 Df6 37.Sg5 Sxg5 38.Ld5+ Kh7 39.Dxf6 Sh3+ 40.Kg2 1-0
+
+Reshevsky,Samuel Herman (2565) - Kaufman,Larry C (2400) [E60]
+USA-ch New York (8), 1972
+
+1.Sf3 Sf6 2.g3 g6 3.b3 Lg7 4.Lb2 0-0 5.Lg2 c5 6.c4 d6 7.0-0 Sc6 8.d4 cxd4 9.Sxd4 Ld7 10.Sc3 Sxd4 11.Dxd4 Le6 12.Sd5 Lxd5 13.Lxd5 Se8 14.Dd2 Lxb2 15.Dxb2 Tb8 16.Tad1 Dc7 17.Td4 Sf6 18.Lg2 Tfd8 19.Tfd1 b6 20.Tf4 Se8 21.h4 Sg7 22.Ld5 e6 23.Lg2 De7 24.Tfd4 Tbc8 25.Dd2 Se8 26.h5 Tc5 27.hxg6 hxg6 28.Lf3 Tdc8 29.Kg2 Dg5 30.Dxg5 Txg5 31.Lb7 Tc7 32.La6 Te7 33.e4 Ta5 34.Lb5 Txa2 35.e5 d5 36.Th1 g5 37.Th5 Sg7 38.Txg5 a6 39.La4 Kf8 40.Th4 Tb7 41.Th8+ 1-0
+
+Reshevsky,Samuel Herman (2565) - Kavalek,Lubomir (2555) [D76]
+USA-ch New York (7), 1972
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 d5 5.Sf3 0-0 6.cxd5 Sxd5 7.0-0 Sb6 8.Sc3 Sc6 9.d5 Sa5 10.e4 c6 11.Sd4 cxd5 12.exd5 e5 13.Sb3 Sac4 14.a4 Sd6 15.De2 Lf5 16.Td1 Dc7 17.Le3 Dc4 18.Lc5 Tfd8 19.Lxd6 Txd6 20.Sa5 Dxe2 21.Sxe2 Td7 22.Sc3 Sc8 23.d6 Sxd6 24.Td2 Tad8 25.h3 e4 26.Tad1 b6 27.Sc6 Sc4 28.Txd7 Txd7 29.Txd7 Lxd7 30.Lxe4 Sxb2 31.Sb5 a5 32.g4 Sxa4 33.Kf1 Sc3 34.Sxc3 Lxc3 35.Ke2 Le6 36.Kd3 Lf6 37.Kc2 h5 38.Lf3 Kg7 39.Sa7 Kh6 40.Sb5 Kg5 41.Sc7 Lc4 42.Ld5 Lxd5 0-1
+
+Reshevsky,Samuel Herman (2565) - Lombardy,William James (2520) [A30]
+USA-ch New York (3), 1972
+
+1.Sf3 Sf6 2.c4 e6 3.g3 b6 4.Lg2 Lb7 5.0-0 Le7 6.b3 0-0 7.Lb2 c5 8.d4 cxd4 9.Dxd4 Sc6 10.Df4 Db8 11.Sc3 Dxf4 12.gxf4 Tfd8 13.Tfd1 Tab8 14.Se5 a6 15.Td2 Sa7 16.Tad1 Lxg2 17.Kxg2 Tb7 18.Kf3 Kf8 19.e4 b5 20.cxb5 axb5 21.Sd3 d5 22.e5 Sd7 23.Se2 b4 24.f5 exf5 25.Sd4 g6 26.Tc2 Sb5 27.Sc6 Tc8 28.Sdxb4 Lxb4 29.Sxb4 Txc2 30.Sxc2 Sc7 31.Se3 Ta7 32.a4 Tb7 33.b4 Sc5 34.a5 f4 35.Sxd5 Sxd5 36.Txd5 Txb4 37.Lc3 Tc4 38.Txc5 Ta4 39.Tc7 g5 40.Kg4 h6 1-0
+
+Reshevsky,Samuel Herman (2565) - Mednis,Edmar John (2450) [A11]
+USA-ch New York (12), 1972
+
+1.c4 Sf6 2.g3 c6 3.Lg2 d5 4.Sf3 g6 5.0-0 Lg7 6.cxd5 cxd5 7.d3 0-0 8.Sc3 Sc6 9.Lf4 h6 10.Tc1 e6 11.Sa4 Te8 12.Se5 Sxe5 13.Lxe5 Ld7 14.Sc5 Lc6 15.Db3 Te7 16.Tc2 Se8 17.Lxg7 Sxg7 18.e4 Se8 19.Tfc1 Sf6 20.Dc3 e5 21.De1 dxe4 22.dxe4 Db6 23.De3 Kg7 24.Da3 Dd8 25.De3 Db6 26.Da3 Dd8 27.Db4 Db6 28.Dc3 Td8 29.Da3 Tee8 30.Tc3 Td2 31.Tb3 Dd8 32.Sxb7 Td1+ 33.Lf1 Lxb7 34.Txd1 Dxd1 35.Txb7 Sxe4 36.Dxa7 Df3 37.Le2 Df6 38.De3 Sd6 39.Tb6 De7 40.Dc5 Td8 41.a4 Sf5 42.Dxe7 Sxe7 43.a5 Sd5 44.Tb7 Tc8 45.a6 Tc1+ 46.Kg2 Tc2 47.a7 1-0
+
+Reshevsky,Samuel Herman (2565) - Popovych,Orest (2415) [E62]
+USA-ch New York (5), 1972
+
+1.c4 Sf6 2.g3 g6 3.Lg2 Lg7 4.Sc3 0-0 5.d4 d6 6.Sf3 Sc6 7.0-0 Lg4 8.h3 Lxf3 9.Lxf3 Sd7 10.e3 e5 11.d5 Se7 12.e4 f5 13.Ld2 Sf6 14.Tc1 Dd7 15.Kg2 Tf7 16.b4 Taf8 17.Lg5 h6 18.Lxf6 Txf6 19.c5 h5 20.c6 bxc6 21.dxc6 Dc8 22.exf5 Sxf5 23.Sd5 T6f7 24.Dd3 Lh6 25.Tc4 Kg7 26.Le4 Dd8 27.b5 Sd4 28.Txd4 exd4 29.Dxd4+ Kh7 30.Dxa7 h4 31.g4 De8 32.Dd4 De6 33.a4 Lf4 34.a5 Lg3 35.f3 Ta8 36.a6 Le5 37.Dd3 Kg7 38.b6 cxb6 39.c7 Ta7 40.Tc1 Tf8 41.Sxb6 1-0
+
+Reshevsky,Samuel Herman - Draper,Mervin [E91]
+USA-72ch Ventura (1), 08.08.1971
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Sf3 0-0 6.Le2 Sc6 7.d5 Se5 8.Sxe5 dxe5 9.0-0 Se8 10.Le3 a6 11.Db3 f5 12.exf5 gxf5 13.f4 e4 14.c5 Sf6 15.Tad1 Kh8 16.Ld4 De8 17.Le5 Sd7 18.Lxg7+ Kxg7 19.Db4 Dg6 20.Kh1 Df6 21.g4 a5 22.Da3 b6 23.g5 Df7 24.c6 Sc5 25.Sa4 Sxa4 26.Dxa4 La6 27.Lxa6 Txa6 28.Dd4+ Kg8 29.De5 Ta7 30.Tg1 Dg7 31.De6+ Kh8 32.g6 Tf6 33.gxh7 Dxg1+ 34.Kxg1 Txe6 35.dxe6 Kxh7 36.Td7 Kg7 37.Txe7+ Kf6 38.Te8 a4 39.h4 Ta5 40.h5 Td5 41.h6 Td1+ 42.Kf2 Td2+ 43.Ke3 Td1 44.h7 Th1 45.h8D+ Txh8 46.Txh8 Kxe6 47.Td8 1-0
+
+Reshevsky,Samuel Herman - Bellon Lopez,Juan Manuel [A22]
+Palma de Mallorca Palma de Mallorca (15), 1971
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 e4 4.Sg5 b5 5.Sxb5 h6 6.Sh3 c6 7.Sc3 d5 8.cxd5 cxd5 9.e3 Ld6 10.Db3 Db6 11.Lb5+ Kf8 12.Dc2 Lg4 13.a3 Sa6 14.0-0 Td8 15.d4 Lb8 16.Le2 Dc7 17.Sf4 g5 18.Lxa6 gxf4 19.exf4 Tg8 20.g3 Dd7 21.Le2 Lf3 22.Lxf3 exf3 23.Dd3 Dg4 24.Te1 Sh5 25.Te5 Lxe5 26.fxe5 Sg7 27.Sb5 Th8 28.Sd6 h5 29.h3 Dxh3 30.Dxf3 Txd6 31.exd6 Sf5 32.d7 Kg7 33.Lg5 f6 34.Te1 Td8 35.Te5 Kg6 36.Dxd5 Sxd4 37.Dxd4 fxe5 38.Dd6+ Kxg5 39.De7+ Kg4 40.Dxd8 Kf3 41.Df6+ 1-0
+
+Reshevsky,Samuel Herman - Bisguier,Arthur Bernard [E44]
+Netanya Netanya (8), 1971
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 Lb7 6.a3 Le7 7.d5 0-0 8.Sg3 d6 9.e4 Sbd7 10.Le2 a6 11.0-0 c6 12.dxc6 Lxc6 13.b4 Db8 14.Le3 Td8 15.f4 Db7 16.Ld3 Sf8 17.De2 Sg6 18.Tad1 b5 19.cxb5 axb5 20.Lc1 Tab8 21.Lb1 Tbc8 22.La2 Lf8 23.f5 exf5 24.Sxf5 Le8 25.Sd5 Sxd5 26.Lxd5 Lc6 27.Lb2 Lxd5 28.Txd5 Te8 29.Dd3 Tc4 30.Ld4 Dc6 31.h3 Tc1 32.Le3 Tc3 33.Dxb5 Dxb5 34.Txb5 Txa3 35.Tb7 Txe4 36.b5 Texe3 37.Sxe3 Txe3 38.Tfxf7 Tb3 39.Tfc7 h5 40.Td7 Le7 41.b6 Kh7 42.Txe7 Sxe7 43.Txe7 Txb6 44.Te6 Kh8 45.Te7 Kh7 46.Te6 g6 47.Te7+ Kh6 48.h4 ½-½
+
+Reshevsky,Samuel Herman - Bleiman,Yaacov [A55]
+Netanya Netanya (12), 1971
+
+1.d4 Sf6 2.c4 d6 3.Sc3 Sbd7 4.e4 e5 5.Sf3 Le7 6.Le2 0-0 7.0-0 c6 8.Te1 Te8 9.Lf1 Dc7 10.h3 Sf8 11.Le3 Sg6 12.d5 c5 13.a3 Ld7 14.b4 b6 15.Tb1 Teb8 16.Dc2 Dc8 17.Kh2 Sh5 18.Tb3 Sh4 19.Sxh4 Lxh4 20.Teb1 Df8 21.bxc5 bxc5 22.Txb8 Txb8 23.Le2 Sf4 24.Lg4 Lxg4 25.hxg4 Le7 26.g3 Sg6 27.Txb8 Dxb8 28.Da4 Dc8 29.Dxa7 Dxg4 30.Db8+ Lf8 31.Db1 h5 32.Dd1 Dc8 33.Dxh5 Da6 34.Sb5 Da4 35.De2 Db3 36.Kg2 Le7 37.Ld2 Dc2 38.Kf1 f5 39.Le1 Dxe4 40.Dxe4 fxe4 41.a4 Sf8 42.a5 Sd7 1-0
+
+Reshevsky,Samuel Herman - Browne,Walter S [A39]
+USA-72ch Ventura (10), 1971
+
+1.d4 Sf6 2.c4 c5 3.Sf3 cxd4 4.Sxd4 Sc6 5.Sc3 g6 6.g3 Lg7 7.Lg2 0-0 8.0-0 Sxd4 9.Dxd4 d6 10.Dd3 a6 11.Ld2 Tb8 12.a4 Sd7 13.Dc2 a5 14.Sb5 Sc5 15.Lc3 Lf5 16.e4 Lxc3 17.exf5 Lf6 18.fxg6 hxg6 19.Tad1 Dd7 20.b3 Kg7 21.Tfe1 Th8 22.Sc3 Df5 23.Dxf5 gxf5 24.Sd5 e6 25.Sxf6 Kxf6 26.Txd6 Sxb3 27.Tb1 Sc5 28.Tb5 b6 ½-½
+
+Reshevsky,Samuel Herman - Donner,Jan Hein [E48]
+Palma de Mallorca Palma de Mallorca (11), 1971
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.Sge2 d5 7.cxd5 exd5 8.0-0 0-0 9.a3 cxd4 10.exd4 Ld6 11.h3 h6 12.Lc2 Te8 13.Dd3 Lf8 14.Le3 g6 ½-½
+
+Reshevsky,Samuel Herman - Garcia Martinez,Silvino [A76]
+Palma de Mallorca Palma de Mallorca (7), 1971
+
+1.d4 c5 2.d5 d6 3.c4 Sf6 4.Sc3 g6 5.e4 Lg7 6.Sf3 0-0 7.Le2 e6 8.0-0 exd5 9.cxd5 a6 10.a4 Te8 11.Dc2 Sbd7 12.Lf4 Dc7 13.Sd2 Se5 14.h3 Tb8 15.Le3 b6 16.b3 De7 17.Tae1 Lb7 18.f4 Sed7 19.Lf2 Df8 20.Lg3 h6 21.Lf3 b5 22.axb5 Sb6 23.Sc4 Sc8 24.e5 Sd7 25.e6 Ld4+ 26.Kh1 Sf6 27.f5 g5 28.b6 La8 29.Se4 Sxe4 30.Dxe4 f6 31.Lh5 Txb6 32.Sxb6 Sxb6 33.e7 1-0
+
+Reshevsky,Samuel Herman - Geller,Uzi [E53]
+Netanya Netanya (2), 1971
+
+1.d4 e6 2.c4 Sf6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.Sf3 b6 7.cxd5 exd5 8.Se5 c5 9.0-0 Lxc3 10.bxc3 Dc7 11.a4 Sbd7 12.Sxd7 Lxd7 13.f3 Tfe8 14.De1 Lc6 15.Dh4 De7 16.g4 h6 17.Ld2 a6 18.Tfb1 b5 19.a5 Tab8 20.Dg3 c4 21.Lf1 Sh7 22.Te1 Df6 23.Lg2 Dg6 24.e4 h5 25.g5 Tbd8 26.e5 Dd3 27.Df2 Ld7 28.f4 Lg4 29.Tac1 Df5 30.Dh4 Dd3 31.Df2 Df5 32.Dh4 Dd3 33.Df2 Df5 ½-½
+
+Reshevsky,Samuel Herman - Kagan,Shimon [A40]
+Netanya Netanya (4), 1971
+
+1.d4 ½-½
+
+Reshevsky,Samuel Herman - Karklins,Andrew [A55]
+USA-72ch Ventura (5), 1971
+
+1.Sf3 Sf6 2.g3 d6 3.d4 Sbd7 4.c4 e5 5.Sc3 c6 6.Lg2 Le7 7.0-0 0-0 8.e4 a6 9.a4 a5 10.h3 h6 11.Le3 Sh7 12.Kh2 Sg5 13.Sh4 g6 14.f4 exd4 15.Lxd4 Se6 16.Le3 Lxh4 17.gxh4 Dxh4 18.f5 Sg7 19.Dxd6 Sf6 20.Tf4 Dg5 21.Taf1 Sgh5 22.T4f3 Dh4 23.fxg6 fxg6 24.Kg1 Te8 25.Txf6 Sxf6 26.Txf6 De1+ 27.Kh2 Dxe3 28.Txg6+ Kh7 29.Tg3 1-0
+
+Reshevsky,Samuel Herman - Kavalek,Lubomir [E92]
+Netanya Netanya (6), 1971
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Le2 0-0 6.Sf3 e5 7.Le3 Te8 8.d5 Sg4 9.Lg5 f6 10.Lh4 h5 11.Sd2 Sh6 12.f3 Sd7 13.0-0 Sf7 14.b4 Lh6 15.Sb3 c5 16.dxc6 bxc6 17.b5 Lb7 18.a4 a5 19.Dd3 c5 20.Sd5 Sg5 21.Lxg5 fxg5 22.Tad1 Lf8 23.De3 Lxd5 24.cxd5 Le7 25.Dc3 Db6 26.Kh1 Da7 27.b6 Dxb6 28.Lb5 Ted8 29.Tb1 Sf6 30.Sd2 Dc7 31.Sc4 Tf8 32.Lc6 Ta7 33.Tb5 Ld8 34.Tfb1 Se8 35.Tb7 Txb7 36.Txb7 Dc8 37.Db2 Lc7 38.Ta7 Lb8 39.Ld7 Dd8 40.Le6+ Kh8 41.Td7 Df6 42.Dxb8 Df4 43.Db2 Sf6 44.Txd6 1-0
+
+Reshevsky,Samuel Herman - Keene,Raymond [A07]
+Palma de Mallorca Palma de Mallorca (5), 1971
+
+1.Sf3 g6 2.g3 Lg7 3.Lg2 d5 4.0-0 e5 5.d3 Sc6 6.Sbd2 Sf6 7.e4 0-0 8.Te1 Te8 9.c3 a5 10.exd5 Sxd5 11.a4 h6 12.Sb3 Kh7 13.Sh4 Tf8 14.Sf3 Te8 15.h4 Sf6 16.Sc5 Dd6 17.Le3 Sg4 18.Se4 Dd7 19.Dc2 f5 20.Sed2 b6 21.Sh2 Sxh2 22.Kxh2 La6 23.Tad1 Tad8 24.Sc4 Se7 25.b4 axb4 26.cxb4 Sd5 27.b5 Lb7 28.Lc1 La8 ½-½
+
+Reshevsky,Samuel Herman - Larsen,Bent [A43]
+Palma de Mallorca Palma de Mallorca (2), 1971
+
+1.d4 c5 2.d5 d6 3.e4 Sf6 4.Sc3 g6 5.Sf3 Lg7 6.Le2 0-0 7.0-0 Sa6 8.Sd2 Sc7 9.a4 a6 10.f3 Ld7 11.Sc4 b5 12.Sb6 Tb8 13.a5 Le8 14.Le3 Sd7 15.Sxd7 Lxd7 16.Dd2 b4 17.Sd1 Lb5 18.Lxb5 axb5 19.Ta2 Ta8 20.Sf2 e6 21.dxe6 Sxe6 22.f4 Txa5 23.Txa5 Dxa5 24.f5 Sd4 25.Lh6 Dd8 26.Sg4 Dh4 27.Lxg7 Kxg7 28.h3 Te8 29.f6+ Kh8 30.c3 bxc3 31.bxc3 Se6 32.Dxd6 Dg5 33.Se5 Kg8 34.Dd7 Tf8 35.Sxf7 De3+ 36.Kh1 Dxe4 37.Sg5 1-0
+
+Reshevsky,Samuel Herman - Ljubojevic,Ljubomir [E94]
+Palma de Mallorca Palma de Mallorca (13), 1971
+
+1.d4 g6 2.c4 Lg7 3.Sc3 d6 4.Sf3 Sd7 5.e4 e5 6.Le2 exd4 7.Sxd4 Sgf6 8.0-0 0-0 9.Le3 Te8 10.f3 c6 11.Dd2 d5 12.exd5 cxd5 13.Tad1 De7 14.Lf2 dxc4 15.Lxc4 Db4 16.Lb3 Sc5 17.Lc2 a6 18.Lb1 Se6 19.Se4 Dxd2 20.Txd2 Sxe4 21.Lxe4 Td8 22.Tfd1 Lxd4 23.Lxd4 f5 24.Lc2 Txd4 25.Txd4 Sxd4 26.Txd4 Le6 ½-½
+
+Reshevsky,Samuel Herman - Parma,Bruno [E56]
+Netanya Netanya (10), 1971
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 0-0 6.Sf3 d5 7.0-0 dxc4 8.Lxc4 Sc6 9.a3 La5 10.Ld3 cxd4 11.exd4 Lb6 12.Le3 Sd5 13.Sxd5 Dxd5 14.Dc2 Dh5 15.Tad1 Ld7 16.Le2 Dg6 17.Dxg6 hxg6 18.d5 exd5 19.Lxb6 axb6 20.Txd5 Tfe8 21.Lb5 Le6 22.Td2 Ted8 23.Tfd1 Kf8 24.Txd8+ Txd8 25.Txd8+ Sxd8 26.Se5 Ke7 27.Sc4 Ld7 28.Lxd7 Kxd7 29.Sxb6+ Kc6 30.Sc4 Kc5 31.Se3 Kd4 32.Kf1 Kd3 33.Ke1 Se6 34.Kd1 Sc5 35.Sd5 Kc4 36.Sb4 Kb3 37.Kc1 g5 38.f3 f6 39.Kb1 Kc4 40.Kc2 Kd4 41.Kd2 Sb3+ 42.Kc2 ½-½
+
+Reshevsky,Samuel Herman - Peretz,Malkiel [E60]
+Netanya Netanya (14), 1971
+
+1.Sf3 c5 2.b3 Sf6 3.Lb2 g6 4.c4 Lg7 5.g3 0-0 6.Lg2 Sc6 7.0-0 d6 8.d4 cxd4 9.Sxd4 Ld7 10.Sc3 Da5 11.e3 Lg4 12.Dd2 Tac8 13.h3 Ld7 14.De2 Dg5 15.Tfd1 h5 16.Sf3 Da5 17.e4 Dd8 18.e5 dxe5 19.Sxe5 Sxe5 20.Dxe5 Se8 21.De2 Sd6 22.Sd5 Le6 23.Lxg7 Kxg7 24.De5+ Kh7 25.Sxe7 Sxc4 26.Txd8 Sxe5 27.Txc8 Lxc8 28.Te1 Sc6 29.Sxc6 bxc6 30.Te7 a6 31.Tc7 Kg7 32.Txc6 Lb7 33.Tb6 Lxg2 34.Kxg2 Ta8 35.b4 Ta7 36.a4 Ta8 37.a5 Ta7 38.Kf3 Kf8 39.Ke4 Ke7 40.Ke5 Ta8 41.Tb7+ 1-0
+
+Reshevsky,Samuel Herman - Pomar Salamanca,Arturo [A11]
+Palma de Mallorca Palma de Mallorca (9), 1971
+
+1.Sf3 d5 2.b3 Sf6 3.Lb2 g6 4.c4 c6 5.g3 Lg7 6.Lg2 Db6 7.Dc1 Le6 8.Sg5 Sbd7 9.0-0 0-0 10.Sc3 Tac8 11.Sxe6 fxe6 12.d4 e5 13.dxe5 Sg4 14.Sa4 Da5 15.Lc3 Dc7 16.cxd5 cxd5 17.Lxd5+ Kh8 18.Le6 Sxf2 19.Ld4 b5 20.Sc5 Lxe5 21.De3 Dd6 22.Lxe5+ Sxe5 23.Lxc8 Txc8 24.Dxf2 1-0
+
+Reshevsky,Samuel Herman - Ree,Hans [E68]
+USA-72ch Ventura (7), 1971
+
+1.Sf3 Sf6 2.g3 g6 3.b3 Lg7 4.Lb2 0-0 5.Lg2 d6 6.d4 Sbd7 7.0-0 c6 8.c4 Te8 9.Sc3 e5 10.e4 exd4 11.Sxd4 Sc5 12.Dc2 Db6 13.Tad1 a5 14.h3 a4 15.Sxa4 Sxa4 16.bxa4 Db4 17.Sb3 Txa4 18.Lc3 Dxc4 19.Db2 De6 20.Tfe1 Ld7 21.e5 ½-½
+
+Reshevsky,Samuel Herman - Spiller,Arthur R [E42]
+USA-72ch Ventura (3), 1971
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 c5 6.a3 La5 7.Tb1 Sa6 8.Sg3 0-0 9.Ld3 Lxc3+ 10.bxc3 d6 11.0-0 Lb7 12.De2 Sb8 13.e4 e5 14.d5 Lc8 15.f4 exf4 16.Lxf4 Sg4 17.h3 Se5 18.Lxe5 dxe5 19.Dh5 f6 20.Tf2 Sc6 21.Sf1 Se7 22.Se3 Sg6 23.g3 De8 24.h4 Ld7 25.Dd1 Se7 26.d6 Sc6 27.h5 Td8 28.Td2 Le6 29.Le2 Df7 30.Lg4 Lxg4 31.Dxg4 Td7 32.Sf5 Kh8 33.Se7 Txe7 34.dxe7 Sxe7 35.Td7 f5 36.exf5 Dxf5 37.Dxf5 Sxf5 38.Tf1 Kg8 39.Txa7 Sxg3 40.Txf8+ Kxf8 41.Tb7 Se2+ 42.Kf2 Sxc3 43.Txb6 Kf7 44.Ta6 g5 45.hxg6+ hxg6 46.a4 Sd1+ 47.Ke2 Sb2 48.a5 Sxc4 49.Ta8 1-0
+
+Reshevsky,Samuel Herman - Taimanov,Mark E [A11]
+Palma de Mallorca Interzonal Palma de Mallorca (22), 10.12.1970
+
+1.Sf3 Sf6 2.g3 d5 3.Lg2 c6 4.0-0 Lg4 5.c4 e6 6.cxd5 Lxf3 7.Lxf3 cxd5 8.d3 Sc6 9.Sd2 Le7 10.Sb3 0-0 11.Le3 Sd7 12.Tc1 Lf6 13.Dc2 ½-½
+
+Reshevsky,Samuel Herman - Ivkov,Borislav [D34]
+Palma de Mallorca Interzonal Palma de Mallorca (21), 08.12.1970
+
+1.d4 Sf6 2.c4 c5 3.Sf3 e6 4.Sc3 d5 5.cxd5 exd5 6.g3 Sc6 7.Lg2 Le7 8.0-0 0-0 9.dxc5 Lxc5 10.Sa4 Le7 11.Le3 Te8 12.Tc1 Lg4 13.Lc5 Se4 14.Lxe7 Dxe7 15.h3 Lxf3 16.exf3 Sf6 17.f4 Tac8 18.Te1 Dxe1+ 19.Dxe1 Txe1+ 20.Txe1 Kf8 21.Td1 Se7 22.Sc3 Tc5 23.g4 h6 24.g5 Sh5 25.Lxd5 Sxf4 26.gxh6 gxh6 27.Lxb7 Sxh3+ 28.Kf1 Sf4 29.Le4 a5 30.Td7 h5 31.Tb7 f5 32.Lf3 h4 33.a4 Seg6 34.Tb5 Te5 35.Se2 Sd3 36.Lh5 Txb5 37.axb5 Sge5 38.b3 h3 39.f4 Sg4 40.b6 Se3+ 41.Kg1 Sc5 42.Lf3 Sc2 43.b7 Sd7 44.Lc6 Sb8 45.Lb5 Ke7 46.Kh2 Kd6 47.Kxh3 Kc7 48.Ld3 Se3 49.Kg3 Kxb7 50.Kf3 Sd5 51.Lxf5 Kb6 52.Ke4 Sxf4 53.Kxf4 Kc5 54.Lc2 Kb4 55.Ke3 Sd7 56.Kd4 Sc5 57.Sc1 a4 58.Sa2+ Ka3 59.b4 Sb3+ 60.Kc3 Kxa2 61.Lf5 Ka3 62.b5 Sc5 63.b6 Ka2 64.Kb4 Sb7 65.Kxa4 Sd8 66.Le4 Kb2 67.Kb4 Ka2 68.Ld5+ Kb2 69.Kc5 Ka3 70.Kb5 Kb2 71.Kb4 Kc2 72.Kc4 Kb2 73.Kb4 Kc2 74.Kc5 Kc3 75.Le4 Kb3 76.Lf5 Sb7+ 77.Kc6 Sa5+ 78.Kb5 Sb7 79.Lc8 Sd8 80.Kc5 Ka4 81.Kd6 Ka5 82.Kc7 Kb5 83.Lh3 1-0
+
+Reshevsky,Samuel Herman - Polugaevsky,Lev [A32]
+Palma de Mallorca Interzonal Palma de Mallorca (19), 06.12.1970
+
+1.d4 Sf6 2.c4 c5 3.Sf3 cxd4 4.Sxd4 e6 5.Sc3 Lb4 6.Sdb5 0-0 7.a3 Lxc3+ 8.Sxc3 d5 9.Lg5 h6 10.Lh4 g5 11.Lg3 d4 12.Sb5 Sc6 13.e3 dxe3 14.fxe3 e5 15.Ld3 Lg4 16.Dc2 e4 17.Le2 Da5+ 18.Kf2 Lxe2 19.Kxe2 Tac8 20.Sd6 Ta8 21.Tad1 Sh5 22.Le1 Db6 23.g4 Sf6 24.Lc3 Sxg4 25.Dxe4 f5 26.De6+ Kh7 27.Sxf5 Sce5 28.Td7+ Sxd7 29.Dxd7+ Kg6 30.h4 h5 31.Se7+ Kh6 32.hxg5+ Kxg5 33.Dd5+ 1-0
+
+Reshevsky,Samuel Herman - Larsen,Bent [E43]
+Palma de Mallorca Interzonal Palma de Mallorca (17), 02.12.1970
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Ld3 Lb7 6.Sf3 Lxc3+ 7.bxc3 d6 8.Dc2 De7 9.e4 e5 10.0-0 Sc6 11.c5 dxc5 12.dxc5 Dxc5 13.a4 De7 14.La3 De6 15.Tfd1 h6 16.Le2 Sa5 17.Lb5+ Lc6 18.c4 Lxb5 19.cxb5 Sc4 20.Lb4 a5 21.bxa6 c5 22.Tac1 Sd6 23.Lc3 0-0 24.Lxe5 Sdxe4 25.Te1 Sg5 26.Sxg5 hxg5 27.a7 Dc6 28.Lxf6 Dxf6 29.a5 Tfc8 30.axb6 Dxb6 31.Df5 Dxa7 32.Dxg5 c4 33.Tc3 Tc6 34.h3 Dd7 35.Df4 Tac8 36.Tec1 Dd5 37.Te1 Tf6 38.Dg4 Dc5 39.Dh4 Tfc6 40.Dg4 Td8 41.Dh4 Dd5 42.Te5 Dxe5 ½-½
+
+Reshevsky,Samuel Herman - Matulovic,Milan [A79]
+Palma de Mallorca Interzonal Palma de Mallorca (15), 29.11.1970
+
+1.d4 Sf6 2.c4 c5 3.d5 g6 4.Sc3 d6 5.e4 Lg7 6.Le2 0-0 7.Sf3 e6 8.0-0 exd5 9.cxd5 Te8 10.Sd2 Sa6 11.f3 Sc7 12.a4 b6 13.Sc4 La6 14.Lg5 h6 15.Le3 Lxc4 16.Lxc4 a6 17.Dd2 Kh7 18.Tab1 Tb8 19.b4 b5 20.axb5 axb5 21.Le2 c4 22.Ta1 Ta8 23.Ld4 De7 24.g3 Df8 25.Txa8 Txa8 26.f4 Sd7 27.Lxg7 Dxg7 28.Lg4 Ta3 29.e5 f5 30.Le2 Tb3 31.Sxb5 c3 32.Dc2 Sxb5 33.Lxb5 Txb4 34.Lxd7 Dxd7 35.Dxc3 Da7+ 36.Kh1 Dd4 37.Dc8 Dxd5+ 38.Kg1 Dd4+ 39.Kg2 Dd5+ 40.Kh3 Tb7 41.exd6 Tb2 ½-½
+
+Reshevsky,Samuel Herman - Gligoric,Svetozar [E72]
+Palma de Mallorca Interzonal Palma de Mallorca (12), 24.11.1970
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.g3 c5 6.d5 e6 7.dxe6 Lxe6 8.Sh3 0-0 9.Sf4 Lg4 10.f3 Lc8 11.Lg2 Sc6 12.0-0 a6 13.Le3 Tb8 14.Dd2 b5 15.Tad1 Se8 16.cxb5 axb5 17.Sfd5 b4 18.Se2 ½-½
+
+Reshevsky,Samuel Herman - Smyslov,Vassily [B17]
+Palma de Mallorca Interzonal Palma de Mallorca (10), 22.11.1970
+
+1.e4 c6 2.d4 d5 3.Sc3 dxe4 4.Sxe4 Sd7 5.Sf3 Sgf6 6.Sxf6+ Sxf6 7.Lc4 Lf5 8.0-0 e6 9.h3 Le7 10.De2 0-0 11.Td1 Dc7 12.Sh4 Le4 13.Lg5 Ld5 14.Ld3 b5 15.Sf3 h6 16.Ld2 a6 17.a4 Db7 18.b4 Ld6 19.Se5 De7 20.Tab1 Sd7 21.c4 bxc4 22.Sxc4 Lxc4 23.Lxc4 Tfb8 ½-½
+
+Reshevsky,Samuel Herman - Hort,Vlastimil [D82]
+Palma de Mallorca Interzonal Palma de Mallorca (8), 19.11.1970
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Lf4 Lg7 5.e3 c5 6.dxc5 Da5 7.Tc1 Se4 8.Sf3 Sxc3 9.bxc3 Lxc3+ 10.Sd2 Le6 11.cxd5 Lxd5 12.e4 Lxa2 13.Ta1 e5 14.Lc4 exf4 15.Txa2 Lxd2+ 16.Dxd2 Dxd2+ 17.Kxd2 Sd7 18.Tc1 Tc8 19.Ld5 Sxc5 20.Ta5 b6 21.Txa7 0-0 22.Tb1 Tfd8 23.Ke2 Td7 24.Ta3 Td6 25.Tba1 Kg7 26.Ta8 Txa8 27.Txa8 f5 28.f3 Kf6 29.Te8 Kg5 30.Tb8 h6 31.Ta8 Kf6 32.Te8 Se6 33.Kd3 Ke5 34.Kc4 fxe4 35.fxe4 g5 36.h3 Kf6 37.Th8 Ke5 38.Txh6 b5+ 39.Kb4 Sc7 40.Th5 Sxd5+ 41.exd5 Txd5 42.Txg5+ Ke4 ½-½
+
+Reshevsky,Samuel Herman - Fischer,Robert James [A32]
+Palma de Mallorca Interzonal Palma de Mallorca (6), 15.11.1970
+
+1.d4 Sf6 2.c4 c5 3.Sf3 cxd4 4.Sxd4 e6 5.Sc3 Lb4 6.e3 Se4 7.Dc2 Sxc3 8.bxc3 Le7 9.Le2 0-0 10.0-0 a6 11.f4 d6 12.f5 exf5 13.Sxf5 Lxf5 14.Dxf5 Sd7 15.Lf3 Dc7 16.Tb1 Tab8 17.Ld5 Sf6 18.La3 Tfe8 19.Dd3 Sxd5 20.cxd5 b5 21.e4 Lf8 22.Tb4 Te5 23.c4 Tbe8 24.cxb5 axb5 25.Kh1 De7 26.Dxb5 Txe4 27.Txe4 Dxe4 28.Dd7 Df4 29.Kg1 Dd4+ 30.Kh1 Df2 0-1
+
+Reshevsky,Samuel Herman - Jimenez Zerquera,Eleazar [D36]
+Palma de Mallorca Interzonal Palma de Mallorca (5), 14.11.1970
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.cxd5 exd5 5.Lg5 Le7 6.e3 0-0 7.Ld3 c6 8.Dc2 Sbd7 9.Sf3 Te8 10.0-0 h6 11.Lf4 Sf8 12.Tab1 a5 13.a3 Sh5 14.Le5 Lg4 15.Sd2 f6 16.Lg3 Sxg3 17.hxg3 Lh5 18.Sa4 Ld6 19.Tfe1 Se6 20.b4 axb4 21.axb4 b5 22.Sc5 Sxc5 23.dxc5 Lf8 24.Sb3 Dc7 25.Ta1 Lf7 26.Sd4 Db7 27.Lg6 Te7 28.Lxf7+ Kxf7 29.Ta2 g6 30.Tea1 Txa2 31.Dxa2 f5 32.Da6 Lg7 33.Sxc6 1-0
+
+Reshevsky,Samuel Herman - Rubinetti,Jorge Alberto [E51]
+Palma de Mallorca Interzonal Palma de Mallorca (2), 10.11.1970
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.Sf3 Sc6 7.0-0 a6 8.h3 dxc4 9.Lxc4 Ld6 10.e4 e5 11.d5 Se7 12.Te1 Sg6 13.Lf1 Ld7 14.a4 h6 15.Le3 Sh7 16.a5 Df6 17.g3 Tfe8 18.Lg2 Sg5 19.Sxg5 hxg5 20.Dh5 Sf4 21.gxf4 gxf4 22.Ld2 g6 23.Df3 Kg7 24.Kf1 Th8 25.Ke2 Th4 26.Kd3 Tah8 27.Th1 g5 28.Kc2 g4 29.hxg4 Lxg4 30.Dd3 Txh1 31.Lxh1 Kf8 32.Lf3 Th3 33.Lxg4 Txd3 34.Kxd3 Dh4 35.f3 Df2 36.Ta4 Ke7 37.b4 Kd8 38.Kc2 Df1 39.Sd1 Dc4+ 40.Lc3 Db5 41.Sb2 f5 ½-½
+
+Reshevsky,Samuel Herman - Lengyel,Levente [E55]
+Siegen ol (Men) fin-A Siegen (10), 24.09.1970
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sf3 b6 6.Ld3 Lb7 7.0-0 d5 8.Ld2 dxc4 9.Lxc4 c5 10.De2 Sbd7 11.Tfd1 cxd4 12.exd4 Tc8 13.Ld3 Lxc3 14.Lxc3 Sd5 15.Ld2 Df6 16.Sg5 Dxd4 17.Lxh7+ Kh8 18.Le3 De5 19.Dh5 S5f6 20.Dh3 Ld5 21.Td4 g6 22.Dh6 Tc4 23.Lxg6+ Kg8 24.Lh7+ 1-0
+
+Reshevsky,Samuel Herman - Ivkov,Borislav (2520) [C19]
+Siegen ol (Men) fin-A Siegen (8), 22.09.1970
+
+1.e4 e6 2.d4 d5 3.Sc3 Lb4 4.e5 c5 5.a3 Lxc3+ 6.bxc3 Se7 7.Sf3 Da5 8.Dd2 Sbc6 9.Le2 Ld7 10.Tb1 cxd4 11.cxd4 Dxd2+ 12.Lxd2 b6 13.La6 Lc8 14.Ld3 Ld7 15.Lc3 Tc8 16.Kd2 Sd8 17.La6 Ta8 18.Thc1 Lc8 19.Ld3 Ld7 20.La6 Lc8 21.Lb5+ Ld7 22.a4 Sec6 23.a5 bxa5 24.Se1 Tb8 25.Lxc6 Sxc6 26.Txb8+ Sxb8 27.Lxa5 Lb5 28.Tb1 a6 29.Sd3 Sc6 30.Lc3 0-0 31.Sc5 Tb8 32.Ta1 a5 33.Tb1 a4 34.Sd7 Tb7 35.Sc5 Tb8 36.Sd7 Tb7 37.Sc5 ½-½
+
+Reshevsky,Samuel Herman - Petrosian,Tigran V (2645) [D27]
+Siegen ol (Men) fin-A Siegen (6), 19.09.1970
+
+1.d4 d5 2.c4 dxc4 3.Sf3 Sf6 4.e3 e6 5.Lxc4 a6 6.0-0 c5 7.a4 Sc6 8.De2 Le7 9.Td1 0-0 10.Sc3 cxd4 11.exd4 Sb4 12.Lg5 Sfd5 13.Sxd5 Sxd5 14.Lxe7 Sxe7 15.De4 Sd5 16.Se5 Sf6 17.Df4 Sd5 18.De4 Sf6 19.Df4 Sd5 ½-½
+
+Reshevsky,Samuel Herman - Ciocaltea,Victor (2470) [B06]
+Siegen ol (Men) fin-A Siegen (2), 15.09.1970
+
+1.e4 g6 2.d4 Lg7 3.Sc3 c6 4.Sf3 d6 5.a4 a5 6.Lc4 Sf6 7.e5 dxe5 8.Sxe5 0-0 9.0-0 Sbd7 10.h3 Sb6 11.Lb3 Sbd5 12.Te1 Lf5 13.Sxd5 cxd5 14.Sd3 Lxd3 15.Dxd3 e6 16.c3 Se4 17.Lc2 Db6 18.Ta3 Tfc8 19.Tb3 Dc6 20.Db5 Sd6 21.Dxc6 bxc6 22.Lf4 Sc4 23.Ld3 c5 24.dxc5 Txc5 25.Tb7 Tcc8 26.Kf1 Lf8 27.g3 Sd6 28.Td7 Sc4 29.Tb7 Sd6 ½-½

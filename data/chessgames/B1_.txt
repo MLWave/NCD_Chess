@@ -1,0 +1,2009 @@
+
+
+Petrosian,Tigran V (2605) - Agzamov,Georgy (2535) [E11]
+URS-ch50 Moscow, 1983
+
+1.d4 Sf6 2.Sf3 e6 3.c4 Lb4+ 4.Ld2 De7 5.Dc2 Sc6 6.Sc3 d5 7.e3 0-0 8.a3 Lxc3 9.Lxc3 Se4 10.b4 a6 11.Lb2 f5 12.Le2 Tf6 13.Tc1 De8 14.Se5 Se7 15.f3 Sd6 16.0-0 c6 17.c5 Sf7 18.Sd3 g5 19.Dd2 Ld7 20.e4 b6 21.Tce1 Sh8 22.Ld1 Shg6 23.Lc2 Df8 24.Tf2 Dg7 25.exf5 Sxf5 26.g3 Taf8 27.Tef1 T6f7 28.Sc1 Sfe7 29.Se2 Sf5 30.Sc1 Le8 31.Kh1 Ld7 32.Kg1 Te7 33.Te1 Tef7 34.Tef1 Df6 35.Se2 Dg7 36.Sc1 Df6 ½-½
+
+Petrosian,Tigran V - Bagirov,Vladimir [D23]
+URS Spartakiad 9th Moscow (6), 1983
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.Db3 dxc4 5.Dxc4 Lf5 6.g3 e6 7.Lg2 Sbd7 8.0-0 Le7 9.Sc3 0-0 10.Le3 Sd5 11.Ld2 Sxc3 12.bxc3 Le4 13.a4 Sb6 14.Da2 Dd5 15.Se1 Dxa2 16.Txa2 Ld5 17.Ta1 Sc4 18.Lc1 ½-½
+
+Petrosian,Tigran V (2605) - Balashov,Yuri S (2540) [A16]
+URS-ch50 Moscow, 1983
+
+1.c4 Sf6 2.Sc3 g6 3.g3 d5 4.cxd5 Sxd5 5.Lg2 Sxc3 6.bxc3 Lg7 7.a4 0-0 8.a5 a6 9.Sf3 e5 10.0-0 Sc6 11.Dc2 Df6 12.Lb2 Td8 13.d3 Td5 14.c4 Td8 15.Sd2 De7 16.Tfe1 Sd4 17.Dd1 Tb8 18.Se4 Ld7 19.Sc3 Le6 20.Sd5 Lxd5 21.cxd5 Db4 22.Lxd4 ½-½
+
+Petrosian,Tigran V (2605) - Beliavsky,Alexander G (2570) [D36]
+URS-ch50 Moscow, 1983
+
+1.d4 d5 2.c4 e6 3.Sc3 Sf6 4.cxd5 exd5 5.Lg5 Le7 6.e3 0-0 7.Ld3 Sbd7 8.Sf3 Te8 9.0-0 c6 10.Dc2 Sf8 11.a3 Se4 12.Lf4 Sg5 13.Sxg5 Lxg5 14.Lxg5 Dxg5 15.Tae1 Ld7 16.f4 Dh6 17.Df2 Te7 18.f5 g6 19.e4 dxe4 20.Sxe4 gxf5 21.Dg3+ Kh8 22.Sd6 f4 23.Txe7 Dxd6 24.Txd7 Dxd7 25.Dxf4 Td8 26.Df6+ Kg8 27.Kh1 Dxd4 28.Dxf7+ Kh8 29.De7 Sg6 30.Lxg6 hxg6 31.h3 b5 32.Tf6 Tg8 33.Txc6 Tg7 34.Dg5 Kh7 35.Kh2 b4 36.Tf6 bxa3 37.bxa3 Dc4 38.Tf4 Dc7 39.Dh4+ Kg8 40.Dg3 a5 41.a4 Db6 1-0
+
+Petrosian,Tigran V (2605) - Boensch,Uwe (2450) [A77]
+Keres Memorial Tallinn (4), 1983
+
+1.d4 Sf6 2.c4 e6 3.Sc3 c5 4.d5 exd5 5.cxd5 d6 6.Sf3 g6 7.Sd2 Sbd7 8.e4 Lg7 9.Le2 0-0 10.0-0 Te8 11.a4 a6 12.Dc2 Dc7 13.a5 b5 14.axb6 Sxb6 15.Ta3 c4 16.Sdb1 Sfd7 17.Le3 Sc5 18.Sd2 f5 19.f3 fxe4 20.fxe4 Ld7 21.Lxc4 Sxc4 22.Sxc4 Tac8 23.Sd2 Db8 24.Lxc5 Txc5 25.Sf3 Db4 26.Txa6 Lb5 27.Tb6 Ld4+ 28.Kh1 Lxc3 29.bxc3 Da5 30.Txb5 Dxb5 31.Tg1 Dc4 32.Sg5 Dxc3 33.Da4 Tcc8 34.Se6 Df6 35.h3 De7 36.Tf1 Ta8 37.Dd4 Dd7 38.Df6 De7 39.Dd4 Dd7 40.Df6 De7 ½-½
+
+Petrosian,Tigran V (2580) - Gligoric,Svetozar (2505) [D03]
+Niksic Niksic (3), 1983
+
+1.d4 Sf6 2.Sf3 e6 3.Lg5 c5 4.e3 d5 5.Sbd2 Le7 6.c3 0-0 7.Ld3 b6 8.Se5 Lb7 9.f4 Se4 10.Lxe7 Dxe7 11.0-0 f6 12.Sef3 Sd7 13.Dc2 f5 14.Lb5 Sdf6 15.Sxe4 dxe4 16.Se5 a6 17.Le2 Sd5 18.Dd2 cxd4 19.cxd4 Tac8 20.a3 g5 21.Lc4 Txc4 22.Sxc4 b5 23.Se5 gxf4 24.Txf4 Sxf4 25.exf4 Tc8 26.Tc1 Txc1+ 27.Dxc1 Dh4 28.h3 Dd8 29.Dc3 Kf8 30.Kf1 Dc8 31.Dc5+ Ke8 32.g4 fxg4 33.Dxc8+ Lxc8 34.hxg4 Ke7 35.Ke2 h6 36.Ke3 Lb7 37.Sg6+ Kf6 38.Sh4 a5 39.b4 axb4 40.axb4 Ld5 41.Kf2 Lc6 42.Kg3 e3 43.Sg2 e2 44.Se1 Le8 ½-½
+
+Petrosian,Tigran V - Ivanov,Alexander [A25]
+URS Spartakiad 9th Moscow (5), 1983
+
+1.c4 e5 2.Sc3 Sc6 3.e3 g6 4.g3 Lg7 5.Lg2 Sge7 6.Sge2 0-0 7.d3 a6 8.h4 h5 9.e4 Sd4 10.Lg5 c6 11.Dd2 f6 12.Le3 c5 13.Tb1 Sec6 14.Sd5 a5 15.Lxd4 exd4 16.Lh3 Se5 17.Sg1 Sg4 18.f4 d6 19.Sf3 Tb8 20.a4 Te8 21.Sh2 f5 22.Sxg4 fxg4 23.Lg2 Le6 24.0-0 Lh6 25.Tbe1 Kg7 26.Te2 Lxd5 27.exd5 Txe2 28.Dxe2 De8 29.Te1 Dxe2 30.Txe2 Tf8 31.Te1 Tf6 32.Ta1 Tf7 33.Le4 Te7 34.Ta3 b6 35.Kg2 Kf6 36.Ta1 Tf7 37.Tf1 Kg7 38.Kf2 Tf8 39.Lg2 Te8 40.Ta1 Te7 41.Le4 ½-½
+
+Petrosian,Tigran V (2605) - Karner,Hillar (2405) [E80]
+Keres Memorial Tallinn (13), 1983
+
+1.d4 Sf6 2.c4 d6 3.Sc3 g6 4.e4 Lg7 5.f3 c5 6.dxc5 dxc5 7.Dxd8+ Kxd8 8.Lg5 Sfd7 9.f4 Sc6 10.Sf3 Sd4 11.0-0-0 Sxf3 12.gxf3 f6 13.Lh4 Ke8 14.Lh3 Sb6 15.Lxc8 Txc8 16.b3 Lh6 17.Se2 Kf7 18.Kc2 Thd8 19.Lf2 Txd1 20.Txd1 f5 21.Le3 Ke8 22.h4 Sd7 23.h5 Lf8 24.Th1 Tc6 25.Sg3 Te6 26.hxg6 hxg6 27.Ld2 Ta6 28.a4 e6 29.Lc3 Tc6 30.Se2 Tc8 31.Sc1 b6 32.Sd3 Td8 33.Th7 a5 34.Kd2 Le7 35.Ke3 g5 36.Tg7 fxe4 37.Kxe4 Lf6 38.Txd7 Lxc3 39.Txd8+ Kxd8 40.fxg5 1-0
+
+Petrosian,Tigran V (2605) - Karpov,Anatoly (2710) [D55]
+URS-ch50 Moscow, 1983
+
+1.c4 Sf6 2.Sf3 e6 3.Sc3 d5 4.d4 Le7 5.Lg5 h6 6.Lxf6 Lxf6 7.e3 0-0 8.Dd2 b6 9.cxd5 exd5 10.Le2 Le6 11.0-0 c5 12.dxc5 bxc5 13.Tfd1 Lxc3 14.Dxc3 Sd7 15.b4 Tc8 16.bxc5 Txc5 17.Da3 Ta5 18.Db4 Db6 19.Dxb6 Sxb6 20.Sd4 Tc8 21.Kf1 Sc4 22.Ke1 Sd6 23.a4 Sc4 24.Sb3 Ta6 25.a5 Kf8 26.Tdc1 Ke7 27.Tc3 Tac6 28.Sd4 Tc5 ½-½
+
+Petrosian,Tigran V (2580) - Larsen,Bent (2565) [E21]
+Niksic Niksic (10), 1983
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.Sc3 Lb4 5.Dc2 Lb7 6.a3 Lxc3+ 7.Dxc3 d6 8.e3 Sbd7 9.Le2 Se4 10.Dc2 Sg5 11.Dd1 0-0 12.0-0 Sxf3+ 13.Lxf3 Lxf3 14.Dxf3 e5 15.Ld2 Te8 16.Dc6 e4 17.a4 Sf6 18.a5 d5 19.b3 h6 20.Tfc1 Te6 21.Da4 Tb8 22.axb6 axb6 23.Ta2 g5 24.c5 Kg7 25.cxb6 Texb6 26.Tac2 Se8 27.Tb2 Tb5 28.La5 T8b7 29.b4 Sd6 30.Tbc2 Sc4 31.h3 h5 32.Txc4 dxc4 33.Txc4 De7 34.Dc2 g4 35.hxg4 hxg4 36.Tc6 Tf5 37.Lxc7 Dxb4 38.Dxe4 Db1+ 39.Dxb1 Txb1+ 40.Kh2 Txf2 41.Kg3 Tbb2 42.Kxg4 Txg2+ 43.Kf5 Tgf2+ 44.Lf4 Tb5+ 45.Tc5 Txc5+ ½-½
+
+Petrosian,Tigran V (2605) - Lerner,Konstantin Z (2525) [D53]
+URS-ch50 Moscow, 1983
+
+1.Sf3 Sf6 2.c4 e6 3.Sc3 d5 4.d4 Le7 5.Lg5 h6 6.Lh4 0-0 7.Dc2 c5 8.dxc5 dxc4 9.e3 Da5 10.Lxc4 Dxc5 11.Ld3 Sc6 12.a3 Ld7 13.b4 Db6 14.Sa4 Dd8 15.0-0 Sd5 16.Lg3 Tc8 17.Db3 a5 18.e4 Sd4 19.Sxd4 Lxa4 20.Dxa4 Sc3 21.Dc2 Dxd4 22.bxa5 Tfd8 23.Le2 Sxe4 24.Db3 Sd2 25.Dxb7 Sxf1 26.Txf1 Lh4 27.Lxh4 Dxh4 28.Lb5 Tb8 29.Dc6 Tdc8 30.Dd7 Td8 31.Dc6 Tdc8 32.Dd7 Dd8 33.Dxd8+ Txd8 34.a4 Tbc8 35.a6 Kf8 36.h3 Td4 37.Ta1 Ke7 38.Le2 e5 39.a5 Tb8 40.Tc1 Kd6 41.Lg4 Tb5 42.Ta1 Tb8 43.a7 Ta8 44.a6 Tc4 45.Td1+ Kc6 46.Tb1 Txa7 47.Lc8 Td4 48.Lb7+ Kd7 49.g3 Td6 50.h4 Taxa6 51.Lxa6 Txa6 52.Kg2 Ke6 53.Tb7 Td6 54.Kf3 Td3+ 55.Ke4 Td7 56.Tb6+ Td6 57.Tb5 f5+ 58.Kf3 Kf6 59.Tb2 e4+ 60.Kf4 g5+ 61.hxg5+ hxg5+ 62.Ke3 Ke5 63.Tb8 f4+ 64.gxf4+ gxf4+ 65.Ke2 f3+ 66.Ke1 Td5 67.Th8 Kf6 68.Th4 Td4 69.Th8 Td6 70.Th5 Ke6 71.Th6+ Ke5 72.Th8 Kf5 73.Tf8+ Tf6 74.Th8 Ta6 75.Tf8+ Kg5 76.Tg8+ Tg6 77.Th8 Kf4 78.Tf8+ Kg4 79.Th8 Tg5 80.Kd2 Kf4 81.Tf8+ Tf5 82.Th8 Td5+ 83.Ke1 Kg4 84.Tg8+ Kh4 85.Th8+ Th5 86.Tg8 Ta5 87.Th8+ Kg5 88.Tg8+ Kf5 89.Tf8+ ½-½
+
+Petrosian,Tigran V (2580) - Ljubojevic,Ljubomir (2645) [E49]
+Niksic Niksic (8), 1983
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.Sge2 c5 7.0-0 Sc6 8.cxd5 exd5 9.a3 Lxc3 10.bxc3 Te8 11.f3 Ld7 12.Sg3 Da5 13.Dd2 Da4 14.Tb1 Sa5 15.Lc2 Dc4 16.Ld3 Da4 17.e4 dxe4 18.fxe4 cxd4 19.Tb4 Dc6 20.cxd4 Sxe4 21.Sxe4 Txe4 22.Df2 f5 23.d5 Dxd5 24.Lxe4 fxe4 25.Td4 De6 26.Txe4 Dg6 27.Te7 Lb5 28.Df7+ 1-0
+
+Petrosian,Tigran V - Loginov,Valery A [E92]
+URS Spartakiad 9th Moscow (3), 1983
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.Sf3 0-0 6.Le2 e5 7.d5 a5 8.Le3 Sg4 9.Lg5 f6 10.Lh4 De8 11.Sd2 f5 12.Lxg4 fxg4 13.Lg5 Sa6 14.Le3 Ld7 15.0-0 Tf7 16.De2 De7 17.b3 Taf8 18.a3 Dh4 19.Tab1 Tf6 20.b4 axb4 21.axb4 g5 22.g3 Dh5 23.Tfc1 c5 24.bxc5 Sxc5 25.Tb6 Lc8 26.Txd6 Txd6 27.Lxc5 Th6 28.Sf1 Tff6 29.Le3 b6 30.Ta1 Lf8 31.Ta8 Ld7 32.Da2 Tf7 33.Tb8 Tff6 34.Da7 Le8 35.Da8 Ld7 36.c5 1-0
+
+Petrosian,Tigran V - Lputian,Smbat G [D32]
+URS Spartakiad 9th Moscow (9), 1983
+
+1.d4 d5 2.c4 e6 3.Sc3 c5 4.cxd5 exd5 5.Sf3 Sc6 6.Lg5 Le7 7.Lxe7 Sgxe7 8.e3 cxd4 9.Sxd4 0-0 10.Le2 Db6 11.Dd2 Sxd4 12.exd4 Sf5 13.Td1 Dg6 14.g3 Le6 15.0-0 Tad8 16.Df4 Se7 17.Tfe1 Df5 18.Dd2 Df6 19.f3 Td7 20.Kg2 Tc8 21.Ld3 g6 22.Df2 Kg7 23.Td2 Lf5 24.Lxf5 Sxf5 25.Te5 Se7 26.f4 Tcd8 27.g4 Kf8 28.Se2 ½-½
+
+Petrosian,Tigran V (2580) - Miles,Anthony J (2585) [D05]
+Niksic Niksic (14), 1983
+
+1.d4 Sf6 2.Sf3 e6 3.e3 b6 4.Ld3 Lb7 5.0-0 d5 6.b3 Sbd7 7.Lb2 Se4 8.Se5 Ld6 9.f4 0-0 10.Lxe4 dxe4 11.Sd2 a5 12.a4 f6 13.Sec4 Lb4 14.Tf2 Ld5 15.De2 Dc8 16.Sf1 Da6 ½-½
+
+Petrosian,Tigran V (2605) - Nei,Iivo (2495) [E51]
+Keres Memorial Tallinn (15), 1983
+
+1.c4 e6 2.d4 Sf6 3.Sc3 Lb4 4.e3 Sc6 5.Sf3 0-0 6.Ld3 d5 7.0-0 dxc4 8.Lxc4 Ld6 9.Lb5 De7 10.Lxc6 bxc6 11.e4 e5 12.dxe5 Lxe5 13.Sxe5 Dxe5 14.Df3 Te8 15.Lf4 De6 16.Tfe1 Tb8 17.De2 Tb4 18.f3 c5 19.Lxc7 La6 20.Df2 Td4 21.La5 Tb8 22.Sd1 Td3 23.Lc3 Db6 24.Dg3 Se8 25.Se3 Tbd8 26.Sf5 g6 27.Se7+ Kf8 28.Sd5 Dd6 29.Dxd6+ 1-0
+
+Petrosian,Tigran V (2605) - Nikolic,Predrag (2490) [A90]
+EU-chT (Men) 08th Plovdiv (5.3), 1983
+
+1.c4 e6 2.g3 d5 3.Lg2 c6 4.Dc2 Ld6 5.d4 f5 6.Sf3 Sf6 7.0-0 0-0 8.b3 Ld7 9.La3 Lxa3 10.Sxa3 De7 11.Db2 Le8 12.Se5 g5 13.Sc2 Sbd7 14.cxd5 exd5 15.f4 Sg4 16.Dc3 a5 17.Tae1 gxf4 18.gxf4 Sdf6 19.Dh3 Kh8 20.Dh4 Sg8 21.Dg3 S8f6 22.Dh4 Sg8 23.Dg3 S8f6 ½-½
+
+Petrosian,Tigran V (2580) - Nikolic,Predrag (2540) [E12]
+Niksic Niksic (12), 1983
+
+1.Sf3 Sf6 2.c4 e6 3.d4 b6 4.Sc3 Lb7 5.a3 d5 6.cxd5 exd5 7.Lf4 Ld6 8.Lg3 0-0 9.e3 c5 10.Le2 Sa6 11.0-0 Sc7 12.Lh4 De7 13.a4 De6 14.Sg5 De8 15.Te1 h6 16.Sf3 Se4 17.Dc2 Tc8 18.dxc5 Lxc5 19.Db3 De6 20.Sd4 Dg6 21.Tad1 Lxd4 22.exd4 Se6 23.Lf3 S6g5 24.Lxg5 Sxg5 25.Sxd5 Sxf3+ 26.Dxf3 Tfe8 27.Sf6+ Dxf6 28.Dxb7 Txe1+ 29.Txe1 Tc2 ½-½
+
+Petrosian,Tigran V (2605) - Oll,Lembit (2365) [A34]
+Keres Memorial Tallinn (8), 1983
+
+1.c4 Sf6 2.Sc3 c5 3.g3 g6 4.Lg2 Lg7 5.a3 0-0 6.d3 Sc6 7.Tb1 e6 8.Sf3 d5 9.cxd5 Sxd5 10.Ld2 b6 11.h4 Lb7 12.h5 Sxc3 13.Lxc3 Sd4 14.Lxd4 cxd4 ½-½
+
+Petrosian,Tigran V (2605) - Psakhis,Lev (2580) [A29]
+URS-ch50 Moscow, 1983
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 d5 5.cxd5 Sxd5 6.Lg2 Sb6 7.d3 Le7 8.0-0 0-0 9.a3 a5 10.Le3 Lg4 11.Tc1 Te8 12.Sd2 Dd7 13.Te1 Ta6 14.Lxb6 cxb6 15.Da4 Lg5 16.e3 h5 17.Sde4 Ld8 18.d4 exd4 19.exd4 Ta8 20.h3 Lf5 21.d5 Sa7 22.h4 Dxa4 23.Sxa4 Lxe4 24.Lxe4 Sb5 25.Ld3 Txe1+ 26.Txe1 Sd6 27.Sc3 Kf8 28.Sb5 Le7 29.a4 Sxb5 30.Lxb5 Tc8 31.b3 g6 32.Lc4 Ld6 33.Kg2 Te8 34.Tc1 Lc5 35.Td1 Td8 36.f3 Ke7 37.Te1+ Kd6 38.Lb5 Tc8 39.Lc4 Ld4 40.Te4 Le5 41.f4 Lf6 ½-½
+
+Petrosian,Tigran V (2605) - Psakhis,Lev (2580) [E39]
+Keres Memorial Tallinn (6), 1983
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 c5 5.dxc5 Dc7 6.a3 Lxc5 7.Sf3 0-0 8.Lg5 Le7 9.e3 d6 10.Le2 Sbd7 11.0-0 a6 12.b4 b6 13.Db3 Lb7 14.Tac1 Tac8 15.Tfd1 ½-½
+
+Petrosian,Tigran V (2605) - Radulov,Ivan (2495) [D20]
+EU-chT (Men) 08th Plovdiv (1.2), 1983
+
+1.d4 d5 2.c4 dxc4 3.Sc3 e6 4.e4 c5 5.d5 exd5 6.Sxd5 Sf6 7.Lxc4 Sxd5 8.Lxd5 Ld6 9.Dh5 g6 10.Dh6 Lf8 11.De3 Sd7 12.Db3 De7 13.Sf3 h6 14.Lf4 Lg7 15.0-0-0 c4 16.Dxc4 0-0 17.Ld6 De8 18.Lxf8 Dxf8 19.Kb1 Sb6 20.De2 Sxd5 21.Txd5 Le6 22.Tb5 Tc8 23.Txb7 Dc5 24.Td1 a5 25.Tb5 Dc7 26.Tbd5 Lxd5 27.exd5 Dd6 28.Td2 a4 29.a3 Tb8 30.Ka2 Db6 31.d6 Db3+ 32.Kb1 Dxa3 33.d7 Df8 34.Se5 Lxe5 35.Dxe5 Td8 36.Dd6 Dxd6 37.Txd6 Kf8 38.Ka2 Ke7 39.Td2 Ke6 40.Ka3 Ke7 41.h4 1-0
+
+Petrosian,Tigran V (2605) - Razuvaev,Yuri S (2520) [D05]
+URS-ch50 Moscow, 1983
+
+1.d4 Sf6 2.Sf3 e6 3.e3 d5 4.Ld3 c5 5.b3 Sc6 6.0-0 Ld6 7.Lb2 0-0 8.c4 b6 9.Sc3 Lb7 10.cxd5 exd5 11.dxc5 bxc5 12.Tc1 d4 13.Sb5 Le7 14.exd4 a6 15.d5 Sxd5 16.Sc3 Sf4 17.Lc4 Sd4 18.Sxd4 cxd4 19.Se2 Sxg2 20.Dxd4 Dxd4 21.Sxd4 Lf6 22.Tfd1 Tfd8 23.La1 Sh4 24.Le2 Td7 25.Lg4 Td5 26.Tc7 Tg5 27.Txb7 Txg4+ 28.Kf1 Td8 29.Te1 h5 30.h3 Tgxd4 31.Lxd4 Txd4 32.Te8+ Kh7 33.Txf7 Sg6 34.Tc7 Td2 35.Te2 Td1+ 36.Te1 Td2 37.Te2 Td5 38.Tc4 Se5 39.Ta4 a5 40.Te3 Kg6 41.Ke2 Kf5 42.b4 axb4 43.Txb4 Lg5 44.Teb3 Sc6 0-1
+
+Petrosian,Tigran V (2605) - Romanishin,Oleg M (2585) [A29]
+URS-ch50 Moscow, 1983
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 d5 5.cxd5 Sxd5 6.Lg2 Sb6 7.0-0 Le7 8.d3 0-0 9.a3 Le6 10.b4 a5 11.b5 Sd4 12.Sd2 Dd7 13.Lxb7 Tab8 14.Lg2 Sxb5 15.Sxb5 Dxb5 16.a4 Dd7 17.Lb2 f6 18.Lc3 Lb4 19.Lxb4 axb4 20.Dc2 Sd5 21.Sb3 Lf7 22.a5 Sc3 23.a6 c6 24.Sc5 Da7 25.Sa4 Sb5 26.Dxc6 Sd4 27.De4 Dxa6 28.Sb2 De6 29.Ta7 Sb5 30.Ta5 Sc3 31.De3 Db6 32.Tfa1 Dxe3 33.fxe3 Sxe2+ 34.Kf2 Sc3 35.Ta7 Sb5 36.T7a5 Tfc8 37.Ta8 Txa8 38.Txa8 Txa8 39.Lxa8 Kf8 40.Ke1 Ke7 41.Kd2 Kd6 42.Lf3 Lb3 43.Lg2 f5 44.d4 exd4 45.Sd3 Ld5 46.Lh3 dxe3+ 47.Kxe3 Le6 48.Lg2 b3 49.Sb2 Sa3 50.Lf1 Sc2+ 51.Kf4 h6 52.h4 Sb4 0-1
+
+Petrosian,Tigran V (2580) - Sax,Gyula (2570) [E10]
+Niksic Niksic (6), 1983
+
+1.d4 Sf6 2.Sf3 e6 3.c4 c5 4.d5 b5 5.Lg5 exd5 6.cxd5 Da5+ 7.Sc3 Se4 8.Ld2 Sxd2 9.Sxd2 b4 10.Scb1 La6 11.e4 g6 12.Lxa6 Dxa6 13.Dc2 d6 14.Sc4 Lg7 15.Sbd2 Sd7 16.0-0 Tb8 17.a3 b3 18.Sxb3 0-0 19.Sbd2 Ld4 20.Kh1 Sf6 21.f3 Sh5 22.Tad1 Db7 23.g3 Dd7 24.Kg2 f5 25.b3 Sf6 26.h3 f4 27.g4 De7 28.Dd3 Sd7 29.De2 h5 30.Th1 Sf6 31.Dd3 hxg4 32.fxg4 f3+ 33.Sxf3 Dxe4 34.Dxe4 Sxe4 35.b4 Tbe8 36.The1 Lc3 ½-½
+
+Petrosian,Tigran V (2605) - Szekely,Peter (2435) [E70]
+Keres Memorial Tallinn (10), 1983
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Lg5 h6 6.Le3 Sg4 7.Lc1 Sf6 8.f3 c5 9.Sge2 Sc6 10.d5 Sa5 11.Sg3 e5 12.Le2 b6 13.h4 h5 14.Sf1 a6 15.Lg5 Dc7 16.g3 Ld7 17.Sd2 Sg8 18.0-0 Sb7 19.De1 Sh6 20.a3 0-0 21.Df2 Tae8 22.Dg2 Dc8 23.Kh2 Sd8 24.Tab1 f6 25.Le3 f5 26.b4 Dc7 27.Tb3 Sb7 28.Tfb1 Tb8 29.Ld3 Kh8 30.Se2 La4 31.T3b2 Ld7 32.Kh1 a5 33.bxa5 Sxa5 34.Sc3 f4 35.Lf2 fxg3 36.Dxg3 Le8 37.Le3 Kh7 38.Sb5 De7 39.Lg5 Lf6 40.Sc3 Dc7 41.Se2 Lg7 42.Sg1 Ld7 ½-½
+
+Petrosian,Tigran V (2580) - Timman,Jan H (2605) [A28]
+Niksic Niksic (1), 1983
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.e3 Lb4 5.Sd5 e4 6.Sg1 0-0 7.a3 Ld6 8.d3 exd3 9.Lxd3 Se5 10.Le2 c6 11.Sc3 Lc7 12.Sf3 d5 13.cxd5 cxd5 14.0-0 a6 15.Sd4 Dd6 16.g3 Lh3 17.Te1 Tac8 18.Ld2 Sc4 19.b3 Sxd2 20.Dxd2 Se4 21.Sxe4 dxe4 22.Lf1 Lxf1 23.Txf1 Lb6 24.Tfd1 Tfd8 25.Db4 Dxb4 26.axb4 Lxd4 27.Txd4 Txd4 28.exd4 Td8 ½-½
+
+Petrosian,Tigran V (2605) - Veingold,Aleksandr (2430) [D37]
+Keres Memorial Tallinn (2), 1983
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.e3 Lb7 5.Ld3 d5 6.0-0 dxc4 7.Lxc4 Le7 8.De2 0-0 9.Sc3 Se4 10.Sxe4 Lxe4 11.b3 c5 12.Td1 Dc7 13.dxc5 Lxc5 14.Lb2 De7 15.Sd2 Lg6 16.a3 a5 17.Lb5 Sd7 18.Sc4 Tad8 19.b4 axb4 20.axb4 Lxb4 21.Ta7 Dc5 22.Taxd7 Ta8 23.Se5 1-0
+
+Petrosian,Tigran V (2605) - Beliavsky,Alexander G (2615) [D31]
+URS Cup Kislovodsk, 06.1982
+
+1.c4 e6 2.d4 d5 3.Sc3 Le7 4.cxd5 exd5 5.Lf4 c6 6.Dc2 g6 7.e3 Lf5 8.Dd2 Sf6 9.f3 c5 10.Lb5+ Sc6 11.dxc5 Lxc5 12.Sa4 Le7 13.Lh6 Ld7 14.Lxc6 Lxc6 15.Sc3 Lc5 16.0-0-0 De7 17.h4 0-0-0 18.Sge2 Se8 19.Sd4 Sc7 20.Kb1 Se6 21.Sce2 Kb8 22.Sxe6 Dxe6 23.Dc3 Lb6 24.Sd4 Dd7 25.g4 The8 26.Tc1 Tc8 27.Dd3 Ka8 28.Lg5 Dd6 29.h5 De5 30.Lf4 De7 31.hxg6 ½-½
+
+Petrosian,Tigran V (2605) - Andersson,Ulf (2610) [E11]
+Tilburg Tilburg, 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 Lb4+ 4.Ld2 De7 5.g3 0-0 6.Lg2 d5 7.0-0 Sc6 8.Lg5 dxc4 9.Sfd2 Lxd2 10.Sxd2 h6 11.Lxf6 Dxf6 12.e3 e5 13.d5 Se7 14.Sxc4 Td8 15.e4 c6 16.Te1 b5 17.Sa5 Tb8 18.De2 Lb7 19.Sxb7 Txb7 20.Tac1 a6 ½-½
+
+Petrosian,Tigran V (2605) - Andersson,Ulf (2605) [E12]
+Bugojno Bugojno (3), 1982
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 Sxd5 7.e3 Le7 8.Lb5+ c6 9.Ld3 c5 10.Sxd5 Dxd5 11.dxc5 Lxc5 12.e4 Dd8 13.Lb5+ Lc6 14.De2 Lxb5 15.Dxb5+ Dd7 16.De2 0-0 17.0-0 Db7 18.Td1 Sd7 19.Lg5 Tfe8 20.b4 Le7 21.Lxe7 Txe7 22.e5 h6 23.Td4 Sf8 24.Tad1 Tc8 25.h4 Td7 26.Txd7 Sxd7 27.Sd4 a6 ½-½
+
+Petrosian,Tigran V (2605) - Bouaziz,Slim (2360) [B06]
+Las Palmas Interzonal Las Palmas (11), 1982
+
+1.d4 g6 2.e4 Lg7 3.c3 d6 4.Lg5 c5 5.dxc5 dxc5 6.Dxd8+ Kxd8 7.Sa3 Lh6 8.Lh4 Le6 9.f3 Sf6 10.Lf2 Sbd7 11.h4 a6 12.g4 Se8 13.Sh3 Sc7 14.Sc4 Kc8 15.Sg5 Tb8 16.Se3 b5 17.f4 Lxg5 18.hxg5 Sb6 19.b3 Ld7 20.f5 Lc6 21.Lg2 Kb7 22.Lg3 f6 23.Sd5 Sbxd5 24.exd5 Sxd5 25.Lxb8 1-0
+
+Petrosian,Tigran V (2605) - Bronstein,David I (2495) [E43]
+Kislovodsk tt Kislovodsk, 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.Sc3 Lb4 5.e3 Lb7 6.Ld3 c5 7.0-0 0-0 8.Sa4 De7 9.a3 La5 10.Tb1 Se4 11.b3 f5 12.De2 Lc6 13.Dc2 Sa6 14.Se5 Lb7 15.Le2 Tac8 16.f3 Sf6 17.Sd3 Lc6 18.Sc3 Lxc3 19.Dxc3 d6 20.Lb2 Sb8 21.Tfd1 Sbd7 22.Td2 Tfe8 23.dxc5 bxc5 24.Tbd1 Ted8 25.Da5 e5 26.Sf2 Sb6 27.Dc3 Td7 28.Ld3 De6 29.Dc2 g6 30.Dc3 Te8 31.f4 Tde7 32.Lf1 Sc8 33.fxe5 dxe5 34.Da5 Sd7 35.b4 Tf7 36.bxc5 De7 37.Sd3 Le4 38.c6 Lxc6 39.Sb4 De6 40.c5 Le4 41.Tc1 Tef8 42.Lc4 1-0
+
+Petrosian,Tigran V (2605) - Browne,Walter S (2590) [E52]
+Tilburg Tilburg, 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.Sc3 Lb4 5.e3 0-0 6.Ld3 Lb7 7.0-0 d5 8.a3 Ld6 9.cxd5 exd5 10.b4 a6 11.Db3 De7 12.Tb1 Sbd7 13.a4 Se4 14.Lb2 Sdf6 15.b5 a5 16.Tbd1 Sxc3 17.Lxc3 Se4 18.Lb2 Tad8 19.Se5 Kh8 20.Dc2 f6 21.Sf3 Lc8 22.Se1 f5 23.g3 Tf6 24.Sf3 Tdf8 25.Se5 Th6 26.f3 Sg5 27.Dg2 Sh3+ 28.Kh1 g5 29.g4 Df6 30.Td2 Th4 31.Tc2 Dg7 32.gxf5 Lxf5 33.Lxf5 Txf5 34.Lc3 Th6 35.Sg4 Th5 36.Le1 De7 37.Lg3 Tf7 38.Tfc1 Kg7 39.Tc6 Kf8 40.Lxd6 cxd6 41.Dg3 Th4 42.Dxd6 1-0
+
+Petrosian,Tigran V (2605) - Huebner,Robert (2630) [A28]
+Tilburg Tilburg, 1982
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.e3 Lb4 5.Sd5 e4 6.Sg1 0-0 7.a3 Ld6 8.d3 exd3 9.Lxd3 b6 10.Sf3 Te8 11.Dc2 h6 12.0-0 Lb7 13.Td1 Se5 14.Le2 Sxd5 15.cxd5 Df6 16.Tb1 c6 17.Ld2 cxd5 18.Sd4 Tac8 19.Lc3 Lb8 20.Df5 Dxf5 21.Sxf5 f6 22.h4 Sc4 23.Tbc1 Le5 24.Lxe5 Txe5 25.Lxc4 Txc4 26.Txc4 dxc4 ½-½
+
+Petrosian,Tigran V (2605) - Ivanovic,Bozidar (2485) [D58]
+Bugojno Bugojno (5), 1982
+
+1.d4 d5 2.c4 e6 3.Sf3 Le7 4.Sc3 Sf6 5.Lg5 h6 6.Lh4 0-0 7.e3 b6 8.Lxf6 Lxf6 9.cxd5 exd5 10.Dd2 Le6 11.Td1 c6 12.g3 Dd6 13.Lg2 Lf5 14.0-0 Sd7 15.De2 Tfe8 16.Td2 Tac8 17.Tfd1 Tc7 18.Df1 Le7 19.Lh3 De6 20.Lxf5 Dxf5 21.Kg2 Sf6 22.Dd3 Dc8 23.a3 Ld6 24.Tc2 Se4 25.Tdc1 Tee7 26.Dd1 Sf6 27.Se1 h5 28.Sf3 g6 29.Dd3 Kg7 30.b4 Se4 31.De2 Sf6 32.Sa4 Se4 33.Sb2 c5 34.dxc5 bxc5 35.bxc5 Lxc5 36.Dd3 Df5 37.Sd1 Kh7 38.a4 Lb6 39.Txc7 Txc7 40.Txc7 Lxc7 41.Da6 Lb6 ½-½
+
+Petrosian,Tigran V (2605) - Ivkov,Borislav (2480) [A42]
+Bugojno Bugojno (7), 1982
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sc6 5.Le3 e5 6.d5 Sce7 7.c5 f5 8.cxd6 cxd6 9.Lb5+ Ld7 10.Lxd7+ Dxd7 11.f3 Sf6 12.Sh3 h6 13.Sf2 0-0 14.Da4 Dxa4 15.Sxa4 Tac8 16.Sc3 a6 17.Ke2 Kh7 18.Tac1 Sd7 19.Sb1 Txc1 20.Txc1 Tc8 21.Sa3 Txc1 22.Lxc1 h5 23.Sc4 Sc8 24.Ld2 Lf6 25.Sa5 b6 26.Sc6 Kg7 27.Le3 Kf7 28.Sd3 Ke8 29.a4 Ld8 30.Sdb4 a5 31.Sa2 f4 32.Lf2 g5 33.Kd3 Sf8 34.h3 Sg6 35.Sc3 Lf6 36.Kc4 Kd7 37.Kb5 Kc7 38.Ka6 g4 39.hxg4 hxg4 40.fxg4 Lh4 41.Sd1 Lxf2 42.Sxf2 Sce7 43.Sxe7 Sxe7 44.g5 Sg6 45.Sg4 Sh4 46.Ka7 Sg6 47.Sh2 Sh4 48.Sf3 Sg6 49.b3 Sf8 1-0
+
+Petrosian,Tigran V (2605) - Karlsson,Lars (2505) [E16]
+Las Palmas Interzonal Las Palmas (13), 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Lb4+ 6.Ld2 Le7 7.Sc3 Se4 8.d5 Sxc3 9.Lxc3 Lf6 10.Tc1 0-0 11.0-0 d6 12.Sd2 Lxc3 13.Txc3 Kh8 14.Dc2 Sd7 15.e4 a6 16.Td1 De7 17.Sf1 Sc5 18.Se3 a5 19.b3 e5 20.Db1 Tae8 21.Lh3 g6 22.Td2 Dg5 23.a3 a4 24.b4 Sb3 25.Tb2 f5 26.exf5 Lc8 27.Lg2 gxf5 28.Sf1 f4 29.De1 Dh5 30.f3 Sd4 31.g4 Lxg4 32.fxg4 Dxg4 33.De4 Tg8 34.h3 Dd1 35.Kh2 Da1 36.Db1 Dxb1 37.Txb1 e4 38.Te1 e3 39.Sxe3 fxe3 40.Texe3 Tef8 ½-½
+
+Petrosian,Tigran V (2605) - Kavalek,Lubomir (2590) [D61]
+Bugojno Bugojno (12), 1982
+
+1.d4 Sf6 2.Sf3 e6 3.c4 d5 4.Sc3 Le7 5.Lg5 0-0 6.e3 Sbd7 7.a3 c6 8.Dc2 b6 9.cxd5 cxd5 10.Ld3 Lb7 11.0-0 Tc8 12.Sd2 h6 13.Lh4 Sh5 14.Lxe7 Dxe7 15.Da4 a6 16.Db4 Dd8 17.Tfc1 a5 18.Db3 Shf6 19.Tc2 De7 20.Tac1 Tfd8 21.Lb5 Tc7 22.f4 Tdc8 23.Sf3 Dd8 24.h3 Sb8 25.Ld3 Sbd7 26.Kh2 Se8 27.Se5 Sd6 28.Sxd7 Txd7 29.Sa4 Txc2 30.Txc2 Sc8 31.Dc3 Te7 32.b4 axb4 33.Dxb4 Tc7 34.Tb2 Lc6 35.Sc3 Ta7 36.a4 Df8 37.Kg1 Dxb4 38.Txb4 Kf8 39.Kf2 Ke7 40.f5 Sd6 41.fxe6 fxe6 ½-½
+
+Petrosian,Tigran V (2605) - Kholmov,Ratmir D (2495) [E16]
+Kislovodsk tt Kislovodsk, 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 Lb4+ 4.Ld2 a5 5.g3 b6 6.Lg2 Lb7 7.0-0 0-0 8.Lf4 Le7 9.Sc3 Se4 10.Sa4 Ta7 11.Dc2 d6 12.d5 Sc5 13.Sc3 e5 14.Le3 Sbd7 15.b3 f5 16.a3 c6 17.Sd2 e4 18.b4 axb4 19.axb4 Txa1 20.Txa1 Sa6 21.Txa6 Lxa6 22.dxc6 Sf6 23.b5 Lc8 24.Sd5 Sxd5 25.cxd5 Lg5 26.Ld4 Lxd2 27.Dxd2 Dc7 28.De3 Da7 29.Db3 h5 30.h3 h4 31.gxh4 f4 32.Lxe4 De7 33.Df3 Dxh4 34.Lxb6 Lxh3 35.Ld4 Dg5+ 36.Kh2 Lg4 37.Dg2 Dh6+ 38.Kg1 Lxe2 39.b6 f3 40.Dg4 Tf4 41.De6+ 1-0
+
+Petrosian,Tigran V (2605) - Larsen,Bent (2595) [E16]
+Las Palmas Interzonal Las Palmas (3), 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 Lb4+ 4.Ld2 De7 5.g3 b6 6.Lg2 Lb7 7.0-0 Lxd2 8.Dxd2 0-0 9.Sc3 d6 10.Tfe1 Sbd7 11.e4 Tfd8 12.Sh4 Df8 13.Tad1 a6 14.b3 Tab8 15.Dc2 e5 16.Sf5 g6 17.Se3 c6 18.b4 h5 19.h3 h4 20.dxe5 dxe5 21.Td2 De7 22.Ted1 Sf8 23.Sa4 Txd2 ½-½
+
+Petrosian,Tigran V (2605) - Najdorf,Miguel (2510) [E05]
+Bugojno Bugojno (9), 1982
+
+1.c4 Sf6 2.g3 e6 3.Lg2 d5 4.Sf3 Le7 5.0-0 0-0 6.d4 dxc4 7.Dc2 a6 8.Dxc4 b5 9.Dc2 Lb7 10.Lf4 Sc6 11.Td1 Sb4 12.Dc1 Dc8 13.Lg5 Sbd5 14.Sbd2 h6 15.Lxf6 Sxf6 16.Sb3 Ld6 17.De3 Ld5 18.Se5 Db7 19.Sa5 Db6 20.Sec6 Tfe8 21.Tac1 Lxg2 22.Kxg2 e5 23.Tc2 Sd7 24.a3 exd4 25.Dxd4 Dxd4 26.Txd4 Sb6 27.e4 g5 28.Sb7 Lf8 29.Sc5 Sc4 ½-½
+
+Petrosian,Tigran V (2605) - Palatnik,Semon (2505) [D94]
+Kislovodsk tt Kislovodsk, 1982
+
+1.d4 d5 2.c4 c6 3.e3 Sf6 4.Sc3 g6 5.Sf3 Lg7 6.Le2 0-0 7.0-0 Le6 8.cxd5 cxd5 9.Db3 Db6 10.Da3 Sc6 11.Sa4 Dc7 12.Ld2 Lg4 13.Tac1 Se4 14.Tfd1 e5 15.Lb4 Tfe8 16.dxe5 Tad8 17.h3 Lxf3 18.gxf3 Sxf2 19.Kxf2 Dxe5 20.f4 Df6 21.Ld2 d4 22.Lf3 Lf8 23.Db3 dxe3+ 24.Lxe3 Sd4 25.Lxd4 Txd4 26.Sc3 Dxf4 27.Se2 Dh2+ 28.Kf1 Tb4 29.Dd5 Txb2 30.Td2 Txd2 31.Dxd2 Dxh3+ 32.Lg2 Df5+ 33.Df4 Dxf4+ 34.Sxf4 Lh6 35.Tc4 b5 36.Td4 Lxf4 37.Txf4 Te5 0-1
+
+Petrosian,Tigran V (2605) - Pinter,Jozsef (2550) [A30]
+Las Palmas Interzonal Las Palmas (9), 1982
+
+1.c4 Sf6 2.Sf3 c5 3.g3 d5 4.cxd5 Sxd5 5.Lg2 Sc6 6.d4 cxd4 7.Sxd4 Sdb4 8.Sxc6 Dxd1+ 9.Kxd1 Sxc6 10.Lxc6+ bxc6 11.Sc3 g6 12.Le3 Lg7 13.Tc1 Le6 14.b3 h5 15.h4 0-0 16.Sa4 Tfd8+ 17.Ke1 Le5 18.Tg1 Ld5 19.f3 f5 20.Kf2 Kf7 21.Tc2 Ld6 22.Te1 Tdc8 23.Td1 Td8 24.Tcd2 Tdc8 25.Td3 Le6 26.Lc5 Lc7 27.Tc1 La5 28.Tc2 Td8 29.Txd8 Lxd8 30.Ld4 Ld7 31.Sc5 Le8 32.Sd3 Ke6 33.Tc4 Lb6 34.Tb4 Tb8 35.e4 fxe4 36.fxe4 Td8 37.Sf4+ Kf7 38.Lxb6 axb6 39.Txb6 Td2+ 40.Ke3 Txa2 41.Tb7 Ta5 42.Sd3 Tb5 43.Txb5 cxb5 44.Kf4 Kf6 45.b4 Lc6 46.Se5 Le8 47.Sf3 Ld7 48.Se5 Le8 ½-½
+
+Petrosian,Tigran V (2605) - Psakhis,Lev (2615) [A17]
+Las Palmas Interzonal Las Palmas (5), 1982
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 c5 4.g3 b6 5.e4 Lb7 6.De2 d6 7.d4 cxd4 8.Sxd4 g6 9.Lg2 a6 10.0-0 Sbd7 11.Td1 Db8 12.a4 Lg7 13.a5 0-0 14.axb6 Sxb6 15.Sb3 Ta7 16.Lf4 e5 17.Le3 Lc8 18.Sa5 Ta8 19.Dd3 Le6 20.b3 Sc8 21.h3 h5 22.b4 Dc7 23.Sd5 Sxd5 24.cxd5 Ld7 25.Tdc1 Db8 26.Sc6 Db7 27.Lf1 f5 28.Dxa6 Txa6 29.Lxa6 Lxc6 30.Lxb7 Lxb7 31.Tc7 Tf7 32.Tac1 La6 33.b5 Lxb5 34.Txc8+ Kh7 1-0
+
+Petrosian,Tigran V (2605) - Rashkovsky,Nukhim N (2515) [E11]
+Kislovodsk tt Kislovodsk, 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 Lb4+ 4.Ld2 a5 5.Sc3 b6 6.e3 Lb7 7.Ld3 d6 8.Dc2 Sbd7 9.e4 e5 10.0-0 0-0 11.Sd5 Lxd2 12.Dxd2 c6 13.Sc3 De7 14.Tfe1 Tfd8 15.Tac1 Sf8 16.d5 cxd5 17.exd5 S8d7 18.Sd4 Df8 19.Sdb5 Sc5 20.Lc2 La6 21.b3 Se8 22.f4 Sd7 23.Lf5 Lxb5 24.Sxb5 Sef6 25.Df2 g6 26.Lh3 h5 27.Tcd1 a4 28.fxe5 dxe5 29.d6 axb3 30.axb3 Dh6 31.Sc7 Ta3 32.Lxd7 Sxd7 33.Db2 Ta7 34.b4 Df4 35.Dc1 Dxc1 36.Txc1 Ta2 37.c5 bxc5 38.bxc5 Sxc5 39.Txc5 Txd6 40.Sd5 Te6 41.Tc7 1-0
+
+Petrosian,Tigran V (2605) - Sosonko,Gennadi (2575) [E12]
+Tilburg Tilburg, 1982
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 Sxd5 7.Dc2 c5 8.e4 Sxc3 9.bxc3 Sc6 10.Lb2 g6 11.Td1 Lg7 12.d5 exd5 13.exd5 De7+ 14.Le2 Se5 15.Da4+ Sd7 16.0-0 0-0 17.Tfe1 Dd6 18.Lb5 Se5 19.Sxe5 Lxe5 20.g3 Tfd8 21.Lc6 Tab8 22.Lc1 f6 23.Dc4 Dc7 24.f4 Ld6 25.Lxb7 Txb7 26.Te6 f5 27.a4 Kg7 28.De2 c4 29.Le3 Lc5 30.Kg2 Kh6 31.g4 fxg4 32.f5+ Lxe3 33.Dxe3+ Kh5 34.fxg6 1-0
+
+Petrosian,Tigran V (2605) - Spassky,Boris V (2625) [E17]
+Bugojno Bugojno (10), 1982
+
+1.d4 Sf6 2.c4 e6 3.g3 d5 4.Lg2 Le7 5.Sf3 0-0 6.0-0 Sbd7 7.b3 b6 8.cxd5 Sxd5 9.Lb2 Lb7 10.Sc3 c5 11.Sxd5 Lxd5 12.Dd2 Tc8 13.dxc5 ½-½
+
+Petrosian,Tigran V (2605) - Sunye Neto,Jaime (2500) [D05]
+Las Palmas Interzonal Las Palmas (7), 1982
+
+1.d4 Sf6 2.Sf3 e6 3.e3 d5 4.b3 c5 5.Lb2 Sc6 6.Ld3 cxd4 7.exd4 g6 8.0-0 Lg7 9.La3 Se4 10.c3 f5 11.Lb5 Ld7 12.De2 Tc8 13.Lxc6 Txc6 14.De3 Db6 15.Te1 h5 16.Lb2 0-0 17.Sa3 f4 18.Dd3 e5 19.Tac1 ½-½
+
+Petrosian,Tigran V (2605) - Timman,Jan H (2600) [E15]
+Tilburg Tilburg, 1982
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.g3 La6 5.b3 Lb4+ 6.Ld2 Le7 7.Lg2 0-0 8.0-0 c6 9.Lc3 d5 10.Se5 Sfd7 11.Sxd7 Sxd7 12.Sd2 Tc8 13.Te1 c5 14.cxd5 exd5 15.Db1 Sf6 16.Db2 Te8 17.a3 Dd7 18.Tac1 Tc7 19.e3 Tec8 20.dxc5 bxc5 21.Le5 Tb7 22.h3 Tb6 23.Da1 Lb7 24.Ted1 De6 25.Lc3 Lc6 26.Te1 Dd7 27.Ted1 De6 28.Te1 Dd7 29.Ted1 ½-½
+
+Petrosian,Tigran V (2605) - Timman,Jan H (2655) [E46]
+Bugojno Bugojno (1), 1982
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sge2 d5 6.a3 Le7 7.cxd5 exd5 8.g3 c6 9.Lg2 Lf5 10.0-0 Ld6 11.f3 De7 12.e4 dxe4 13.fxe4 Lxe4 14.Txf6 Lxg2 15.Txd6 Dxd6 16.Kxg2 Sd7 17.Lf4 Dg6 18.Db3 Sb6 19.Lc7 Dd3 20.Lxb6 Tfe8 21.Sg1 axb6 22.Tf1 Dxd4 23.Dxf7+ Kh8 24.Dxb7 Tf8 25.Sf3 Dc5 26.Dd7 Tad8 27.Dg4 Tf7 28.Tf2 h6 29.h4 Td3 30.h5 b5 31.Se2 Df5 32.Dxf5 Txf5 33.Sf4 Te3 34.Td2 Kh7 35.Td8 Tc5 36.Sh4 Tce5 37.Tc8 Te8 38.Txc6 b4 39.a4 Td8 40.Sf5 Te5 41.Sd6 1-0
+
+Petrosian,Tigran V (2605) - Torre,Eugenio (2535) [E70]
+Tilburg Tilburg, 1982
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.Lg5 h6 6.Le3 Sg4 7.Lc1 e5 8.d5 f5 9.Le2 Sf6 10.exf5 gxf5 11.f4 0-0 12.Sf3 Se4 13.fxe5 Sxc3 14.bxc3 dxe5 15.0-0 Dd6 16.Kh1 Sa6 17.Sh4 Sc5 18.Lh5 Tf6 19.La3 Ld7 20.De2 b6 21.Tae1 e4 22.g4 Taf8 23.gxf5 Lxf5 24.Dg2 Dd7 25.Sxf5 Txf5 26.Txf5 Dxf5 27.Lxc5 bxc5 28.Lg6 Df3 29.Lxe4 Dxg2+ 30.Lxg2 Lxc3 31.Te3 Lb2 32.Tg3+ Kh8 ½-½
+
+Petrosian,Tigran V (2585) - Beliavsky,Alexander G (2615) [A05]
+Interpolis Tilburg (10), 10.1981
+
+1.Sf3 d5 2.g3 b6 3.Lg2 Lb7 4.0-0 e6 5.d3 Sf6 6.Sbd2 Sbd7 7.Te1 Lc5 8.h3 Sf8 9.c4 Sg6 10.cxd5 exd5 ½-½
+
+Petrosian,Tigran V (2585) - Larsen,Bent (2610) [E39]
+Interpolis Tilburg (2), 10.1981
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 c5 5.dxc5 0-0 6.a3 Lxc5 7.Sf3 b6 8.Lg5 Lb7 9.e3 Le7 10.Ld3 h6 11.Lxf6 Lxf6 12.0-0 Sc6 13.Se4 Le7 14.Tfd1 Dc7 15.Tac1 Tac8 16.De2 Sa5 17.Sed2 d5 18.b4 Sxc4 19.Sxc4 dxc4 20.Txc4 Db8 21.h3 Lf6 22.a4 Txc4 23.Lxc4 Td8 24.Txd8+ Dxd8 25.Dc2 Dd6 26.Db3 g5 27.b5 Kg7 28.Dc2 Db4 29.Sd2 Dc3 30.Dd1 Da1 31.Dxa1 Lxa1 32.Le2 Kf6 33.Sc4 Le5 34.f3 Lg3 35.Ld3 Ld5 36.Kf1 h5 37.Sd2 Ke7 38.Ke2 h4 39.Lc4 Lb7 40.Ld3 f5 41.e4 Lc8 42.Sc4 Kf6 43.Lc2 Lf4 44.Kf2 Ld7 45.Ld3 Le8 46.Kf1 Lh5 47.Kf2 g4 48.fxg4 fxg4 49.hxg4 Lxg4 50.Le2 Lg3+ 51.Ke3 h3 52.gxh3 Lxh3 53.a5 bxa5 54.Sxa5 Lc7 55.Sc4 e5 56.Kf3 Ke7 57.Se3 Lc8 58.Sf5+ Kd7 59.Ke3 Lb6+ 60.Kd3 Kc7 61.Se7 Le6 62.Sd5+ Kd6 63.Kc4 Lf2 64.Kb4 Le1+ 65.Kc4 La5 66.Ld1 Lh3 67.Se3 Le6+ 68.Sd5 Lb6 69.Le2 Lh3 70.Sb4 Lg2 71.Ld3 Lf3 72.Sd5 Ke6 ½-½
+
+Petrosian,Tigran V (2585) - Miles,Anthony J (2565) [E48]
+Interpolis Tilburg (4), 10.1981
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.Sge2 cxd4 7.exd4 d5 8.0-0 dxc4 9.Lxc4 0-0 10.a3 Le7 11.Dd3 b6 12.Td1 Lb7 13.Dh3 Te8 14.La2 Sb8 15.Sf4 Ld6 16.d5 e5 17.Sh5 Sxh5 18.Dxh5 Sd7 19.Lg5 f6 20.Le3 De7 21.Tac1 Kh8 22.Sb5 Sf8 23.h3 Tec8 24.Dg4 Dd8 25.h4 a6 26.Sxd6 Dxd6 27.h5 h6 28.Lb1 Txc1 29.Lxc1 Td8 30.Le3 Lc8 31.Df3 Ld7 32.De2 Lb5 33.Dg4 Le8 34.f3 Lf7 35.Le4 Le6 36.Dh4 Lg8 37.Df2 Sd7 38.Tc1 b5 39.Tc6 Df8 40.g4 Sb8 41.Tc5 Sd7 42.Tc7 b4 43.a4 Lxd5 44.Lxd5 Dd6 45.Txd7 Dxd7 46.Le4 Dxa4 47.Kg2 Dd1 48.Lc2 Dd5 49.De2 b3 50.Le4 De6 51.Kg3 Dc8 52.Df1 Td6 53.Da1 Dc4 54.Da3 Td1 55.De7 a5 56.De8+ Dg8 57.Db5 Ta1 58.Ld5 Dd8 59.Lxb3 Te1 60.Kf2 Th1 61.Kg2 Te1 62.Lf2 Tb1 63.Lc2 Ta1 64.Dc4 Dg8 65.Dd3 a4 1-0
+
+Petrosian,Tigran V (2585) - Portisch,Lajos (2620) [E19]
+Interpolis Tilburg (8), 10.1981
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 c5 10.Td1 d6 11.b3 Lf6 12.Lb2 Dc7 13.Dd2 Td8 ½-½
+
+Petrosian,Tigran V (2585) - Sosonko,Gennadi (2585) [A01]
+Interpolis Tilburg (6), 10.1981
+
+1.c4 e5 2.b3 Sf6 3.Lb2 Sc6 4.e3 Le7 5.a3 0-0 6.Dc2 d5 7.cxd5 Sxd5 8.Sf3 Lf6 9.d3 g6 10.Sbd2 Lg7 11.Tc1 g5 12.Sc4 De7 13.b4 a6 14.Sfd2 f5 15.Le2 g4 16.Sb3 Kh8 17.Sca5 Sxa5 18.Sxa5 Df7 19.0-0 c6 20.Sc4 De7 21.Tfe1 Ld7 22.Lf1 Sc7 23.Sb6 Tad8 24.Dc5 Dxc5 25.Txc5 Se6 26.Txe5 Lxe5 27.Lxe5+ Kg8 28.d4 Le8 29.Sc4 b5 30.Sd6 Ld7 31.Tc1 Sg5 32.Sb7 Tc8 33.Ld3 Ta8 34.Kf1 Le6 35.Lf4 Sf7 36.Ke2 Ld5 37.Lxf5 Se5 38.Lxe5 Txf5 39.Sd6 Tff8 40.e4 Lc4+ 41.Sxc4 bxc4 42.Txc4 a5 43.Ld6 Tfe8 44.e5 axb4 45.Lxb4 1-0
+
+Petrosian,Tigran V (2585) - Andersson,Ulf (2610) [E04]
+Moscow Moscow (4), 04.1981
+
+1.d4 Sf6 2.c4 e6 3.g3 d5 4.Lg2 dxc4 5.Sf3 c5 6.0-0 Sc6 7.Se5 Ld7 8.Sxc6 Lxc6 9.Lxc6+ bxc6 10.Da4 cxd4 11.Dxc6+ Sd7 12.Dxc4 Lc5 13.Sd2 0-0 14.Sf3 Tc8 15.Ld2 Lb6 16.Dd3 Sc5 17.Dxd4 Dxd4 18.Sxd4 ½-½
+
+Petrosian,Tigran V (2585) - Balashov,Yuri S (2600) [E19]
+Moscow Moscow (9), 04.1981
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 c5 10.Td1 d6 11.b3 Lf6 12.Lb2 Dc7 13.Dd2 Td8 14.dxc5 dxc5 15.Df4 Sa6 16.Dxc7 Sxc7 17.Lxf6 gxf6 18.Se1 Lxg2 19.Kxg2 Kf8 20.Kf3 Ke7 21.e3 Se8 22.Ke2 Txd1 23.Txd1 Sd6 24.Sd3 Se4 25.Tc1 Td8 ½-½
+
+Petrosian,Tigran V (2585) - Gheorghiu,Florin (2605) [E49]
+Moscow Moscow (13), 04.1981
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 0-0 6.Sge2 d5 7.a3 Lxc3+ 8.bxc3 b6 9.cxd5 exd5 10.0-0 La6 11.f3 Lxd3 12.Dxd3 Sc6 13.Sg3 Dd7 14.Lb2 Tad8 15.Tad1 cxd4 16.cxd4 Se8 17.e4 Sd6 18.Lc1 Sc4 19.f4 f6 ½-½
+
+Petrosian,Tigran V (2585) - Karpov,Anatoly (2690) [D30]
+Moscow Moscow (11), 04.1981
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Lg5 Le7 5.e3 h6 6.Lh4 0-0 7.cxd5 Sxd5 8.Lxe7 Dxe7 9.e4 Sf6 10.Sc3 c5 11.e5 Sd5 12.Tc1 Td8 13.Sxd5 Txd5 14.Ld3 Sc6 15.Le4 Td8 16.Lxc6 bxc6 17.Txc5 La6 18.Dc2 Tab8 19.b3 Tb5 20.Txb5 Lxb5 21.Kd2 c5 22.Ke3 Td5 23.Td1 g5 24.h3 Dc7 25.Db2 a5 26.a3 cxd4+ 27.Txd4 Tc5 28.Kd2 Lf1 29.b4 axb4 30.axb4 Tb5 31.Tg4 Td5+ 32.Ke1 Ld3 33.h4 Lf5 34.Td4 Txd4 35.Dxd4 Dc2 36.hxg5 Ld3 ½-½
+
+Petrosian,Tigran V (2585) - Smejkal,Jan (2535) [D03]
+Moscow Moscow (7), 04.1981
+
+1.d4 Sf6 2.Sf3 g6 3.Lg5 Lg7 4.Sbd2 d5 5.e3 0-0 6.c3 Sbd7 7.Le2 b6 8.a4 a5 9.0-0 Lb7 10.Te1 Te8 11.Db3 e5 12.dxe5 Sxe5 13.Sxe5 Txe5 14.Sf3 Te8 15.Ted1 De7 16.Sd4 Dc5 17.Lf3 Se4 18.Lf4 Le5 19.Lxe5 Txe5 20.Da3 Dxa3 21.Txa3 Te7 22.h4 Kg7 23.Se2 h6 24.Sf4 c6 25.Tb3 Sc5 26.Txb6 Sxa4 27.Tb3 La6 28.Td2 Sc5 29.Tb6 Tc7 30.Le2 Lxe2 31.Sxe2 Sd7 32.Tb3 Sc5 33.Tb6 Sd7 34.Tb3 Sc5 35.Ta3 Tb8 ½-½
+
+Petrosian,Tigran V (2585) - Torre,Eugenio (2550) [D47]
+Moscow Moscow (2), 04.1981
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.Sc3 e6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Ld3 Lb7 9.a3 a6 10.b4 Ld6 11.Sd2 a5 12.Sce4 Le7 13.Sxf6+ Sxf6 14.bxa5 0-0 15.Dc2 c5 16.dxc5 Tc8 17.Sb3 Lxg2 18.Tg1 Ld5 19.Lb2 Lxb3 20.Dxb3 Txc5 21.a6 Da5+ 22.Ke2 Dxa6 23.Ld4 Td5 24.a4 Dd6 25.axb5 Txd4 26.exd4 Dxd4 27.Ta4 De5+ 28.Kf1 Dxh2 29.Le2 Ld6 30.b6 Lc5 31.Tg2 Dh1+ 32.Tg1 Dh2 33.Tg2 Dh1+ 34.Tg1 Dh2 ½-½
+
+Petrosian,Tigran V (2585) - Kuzmin,Gennadi P (2545) [A29]
+Moscow-4teams Moscow (5.4), 27.02.1981
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 Lb4 5.Sd5 a5 6.Lg2 0-0 7.0-0 Te8 8.d3 h6 9.a3 Lc5 10.Sxf6+ Dxf6 11.Sd2 Dd8 12.Se4 Lf8 13.Sc3 d6 14.Tb1 Le6 15.b4 axb4 16.axb4 Dc8 17.b5 Se7 18.e4 g6 19.Le3 Lg7 20.Dd2 Kh7 21.Ta1 Dd7 ½-½
+
+Petrosian,Tigran V (2585) - Dolmatov,Sergey (2545) [A30]
+Moscow-4teams Moscow (3.4), 25.02.1981
+
+1.c4 Sf6 2.Sc3 c5 3.g3 e6 4.Sf3 b6 5.Lg2 Lb7 6.0-0 Le7 7.b3 0-0 8.Lb2 d6 9.e3 Sc6 10.Te1 Tc8 11.Tc1 Tc7 12.d4 cxd4 13.exd4 d5 14.cxd5 Sxd5 15.Sxd5 Dxd5 16.Se5 Dxg2+ 17.Kxg2 Sxe5+ 18.Kf1 Txc1 19.Lxc1 La6+ 20.Kg1 Sd3 21.Te3 Tc8 22.Ld2 Td8 23.Dc2 Txd4 24.Dc7 Ld8 25.Dxa7 Sc5 26.Lc3 Td1+ 27.Te1 Td7 28.Db8 Lb7 29.De5 f6 30.De2 La6 31.Dc2 Ld3 32.Dc1 e5 33.Lb4 Td5 34.Lxc5 Txc5 35.De3 e4 36.Tc1 Td5 37.Kg2 b5 38.Tc5 Td6 39.Df4 Le7 40.Tc7 1-0
+
+Petrosian,Tigran V (2585) - Vasiukov,Evgeni (2545) [A11]
+Moscow-4teams Moscow (1.4), 23.02.1981
+
+1.c4 Sf6 2.g3 c6 3.Sf3 d5 4.Dc2 g6 5.b3 Lg7 6.Lb2 0-0 7.Lg2 Te8 8.d3 Sbd7 9.0-0 e5 10.cxd5 cxd5 11.Sc3 a6 12.Tac1 b5 13.Sb1 Lh6 14.e3 Tb8 15.Sbd2 Lb7 16.Db1 Db6 17.b4 Dd6 18.a3 d4 19.e4 Sb6 20.Tc2 Sa4 21.Lh3 a5 22.bxa5 Dd8 23.Sb3 b4 24.axb4 La6 25.Sc5 Sxc5 26.Txc5 Txb4 27.Dc2 Db8 28.Lc1 Lxc1 29.Txc1 Tb2 30.Dd1 Kg7 31.Se1 Db4 32.Df3 Lb5 33.a6 Ta2 34.Lc8 h5 35.h3 Te7 36.h4 Sg8 37.Kg2 Lxa6 38.Lxa6 Txa6 39.T5c4 Db3 40.De2 Ta2 41.T4c2 Tea7 42.Sf3 T7a5 43.Dd1 Sh6 44.Txa2 Dxa2 45.Sd2 Sg4 46.Tc2 De6 47.Sc4 Ta4 48.Tb2 Da6 49.Db3 Ta1 50.Dc2 Te1 51.Tb1 Txb1 52.Dxb1 Da4 53.Kf1 f6 ½-½
+
+Petrosian,Tigran V (2585) - Beliavsky,Alexander G (2620) [D55]
+URS Spartakiad Moscow, 1981
+
+1.d4 Sf6 2.Sf3 d5 3.c4 e6 4.Sc3 Le7 5.Lg5 h6 6.Lxf6 Lxf6 7.e3 0-0 8.Tc1 c6 9.Ld3 Sd7 10.cxd5 exd5 11.0-0 Le7 12.Lb1 Te8 13.Dd3 g6 14.Tce1 Sf8 15.Dd2 Kg7 16.Se5 f6 17.Sd3 Lf5 18.Sf4 Lxb1 19.Txb1 Ld6 20.Sd3 a5 21.a3 a4 22.Dc2 Da5 23.b3 axb3 24.Txb3 Te7 25.a4 h5 26.Tfb1 Ta7 27.h4 Se6 28.Dd1 Kf7 29.Df3 Dc7 30.g3 Sg7 31.e4 dxe4 32.Sxe4 Sf5 33.Sb2 Dd7 34.Td1 De6 35.Sxd6+ Dxd6 36.d5 cxd5 37.Dxd5+ Dxd5 38.Txd5 ½-½
+
+Petrosian,Tigran V (2585) - Cebalo,Miso (2500) [E41]
+Vrsac Vrsac (5), 1981
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.Sf3 Lxc3+ 7.bxc3 d6 8.e4 e5 9.d5 Se7 10.Sd2 Sg6 11.h4 h5 12.g3 Da5 13.Dc2 Ld7 14.a4 0-0-0 15.Sf1 Tde8 16.Ta3 Se7 ½-½
+
+Petrosian,Tigran V (2585) - Chandler,Murray G (2530) [B14]
+Vrsac Vrsac (7), 1981
+
+1.c4 c5 2.Sc3 Sf6 3.Sf3 e6 4.e3 d5 5.cxd5 Sxd5 6.d4 cxd4 7.exd4 Lb4 8.Ld2 Sc6 9.Ld3 Le7 10.Tc1 0-0 11.h4 h6 12.Lb1 f5 13.Le3 Dd6 14.Sxd5 ½-½
+
+Petrosian,Tigran V - Giorgadze,Tamaz [D58]
+URS Soviet Union, 1981
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lg5 h6 6.Lh4 0-0 7.e3 b6 8.Lxf6 Lxf6 9.cxd5 exd5 10.Dd2 Le6 11.Td1 c6 12.g3 Sd7 13.Lg2 Dc7 14.0-0 Le7 15.Tc1 Tac8 16.Se1 Dd6 17.Sd3 Lf5 18.Tfd1 Tfe8 19.De2 Db8 20.Df1 Ld6 21.Lh3 Lxh3 22.Dxh3 Sf6 23.b4 Se4 24.Tc2 Tc7 25.Tdc1 Db7 26.Sxd5 cxd5 27.Txc7 Lxc7 28.Dd7 Tc8 29.Se5 Sd6 30.Tc2 a5 31.b5 a4 32.Sc6 Kf8 33.De7+ Kg8 34.Dd7 Kf8 35.Sb4 a3 36.Kf1 g6 37.Kg1 h5 38.h4 Kg7 39.Kf1 Se8 40.De7 Tb8 41.Sc6 Ld6 42.Dg5 Sc7 43.e4 f6 44.De3 Te8 45.e5 fxe5 46.dxe5 Lc5 47.Dg5 Se6 0-1
+
+Petrosian,Tigran V (2585) - Kapelan,Milorad (2305) [D37]
+Vrsac Vrsac (9), 1981
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lf4 0-0 6.e3 b6 7.Tc1 Lb7 8.cxd5 Sxd5 9.Lg3 c5 10.Sxd5 Lxd5 11.dxc5 bxc5 12.Lc4 Db6 13.Lxd5 exd5 14.Dxd5 Td8 15.Db3 Da5+ 16.Ke2 Sc6 17.Thd1 Lf6 18.Td2 Txd2+ 19.Sxd2 Te8 20.Db7 Sd4+ 21.Kd1 Se6 22.Db3 Td8 23.Tc2 h5 24.h3 Da6 25.Dc4 Db7 26.f3 Lxb2 27.Ke2 Lf6 28.Sb3 Le7 29.Le5 Td5 30.Lc3 Tg5 31.Kf1 Td5 32.Td2 Txd2 33.Sxd2 Db8 34.f4 Lf8 35.Dd5 Db5+ 36.Kf2 Da4 37.Db3 Dd7 38.Dc4 Dd8 39.Ke2 De8 40.Le5 Dc6 41.De4 Da6+ 42.Dc4 Db7 43.Kf2 Le7 44.De4 Da6 45.Dd5 Da4 46.Ke2 Da6+ 47.Ke1 Da3 48.Ke2 Da6+ 49.Kf2 Da4 50.Db3 Da6 51.a4 Dc6 52.Db5 Lh4+ 53.g3 Dd5 54.Sf3 Le7 55.Ke2 Da2+ 56.Sd2 Lf8 57.Db3 Dxb3 58.Sxb3 f6 59.Lb8 c4 60.Sd2 Sc5 61.Sxc4 Sxa4 62.Lxa7 f5 63.e4 ½-½
+
+Petrosian,Tigran V (2585) - Kurajica,Bojan (2500) [A17]
+Vrsac Vrsac (11), 1981
+
+1.Sf3 Sf6 2.c4 e6 3.Sc3 b6 4.e4 Lb7 5.d3 d6 6.g3 g6 7.Lg2 Lg7 8.0-0 0-0 9.Te1 c5 10.d4 Sa6 11.d5 exd5 12.cxd5 Te8 13.Lf4 c4 14.Sd2 Sh5 15.Le3 Tc8 16.Lh3 Tc7 17.Sb5 Lxb2 18.Sxc7 Dxc7 19.Da4 Sf6 20.Tab1 c3 21.Txb2 cxb2 22.Dd4 Sd7 23.Dxb2 Sac5 24.Tc1 Se5 25.Da3 Lc8 26.Lg2 f5 27.f4 Sf7 28.Ld4 De7 29.La1 h6 30.Te1 La6 31.Dc3 Df8 32.e5 dxe5 33.fxe5 Sa4 34.De3 Kh7 35.e6 Sd6 36.e7 Df7 37.De5 Sc4 38.Sxc4 Lxc4 39.d6 Sc5 40.Lc6 1-0
+
+Petrosian,Tigran V (2585) - Lutikov,Anatoly S (2430) [A77]
+URS Spartakiad Moscow, 1981
+
+1.d4 Sf6 2.Sf3 c5 3.d5 d6 4.c4 e6 5.Sc3 exd5 6.cxd5 a6 7.a4 g6 8.Sd2 Sbd7 9.e4 Lg7 10.Le2 0-0 11.0-0 Te8 12.Ta3 Tb8 13.a5 Dc7 14.Dc2 Ta8 15.b3 b5 16.axb6 Sxb6 17.Lb2 Sh5 18.Lxh5 gxh5 19.Sd1 f6 20.b4 Ta7 21.bxc5 Dxc5 22.Tc3 Da5 23.Se3 Ld7 24.Ta1 Sa4 25.Tc4 Tb7 26.Lc3 Db6 27.Taxa4 Lxa4 28.Dxa4 Db5 29.Da1 Teb8 30.g3 h4 31.Kg2 hxg3 32.hxg3 Lh6 33.Kg1 Te8 34.Lxf6 Tf8 35.e5 dxe5 36.Tg4+ Lg7 37.Lxe5 Tff7 38.Txg7+ Txg7 39.Lxg7 Txg7 40.De5 1-0
+
+Petrosian,Tigran V - Martinovic,Slobodan [A73]
+Oberwart op Oberwart, 1981
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 d6 6.Sf3 g6 7.Sd2 Sbd7 8.e4 Lg7 9.Le2 0-0 10.0-0 Se8 11.Kh1 f5 12.exf5 gxf5 13.a4 Se5 14.f4 Sg4 15.Sf3 De7 16.De1 Lxc3 17.bxc3 Sef6 18.Ta2 Te8 19.c4 Ld7 20.h3 Se3 21.Tg1 Dg7 22.Dh4 Se4 23.g4 fxg4 24.Lxe3 Sc3 25.Sh2 De7 26.Dxe7 Txe7 27.Lxg4 Lxg4 28.Tb2 Txe3 29.Sxg4 Txh3+ 30.Kg2 Td3 31.Txb7 Tf8 32.Kh2 Td2+ 33.Kh1 Kh8 34.Sf6 1-0
+
+Petrosian,Tigran V (2585) - Popovic,Petar (2490) [A16]
+Vrsac Vrsac (14), 1981
+
+1.Sf3 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.e4 Sxc3 6.dxc3 Dxd1+ 7.Kxd1 Sd7 8.Le3 e5 9.Lc4 f6 10.Ke2 ½-½
+
+Petrosian,Tigran V (2585) - Rajkovic,Dusan (2470) [A77]
+Vrsac Vrsac (3), 1981
+
+1.d4 Sf6 2.c4 e6 3.Sc3 c5 4.d5 exd5 5.cxd5 d6 6.Sf3 g6 7.Sd2 Sbd7 8.e4 Lg7 9.Le2 0-0 10.0-0 Te8 11.a4 Se5 12.Ta3 g5 13.Dc2 Sfd7 14.Sd1 Sf8 15.f3 Sfg6 16.g3 Lh3 17.Te1 Tc8 18.Sf2 Ld7 19.Sf1 c4 20.Le3 Sd3 21.Sxd3 cxd3 22.Dxd3 Lxb2 23.Tb3 Lf6 24.Txb7 Lxa4 25.Da6 Lc2 26.Lb5 Se5 27.Sd2 Te7 28.Txe7 Lxe7 29.Tc1 Tc7 30.Lxa7 Sd3 31.Tf1 Sb4 32.Da5 Tb7 33.Dxb4 Txa7 34.Lc6 Da5 35.Dxa5 Txa5 36.Sc4 Ta2 37.Se3 Lf6 38.Sxc2 Txc2 39.Td1 Le5 40.Ld7 h5 41.Tf1 h4 42.f4 Ld4+ 43.Kh1 hxg3 44.hxg3 Tf2 45.Td1 Le3 46.fxg5 Lxg5 47.Td3 Te2 ½-½
+
+Petrosian,Tigran V (2585) - Velickovic,Sasa (2410) [E70]
+Vrsac Vrsac (1), 1981
+
+1.d4 Sf6 2.c4 c5 3.d5 g6 4.Sc3 Lg7 5.e4 0-0 6.Ld3 d6 7.Lg5 e6 8.dxe6 Lxe6 9.f4 Sc6 10.Sf3 Db6 11.Dc1 Da6 12.Sd2 Sg4 13.0-0 f6 14.Lh4 g5 15.Sb5 Db6 16.Lg3 gxf4 17.Lxf4 a6 18.Sc3 Sge5 19.Lxe5 Sxe5 20.Dc2 Lh6 21.Sd5 Lxd5 22.exd5 Sxd3 23.Dxd3 Dxb2 24.Sf3 f5 25.Tab1 Dg7 26.Sh4 f4 27.Sf5 Df6 28.Sxh6+ Dxh6 29.Txb7 Tae8 30.Df3 Dg5 31.Tb3 Dg7 32.Td3 Kh8 33.Kh1 De5 34.Ta3 Dd4 35.Txa6 De4 36.Dd1 Dxc4 37.Txd6 Dxa2 38.Td7 De2 39.d6 Dxd1 40.Txd1 c4 41.Kg1 c3 42.Tc7 Kg8 43.Txc3 Kg7 44.Kf2 Td8 45.Kf3 Tf6 46.d7 Tf7 47.Tcd3 Kg8 48.Td4 Kg7 49.T1d3 Kg8 50.Ke4 Kg7 51.Td5 Kg8 52.T3d4 Kg7 53.Ke5 h6 54.Ke6 Kg6 55.g3 1-0
+
+Petrosian,Tigran V (2585) - Velimirovic,Dragoljub (2520) [A17]
+Vrsac Vrsac (12), 1981
+
+1.c4 e6 2.Sf3 Sf6 3.Sc3 Lb4 4.Dc2 c5 5.e3 Sc6 6.b3 0-0 7.Lb2 Te8 8.Le2 Lxc3 9.Dxc3 e5 10.0-0 d5 11.cxd5 Sxd5 12.Dxc5 Lf5 13.Lc4 Le4 14.Lxd5 Lxd5 15.Se1 Tc8 16.Db5 a6 17.De2 Dh4 18.f3 f5 19.Sd3 Tcd8 20.Tae1 a5 21.Lc3 Td6 22.e4 fxe4 23.fxe4 Lxe4 24.Sxe5 Ld5 25.Db5 Ted8 26.Sxc6 bxc6 27.De2 h6 28.De7 Dg4 29.Tf2 Kh7 30.h3 Dg6 31.Kh2 T6d7 32.Dh4 Tf8 33.Tee2 Tdf7 34.Dg3 Dh5 35.Txf7 Txf7 36.Te8 Df5 37.Te2 a4 38.bxa4 Lxa2 39.De5 Dg6 40.De4 Ld5 41.Dxg6+ Kxg6 42.a5 Ta7 43.Te5 Kf7 44.g4 g6 45.h4 Td7 46.Kg3 Lc4 47.Te4 Td3+ 48.Kf4 Lb5 49.Te3 Td5 50.Tf3 h5 51.Ke4+ Ke7 52.g5 Le2 53.Tf6 Ld3+ 54.Kf4 Kd7 55.Ke3 Lf5 56.Tf7+ Ke6 57.Tf6+ Kd7 58.Kf4 Ld3 59.Le5 Ke7 60.Lc7 Lb5 61.Lb6 Txd2 62.Txg6 Tg2 63.Lc5+ Kf7 64.Tf6+ Kg8 65.Td6 Tc2 66.Le3 Kf7 67.Kf5 Ke7 68.Td2 Tc3 69.Ld4 Tf3+ 70.Kg6 Ke6 71.Kxh5 Tf4 72.Lb2 c5 73.g6 Lc6 74.Kg5 1-0
+
+Petrosian,Tigran V - Vukic,Milan [A55]
+Oberwart op Oberwart, 1981
+
+1.d4 Sf6 2.c4 d6 3.Sc3 Sbd7 4.Sf3 e5 5.g3 c6 6.e4 Le7 7.Lg2 0-0 8.0-0 a6 9.h3 Dc7 10.Le3 b5 11.Sd2 b4 12.Se2 c5 13.d5 Tb8 14.Sc1 g6 15.Sd3 Sh5 16.Kh2 Sg7 17.De2 f5 18.f4 Lf6 19.Tae1 exf4 20.Lxf4 Te8 21.Df2 Ld4 22.Le3 Se5 23.Sxe5 Lxe5 24.Sf3 Lf6 25.Lg5 fxe4 26.Lxf6 exf3 27.Txe8+ Sxe8 28.Lg5 h6 29.Dxf3 Lf5 30.Lxh6 Kh7 31.Lg5 b3 32.axb3 Sg7 33.g4 1-0
+
+Petrosian,Tigran V (2615) - Schneider,Lars Ake (2450) [E45]
+EU-chT (Men) 07th Skara (3.3), 01.1980
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 La6 6.Sg3 0-0 7.e4 Sc6 8.Ld3 e5 9.d5 Lxc3+ 10.bxc3 Se7 11.0-0 d6 12.Lg5 Sd7 13.Dg4 f6 14.Le3 Sc5 15.Lxc5 bxc5 16.Tfb1 Dc8 17.Dd1 Dd7 18.Db3 Sg6 19.Sf5 Sf4 20.Lf1 g6 21.Se3 f5 22.Dc2 Sh5 23.exf5 gxf5 24.Le2 Sf4 25.Lf1 Sh5 26.Le2 Sf4 ½-½
+
+Petrosian,Tigran V (2615) - Bellon Lopez,Juan Manuel (2430) [D14]
+Las Palmas Las Palmas, 1980
+
+1.c4 c6 2.d4 d5 3.cxd5 cxd5 4.Sc3 Sc6 5.Sf3 Sf6 6.Lf4 Lf5 7.e3 e6 8.Lb5 Sd7 9.Da4 Db6 10.Sh4 Le4 11.0-0 Le7 12.f3 Lg6 13.Sxg6 hxg6 14.Tf2 Tc8 15.Td1 a6 16.Lf1 0-0 17.a3 Sf6 18.g4 Tfd8 19.Sa2 Se8 ½-½
+
+Petrosian,Tigran V (2615) - Bronstein,David I (2535) [D22]
+Rostov on Don tt Rostov on Don, 1980
+
+1.d4 d5 2.c4 dxc4 3.Sf3 Sf6 4.e3 Lg4 5.Lxc4 e6 6.h3 Lh5 7.Sc3 a6 8.0-0 c5 9.dxc5 Dxd1 10.Txd1 Lxc5 11.g4 Lg6 12.Se5 Sbd7 13.Sxg6 hxg6 14.g5 Th4 15.gxf6 Txc4 16.fxg7 Ke7 17.e4 f6 18.Kg2 Tg8 19.Lh6 Se5 20.Ld2 La7 21.b3 Tc6 22.Se2 Txg7 23.Tac1 Txc1 24.Txc1 Sc6 25.Lc3 g5 26.Td1 Lc5 27.Td2 Th7 28.Td1 Tg7 29.Td2 Th7 30.Td1 Tg7 ½-½
+
+Petrosian,Tigran V (2615) - Garcia Gonzales,Guillermo [E30]
+Las Palmas Las Palmas, 1980
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Sf3 c5 5.Lg5 h6 6.Lxf6 Dxf6 7.Tc1 cxd4 8.Sxd4 a6 9.a3 Lxc3+ 10.Txc3 Sc6 11.e3 0-0 12.Le2 d5 13.cxd5 exd5 14.Td3 Sxd4 15.Txd4 Le6 16.0-0 Tac8 17.Db3 De7 18.Lf3 Tc5 19.Dd3 Df6 20.Db3 b5 21.Le2 Tfc8 22.h3 Dg6 23.Ld3 Lf5 24.Lxf5 Dxf5 25.Dd1 Df6 26.b3 Dc6 27.a4 bxa4 28.Txa4 Db5 29.Td4 Tc3 30.b4 T3c4 31.Txd5 Dxb4 32.Td8+ Txd8 33.Dxd8+ Df8 ½-½
+
+Petrosian,Tigran V (2615) - Gonzalez Mestres,Luis [E48]
+Las Palmas Las Palmas, 1980
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 d5 6.Sge2 cxd4 7.exd4 dxc4 8.Lxc4 0-0 9.0-0 Sbd7 10.a3 Le7 11.La2 Sb6 12.Sf4 Ld7 13.Te1 Ld6 14.Sd3 Lc6 15.Lg5 Sbd5 16.Sxd5 exd5 17.Df3 Le7 18.Te5 Te8 19.Tae1 Dd7 20.h3 h6 21.Lh4 Tad8 22.Tf5 Dc8 23.Se5 Td6 24.Sxc6 bxc6 25.Tfe5 Te6 26.Txe6 fxe6 27.Lb1 c5 28.dxc5 Dxc5 29.Lg6 Tb8 30.b4 Dc6 31.De3 Tb6 32.Tc1 Dd7 33.Dc3 Ld8 34.Dc8 Tb7 35.Lg3 Kf8 36.Dc5+ Le7 37.Dc2 Ld8 38.Le5 Se8 39.Lxe8 Kxe8 40.Dh7 Df7 41.Tc3 h5 1-0
+
+Petrosian,Tigran V (2615) - Hernandez Onna,Roman (2460) [E47]
+Las Palmas Las Palmas, 1980
+
+1.d4 e6 2.c4 Sf6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.d5 b5 7.dxe6 fxe6 8.cxb5 Lb7 9.Sf3 Dc7 10.Ld2 e5 11.e4 d5 12.exd5 e4 13.Lc4 Dd6 14.Sg5 Sbd7 15.0-0 Sb6 16.Lb3 De5 17.Se6 c4 18.Lc2 Tf7 19.Te1 Lxc3 20.Lxc3 Dxd5 21.Dxd5 Sbxd5 22.Sg5 Te7 23.Sxe4 Sxe4 24.Lxe4 Tae8 25.Lxd5+ Lxd5 26.Txe7 Txe7 27.f3 Tb7 28.Td1 Le6 29.Td6 Lf5 30.a4 Tb6 31.Td4 Le6 32.Td8+ Kf7 33.Ld4 Tb7 34.Ta8 c3 35.bxc3 Lb3 36.a5 1-0
+
+Petrosian,Tigran V (2615) - Ivanovic,Bozidar (2440) [D32]
+Bar Bar, 1980
+
+1.c4 e6 2.Sf3 d5 3.b3 c5 4.e3 Sc6 5.cxd5 exd5 6.Lb2 Sf6 7.Lb5 Le7 8.0-0 0-0 9.d4 Lg4 10.dxc5 Lxc5 11.Sc3 Tc8 12.Le2 Ld6 13.Tc1 Lb8 14.Te1 Te8 15.g3 h5 16.Sa4 De7 17.Sh4 Se5 18.Txc8 Txc8 19.Sc3 Db4 20.Dd4 a5 21.f3 Lh3 22.Td1 La7 23.Dxe5 Te8 24.Dxf6 gxf6 25.Sxd5 Txe3 26.Sxb4 Txe2+ 27.Ld4 Lxd4+ 28.Txd4 axb4 29.Txb4 Txa2 30.Txb7 Kg7 31.Tb5 Tb2 32.Txh5 Tb1+ 33.Kf2 Tb2+ 34.Ke1 Tb1+ 35.Kd2 Txb3 36.g4 Lf1 37.Ke1 La6 38.Kf2 Lb7 39.Tc5 Kg8 40.Kg3 Kf8 41.Tf5 Kg7 42.Tf4 Lc8 43.Tc4 Le6 44.Tc5 Td3 45.Tc2 Ta3 46.Td2 Lc8 47.Td8 Tc3 48.Te8 Kh6 49.Te7 f5 50.g5+ Kxg5 51.Txf7 Le6 52.Tg7+ Kf6 53.Ta7 Ld5 54.Ta6+ Lc6 55.Ta5 Ld7 56.Td5 Le6 57.Td2 Lf7 58.Sg2 Lh5 59.Tf2 Lf7 60.Sf4 Tc8 61.Tb2 Tc6 62.h4 Ta6 63.Tb8 Tc6 64.Th8 Kg7 65.Td8 Kf6 66.Sh3 Ke7 67.Th8 Ld5 68.Th7+ Kf6 69.Sf4 Tc5 70.Th6+ Kg7 71.Tg6+ Kf7 72.Td6 La8 73.Sh3 Tc6 74.Sg5+ Ke7 75.Td5 Kf6 76.Td8 Ta6 77.Th8 Kg7 78.Th7+ Kg8 79.Td7 Ta5 80.Kf4 Lc6 81.Tc7 Le8 82.Se6 Lh5 83.Tg7+ Kh8 84.Td7 Ta6 85.Sd4 Ta3 86.Tb7 Ta4 87.Ke5 Txd4 88.Kxd4 Lxf3 89.Te7 f4 90.Ke5 Lh5 91.Kxf4 Lg6 92.Kg5 Lh7 93.Kh6 Lg8 94.Tb7 Lc4 95.Th7+ Kg8 96.Tc7 Ld3 97.Tc8+ Kf7 98.Tc3 Le4 99.Tg3 Lc2 100.Tg7+ Kf8 101.Tg2 Ld3 102.Tg3 Lc2 103.Kh5 Kf7 104.Tg1 Ld3 105.Tg5 Le2+ 106.Kh6 Ld3 107.Tg7+ Kf8 108.Tg1 Lc2 109.Tg3 Kf7 110.Kh5 Ld1+ 111.Kg5 Kg7 112.Tc3 Le2 113.h5 La6 114.h6+ Kh8 115.Kg6 Lb7 116.Te3 Ld5 117.Te8+ Lg8 118.Te7 Ld5 119.h7 Le4+ 120.Kh6 Lg6 121.Td7 Le8 122.Td6 Ld7 123.Tf6 1-0
+
+Petrosian,Tigran V (2615) - Ivanovic,Bozidar (2440) [E05]
+Vrbas Vrbas, 1980
+
+1.c4 e6 2.g3 Sf6 3.Lg2 d5 4.Sf3 Le7 5.0-0 0-0 6.d4 dxc4 7.Dc2 a6 8.a4 Ld7 9.Dxc4 Lc6 10.Lf4 Sbd7 11.Sc3 Sb6 12.Db3 a5 13.Tfd1 Ta6 14.Dc2 Sbd5 15.Ld2 Sxc3 16.bxc3 Le4 17.Da2 c5 18.Lg5 Sd5 19.Lxe7 Dxe7 20.Da3 Tc8 21.Se5 Lxg2 22.Kxg2 cxd4 23.Dxe7 Sxe7 24.cxd4 f6 25.Sd3 Td6 26.e3 Kf7 27.Kf3 b6 28.Tdc1 Tdc6 29.Ke2 Sd5 30.Kd2 Ke7 31.e4 Txc1 32.Txc1 Txc1 33.Sxc1 Sc7 34.Sb3 b5 35.axb5 Sxb5 36.Sxa5 Sxd4 37.Ke3 e5 38.f4 ½-½
+
+Petrosian,Tigran V (2615) - Ivkov,Borislav (2530) [D55]
+Vrbas Vrbas, 1980
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 Le7 5.Lg5 h6 6.Lxf6 Lxf6 7.e3 0-0 8.Dd2 b6 9.cxd5 exd5 10.Td1 Lb7 11.g3 De7 12.Lg2 Td8 13.Sg1 Sa6 14.Sge2 c5 15.0-0 Sc7 16.Tfe1 c4 17.b3 b5 18.bxc4 bxc4 19.Tb1 Lc6 20.Db2 Df8 21.Dc2 Tab8 22.h4 Dd6 23.Sf4 Tb6 24.Txb6 axb6 25.a4 g5 26.hxg5 Lxg5 27.Sfe2 Dg6 28.Db1 Tb8 29.Lf3 Dxb1 30.Txb1 Kf8 31.Lg2 Ke7 32.f4 Lf6 33.Kf2 Kd6 34.Lf3 Lg7 35.g4 Lf8 36.Sg3 Ke6 37.f5+ Kd7 38.Sge2 Kd6 39.Sc1 Le7 40.S1a2 Kd7 41.Sb4 Lxb4 42.Txb4 Kd6 43.e4 dxe4 44.Sxe4+ Lxe4 45.Lxe4 c3 46.Ke3 b5 47.Kd3 Tc8 48.Lb7 ½-½
+
+Petrosian,Tigran V (2615) - Jansa,Vlastimil [A48]
+Bar Bar, 1980
+
+1.d4 Sf6 2.Sf3 g6 3.Lg5 Lg7 4.c3 0-0 5.Sbd2 d6 6.e4 Sbd7 7.Lc4 e5 8.dxe5 dxe5 9.0-0 h6 10.Lh4 De8 11.Te1 Sh5 12.a4 Lf6 13.a5 De7 14.Lxf6 Dxf6 15.Lf1 Td8 16.De2 Sf4 17.De3 g5 18.Ted1 Te8 19.g3 Sg6 20.h3 Sdf8 21.Sh2 h5 22.Le2 h4 23.Lg4 Kg7 24.Sdf1 Sh7 25.Td3 Le6 26.Lxe6 Dxe6 27.Sg4 Sf6 28.Dxg5 Sxe4 29.Dh6+ Kg8 30.Tad1 Sf6 31.Sfe3 Sxg4 32.Sxg4 hxg3 33.Txg3 Tad8 34.Te1 Df5 35.h4 Te6 36.h5 Df4 37.hxg6 1-0
+
+Petrosian,Tigran V (2615) - Karpov,Anatoly (2725) [E19]
+Rostov on Don tt Rostov on Don, 1980
+
+1.Sf3 Sf6 2.g3 b6 3.Lg2 Lb7 4.0-0 e6 5.c4 Le7 6.d4 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 c5 10.Td1 d6 11.b3 Lf6 12.Lb2 De7 13.Dc2 Sc6 14.e4 g6 15.e5 dxe5 16.dxe5 Lg7 17.De2 Tad8 18.h4 Txd1+ 19.Txd1 Td8 ½-½
+
+Petrosian,Tigran V (2615) - Kortschnoj,Viktor (2695) [E12]
+Candidates qf4 Velden (6), 1980
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 La6 5.Dc2 d5 6.cxd5 exd5 7.Sc3 c6 8.g3 Ld6 9.Lg2 0-0 10.0-0 Te8 11.Te1 Sbd7 12.Lg5 h6 13.Lxf6 Sxf6 14.e4 dxe4 15.Sxe4 Txe4 16.Txe4 Sxe4 17.Dxe4 Tc8 18.Se5 Lxe5 19.dxe5 Dd3 20.Dxd3 Lxd3 21.Lh3 Te8 22.f4 c5 23.Td1 c4 24.Lf1 Lxf1 25.Kxf1 g5 26.Kf2 gxf4 27.gxf4 f6 28.Td5 fxe5 29.fxe5 Tc8 30.Ke3 c3 31.bxc3 Txc3+ 32.Kd4 Txa3 33.Td7 a5 34.Tb7 a4 35.Txb6 Th3 36.Ta6 Kf7 37.Kd5 Td3+ 38.Ke4 Th3 ½-½
+
+Petrosian,Tigran V (2615) - Kortschnoj,Viktor (2695) [E12]
+Candidates qf4 Velden (8), 1980
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 exd5 7.g3 Ld6 8.Lg2 0-0 9.0-0 Te8 10.Lg5 Sbd7 11.Sb5 La6 12.Sxd6 cxd6 13.Te1 h6 14.Lxf6 Sxf6 15.Sd2 Dd7 16.e3 Tac8 17.Sb1 Df5 18.Sc3 Se4 19.Sxe4 dxe4 20.Dd2 ½-½
+
+Petrosian,Tigran V (2615) - Kortschnoj,Viktor (2695) [E46]
+Candidates qf4 Velden (2), 1980
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sge2 d5 6.a3 Le7 7.cxd5 Sxd5 8.Dc2 Sd7 9.Ld2 c5 10.Sxd5 exd5 11.Sf4 cxd4 12.Sxd5 dxe3 13.Sxe3 Sf6 14.Ld3 Le6 15.0-0 Ld6 16.Lc3 Dc7 ½-½
+
+Petrosian,Tigran V (2615) - Kortschnoj,Viktor (2695) [E49]
+Candidates qf4 Velden (4), 1980
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.Sge2 d5 7.0-0 dxc4 8.Lxc4 Sc6 9.a3 Lxc3 10.bxc3 Dc7 11.Lb2 Td8 12.La2 b6 13.Te1 Lb7 14.Sg3 Td7 15.De2 Tad8 16.Tad1 h6 17.h3 Dc8 18.Lc4 Sa5 19.Ld3 Sc6 20.f3 Db8 21.Df2 e5 22.Sf5 exd4 23.cxd4 cxd4 24.Sxd4 Se5 25.Lf5 Td6 26.a4 Sc4 27.La1 a6 28.Tb1 Sd5 29.Ld3 Se5 30.Lf1 Se7 31.Tec1 Tg6 32.Kh1 Da8 33.e4 Sd7 34.Tc2 a5 35.Tc7 Db8 36.Tbc1 Tc8 37.Txc8+ Lxc8 38.Dh4 Tg5 39.Td1 Sc5 40.Lb5 Sg6 41.Df2 Sf4 42.Sc6 Dc7 43.Dd2 Kh7 44.Le5 Txe5 45.Dxf4 Te7 ½-½
+
+Petrosian,Tigran V (2615) - Lutovac,Maksim (2215) [D06]
+Bar Bar, 1980
+
+1.d4 d5 2.c4 Lf5 3.Sc3 e6 4.Sf3 Sc6 5.Lf4 Sf6 6.e3 Sb4 7.Tc1 dxc4 8.Lxc4 c6 9.0-0 Sbd5 10.Le5 Le7 11.h3 0-0 12.Lb3 Lg6 13.De2 Ld6 14.Sa4 Se4 15.Lxd6 Sxd6 16.Se5 Dg5 17.Tfe1 Lh5 18.Df1 f6 19.Sd3 Lg6 20.Sac5 Tae8 21.Kh2 f5 22.f4 De7 23.Se5 Td8 24.Df3 Le8 25.Te2 b6 26.Scd3 Tc8 27.Tec2 Ld7 28.Sxc6 1-0
+
+Petrosian,Tigran V (2615) - Miles,Anthony J (2220) [E21]
+Las Palmas Las Palmas, 1980
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 b6 4.d4 Lb4 5.Ld2 Lb7 6.e3 0-0 7.Le2 Lxc3 8.Lxc3 Se4 9.Tc1 d6 10.0-0 Sxc3 11.Txc3 Sd7 12.Sd2 c5 13.Lf3 Lxf3 14.Dxf3 Sf6 15.Se4 Sxe4 16.Dxe4 d5 17.Df4 cxd4 18.Dxd4 dxc4 ½-½
+
+Petrosian,Tigran V (2615) - Minic,Dragoljub (2405) [A55]
+Bar Bar, 1980
+
+1.d4 Sf6 2.c4 d6 3.Sc3 Sbd7 4.e4 e5 5.Sf3 c6 6.Le2 Le7 7.0-0 0-0 8.Te1 a6 9.Lf1 Te8 10.b3 b5 11.Lb2 Lf8 12.d5 cxd5 13.cxd5 g6 14.Sd2 Sb6 15.a3 Sfd7 16.b4 f5 17.a4 bxa4 18.Sxa4 Lh6 19.exf5 gxf5 20.Sxb6 Sxb6 21.Sc4 Sxc4 22.Lxc4 Dh4 23.De2 Lb7 24.g3 Dh3 25.Dd1 f4 26.Lf1 Df5 27.Lg2 fxg3 28.hxg3 Tf8 29.De2 Tac8 30.Le4 Df7 31.Tad1 Tc7 32.Td3 Lc8 33.Tf3 De8 34.Txf8+ Dxf8 35.Dd3 Tf7 36.Lc1 Lxc1 37.Txc1 Ld7 38.De3 Lb5 39.Kg2 Dd8 40.Th1 Df6 41.Th6 Dd8 42.Kg1 Kh8 43.Dc1 Le8 44.Dc2 Tc7 45.Txh7+ Txh7 46.Lxh7 a5 47.bxa5 Dxa5 48.Le4 Lf7 49.Dd1 Kg7 50.Kg2 Db4 51.Dg4+ Kf8 52.Kh3 Dd2 53.Df5 Ke7 54.Df3 Dh6+ 55.Kg2 Dd2 56.g4 Dg5 57.Kg3 Dc1 58.De3 Dg1+ 59.Kh4 Da1 60.Kg5 Da8 61.Db6 Dg8+ 62.Kh4 Dh8+ 63.Kg3 Dc8 64.Da7+ Kf8 65.Da3 Ke7 66.g5 Lh5 67.f3 Dd8 68.Da7+ Kf8 69.Kh4 Lf7 70.Db7 Da5 71.Db8+ Ke7 72.Db7+ Kf8 73.Dc8+ Kg7 74.Dc1 Lxd5 75.Lxd5 Dxd5 76.Dc7+ Kg6 77.Dc2+ Kg7 78.Df5 Df7 ½-½
+
+Petrosian,Tigran V (2615) - Popovic,Petar (2490) [A16]
+Vrbas Vrbas, 1980
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 g6 5.Lg2 Sxc3 6.bxc3 Lg7 7.La3 Sd7 8.Sf3 Sb6 9.0-0 0-0 10.Dc2 Te8 11.d3 Ld7 12.Tab1 La4 13.Dc1 Lc6 14.c4 Sd7 15.c5 Sf8 16.Td1 e5 17.Sd2 Lxg2 18.Kxg2 Dd5+ 19.Kg1 Dxa2 20.Txb7 Se6 21.Db2 Dd5 22.Se4 a6 23.Tb1 Dc6 24.Da2 h6 25.Dc4 Kh8 26.Sc3 Ted8 27.De4 De8 28.Sd5 Tac8 29.Dc4 Sd4 30.Sxc7 Dc6 31.T1b6 Sxe2+ 32.Kf1 Sxg3+ 33.hxg3 Dh1+ 34.Ke2 Td4 35.Dxf7 e4 36.Dxg7+ Kxg7 37.Se6+ Kg8 38.Sxd4 exd3+ 39.Kxd3 Td8 40.Lb2 Dd1+ 41.Kc4 Df1+ 42.Kc3 De1+ 43.Kb3 Dd1+ 44.Sc2 Kf8 45.Lg7+ Kg8 46.Lf6 Td7 47.c6 1-0
+
+Petrosian,Tigran V (2615) - Sax,Gyula (2570) [A26]
+Vrbas Vrbas, 1980
+
+1.Sf3 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sc3 d6 6.d3 e5 7.0-0 Sc6 8.Tb1 a5 9.a3 Sd4 10.Se1 c6 11.b3 Le6 12.e3 Sf5 13.Sf3 h6 14.e4 Se7 15.d4 Dc7 16.h3 a4 17.Te1 axb3 18.Dxb3 exd4 19.Sxd4 Lc8 20.Td1 Sd7 21.Dc2 ½-½
+
+Petrosian,Tigran V (2615) - Smyslov,Vassily (2550) [D19]
+Bar Bar, 1980
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.Sc3 dxc4 5.a4 Lf5 6.e3 e6 7.Lxc4 Lb4 8.0-0 Sbd7 9.De2 Lg6 10.e4 0-0 11.Ld3 Lh5 12.e5 Sd5 13.Sxd5 cxd5 14.De3 Lg6 15.Lxg6 fxg6 16.Sg5 Te8 17.Dh3 Sf8 18.Db3 ½-½
+
+Petrosian,Tigran V (2615) - Sosonko,Gennadi (2545) [D02]
+Las Palmas Las Palmas, 1980
+
+1.Sf3 c5 2.g3 d5 3.Lg2 Sc6 4.d4 Sf6 5.0-0 Lg4 6.dxc5 e5 7.c4 Lxc5 8.cxd5 Dxd5 9.Sc3 Dxd1 10.Txd1 h6 11.Sa4 Le7 12.Le3 e4 13.Sd4 Sxd4 14.Txd4 Lxe2 15.Sc3 Lf3 16.Sxe4 Lxg2 17.Kxg2 0-0 18.Tad1 a6 19.Sd6 Tfd8 20.Sf5 Kf8 21.Sxe7 Txd4 22.Lxd4 Kxe7 23.Lc5+ Ke6 24.Td6+ Kf5 25.Ld4 Tc8 26.Lxf6 gxf6 27.Tb6 Tc7 28.Kh3 Kg5 29.f4+ Kf5 30.Kh4 Kg6 31.Kg4 Td7 32.f5+ Kg7 33.h4 Td4+ 34.Kf3 Td3+ 35.Kf4 Td4+ 36.Ke3 Td5 37.Ke4 Te5+ 38.Kf4 Te7 39.h5 Tc7 40.Ke3 Tc5 41.g4 Te5+ 42.Kd4 Te2 43.Txb7 Tg2 44.Kc5 Txg4 45.b4 Tg5 46.a4 Txf5+ 47.Kb6 Te5 48.Kxa6 f5 49.b5 f4 50.Tc7 1-0
+
+Petrosian,Tigran V (2615) - Tseshkovsky,Vitaly (2595) [A26]
+Rostov on Don tt Rostov on Don, 1980
+
+1.Sf3 Sf6 2.g3 g6 3.Lg2 Lg7 4.0-0 0-0 5.c4 d6 6.Sc3 Sc6 7.d3 e5 8.Tb1 a5 9.a3 Sd4 10.b4 axb4 11.axb4 Se6 12.Lb2 Te8 13.Ta1 Tb8 14.Te1 Ld7 15.b5 c6 16.La3 Lf8 17.Sd2 d5 18.Lxf8 Kxf8 19.bxc6 Lxc6 20.Tb1 Kg7 21.cxd5 Sxd5 22.Dc1 Sxc3 23.Dxc3 Lxg2 24.Kxg2 Dd5+ 25.Sf3 Sd4 26.e4 Dc6 27.Dxc6 Sxc6 28.Tb6 Te7 29.Teb1 Td8 30.Txb7 Txb7 ½-½
+
+Petrosian,Tigran V (2615) - Velimirovic,Dragoljub (2515) [E92]
+Vrbas Vrbas, 1980
+
+1.d4 Sf6 2.c4 c5 3.d5 g6 4.Sc3 Lg7 5.e4 0-0 6.Sf3 d6 7.Le2 e5 8.Lg5 h6 9.Lh4 Dd7 10.Sd2 Se8 11.Da4 Lf6 12.Dxd7 Sxd7 13.Lxf6 Sdxf6 14.Tb1 Sd7 15.f3 f5 16.exf5 gxf5 17.g3 Sdf6 18.0-0 h5 19.f4 e4 20.Sd1 Ld7 21.Se3 b6 22.a3 h4 23.gxh4 Kf7 24.Tfc1 Th8 25.Sg2 Sg7 26.Sf1 Tag8 27.Tc3 Sgh5 28.Sg3 Tg6 29.Sxh5 Sxh5 30.Lxh5 Txh5 31.Tg3 Th8 32.b4 Tc8 33.b5 Txg3 34.hxg3 Ta8 35.Se3 a6 36.bxa6 Txa6 37.Kf2 Txa3 38.Txb6 Ta2+ 39.Ke1 Ta1+ 40.Kd2 Ta2+ 41.Kc1 Ta3 42.Txd6 Txe3 43.Txd7+ 1-0
+
+Petrosian,Tigran V (2610) - Knezevic,Milorad (2500) [A88]
+Banja Luka Banja Luka (15), 25.04.1979
+
+1.c4 f5 2.d4 Sf6 3.g3 g6 4.Lg2 Lg7 5.Sc3 d6 6.Sf3 0-0 7.d5 c6 8.0-0 e5 9.dxe6 Lxe6 10.b3 Sa6 11.Sg5 Lc8 12.Tb1 De7 13.Dc2 h6 14.Sf3 Sc5 15.La3 Le6 16.Tbd1 Tad8 17.e3 Lf7 18.Se2 De4 19.Dc1 De7 20.Lb2 Tc8 21.Da1 a5 22.Ld4 a4 23.Db2 axb3 24.axb3 Sce4 25.Sd2 Sc5 26.Ta1 Ta8 27.Txa8 Txa8 28.Ta1 Txa1+ 29.Dxa1 Kh7 30.h3 Le8 31.b4 Se6 32.Lc3 Sg5 33.Sc1 Sf7 34.Scb3 Se5 35.c5 Sed7 36.cxd6 Dxd6 37.Sc4 De7 38.e4 f4 39.g4 Lf7 ½-½
+
+Petrosian,Tigran V (2610) - Smejkal,Jan (2550) [A30]
+Banja Luka Banja Luka (13), 23.04.1979
+
+1.c4 c5 2.Sf3 Sf6 3.Sc3 e6 4.g3 b6 5.Lg2 Lb7 6.0-0 Le7 7.d4 cxd4 8.Dxd4 d6 9.b3 0-0 10.Td1 Sc6 11.Df4 Db8 12.Lb2 a6 13.Se4 Sxe4 14.Dxe4 Se5 15.De3 Sxf3+ 16.Lxf3 b5 17.c5 Lxf3 18.cxd6 Lxd6 19.exf3 Td8 20.Td4 Lf8 21.Tc1 Txd4 22.Lxd4 Db7 23.De4 Dxe4 24.fxe4 f6 25.Tc6 e5 26.Lb6 a5 27.Lc5 a4 28.Lxf8 Kxf8 29.Tb6 Td8 30.Txb5 Td4 31.Tb7 Txe4 32.Kf1 axb3 33.axb3 h5 34.h4 Kg8 35.b4 Kh7 ½-½
+
+Petrosian,Tigran V (2610) - Hernandez Onna,Roman (2500) [A79]
+Banja Luka Banja Luka (11), 21.04.1979
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 d6 6.Sf3 g6 7.e4 Lg7 8.Le2 0-0 9.0-0 Te8 10.Sd2 Sa6 11.f3 Sc7 12.a4 b6 13.Kh1 La6 14.Lxa6 Sxa6 15.Sc4 Sc7 16.Lf4 Lf8 17.Lg5 h6 18.Lh4 g5 19.Lf2 Dd7 20.Se3 a6 21.Se2 b5 22.a5 Tec8 23.Sg3 Sce8 24.Le1 Sg7 25.Lc3 Sgh5 26.Sgf5 Te8 27.b3 Dd8 28.Ta2 Kh7 29.Db1 Sf4 30.Da1 Sd7 31.Sg4 Sg6 32.Lg7 Sge5 33.Lxf8 Sxf8 34.Sfxh6 Sfg6 35.Sxe5 Sxe5 36.Sf5 Tg8 37.g3 Tg6 38.f4 gxf4 39.gxf4 Sg4 40.Tg2 Sf6 41.De1 Txg2 42.Dh4+ 1-0
+
+Petrosian,Tigran V (2610) - Sibarevic,Milenko (2355) [B13]
+Banja Luka Banja Luka (9), 19.04.1979
+
+1.c4 c5 2.Sc3 Sc6 3.e3 Sf6 4.d4 cxd4 5.exd4 d5 6.Lf4 e6 7.Sf3 Le7 8.c5 Se4 9.Tc1 0-0 10.Lb5 Ld7 11.0-0 Da5 12.Ld3 f5 13.Se5 Sxe5 14.Lxe5 Lf6 15.Lxf6 Txf6 16.De1 Dc7 17.f3 Th6 18.g3 Sg5 19.De5 Dd8 20.Kg2 Sf7 21.De3 e5 22.f4 e4 23.Le2 Le6 24.b4 Sh8 25.a4 Sg6 26.a5 a6 27.Sa4 Se7 28.Sb6 Tb8 29.b5 axb5 30.Lxb5 Lf7 31.Ta1 Lh5 32.Kg1 Le8 33.Le2 Tg6 34.Tfb1 Tc6 35.Tb4 Tc7 36.Tb2 Lf7 37.Tba2 Sc6 38.Lb5 Sa7 39.La4 De7 40.Lb3 Td8 41.a6 bxa6 42.Txa6 h6 43.Ld1 Kh7 44.Le2 Tb8 45.Lf1 Td8 ½-½
+
+Petrosian,Tigran V (2610) - Kurajica,Bojan (2515) [E44]
+Banja Luka Banja Luka (6), 16.04.1979
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 Se4 6.Ld2 Sxd2 7.Dxd2 0-0 8.a3 Lxc3 9.Sxc3 f5 10.Ld3 d6 11.0-0 Sd7 12.f4 Sf6 13.d5 Te8 14.Tae1 Ld7 15.Dc2 c6 16.dxe6 Lxe6 17.e4 fxe4 18.Sxe4 Kh8 19.Sg5 Lg8 20.h3 Dc7 21.Lf5 Txe1 22.Txe1 d5 23.cxd5 Lxd5 24.Te5 Lg8 25.Le6 Lxe6 26.Sxe6 Dd6 27.Sg5 Dd4+ 28.Df2 Dxf2+ 29.Kxf2 h6 30.Sf3 Td8 31.g4 Kg8 32.Te6 c5 33.Se5 Td2+ 34.Kg3 Txb2 35.g5 Tb3+ 36.Kh4 hxg5+ 37.fxg5 Te3 38.gxf6 gxf6 39.Te8+ Kg7 40.Te7+ Kg8 41.Te8+ Kg7 42.Te7+ Kg8 43.Sg6 Txe7 44.Sxe7+ Kf8 45.Sc6 c4 46.a4 Kf7 47.Kg4 c3 48.Sb4 Kg6 49.h4 f5+ 50.Kf4 a6 51.Ke5 Kh5 52.Kxf5 Kxh4 53.Ke4 1-0
+
+Petrosian,Tigran V (2610) - Matanovic,Aleksandar (2495) [E12]
+Banja Luka Banja Luka (4), 14.04.1979
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 exd5 7.Lf4 Ld6 8.Lg3 Se4 9.e3 Sd7 10.Lb5 a6 11.La4 0-0 12.Lxd6 cxd6 13.Se2 b5 14.Lc2 Da5+ 15.b4 Dd8 16.0-0 Sb6 17.Lb3 Tc8 18.Tc1 Sc4 19.Lxc4 dxc4 20.d5 Df6 21.Dd4 Dxd4 22.Sfxd4 Lxd5 23.Tfd1 Sf6 24.Sf5 Tc7 25.Sc3 Le4 26.Sxe4 ½-½
+
+Petrosian,Tigran V (2610) - Vukic,Milan (2485) [E61]
+Banja Luka Banja Luka (2), 12.04.1979
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.Lf4 d6 5.e3 0-0 6.Sf3 c6 7.h3 a6 8.a4 a5 9.Ld3 Sa6 10.Tc1 Sb4 11.Lb1 b6 12.0-0 La6 13.Sa2 Sxa2 14.Lxa2 Sd7 15.Lg5 Te8 16.Dd2 Dc7 17.Tfd1 Ta7 18.Lh4 h6 19.Dc2 c5 20.d5 e5 21.dxe6 Txe6 22.Td2 Lb7 23.Dd1 Sf6 24.Lxf6 Lxf6 25.Lb1 Lc6 26.Ld3 Dd7 27.b3 De7 28.Le2 Td7 29.Se1 Lg5 30.Lf3 Lxf3 31.Sxf3 Lf6 32.Td3 Lg7 33.Tc2 Td8 34.Tcd2 Kf8 35.Kf1 Df6 36.Se1 Ke7 37.Td5 Txe3 38.Sf3 Te6 39.g3 Kf8 40.Kg2 De7 41.h4 h5 42.Kf1 Lh6 43.Te2 Txe2 44.Dxe2 Dxe2+ 45.Kxe2 Ke7 46.Se1 Kd7 47.Sc2 Te8+ 48.Kf1 f5 49.Sa3 f4 50.Sb5 Te6 51.Td3 fxg3 52.fxg3 Lg7 53.Kf2 Le5 54.Kg2 Te7 55.Te3 Tg7 56.Kh3 g5 57.hxg5 Txg5 58.Td3 Tg7 59.Te3 Tg4 60.Td3 Te4 61.Tf3 Te2 62.Kh4 Th2+ 63.Kg5 Th3 64.Kg6 Lxg3 65.Kf7 h4 66.Te3 Th2 67.Te7+ ½-½
+
+Petrosian,Tigran V (2610) - Bronstein,David I (2555) [E48]
+Keres Memorial Tallinn (2), 1979
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.Sge2 d5 7.0-0 cxd4 8.exd4 dxc4 9.Lxc4 Sbd7 10.Dd3 a6 11.a4 b6 12.Lg5 Lb7 13.Tac1 Le7 14.Tfd1 Te8 15.h3 h6 16.Le3 Lb4 17.Sf4 Lxc3 18.Dxc3 Se4 19.Db3 Df6 20.Le2 Sd6 21.Tc7 Dd8 22.Tdc1 Tb8 23.Lg4 Sf6 24.Sxe6 fxe6 25.Lxe6+ Kh8 26.Lf4 Te7 27.T7c2 Le4 28.Tc3 b5 29.a5 Ta8 30.Tc5 De8 31.d5 Sc4 32.f3 Lxd5 33.Lxd5 Sxd5 34.Txd5 Te2 35.Dd3 Txb2 36.Lxh6 gxh6 37.Txc4 De1+ 38.Kh2 Df2 39.Dc3+ Kg8 40.Tg4+ 1-0
+
+Petrosian,Tigran V (2610) - Bronstein,Luis Marcos (2420) [D97]
+Rio de Janeiro Interzonal Rio de Janeiro (14), 1979
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Db3 dxc4 6.Dxc4 0-0 7.e4 c6 8.Le2 b5 9.Db3 Da5 10.Ld2 b4 11.Sa4 Sxe4 12.Lxb4 Dc7 13.0-0 Sa6 14.Lxa6 Lxa6 15.Tfe1 Sd6 16.Tac1 Tab8 17.Dc3 Sf5 18.Sc5 Lc8 19.b3 Dd8 20.Tcd1 Dd5 21.Sa4 Lf6 22.Lc5 Ta8 23.Dc1 h5 24.Se5 Sh4 25.f3 Sf5 26.Sc3 Dd8 27.Sxc6 Dc7 28.Sxe7+ 1-0
+
+Petrosian,Tigran V (2610) - Garcia Gonzales,Guillermo (2490) [E91]
+Rio de Janeiro Interzonal Rio de Janeiro (5), 1979
+
+1.d4 Sf6 2.c4 c5 3.d5 d6 4.Sc3 g6 5.e4 Lg7 6.Sf3 0-0 7.Le2 e6 8.0-0 Te8 9.Sd2 Sa6 10.dxe6 Lxe6 11.Sb3 Db6 12.Lg5 Dc6 13.Sd2 Sd7 14.f4 Lxc3 15.bxc3 f6 16.Lh4 Lf7 17.Lg4 Tad8 18.Df3 Sab8 19.a4 a5 20.Dd3 Kg7 21.Tfb1 b6 22.Lf3 Dc7 23.Sf1 Sc6 24.Se3 Se7 25.Td1 Sf8 26.Lg3 Da7 27.Td2 Se6 28.Tad1 g5 29.fxg5 Sxg5 30.Df1 Lg6 31.e5 Sg8 32.Lc6 Se4 33.Lxe4 Lxe4 34.exf6+ Sxf6 35.Lh4 Tf8 36.Tf2 De7 37.Te1 De5 38.Tf4 Sh5 39.Tg4+ Lg6 40.Sf5+ Txf5 41.Dd3 Sf4 42.Txe5 Sxd3 43.Txf5 Tf8 44.Txf8 Kxf8 45.Ld8 Sb2 46.Lxb6 Sxa4 47.Lxa5 Ke7 48.h4 Sb2 49.h5 Lxh5 50.Tg7+ Lf7 51.Ld8+ Ke6 52.Txh7 Sxc4 53.Th6+ Kd7 54.Lh4 Se3 55.Lg3 Sf5 56.Th3 Ke6 57.Lf4 Se7 58.Kf2 Sd5 59.Lh2 Lg6 60.Ke2 c4 61.Kd2 Le4 62.Th6+ Kf5 63.Th5+ Kg4 64.Th8 Lxg2 65.Tg8+ Kf3 66.Lxd6 Lf1 67.Tf8+ Kg2 68.Tf5 Sb6 1-0
+
+Petrosian,Tigran V (2610) - Gheorghiu,Florin (2540) [A43]
+Clarin Buenos Aires (12), 1979
+
+1.d4 Sf6 2.Sf3 c5 3.d5 g6 4.d6 Se4 5.dxe7 Dxe7 6.Sfd2 Sf6 7.Sb3 b6 8.Sc3 Lb7 9.Lf4 a6 10.e3 De6 11.Dd2 d5 12.0-0-0 Sbd7 13.Le2 Td8 ½-½
+
+Petrosian,Tigran V (2610) - Harandi,Khosro (2410) [E12]
+Rio de Janeiro Interzonal Rio de Janeiro (7), 1979
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 exd5 7.Lf4 Ld6 8.Lg3 0-0 9.e3 Se4 10.Db3 c6 11.Ld3 Te8 12.Lxe4 dxe4 13.Se5 Lxe5 14.dxe5 Sd7 15.Sxe4 Sxe5 16.Td1 Dc7 17.Sd6 La6 18.Sxe8 Txe8 19.f3 Dc8 20.Lxe5 Txe5 21.Kf2 h6 22.Td2 c5 23.Thd1 Te8 24.Td7 c4 25.Db4 1-0
+
+Petrosian,Tigran V (2610) - Huebner,Robert (2595) [D54]
+Rio de Janeiro Interzonal Rio de Janeiro (18), 1979
+
+1.d4 d5 2.c4 e6 3.Sc3 Sf6 4.Lg5 Le7 5.e3 0-0 6.Tc1 h6 7.Lh4 b6 8.Lxf6 Lxf6 9.cxd5 exd5 10.Df3 Lb7 11.Lc4 c6 12.Lb3 Sa6 13.Sge2 Sc7 14.0-0 Se6 15.Tfd1 Te8 16.Sf4 Sxf4 17.Dxf4 Tc8 18.Tc2 Lg5 19.Df3 Te7 20.h3 Td7 21.Tcd2 g6 22.a3 Kg7 23.La4 a5 24.g3 h5 25.h4 Lf6 ½-½
+
+Petrosian,Tigran V (2610) - Ivkov,Borislav (2525) [A32]
+Clarin Buenos Aires (3), 1979
+
+1.d4 Sf6 2.c4 c5 3.Sf3 cxd4 4.Sxd4 e6 5.e3 Sc6 6.Le2 Lb4+ 7.Ld2 Lxd2+ 8.Dxd2 Se4 9.Dc2 Da5+ 10.Sd2 Sxd2 11.Dxd2 Dxd2+ 12.Kxd2 Ke7 13.Thd1 Td8 14.Kc3 Sxd4 15.Txd4 b6 16.Lf3 Tb8 17.b3 Lb7 18.Lxb7 Txb7 19.Tad1 Tc8 20.Kb4 Tc5 21.T1d2 Tbc7 22.h4 h5 ½-½
+
+Petrosian,Tigran V (2610) - Ivkov,Borislav (2525) [C89]
+YUG-URS Teslic, 1979
+
+1.e4 e5 2.Sf3 Sc6 3.Lb5 a6 4.La4 Sf6 5.0-0 Le7 6.Te1 b5 7.Lb3 0-0 8.c3 d5 9.d3 dxe4 10.dxe4 Dxd1 11.Lxd1 Lb7 12.Sbd2 Tfd8 13.Lc2 Sd7 14.Sf1 Sc5 15.Se3 Sd3 16.Lxd3 Txd3 17.Sd5 Ld6 18.Tf1 f5 19.Se1 fxe4 20.Se3 Td8 21.Sxd3 exd3 22.Sf5 e4 23.Sxd6 Txd6 24.Lf4 Td7 25.f3 exf3 26.Txf3 Se7 27.Te3 Sg6 28.Lg3 c5 29.Tf1 h5 30.h4 c4 ½-½
+
+Petrosian,Tigran V (2610) - Ivkov,Borislav (2525) [D30]
+YUG-URS Teslic, 1979
+
+1.d4 d5 2.c4 c6 3.Sf3 Sf6 4.e3 e6 5.Ld3 Sbd7 6.Sbd2 c5 7.b3 g6 8.0-0 Lg7 9.La3 b6 10.cxd5 Sxd5 11.Se4 0-0 12.Tc1 f5 13.Sd6 De7 14.Sxc8 Taxc8 15.Te1 Kh8 16.e4 fxe4 17.Lxe4 Sf4 18.Tc2 Df6 19.dxc5 Sxc5 20.Lxc5 bxc5 21.Tc4 Db2 22.Dc2 Dxc2 23.Lxc2 Ld4 24.Kf1 e5 25.Le4 Kg7 26.Tc2 Tcd8 27.g3 Sd5 28.Lxd5 Txd5 29.Kg2 Kf6 30.Sd2 Tb8 31.Sc4 Tb4 32.Td2 Tb7 33.Se3 Tdd7 34.Sg4+ Kf5 35.Txd4 1-0
+
+Petrosian,Tigran V (2610) - Karpov,Anatoly (2705) [E19]
+URS Spartakiad Moscow, 1979
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 c5 10.Td1 d6 11.b3 Lf6 12.Lb2 Dc7 13.Dc2 Sd7 14.Td2 Tfd8 15.Tad1 ½-½
+
+Petrosian,Tigran V (2610) - Lombardy,William James (2520) [E41]
+Clarin Buenos Aires (10), 1979
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.Sf3 Lxc3+ 7.bxc3 d6 8.e4 e5 9.d5 Se7 10.Sd2 Da5 11.Dc2 Ld7 12.Sf1 h6 13.Se3 Sg4 14.Sf1 Sf6 15.h3 La4 16.Dd2 Tb8 17.Se3 Sh5 18.g3 Ld7 19.a4 Sf6 20.Ta3 Sg6 21.Kf1 h5 22.Kg2 Kf8 23.Sf5 Lxf5 24.exf5 Se7 25.Dc2 Dc7 26.Lg5 Sd7 27.a5 f6 28.Le3 Kf7 29.h4 b6 30.axb6 Sxb6 31.De2 a5 32.Df3 a4 33.De4 Ta8 34.Tha1 Ta6 35.T3a2 Da7 36.Lc1 Dc7 37.Lc2 Dd7 38.Ld2 Kf8 39.Le1 g6 40.fxg6 Kg7 41.f3 f5 42.De2 Sxg6 43.Ld2 ½-½
+
+Petrosian,Tigran V (2610) - Miles,Anthony J (2560) [A36]
+Clarin Buenos Aires (1), 1979
+
+1.c4 c5 2.g3 Sc6 3.Lg2 g6 4.Sc3 Lg7 5.d3 Sf6 6.Lg5 b6 7.e4 0-0 8.Sge2 Lb7 9.Dd2 a6 10.0-0 Tb8 11.h3 Se8 12.Sd5 La8 13.f4 b5 14.cxb5 Txb5 15.Sec3 Tb8 16.f5 Sf6 17.Tae1 d6 18.b3 Se5 19.fxg6 fxg6 ½-½
+
+Petrosian,Tigran V (2610) - Najdorf,Miguel (2515) [E49]
+Clarin Buenos Aires (7), 1979
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 Lxc3+ 7.bxc3 dxc4 8.Lxc4 c5 9.Lb2 Dc7 10.Ld3 b6 11.De2 Sc6 12.e4 e5 13.d5 Sa5 14.h3 c4 15.Lc2 Sd7 16.Sf3 Sc5 17.0-0 La6 18.Se1 Tfd8 ½-½
+
+Petrosian,Tigran V (2610) - Nei,Iivo (2500) [D30]
+Keres Memorial Tallinn (5), 1979
+
+1.c4 e6 2.d4 d5 3.Sf3 c6 4.e3 Sf6 5.Ld3 Le7 6.0-0 0-0 7.b3 Sbd7 8.Lb2 Se4 9.Sfd2 Sdf6 10.Df3 Sxd2 11.Sxd2 b6 12.e4 g6 13.e5 Sh5 14.De3 Sf4 15.Dxf4 Lg5 16.Dg3 Lxd2 17.f4 f5 18.exf6 Dxf6 19.Tf3 Lb4 20.Df2 Ld6 21.Tf1 Ld7 22.Dc2 Tf7 23.g3 Taf8 24.T3f2 Tg7 25.Kg2 Tgf7 26.Dd2 Tg7 27.De3 Tgf7 28.a4 Tb8 29.Dd2 Tbf8 30.c5 Lc7 31.b4 De7 32.De3 Tb8 33.Lc3 Tbf8 34.b5 g5 35.f5 exf5 36.Dxe7 Txe7 37.Lb4 Tef7 38.cxb6 Lxb6 39.Lxf8 Txf8 40.Lxf5 Lxf5 41.Txf5 1-0
+
+Petrosian,Tigran V (2610) - Portisch,Lajos (2640) [D27]
+Rio de Janeiro Interzonal Rio de Janeiro (12), 1979
+
+1.d4 d5 2.c4 dxc4 3.Sf3 Sf6 4.e3 e6 5.Lxc4 c5 6.0-0 a6 7.a4 Sc6 8.De2 cxd4 9.Td1 Le7 10.exd4 0-0 11.Sc3 Sd5 12.De4 Sf6 13.De2 Sd5 14.Ld3 Scb4 15.Lb1 b6 16.De4 g6 17.Lh6 Te8 18.De5 Lf8 19.Lxf8 Txf8 20.Se4 Sc6 21.Dg3 Sce7 22.Sd6 ½-½
+
+Petrosian,Tigran V (2610) - Rantanen,Yrjo A (2460) [A98]
+Keres Memorial Tallinn (9), 1979
+
+1.d4 e6 2.c4 f5 3.g3 Sf6 4.Lg2 Le7 5.Sf3 0-0 6.0-0 d6 7.Sc3 De8 8.Dc2 Dh5 9.b4 e5 10.dxe5 dxe5 11.Sxe5 Lxb4 12.Sd5 Ld6 13.Sd3 c6 14.Lf4 Lxf4 15.Se7+ Kh8 16.Sxf4 De8 17.Sxf5 Lxf5 18.Dxf5 Sd5 19.Sg6+ 1-0
+
+Petrosian,Tigran V (2610) - Rubinetti,Jorge Alberto (2430) [A30]
+Clarin Buenos Aires (5), 1979
+
+1.c4 c5 2.b3 b6 3.Lb2 Lb7 4.Sf3 e6 5.Sc3 Sf6 6.e3 Le7 7.d4 cxd4 8.exd4 d6 9.Ld3 0-0 10.0-0 Sbd7 11.Sg5 Te8 12.f4 h6 13.Sge4 d5 14.Sg3 g6 15.Kh1 Lf8 16.h3 Tc8 17.Tc1 a6 18.Dd2 h5 19.Sge2 Sb8 20.Sd1 Sc6 21.Se3 Se7 22.c5 Sf5 23.b4 Se4 24.Lxe4 dxe4 25.Sxf5 exf5 26.d5 bxc5 27.bxc5 f6 28.d6 e3 29.Dd4 Te4 30.Dxf6 Dxf6 31.Lxf6 Kf7 32.d7 Kxf6 33.dxc8D Lxc8 34.Tfd1 Te8 35.Td3 a5 36.Tb3 Kf7 37.Tb6 Td8 38.Tb8 Lg7 39.c6 Te8 40.c7 Ke7 41.Td1 1-0
+
+Petrosian,Tigran V (2610) - Rytov,Boris (2400) [B38]
+Keres Memorial Tallinn (13), 1979
+
+1.d4 g6 2.c4 Lg7 3.Sc3 d6 4.Sf3 Sf6 5.e4 0-0 6.Le2 c5 7.0-0 cxd4 8.Sxd4 Sc6 9.Le3 Ld7 10.Sc2 a6 11.f3 Se5 12.b3 Tc8 13.a4 a5 14.De1 Lc6 15.Td1 Sed7 16.Kh1 Dc7 17.Sd4 b6 18.Ld3 Sc5 19.Lc2 Lb7 20.Dh4 Tfe8 21.Lg5 Db8 22.Tfe1 Se6 23.Sxe6 fxe6 24.Dh3 e5 25.Sd5 Lxd5 26.exd5 Tc7 27.f4 Dc8 28.f5 Tf8 29.Tf1 e4 30.Tde1 Sxd5 31.Lxe4 Sf6 32.Ld3 h5 33.Dh4 Dd7 34.fxg6 Dg4 35.Lf5 Dxh4 36.Le6+ Kh8 37.Lxh4 Sg8 38.Lf7 Sf6 39.h3 e5 1-0
+
+Petrosian,Tigran V (2610) - Sax,Gyula (2590) [B08]
+Keres Memorial Tallinn (17), 1979
+
+1.Sf3 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.Le2 0-0 6.0-0 Lg4 7.Le3 Sc6 8.Dd2 e5 9.dxe5 dxe5 10.Tad1 Dc8 11.Dc1 Td8 12.Txd8+ Dxd8 13.Td1 Df8 14.h3 Lxf3 15.Lxf3 a6 16.Sb1 Td8 17.Txd8 Dxd8 18.c3 Dd3 19.Sd2 Lf8 20.Db1 Db5 21.Dc2 Sd8 22.Db3 Dd3 23.Dc4 Dd6 24.De2 De6 25.Dd3 Sc6 26.a3 De7 27.b4 Sd8 28.Sc4 Sd7 29.Lg4 Se6 30.Sa5 b5 31.Sc6 De8 32.c4 Sf6 33.cxb5 axb5 34.Dxb5 Sxe4 35.Dc4 Sd6 36.Dd5 h5 37.Lxe6 fxe6 38.Dc5 Sf5 39.Dc2 Lg7 40.b5 Sd4 41.Dc4 Dd7 42.a4 Sf5 43.De2 1-0
+
+Petrosian,Tigran V (2610) - Shamkovich,Leonid (2495) [A04]
+Rio de Janeiro Interzonal Rio de Janeiro (16), 1979
+
+1.Sf3 c5 2.g3 Sc6 3.Lg2 g6 4.c3 Lg7 5.d4 cxd4 6.cxd4 Db6 7.e3 Sf6 8.0-0 d5 9.Sc3 0-0 10.Se5 e6 11.Sd3 Dd8 12.b3 b6 13.Te1 La6 14.Lb2 Tc8 15.Dd2 De7 16.Tac1 Tfd8 17.Lf1 Se4 18.Dd1 Lb7 19.Se2 De8 20.f3 Sd6 21.Dd2 Se7 22.g4 Txc1 23.Txc1 Tc8 24.Se5 Txc1 25.Dxc1 Dc8 26.Dxc8+ Sexc8 27.Sf4 Lf6 28.Le2 Le7 29.Kf1 f6 30.Sed3 Kf7 31.Ke1 g5 32.Sh5 Lc6 33.Kd1 Sb5 34.a4 Sc7 35.Lc3 a5 36.Le1 Sd6 37.Sg3 h6 38.Lf1 Lb7 39.Lc3 Ke8 40.Sf2 Sf7 41.Ld3 Kf8 ½-½
+
+Petrosian,Tigran V (2610) - Smejkal,Jan (2560) [A34]
+Rio de Janeiro Interzonal Rio de Janeiro (1), 1979
+
+1.Sf3 Sf6 2.c4 c5 3.Sc3 d5 4.cxd5 Sxd5 5.d4 Sxc3 6.bxc3 g6 7.e3 Lg7 8.Lb5+ Ld7 9.a4 Da5 10.Db3 cxd4 11.exd4 0-0 12.0-0 Le6 13.Da3 a6 14.Le2 Sc6 15.Le3 Ld5 ½-½
+
+Petrosian,Tigran V (2610) - Spassky,Boris V (2640) [D37]
+Clarin Buenos Aires (8), 1979
+
+1.c4 e6 2.Sc3 d5 3.d4 Le7 4.Lf4 Sf6 5.e3 0-0 6.Sf3 c5 7.dxc5 Sc6 8.Dc2 Lxc5 9.Td1 Da5 10.a3 Le7 11.Sd2 a6 12.Le2 Ld7 13.0-0 Tac8 14.Lg5 b5 15.cxb5 axb5 16.Lxb5 Sb4 17.Db3 Lxb5 18.axb4 Db6 19.Tfe1 Ld3 ½-½
+
+Petrosian,Tigran V (2610) - Spassky,Boris V (2640) [D55]
+URS Spartakiad Moscow, 1979
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Sc3 Le7 5.Lg5 h6 6.Lxf6 Lxf6 7.e3 0-0 8.Tc1 c6 9.Ld3 Sd7 10.0-0 dxc4 11.Lxc4 e5 12.Se4 exd4 13.Sxf6+ Sxf6 14.Dxd4 Dxd4 15.Sxd4 Te8 16.Tfd1 Ld7 17.Kf1 Kf8 18.Ke2 Te5 19.h3 c5 20.Sb5 ½-½
+
+Petrosian,Tigran V (2610) - Tal,Mihail (2615) [D59]
+Keres Memorial Tallinn (11), 1979
+
+1.d4 Sf6 2.Sf3 e6 3.c4 d5 4.Sc3 Le7 5.Lg5 h6 6.Lh4 0-0 7.e3 b6 8.cxd5 Sxd5 9.Lxe7 Dxe7 10.Sxd5 exd5 11.Dd2 Le6 12.b4 c6 13.Tb1 Sd7 14.Le2 c5 15.bxc5 bxc5 16.dxc5 Sxc5 17.0-0 Se4 18.Da5 Tfc8 19.Tbc1 Txc1 20.Txc1 Df6 21.Ld3 Db2 22.Tc2 Db1+ 23.De1 Dxe1+ 24.Sxe1 Tc8 25.Txc8+ Lxc8 26.Sf3 Ld7 27.Sd4 Kf8 28.Kf1 Ke7 29.Ke1 Kd6 30.f3 Sc5 31.Lb5 Lc8 32.Kd2 a6 33.Le2 Sa4 34.a3 Kc5 35.Sb3+ Kb6 36.f4 Sc5 ½-½
+
+Petrosian,Tigran V (2610) - Vaganian,Rafael A (2570) [D59]
+Rio de Janeiro Interzonal Rio de Janeiro (3), 1979
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lg5 h6 6.Lh4 0-0 7.e3 b6 8.cxd5 Sxd5 9.Lxe7 Dxe7 10.Sxd5 exd5 11.Dd2 a5 12.Tc1 Le6 ½-½
+
+Petrosian,Tigran V (2610) - Vaganian,Rafael A (2570) [D91]
+URS Spartakiad Moscow (2), 1979
+
+1.d4 Sf6 2.c4 g6 3.Sf3 Lg7 4.Sc3 d5 5.Lg5 Se4 6.cxd5 Sxg5 7.Sxg5 e6 8.Sf3 exd5 9.e3 0-0 10.Ld3 Sc6 11.0-0 a5 12.a3 Se7 13.b4 Lg4 14.b5 Dd6 15.Le2 ½-½
+
+Petrosian,Tigran V (2610) - Veingold,Aleksandr (2370) [E66]
+Keres Memorial Tallinn (7), 1979
+
+1.c4 Sf6 2.g3 g6 3.Lg2 Lg7 4.Sc3 0-0 5.d4 d6 6.Sf3 Sc6 7.0-0 a6 8.d5 Sa5 9.Sd2 c5 10.Dc2 Tb8 11.b3 b5 12.Lb2 e5 13.dxe6 fxe6 14.cxb5 axb5 15.Sce4 Lb7 16.Tad1 De7 17.Lxf6 Lxf6 18.Sxf6+ Dxf6 19.Lxb7 Sxb7 20.Dd3 b4 21.Se4 De7 22.h4 Ta8 23.Td2 Tf5 24.Tc2 Td5 25.De3 Sa5 26.Sg5 Sc6 27.Dxe6+ Dxe6 28.Sxe6 Sd4 29.Sxd4 Txd4 30.e3 Td5 31.Ta1 Kf7 32.Kf1 Ke6 33.Ke2 h6 34.g4 g5 35.Th1 Kf6 36.hxg5+ hxg5 37.Th6+ Kg7 38.Th5 Te5 39.f4 gxf4 40.Txe5 dxe5 41.exf4 exf4 42.Kf3 Ta5 43.Kxf4 Kf6 44.Ke4 Kg5 1-0
+
+Petrosian,Tigran V (2610) - Vilela de Acuna,Jose Luis (2480) [A50]
+Keres Memorial Tallinn (15), 1979
+
+1.c4 b6 2.d4 e6 3.Sc3 Lb7 4.a3 Sf6 5.d5 exd5 6.cxd5 Lc5 7.Sf3 0-0 8.Lg5 Sa6 9.e3 Le7 10.Lc4 Sc5 11.Lf4 Te8 12.0-0 Sce4 13.Se2 Sd6 14.La2 c5 15.dxc6 dxc6 16.Dc2 Sd5 17.Tad1 Lf6 18.Lxd6 Dxd6 19.e4 De7 20.Sg3 Sf4 21.e5 Lxe5 22.Tfe1 Dc7 23.Sg5 g6 24.Lxf7+ Kg7 25.Lxe8 Txe8 26.Sf3 c5 27.Sxe5 Txe5 28.Dc3 Kf6 29.Td7 1-0
+
+Petrosian,Tigran V - Balashov,Yuri S [A01]
+URS Soviet Union, 1978
+
+1.c4 e5 2.b3 Sc6 3.Lb2 Sf6 4.e3 d5 5.cxd5 Sxd5 6.a3 Ld6 7.Dc2 0-0 8.Sf3 De7 9.Ld3 Kh8 10.Le4 Sb6 11.Lxc6 bxc6 12.d3 Ld7 13.Sbd2 f5 14.e4 fxe4 15.dxe4 Tf4 16.Dc3 Te8 17.0-0 c5 18.Kh1 Lc6 19.Tae1 Sd7 20.Sg1 Sf6 21.f3 Sh5 22.g4 1-0
+
+Petrosian,Tigran V (2620) - Bisguier,Arthur Bernard (2435) [E44]
+Lone Pine op Lone Pine (3), 1978
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 Se4 6.Ld2 Sxd2 7.Dxd2 La6 8.a3 Lxc3 9.Dxc3 0-0 10.d5 exd5 11.cxd5 c5 12.dxc6 Sxc6 13.Sf4 Lxf1 14.Kxf1 Tc8 15.Td1 Te8 16.h4 Te5 17.Dd2 ½-½
+
+Petrosian,Tigran V (2620) - Bohm,Hans (2410) [A40]
+Lone Pine op Lone Pine (1), 1978
+
+1.d4 e6 2.c4 b6 3.Sc3 Lb4 4.e3 Lb7 5.Sge2 f5 6.a3 Le7 7.d5 e5 8.e4 f4 9.g3 fxg3 10.hxg3 d6 11.Le3 Lg5 12.f4 Lh6 13.Lh3 Lc8 14.Le6 Sd7 15.Da4 Kf8 16.0-0-0 Sc5 17.Lxc5 bxc5 18.Kb1 exf4 19.gxf4 Sf6 20.e5 Sd7 21.Th5 Ke7 22.Dc2 Ke8 23.Tdh1 Sf8 24.Lxc8 Dxc8 25.De4 Kd8 26.e6 Ke8 27.Df5 Sg6 28.Df7+ Kd8 29.Txh6 gxh6 30.f5 1-0
+
+Petrosian,Tigran V (2620) - Browne,Walter S (2550) [E14]
+Buenos Aires ol (Men) Buenos Aires (8), 1978
+
+1.d4 Sf6 2.Sf3 b6 3.e3 Lb7 4.Ld3 e6 5.0-0 Le7 6.b3 0-0 7.Lb2 c5 8.c4 cxd4 9.exd4 d5 10.Sbd2 Sbd7 11.Tc1 Tc8 12.De2 Tc7 13.Sg5 h6 14.Sh3 Te8 15.f4 Da8 16.Sf3 dxc4 17.bxc4 Le4 18.Sd2 Lxd3 19.Dxd3 Lb4 20.Sf3 De4 21.Db3 La5 22.Lc3 Lxc3 23.Txc3 Tec8 24.g3 Sd5 25.Tcc1 Dg6 26.Tfe1 Se7 27.Sf2 Sf5 28.Dd3 Se7 29.Se4 Sd5 30.Df1 Sb4 31.a3 Sc6 32.d5 exd5 33.cxd5 Sa5 34.f5 Dh5 35.Txc7 Txc7 36.Sd6 Sf6 37.h3 Tc3 38.Kg2 Sxd5 39.g4 Sf4+ 40.Kg3 Dxh3+ 41.Dxh3 1-0
+
+Petrosian,Tigran V (2620) - Chiburdanidze,Maia (2340) [E66]
+Vilnius Vilnius (7), 1978
+
+1.d4 Sf6 2.c4 g6 3.g3 Lg7 4.Lg2 0-0 5.Sf3 d6 6.0-0 Sc6 7.Sc3 a6 8.d5 Sa5 9.Sd2 c5 10.Dc2 Tb8 11.b3 b5 12.Lb2 bxc4 13.bxc4 Lh6 14.Scb1 Lg7 15.Sc3 Lh6 16.f4 e5 17.dxe6 fxe6 18.Tab1 Lg7 19.Sce4 Txb2 20.Txb2 Sg4 21.Tbb1 Ld4+ 22.Kh1 Se3 23.Dc1 Lb7 24.Lf3 Sxf1 25.Dxf1 Lxe4 26.Sxe4 De7 27.Sg5 Kh8 28.Dh3 e5 29.Se6 Te8 30.Ld5 exf4 31.Sxf4 Df6 32.Dd7 Dd8 33.Dxd8 Txd8 34.Tb6 Lc3 35.Se6 1-0
+
+Petrosian,Tigran V (2620) - Ciocaltea,Victor (2455) [E69]
+Buenos Aires ol (Men) Buenos Aires (2), 1978
+
+1.d4 g6 2.c4 Lg7 3.Sc3 d6 4.Sf3 Sf6 5.g3 0-0 6.Lg2 Sbd7 7.0-0 e5 8.e4 c6 9.h3 Te8 10.Le3 a5 11.Dc2 a4 12.Tab1 exd4 13.Sxd4 Sc5 14.Tfe1 De7 15.Tbd1 Sfd7 16.Te2 Se5 17.b3 axb3 18.axb3 f6 19.f4 Sf7 20.Lf2 Ld7 21.b4 Sa6 22.Tb1 Sc7 23.Dc1 Df8 24.Td2 De7 25.Dd1 Se6 26.Sde2 Lc8 27.Sa4 Sf8 28.Sb6 Tb8 29.c5 dxc5 30.bxc5 Le6 31.Sd4 Tbd8 32.Dc2 Lh6 33.Tbd1 Lg7 34.Lf1 h5 35.f5 gxf5 36.Sxe6 Txd2 37.Txd2 Dxe6 38.exf5 De7 39.Lc4 Kh7 40.Dd1 Lh6 41.Dxh5 Se5 42.Td4 1-0
+
+Petrosian,Tigran V (2620) - Csom,Istvan (2510) [A47]
+Vilnius Vilnius (3), 1978
+
+1.d4 Sf6 2.Sf3 e6 3.Lf4 b6 4.Sbd2 Lb7 5.e3 Le7 6.h3 0-0 7.c3 c5 8.Ld3 cxd4 9.exd4 d6 10.0-0 Te8 11.Te1 Sbd7 12.Lg3 a6 13.a4 Lf8 14.Dc2 h6 15.b4 Lc6 16.b5 ½-½
+
+Petrosian,Tigran V (2620) - Dorfman,Josif D (2550) [A11]
+Vilnius Vilnius (11), 1978
+
+1.c4 c6 2.b3 d5 3.Lb2 Lg4 4.h3 Lh5 5.g3 Sd7 6.Lg2 Sgf6 7.Sf3 e6 8.d3 Da5+ 9.Sfd2 dxc4 10.bxc4 Db6 11.Sb3 a5 12.Ld4 Lb4+ 13.S1d2 Dc7 14.a3 Le7 15.a4 Lb4 16.0-0 e5 17.Le3 0-0 18.Tc1 Tfe8 19.Tc2 Tad8 ½-½
+
+Petrosian,Tigran V (2620) - Dvoretzky,Mark (2525) [D38]
+Vilnius Vilnius (1), 1978
+
+1.d4 d5 2.c4 e6 3.Sf3 Sf6 4.Lg5 Lb4+ 5.Sc3 h6 6.Lxf6 Dxf6 7.e3 0-0 8.Tc1 c6 9.a3 La5 10.Ld3 dxc4 11.Lxc4 Sd7 12.0-0 De7 13.La2 e5 14.d5 Lxc3 15.Txc3 e4 16.d6 Df6 17.Sd2 Dxd6 18.Sxe4 De7 19.Sg3 Sf6 20.e4 Td8 21.Dc2 Le6 22.Lb1 Dd6 23.f4 Dd4+ 24.Kh1 Dd2 25.f5 Dxc2 26.Lxc2 Ld7 27.e5 Sg4 28.Sh5 Sxe5 29.Tg3 Kh8 30.Txg7 Le8 31.Tg3 Td2 32.Sf6 Ld7 33.Te3 Sc4 34.Te7 Txc2 35.Txd7 Kg7 36.Sh5+ Kf8 37.Txb7 Txb2 38.Tc7 Sxa3 ½-½
+
+Petrosian,Tigran V (2620) - Dzindzichashvili,Roman (2550) [D22]
+Buenos Aires ol (Men) Buenos Aires (10), 1978
+
+1.d4 d5 2.c4 dxc4 3.Sf3 Sf6 4.e3 Lg4 5.Lxc4 e6 6.Sc3 a6 7.h3 Lh5 8.g4 Lg6 9.Se5 Sbd7 10.Sxg6 hxg6 11.g5 Sd5 12.Sxd5 exd5 13.Lxd5 c6 14.Lb3 Dxg5 15.Df3 Lb4+ 16.Ld2 Lxd2+ 17.Kxd2 Df5 18.Dxf5 gxf5 19.Ke2 Sf6 20.Tac1 Td8 21.Tc5 g6 22.Kf3 Kf8 23.Kg2 Kg7 24.Ld1 The8 25.Kf3 Se4 26.Tc2 Td6 27.Te2 Sg5+ 28.Kg3 Se6 29.f4 c5 30.dxc5 Sxc5 31.Lc2 Tc8 32.Kf3 Tb6 33.Tb1 Th8 34.Kg2 Td6 35.Tc1 ½-½
+
+Petrosian,Tigran V (2620) - Espig,Lutz (2470) [A53]
+Vilnius Vilnius (13), 1978
+
+1.d4 Sf6 2.c4 d6 3.Sc3 Sbd7 4.g3 e5 5.Lg2 Le7 6.e3 0-0 7.Sge2 c6 8.0-0 Te8 9.b3 Lf8 10.Dc2 Dc7 11.h3 Tb8 12.a4 a5 13.Ta2 Ta8 14.Db1 Sb8 15.e4 Sa6 16.Le3 g6 17.Td2 Lg7 18.Tfd1 Sd7 19.Kh2 Sf8 20.Kg1 Sb4 21.Sa2 Sxa2 22.Dxa2 Sd7 23.Dc2 Sb8 24.c5 exd4 25.cxd6 Dxd6 26.Lxd4 Lxd4 27.Sxd4 De7 28.Dc3 Sd7 29.f4 Dc5 30.De3 Sf8 31.g4 Se6 32.f5 Sxd4 33.Txd4 b5 34.Dh6 bxa4 35.bxa4 De5 36.Td6 gxf5 37.exf5 Lb7 38.f6 De3+ 39.Dxe3 Txe3 40.Td7 1-0
+
+Petrosian,Tigran V (2620) - Geller,Efim P (2590) [D59]
+URS-CupT Ordzhonikidze, 1978
+
+1.d4 Sf6 2.Sf3 d5 3.c4 e6 4.Sc3 Le7 5.Lg5 h6 6.Lh4 0-0 7.e3 b6 8.cxd5 Sxd5 9.Lxe7 Dxe7 10.Tc1 Lb7 11.Le2 Tc8 12.0-0 c5 13.dxc5 Txc5 14.Sxd5 Txd5 15.Da4 Sd7 16.Tc7 Dd8 17.Tc3 ½-½
+
+Petrosian,Tigran V (2620) - Gulko,Boris F (2575) [D97]
+Vilnius Vilnius (9), 1978
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Db3 dxc4 6.Dxc4 0-0 7.e4 a6 8.Le2 b5 9.Db3 Lb7 10.e5 Sd5 11.0-0 Sxc3 12.Dxc3 Sd7 13.Lf4 Ld5 14.Tfc1 c6 15.Sd2 f6 16.Lg3 fxe5 17.dxe5 Db6 18.Lf3 Tad8 19.Lxd5+ cxd5 20.Sf3 Tf5 21.Te1 b4 22.Dd2 Sb8 23.Sd4 Lh6 24.Dd1 Tf7 25.Dg4 Ld2 26.Te2 h5 27.De6 Dxd4 28.Dxg6+ Tg7 29.De6+ Kh7 30.Df5+ Kg8 31.Td1 Dg4 32.Dxg4 Txg4 33.Texd2 Tc4 34.b3 Tc3 35.e6 Sc6 36.Lc7 Tc8 37.Lb6 Tb8 38.Le3 Sd8 39.Txd5 Sxe6 40.Txh5 1-0
+
+Petrosian,Tigran V (2620) - Kaiszauri,Konstanty (2420) [A87]
+Vilnius Vilnius (14), 1978
+
+1.d4 d6 2.g3 f5 3.Lg2 Sf6 4.Sf3 g6 5.b3 Lg7 6.Lb2 0-0 7.0-0 Se4 8.c4 Sd7 9.Dc2 Sdf6 10.Sbd2 e6 11.Se1 Sxd2 12.Dxd2 De7 13.Sd3 Td8 14.Tad1 c6 15.Dc1 Ld7 16.Tfe1 Df8 17.a4 h5 18.Dc2 h4 19.gxh4 Sh5 20.c5 d5 21.Se5 Lf6 22.Lf3 Kh7 23.Lxh5 gxh5 24.Sf3 De7 25.Lc1 Lxh4 26.Dd2 Tg8+ 27.Kh1 Tg6 28.Se5 Tg5 29.Df4 Le8 30.Tg1 Txg1+ 31.Txg1 Df6 32.Sf3 1-0
+
+Petrosian,Tigran V (2620) - Kochyev,Alexander (2555) [E81]
+URS-CupT Ordzhonikidze, 1978
+
+1.d4 g6 2.c4 Lg7 3.Sc3 d6 4.e4 e5 5.Sge2 Sf6 6.f3 0-0 7.Lg5 Sc6 8.d5 Sd4 9.Sxd4 exd4 10.Dxd4 h6 11.Lxf6 Lxf6 12.Dd2 c6 13.Ld3 Db6 14.0-0-0 a5 15.Kb1 a4 16.a3 Lg7 17.h4 Dd4 18.Dc2 cxd5 19.Lf1 Dc5 20.Txd5 Dc6 21.Tb5 Ld7 22.h5 g5 23.Sd5 Kh8 24.Sb6 Ta6 25.Sxd7 Dxd7 26.Le2 Dc7 27.Td1 Tfa8 28.Tdd5 Le5 29.Tb4 T8a7 30.Dd2 Kg7 31.Ld3 Tc6 32.Tbb5 Tc5 33.Db4 Txb5 34.Txb5 Ld4 35.Td5 Le5 36.Lc2 Dc6 37.Tb5 Ld4 38.Lxa4 Le5 39.Ta5 1-0
+
+Petrosian,Tigran V (2620) - Lukin,Andrei M (2460) [A77]
+URS-CupT Ordzhonikidze, 1978
+
+1.c4 g6 2.e4 Lg7 3.d4 c5 4.d5 d6 5.Sc3 Sf6 6.Sf3 0-0 7.Le2 e6 8.0-0 Te8 9.Sd2 exd5 10.cxd5 Sbd7 11.a4 g5 12.Ta3 Se5 13.Dc2 a6 14.a5 g4 15.b3 Sh5 16.Sc4 Sxc4 17.bxc4 Le5 18.g3 Sg7 19.Sd1 f5 20.Se3 fxe4 21.Sxg4 Lxg4 22.Lxg4 Ld4 23.Lh6 b5 24.axb6 Dxb6 25.Tb1 Dc7 26.Le3 Ta7 27.Te1 De7 28.Da2 Tea8 29.Lxd4 cxd4 30.Dd2 De5 31.Lf3 e3 32.fxe3 Sf5 33.exd4 Dxd4+ 34.Dxd4 Sxd4 35.Ld1 a5 36.Te4 Sf5 37.La4 Te7 38.Txe7 Sxe7 39.Kf2 Sg6 40.Ke3 Se5 41.Kd4 Tf8 42.Ta2 Tf1 43.c5 Sf3+ 44.Ke3 dxc5 45.d6 Sg5 46.d7 Tf8 47.Kd3 Td8 1-0
+
+Petrosian,Tigran V (2620) - Mikenas,Vladas (2205) [D30]
+Vilnius Vilnius (5), 1978
+
+1.c4 e6 2.g3 d5 3.Lg2 c5 4.cxd5 exd5 5.d4 Sc6 6.Sf3 c4 7.0-0 Lb4 8.b3 cxb3 9.Dxb3 Sge7 10.La3 a5 11.Sc3 0-0 12.Tfc1 Lf5 13.e3 a4 14.Db2 Da5 15.Se1 Tfd8 16.Lf1 Lxa3 17.Dxa3 Sb4 18.Lb5 Tdc8 19.Dxa4 Dxa4 20.Sxa4 Ta5 21.Txc8+ Sxc8 22.Sc3 Ta3 23.Tc1 Sd6 24.Lf1 Sxa2 25.Sxa2 Txa2 26.Sd3 Ta5 27.h3 g5 28.g4 Ld7 29.Lg2 Lb5 30.Se5 Lc4 31.e4 La2 32.exd5 Lxd5 33.Tc7 Lxg2 34.Kxg2 Kg7 35.Td7 Ta6 36.d5 h6 37.Sc6 Se4 38.Txb7 Ta2 39.Kf3 Sf6 40.d6 Td2 41.Se7 Sd5 42.Sf5+ Kg6 43.Tb8 Td3+ 44.Ke4 Td1 45.Tb3 Sf6+ 46.Ke3 h5 47.f3 hxg4 48.hxg4 Sd7 49.Tb7 Sc5 50.Tb6 Sd7 51.Tb5 Kf6 52.Ke4 Ke6 53.Sd4+ Kf6 54.Kd5 Se5 55.Tb3 Td2 56.Te3 Sd7 57.Te4 Ta2 58.Sb3 Tc2 59.Tb4 Tc3 60.Tb7 Td3+ 61.Sd4 Sf8 62.Kc4 Td1 63.Tb5 Sd7 64.Tf5+ Kg6 65.Kc3 Tc1+ 66.Kd2 Tc4 67.Kd3 Tc1 68.Sb5 f6 69.Kd2 Tc8 70.Td5 Kf7 71.Ke3 Te8+ 72.Kd4 Te1 73.Tf5 Ke6 74.Kd3 Tf1 75.Kd2 Ta1 ½-½
+
+Petrosian,Tigran V (2620) - Peters,Jack (2430) [E14]
+Lone Pine op Lone Pine (5), 1978
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.e3 Lb7 5.Ld3 c5 6.Sc3 Le7 7.0-0 cxd4 8.exd4 d5 9.b3 0-0 10.Lb2 Sc6 11.Tc1 Tc8 12.Te1 Te8 13.cxd5 Sxd5 14.Sxd5 Dxd5 15.Le4 Dh5 16.Se5 Dxd1 17.Texd1 Sxe5 18.Lxb7 Txc1 19.Lxc1 Td8 20.Kf1 Td7 21.Lc8 Td8 22.Lb7 Td7 23.Lc8 Td8 24.Lb7 ½-½
+
+Petrosian,Tigran V (2620) - Polugaevsky,Lev (2620) [E16]
+Lone Pine op Lone Pine (8), 1978
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.g3 Lb7 5.Lg2 Lb4+ 6.Ld2 Le7 7.Sc3 0-0 8.0-0 Sa6 9.Da4 Dc8 10.Tfe1 c5 11.e4 cxd4 12.Sxd4 d6 13.Tad1 Te8 14.h3 Sc5 15.Dc2 Scd7 16.b3 a6 17.Lc1 Lf8 18.Lb2 Dc7 19.Dd2 Tad8 20.Te2 Db8 21.Tde1 g6 22.Td1 Lg7 23.Kh2 Sc5 24.Tde1 La8 25.Kg1 h5 26.h4 Sg4 27.La1 Sf6 28.Dd1 Lb7 29.Lb2 La8 30.Lc1 b5 31.cxb5 axb5 32.b4 Sa6 33.Sdxb5 d5 34.Da4 Sc7 35.Da5 Sxb5 36.Sxb5 Sxe4 37.Lxe4 dxe4 38.Sc7 e3 39.Lxe3 Lc3 40.Tc1 Lxb4 41.Da4 Db7 42.Sxa8 Txa8 ½-½
+
+Petrosian,Tigran V (2620) - Romanishin,Oleg M (2610) [D20]
+URS-CupT Ordzhonikidze, 1978
+
+1.d4 d5 2.c4 dxc4 3.e4 e5 4.Sf3 Lb4+ 5.Ld2 Lxd2+ 6.Dxd2 exd4 7.Dxd4 Dxd4 8.Sxd4 Le6 9.f4 Se7 10.Sxe6 fxe6 11.Lxc4 e5 12.Sc3 Sd7 13.0-0 exf4 ½-½
+
+Petrosian,Tigran V (2620) - Stean,Michael (2510) [D78]
+Buenos Aires ol (Men) Buenos Aires (5), 1978
+
+1.d4 Sf6 2.Sf3 g6 3.g3 Lg7 4.Lg2 d5 5.0-0 0-0 6.c4 c6 7.Db3 Db6 8.Sc3 Le6 9.Sa4 Dxb3 10.axb3 Sa6 11.Sg5 Lf5 12.Lf4 Tfd8 13.Sf3 Le4 14.Le5 Se8 15.Lxg7 Kxg7 16.e3 Sd6 17.Sd2 Lxg2 18.Kxg2 Sb4 19.Tfc1 e6 20.Sc5 Kf8 21.Kf3 Ke7 22.Ke2 a5 23.Ta3 b6 24.Sd3 Sxd3 25.Kxd3 Sb7 26.cxd5 cxd5 27.b4 Tac8 28.Txc8 Txc8 29.bxa5 Sxa5 30.Tc3 Txc3+ 31.Kxc3 Sb7 32.f3 Sd6 33.e4 f5 34.e5 Sb5+ 35.Kd3 g5 36.Sb3 Kd7 37.Sc1 Sa7 38.Se2 Sc6 39.g4 fxg4 40.fxg4 Se7 41.Sg3 Sg6 ½-½
+
+Petrosian,Tigran V (2645) - Gligoric,Svetozar (2565) [D91]
+EU-chT (Men) 06th Moscow (2.2), 04.1977
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Lg5 Se4 6.cxd5 Sxg5 7.Sxg5 e6 8.Sf3 exd5 9.e3 0-0 10.b4 Sc6 11.b5 Se7 12.Le2 a6 13.a4 c5 14.bxc6 bxc6 15.Dd2 a5 16.0-0 Sf5 17.Tac1 Te8 18.Sd1 Ld7 19.Sb2 Sd6 20.Sd3 Se4 21.Da2 Tb8 22.Tc2 f6 23.Tfc1 Tb6 24.Sd2 Sxd2 25.Txd2 Lf5 26.Tdc2 Dd6 27.Tc5 Lxd3 28.Lxd3 f5 29.g3 f4 30.gxf4 Lxd4 31.exd4 Dxf4 32.Lf1 Dxd4 33.T5c3 Te4 34.Dc2 Te6 35.Td1 Df6 36.Lg2 Te5 37.h3 De6 38.Kf1 Kg7 39.Tc5 Df6 40.Dc3 Tf5 41.Dxf6+ Txf6 42.Kg1 Tb2 43.Tf1 Ta2 44.Txa5 Kh6 45.Ta8 Tf4 46.a5 Kg5 47.a6 Tfa4 48.Tc1 Txa6 49.Tc8 Td2 50.T8xc6 Taa2 51.Tf1 Ta7 52.Td6 d4 53.Td5+ Kh6 54.Lf3 Td3 55.Kg2 Tf7 56.Le4 Td2 57.Kg3 Ta7 58.h4 Ta3+ 59.f3 Taa2 60.Th1 Tg2+ 61.Kf4 Ta7 62.Txd4 Kg7 63.Td5 Tf7+ 64.Ke3 Kf6 65.Td6+ Kg7 66.h5 Ta7 67.hxg6 hxg6 68.Th4 1-0
+
+Petrosian,Tigran V (2645) - Ribli,Zoltan (2595) [A34]
+EU-chT (Men) 06th Moscow (4.2), 04.1977
+
+1.c4 c5 2.Sc3 g6 3.b3 Lg7 4.Lb2 Sc6 5.Sf3 e5 6.g3 Sge7 7.Lg2 d6 8.d3 h6 9.0-0 Le6 10.e4 0-0 11.Sh4 Sd4 12.Kh1 Sec6 13.Tb1 a6 14.De1 Sc2 15.Dd2 S2d4 16.Sf3 Da5 17.Sg1 Tae8 18.Tbd1 b5 19.La1 Kh7 20.Sge2 Sxe2 21.Dxe2 Sd4 22.Dd2 Lg4 23.Tb1 Ld7 24.Tbe1 Lc6 25.Td1 La8 ½-½
+
+Petrosian,Tigran V (2645) - Adorjan,Andras (2530) [A10]
+Sochi Chigorin Memorial Sochi (3), 1977
+
+1.c4 g6 2.e4 e5 3.Sf3 Lg7 4.d4 exd4 5.Sxd4 Sf6 6.Sc3 0-0 7.Ld3 d5 8.cxd5 c6 9.0-0 cxd5 10.exd5 Sxd5 11.Le4 Sxc3 12.bxc3 Da5 13.Db3 Sd7 14.Da3 Dxa3 15.Lxa3 Te8 16.Tfe1 Lf8 17.Lxf8 Kxf8 18.Lf3 Txe1+ 19.Txe1 Sc5 20.Te5 Se6 21.h4 Tb8 22.Sb5 a6 23.Sd6 b6 24.Le2 ½-½
+
+Petrosian,Tigran V (2645) - Alburt,Lev O (2505) [A57]
+URS-ch45 Leningrad, 1977
+
+1.d4 Sf6 2.c4 c5 3.d5 b5 4.Sf3 g6 5.cxb5 a6 6.e3 Lg7 7.Sc3 0-0 8.a4 axb5 9.Lxb5 d6 10.0-0 Sa6 11.Ta3 Sc7 12.Sd2 Sd7 13.Lxd7 Lxd7 14.Sc4 Ta6 15.e4 Db8 16.Dc2 Db4 17.Sa2 Db7 18.Ld2 Tfa8 19.a5 Sb5 20.Tb3 Dc7 21.Lc3 Sd4 22.Lxd4 Lxd4 23.Sc3 Tb8 24.Tb6 Taa8 25.Db3 Dd8 26.Sb5 Lg7 27.Sa7 De8 28.Ta1 Lf8 29.Sc6 Tc8 30.a6 Tc7 31.Tb7 Txc6 32.dxc6 Lxc6 33.a7 Lxe4 34.Tb8 Dd7 35.Txa8 Lxa8 36.Sb6 Db7 37.Df3 1-0
+
+Petrosian,Tigran V (2645) - Bagirov,Vladimir (2480) [D35]
+URS-ch45 Leningrad, 1977
+
+1.c4 Sf6 2.d4 e6 3.Sc3 d5 4.Lg5 c6 5.e3 Sbd7 6.cxd5 exd5 7.Ld3 Ld6 8.Df3 h6 9.Lh4 Le7 10.h3 Sf8 11.De2 Se6 12.Sf3 b6 13.Td1 0-0 14.0-0 Te8 15.Se5 Lb7 16.Lf5 Sf8 17.Df3 Ld6 18.Sg4 Le7 19.Lxf6 Lxf6 20.a3 Lg5 21.b4 Dd6 22.Tb1 g6 ½-½
+
+Petrosian,Tigran V (2645) - Balashov,Yuri S (2565) [A17]
+URS-ch45 Leningrad, 1977
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 Lb4 4.Dc2 0-0 5.b3 c5 6.Lb2 De7 7.e3 Sc6 8.Le2 d6 9.0-0 Lxc3 10.Lxc3 e5 11.a3 Lg4 12.Tfe1 a5 13.d4 Lh5 14.dxe5 dxe5 15.Sxe5 Sxe5 16.Lxh5 Sxh5 17.Df5 Tfe8 18.Dxh5 a4 19.Tab1 axb3 20.Dxe5 Dxe5 21.Lxe5 Txe5 22.Txb3 Te4 23.Tc1 Ta4 24.Txb7 g6 25.Td1 Txa3 26.g3 Ta8 27.Tdd7 Tf8 28.Tbc7 Txc4 29.Kg2 h5 30.h3 Kg7 31.Kf3 Kf6 32.h4 Kg7 33.Td5 Te8 34.Tdd7 Tf8 35.Te7 Kf6 36.e4 Td4 37.e5+ Kf5 38.Txc5 Td3+ 39.Kg2 Ta3 40.Tc6 Ke4 41.Tf6 Taa8 42.e6 Ke5 43.Tfxf7 Tg8 44.Tb7 Kxe6 45.Tbe7+ Kd6 46.Te2 Taf8 47.Ta7 Ta8 48.Tae7 Tac8 49.T2e6+ Kd5 50.Kh3 Tc7 51.Txg6 1-0
+
+Petrosian,Tigran V (2645) - Dzindzichashvili,Roman (2535) [E19]
+Hastings 7778 Hastings (9), 1977
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 Lf6 10.Td1 Le4 11.Le3 Sc6 12.Tac1 Se7 13.Lg5 Lxf3 14.Lxf6 Lxg2 15.Lxe7 Dxe7 16.Kxg2 c6 17.Df3 Tac8 18.Tc3 d6 19.e4 Tfd8 20.a3 Dd7 21.b4 h6 22.Te3 d5 23.exd5 cxd5 24.c5 bxc5 25.dxc5 a5 26.h4 Tb8 ½-½
+
+Petrosian,Tigran V (2645) - Geller,Efim P (2590) [D58]
+URS-ch45 Leningrad, 1977
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lg5 0-0 6.e3 h6 7.Lh4 b6 8.Ld3 Lb7 9.0-0 Sbd7 10.De2 c5 11.Tfd1 Se4 12.Lxe7 Dxe7 13.cxd5 exd5 14.La6 Lxa6 15.Dxa6 Sdf6 16.dxc5 Sxc3 17.bxc3 Dxc5 18.Sd4 Tfc8 19.Se2 ½-½
+
+Petrosian,Tigran V (2645) - Geller,Efim P (2590) [E92]
+Sochi Chigorin Memorial Sochi (14), 1977
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Le2 0-0 6.Sf3 e5 7.d5 a5 8.Le3 Sg4 9.Lg5 f6 10.Lh4 Sa6 11.Sd2 h5 12.a3 Ld7 13.0-0 De8 14.h3 Sh6 15.b3 f5 16.f3 Kh8 17.Tb1 Tg8 18.g4 Sf7 ½-½
+
+Petrosian,Tigran V (2645) - Grigorian,Karen Ashotovich (2465) [B14]
+URS-ch45 Leningrad, 1977
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Lf4 Lg7 5.e3 0-0 6.Db3 c5 7.cxd5 cxd4 8.exd4 Sbd7 9.Le2 Sb6 10.Lf3 e6 11.d6 Sfd5 12.Lxd5 exd5 13.Sge2 Te8 14.0-0 Lf5 15.a4 Ld3 16.Tfe1 Lc4 17.Db4 Lf8 18.b3 La6 19.Sb5 Lxb5 20.Dxb5 a6 21.Db4 a5 22.Db5 Lxd6 23.Ld2 Sd7 24.Dxd5 Sf6 25.Df3 Se4 26.Lf4 Lxf4 27.Dxf4 Tc8 28.Tac1 Sd6 29.Sg3 Txe1+ 30.Txe1 Tc3 31.h4 h5 32.Te5 f5 33.Te6 Sf7 34.Txg6+ Kh7 35.Dxf5 Tc1+ 36.Sf1 1-0
+
+Petrosian,Tigran V (2645) - Kagan,Shimon (2440) [A41]
+Hastings 7778 Hastings (4), 1977
+
+1.d4 g6 2.c4 Lg7 3.Sf3 d6 4.g3 c6 5.Lg2 Lg4 6.Sc3 Db6 7.e3 Sf6 8.0-0 0-0 9.h3 Lxf3 10.Lxf3 e5 11.d5 c5 12.e4 Sbd7 13.h4 a6 14.a4 Dd8 15.Lg5 h6 16.Ld2 Tb8 17.Kg2 h5 18.a5 Kh7 19.Lg5 Dc8 20.Th1 Th8 21.Dd2 b5 22.axb6 Txb6 23.Ld1 Db7 24.b3 Tb8 25.Ta3 Dc8 26.Te1 Sg8 27.Sa4 Tb4 28.Sb2 Lh6 29.Sd3 T4b6 30.Th1 f6 31.Le3 Lxe3 32.Dxe3 Sh6 33.f3 f5 34.Sf2 Sf6 35.Sh3 fxe4 36.Sg5+ Kh8 37.Sxe4 Sfg8 38.Dg5 Df5 39.Lc2 Dxg5 40.Sxg5 Sf5 41.Kf2 Sge7 42.Se6 T8b7 43.g4 hxg4 44.fxg4 Sd4 45.Sxd4 cxd4 46.Tha1 Ta7 47.Ta5 Kg7 48.Te1 Sg8 49.Kg3 Sf6 50.c5 dxc5 51.Txe5 d3 52.Ld1 Tb4 53.d6 Se4+ 54.Kg2 Sxd6 55.Taxc5 Se4 56.Tc6 Tf7 57.h5 g5 ½-½
+
+Petrosian,Tigran V (2645) - Klaric,Zlatko (2405) [D10]
+Sochi Chigorin Memorial Sochi (7), 1977
+
+1.c4 Sf6 2.Sc3 c6 3.d4 d5 4.cxd5 cxd5 5.Lf4 e6 6.e3 a6 7.Ld3 Sbd7 8.Sf3 Le7 9.h3 b5 10.0-0 Lb7 11.a4 b4 12.Sa2 Tc8 13.Sc1 Sb6 14.De2 Sc4 15.Sb3 Sa5 16.Sfd2 0-0 17.Lxa6 Lxa6 18.Dxa6 Sc4 19.Ta2 Sd7 20.Sf3 g5 21.Lg3 h6 22.a5 Ta8 23.Db5 f5 24.Dc6 Tf6 25.Se5 Sdxe5 26.Lxe5 Tg6 27.a6 Ta7 28.Sa5 Sxa5 29.Txa5 Kf7 30.Tb5 Tg8 31.Tb7 Da8 32.Dd7 Txb7 33.axb7 Da7 34.Dc8 1-0
+
+Petrosian,Tigran V (2645) - Kortschnoj,Viktor (2645) [D41]
+Candidates qf1 Ciocco (6), 1977
+
+1.d4 Sf6 2.Sf3 e6 3.c4 d5 4.Sc3 c5 5.cxd5 Sxd5 6.e4 Sxc3 7.bxc3 cxd4 8.cxd4 Lb4+ 9.Ld2 Lxd2+ 10.Dxd2 0-0 11.Lc4 Sc6 12.0-0 b6 13.Tfe1 Lb7 14.Tad1 Se7 15.d5 exd5 16.exd5 Sf5 17.Se5 Sd6 18.Sc6 Lxc6 19.dxc6 Sxc4 20.Df4 Sd6 21.Txd6 Dc7 22.g3 h6 23.De5 Tac8 24.Dd5 Kh7 25.Te4 Kg8 26.Kg2 a6 27.h4 b5 28.g4 Kh7 29.Te2 Kh8 30.g5 h5 31.Td2 Tfe8 32.Df3 g6 33.T2d5 Tf8 34.Tf6 De7 35.Td7 De8 36.Txg6 De5 37.Dxh5# 1-0
+
+Petrosian,Tigran V (2645) - Kortschnoj,Viktor (2645) [D41]
+Candidates qf1 Ciocco (4), 1977
+
+1.d4 Sf6 2.Sf3 e6 3.c4 d5 4.Sc3 c5 5.cxd5 Sxd5 6.e4 Sxc3 7.bxc3 cxd4 8.cxd4 Lb4+ 9.Ld2 Lxd2+ 10.Dxd2 0-0 11.Lc4 Sc6 12.0-0 Dd6 13.Tfd1 Td8 14.Tac1 Ld7 15.e5 De7 16.Df4 Le8 17.h4 Tac8 18.d5 exd5 19.Txd5 h6 20.Tcd1 Txd5 21.Txd5 Td8 22.De4 ½-½
+
+Petrosian,Tigran V (2645) - Kortschnoj,Viktor (2645) [D41]
+Candidates qf1 Ciocco (2), 1977
+
+1.d4 Sf6 2.Sf3 d5 3.c4 e6 4.Sc3 c5 5.cxd5 Sxd5 6.e4 Sxc3 7.bxc3 cxd4 8.cxd4 Sc6 9.Lc4 b5 10.Le2 Lb4+ 11.Ld2 Da5 12.Tb1 Lxd2+ 13.Dxd2 a6 14.Dxa5 Sxa5 15.Ld3 Ke7 16.Tc1 Ld7 17.Kd2 ½-½
+
+Petrosian,Tigran V (2645) - Kortschnoj,Viktor (2645) [E14]
+Candidates qf1 Ciocco (12), 1977
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.e3 Lb7 5.Ld3 Lb4+ 6.Sbd2 c5 7.dxc5 Lxc5 8.0-0 Sc6 9.a3 Dc7 10.b3 Se5 11.Sxe5 Dxe5 12.Ta2 Ld6 13.g3 Dc5 14.e4 h5 15.b4 Dc7 16.Te1 h4 17.Sf1 hxg3 18.hxg3 a5 19.Tb2 axb4 20.axb4 Le5 21.Tc2 Ta1 22.De2 Db8 23.Kg2 Da8 24.Sd2 Ta4 25.b5 Kf8 26.Sf3 Ld6 27.Sg5 Lc5 28.Lb2 Ke7 29.Tcc1 La3 30.Ta1 Lxb2 31.Dxb2 Txa1 32.Txa1 Db8 33.Dd4 e5 34.Dc3 Th5 35.Db4+ d6 36.Dd2 g6 37.Le2 Sxe4 38.Sxe4 Lxe4+ 39.f3 Lb7 40.g4 Th7 ½-½
+
+Petrosian,Tigran V (2645) - Kortschnoj,Viktor (2645) [E15]
+Candidates qf1 Ciocco (8), 1977
+
+1.d4 e6 2.c4 Sf6 3.Sf3 b6 4.g3 La6 5.b3 Lb4+ 6.Ld2 Le7 7.Sc3 d5 8.cxd5 exd5 9.Lg2 0-0 10.0-0 Sbd7 11.Se5 Lb7 12.Lf4 Te8 13.Tc1 Sf8 14.Lg5 Se6 15.Lxf6 Lxf6 16.e3 c6 17.Sd3 Dd6 18.Te1 Tad8 19.b4 Te7 20.a4 Tde8 21.Db3 Td8 22.Ted1 Ted7 23.Se2 g6 24.Sef4 Tc7 25.Td2 Lg5 26.Sxe6 fxe6 27.Tdc2 Tdc8 28.Lh3 Kg7 29.Sf4 Te8 30.Tc3 Lc8 31.Sd3 Ld7 32.Se5 Tec8 33.e4 Lxc1 34.Txc1 dxe4 35.Sxd7 Dxd7 36.Lxe6 Dxd4 37.Tc4 Da1+ 38.Kg2 Tf8 39.Txe4 Te7 40.Ld5 Txe4 41.Lxe4 Df6 42.Dc2 Tc8 43.a5 bxa5 44.bxa5 c5 45.Dc4 Te8 46.Ld5 Dd4 47.Db3 Te2 48.Db7+ Kh6 49.Df7 Txf2+ 50.Dxf2 Dxd5+ 51.Df3 Dxf3+ 52.Kxf3 Kg5 53.Ke4 Kg4 54.Kd5 Kh3 55.g4 Kxh2 56.Kxc5 Kg3 57.g5 Kg4 0-1
+
+Petrosian,Tigran V (2645) - Kortschnoj,Viktor (2645) [E19]
+Candidates qf1 Ciocco (10), 1977
+
+1.d4 e6 2.c4 Sf6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 Le4 10.Lf4 Sc6 11.Tfd1 d5 12.Se5 Sxe5 13.Lxe5 Lxg2 14.Kxg2 c6 15.Tac1 ½-½
+
+Petrosian,Tigran V (2645) - Krogius,Nikolai V (2545) [E07]
+Sochi Chigorin Memorial Sochi (1), 1977
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 Le7 5.g3 0-0 6.Lg2 Sbd7 7.0-0 c6 8.Dd3 b6 9.e4 La6 10.b3 Tc8 11.Td1 b5 12.cxd5 cxd5 13.e5 Se8 14.Sxb5 Sc7 15.a4 Tb8 16.De3 Lxb5 17.axb5 Sxb5 18.Lf1 a5 19.Ta4 Sa7 20.Ld2 Sc6 21.Tda1 Db6 22.Lxa5 Dxb3 23.Ld2 Dxe3 24.Lxe3 Sb6 25.Ta6 Sb4 26.Ta7 Sc6 27.Tc7 Tfc8 28.Txc8+ Txc8 29.Lb5 Sc4 30.Lxc6 Txc6 31.Ta8+ Lf8 32.Lg5 Tc7 33.Kg2 h6 34.Ld8 Tb7 35.g4 Kh7 ½-½
+
+Petrosian,Tigran V (2645) - Nunn,John DM (2410) [A61]
+Hastings 7778 Hastings (13), 1977
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 d6 6.Sf3 g6 7.Sd2 Lg7 8.Sc4 0-0 9.Lg5 h6 10.Lf4 b6 11.Lxd6 Te8 12.Lg3 Se4 13.Sxe4 Txe4 14.e3 b5 15.Sd2 Tb4 16.b3 Lxa1 17.Dxa1 Dxd5 18.a3 Tg4 19.Le2 Sc6 20.Lf3 De6 21.Lxg4 Dxg4 22.0-0 Lb7 23.f3 De6 24.Se4 Td8 25.Sxc5 Dxe3+ 26.Lf2 De7 27.Te1 Dc7 28.h4 h5 29.Se4 Se7 30.Sf6+ Kf8 31.b4 Lc8 32.Sxh5 gxh5 33.Dh8+ Sg8 34.Lc5+ Td6 35.De5 1-0
+
+Petrosian,Tigran V (2645) - Panchenko,Alexander N (2435) [D02]
+Sochi Chigorin Memorial Sochi (5), 1977
+
+1.d4 e6 2.Sf3 d5 3.g3 Sf6 4.Lg2 Sbd7 5.0-0 b5 6.Lg5 Le7 7.Sbd2 Lb7 8.c3 c5 9.Se5 Sxe5 10.dxe5 Sd7 11.Lxe7 Dxe7 12.e4 0-0 13.exd5 Lxd5 14.Lxd5 exd5 15.Te1 Sb6 16.Sf3 a6 17.Dd3 h6 18.Te2 Tfd8 19.Sh4 De6 20.Sg2 d4 21.Sf4 dxc3 22.Dxc3 ½-½
+
+Petrosian,Tigran V (2645) - Polugaevsky,Lev (2620) [A46]
+URS-ch45 Leningrad, 1977
+
+1.d4 Sf6 2.Sf3 e6 3.g3 b5 4.Lg2 Lb7 5.0-0 c5 6.c3 Le7 7.a4 b4 8.cxb4 cxb4 9.Sbd2 0-0 10.Sb3 d6 11.Se1 Lxg2 12.Sxg2 Sbd7 13.Dd3 d5 14.Lg5 Se4 15.Lxe7 Dxe7 16.Tfc1 Tfc8 17.Se3 h5 18.a5 h4 19.Sf1 hxg3 20.hxg3 Sd6 21.Sfd2 Sf6 22.Sc5 e5 23.dxe5 Dxe5 24.Scb3 Dxb2 25.Txc8+ Txc8 26.Da6 Tc2 27.Tb1 De5 28.Dxa7 Sc4 29.Sxc4 dxc4 30.Sd4 Ta2 31.Txb4 Ta1+ 32.Kg2 Dh5 33.Db8+ Kh7 34.Tb1 Dxa5 35.Txa1 Dxa1 36.De5 ½-½
+
+Petrosian,Tigran V (2645) - Shamkovich,Leonid (2485) [D14]
+Hastings 7778 Hastings (15), 1977
+
+1.c4 Sf6 2.Sc3 c6 3.d4 d5 4.cxd5 cxd5 5.Sf3 Sc6 6.Lf4 Lf5 7.e3 e6 8.Ld3 Lxd3 9.Dxd3 Ld6 10.Lxd6 Dxd6 11.0-0 0-0 12.Tac1 Tac8 13.h3 Tfd8 14.Tfd1 h6 ½-½
+
+Petrosian,Tigran V (2645) - Smyslov,Vassily (2595) [E19]
+URS-ch45 Leningrad, 1977
+
+1.d4 Sf6 2.Sf3 b6 3.g3 Lb7 4.c4 e6 5.Lg2 Le7 6.0-0 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 c5 10.Td1 d6 11.b3 Lf6 12.Lb2 De7 13.De3 Sc6 14.Td2 Tfd8 15.Tad1 Sb4 16.a3 Sa6 17.dxc5 Lxb2 18.Txb2 Sxc5 19.Tbd2 Tac8 20.Sd4 Lxg2 21.Kxg2 Db7+ 22.f3 a6 23.Sc2 Db8 ½-½
+
+Petrosian,Tigran V (2645) - Speelman,Jonathan S (2395) [E69]
+Hastings 7778 Hastings (7), 1977
+
+1.d4 g6 2.c4 Lg7 3.g3 d6 4.Sc3 Sd7 5.Sf3 e5 6.Lg2 c6 7.0-0 Sgf6 8.e4 0-0 9.h3 Te8 10.Te1 a6 11.d5 cxd5 12.cxd5 b5 13.Lf1 Sb6 14.a3 Ld7 15.Kh2 Dc7 16.Ld3 Tec8 17.De2 Db7 18.Sd2 Tc7 19.Sf1 Dc8 20.g4 Le8 21.Le3 Sfd7 22.Sd2 Sc5 23.Tec1 Tb8 24.b4 Sxd3 25.Dxd3 Sa4 26.Se2 ½-½
+
+Petrosian,Tigran V (2645) - Suba,Mihai (2455) [D61]
+Sochi Chigorin Memorial Sochi (12), 1977
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Lg5 Le7 5.Sc3 0-0 6.Dc2 Sbd7 7.e3 c6 8.a3 a6 9.Td1 Te8 10.h3 Sh5 11.Lxe7 Dxe7 12.b4 Shf6 13.Db3 b5 14.cxd5 exd5 15.Ld3 a5 16.0-0 axb4 17.axb4 Lb7 18.Tfe1 Se4 19.Lxe4 dxe4 20.Sd2 Sf6 21.Ta1 g6 22.Tec1 h5 23.Txa8 Txa8 24.Db1 Te8 25.Se2 Dd6 26.Sg3 De6 27.Tc5 h4 28.Te5 hxg3 29.Txe6 gxf2+ 30.Kxf2 Txe6 31.Da2 Kg7 32.Da7 Lc8 33.Dc7 Ld7 34.Sb3 Te8 35.Sc5 Le6 36.Dxc6 Lc4 37.g4 Te7 38.g5 Sd5 39.Dd6 Te8 40.Sd7 Kg8 1-0
+
+Petrosian,Tigran V (2645) - Suetin,Alexey S (2525) [A07]
+Sochi Chigorin Memorial Sochi (8), 1977
+
+1.Sf3 d5 2.g3 g6 3.Lg2 Lg7 4.0-0 e5 5.d3 Se7 6.e4 0-0 7.Sbd2 Sbc6 8.Te1 h6 9.c3 a5 10.a4 Le6 11.De2 Te8 12.h4 d4 13.Sf1 Dd7 14.S1h2 Tad8 15.Lf1 f5 16.Dc2 Tf8 17.exf5 Sxf5 18.Sd2 Ld5 19.Se4 Sd6 20.Sc5 Df7 21.f3 b6 22.Se4 Sxe4 23.fxe4 Le6 24.Dg2 Dd7 25.c4 Tf7 26.b3 Sb4 27.La3 Tdf8 28.Lxb4 axb4 29.Dd2 De7 30.Lg2 h5 31.Tf1 Txf1+ 32.Txf1 Txf1+ 33.Lxf1 Kh7 34.Sf3 Lh6 35.Sg5+ Lxg5 36.hxg5 Lg4 37.Lg2 Kg7 38.Kf2 c5 39.Ke1 Df7 40.Lh1 Kg8 41.Lg2 Kg7 42.Lh1 Kg8 43.Lg2 Kg7 ½-½
+
+Petrosian,Tigran V (2645) - Sveshnikov,Evgeny (2520) [A13]
+Hastings 7778 Hastings (2), 1977
+
+1.c4 e6 2.Sf3 d5 3.b3 Sf6 4.Lb2 Ld6 5.g3 b6 6.Lg2 Lb7 7.0-0 0-0 8.Sc3 a6 9.Tc1 Sbd7 10.Dc2 De7 11.cxd5 exd5 12.e3 Tfe8 13.Tfe1 Se5 14.Sxe5 Lxe5 15.Se2 Lxb2 16.Dxb2 a5 17.a3 c5 18.d4 Se4 19.Sf4 Df6 20.Tc2 cxd4 21.Dxd4 Dxd4 22.exd4 Sf6 23.Tec1 g5 24.Sd3 Tac8 25.Tc7 La6 26.Se5 Txc7 27.Txc7 Tc8 28.Txc8+ Lxc8 29.Kf1 Le6 30.Ke2 Se8 31.Sf3 f6 32.Sd2 Kf7 33.Sb1 Ke7 34.Sc3 Kd6 35.Kd2 Sg7 36.Sd1 ½-½
+
+Petrosian,Tigran V (2645) - Tal,Mihail (2620) [E18]
+Sochi Chigorin Memorial Sochi (10), 1977
+
+1.Sf3 Sf6 2.c4 e6 3.g3 d5 4.Lg2 Le7 5.0-0 0-0 6.d4 b6 7.Sc3 Lb7 8.Se5 Sa6 9.Lg5 c5 10.Tc1 Se4 11.Lxe7 Dxe7 12.dxc5 Saxc5 13.Sxe4 dxe4 14.b4 Tad8 15.Dc2 Dg5 16.bxc5 Dxe5 17.cxb6 axb6 18.Tb1 Da5 19.Tb5 Td2 20.Db1 Dxa2 21.Txb6 La8 22.e3 Dxc4 23.Tb4 ½-½
+
+Petrosian,Tigran V (2645) - Tarjan,James Edward (2495) [A16]
+Hastings 7778 Hastings (11), 1977
+
+1.Sf3 Sf6 2.c4 g6 3.Sc3 d5 4.Da4+ Ld7 5.Db3 dxc4 6.Dxc4 Lg7 7.g3 0-0 8.Lg2 Sc6 9.0-0 Lg4 10.Da4 Dd7 11.Sg5 Tab8 12.d3 Sd4 13.Dxd7 Lxd7 14.Lf4 Tfc8 15.Sf3 Sh5 16.Lg5 e5 17.Tfc1 Kf8 18.Sd2 Sf6 19.h3 Se8 20.Sb3 c5 21.Sxd4 cxd4 22.Sd5 f6 23.Ld2 Kf7 24.e3 Lf8 25.exd4 exd4 26.Sf4 f5 27.Se2 Lb5 28.Txc8 Txc8 29.Sxd4 Lxd3 30.Lxb7 Td8 31.Sc6 Td5 32.Sb4 Tb5 33.Ld5+ Kg7 34.Lc6 Tb6 35.Lc3+ Kh6 36.Sxd3 Txc6 37.Te1 Sf6 38.Tc1 Ta6 39.Ld2+ g5 40.h4 Se4 41.hxg5+ Kh5 42.Le3 Txa2 43.Kg2 Kg6 44.Tc7 Ld6 45.Tc6 1-0
+
+Petrosian,Tigran V (2645) - Tukmakov,Vladimir B (2540) [A48]
+URS-ch45 Leningrad, 1977
+
+1.d4 Sf6 2.Sf3 g6 3.c3 Lg7 4.Lg5 d6 5.Sbd2 h6 6.Lxf6 Lxf6 7.Dc2 Lg7 8.e3 Sd7 9.Td1 e5 10.Le2 De7 11.0-0 0-0 12.Tfe1 f5 13.dxe5 dxe5 14.Sc4 e4 15.Sd4 Se5 16.Td2 Sf7 17.b4 b6 18.b5 a6 19.a4 axb5 20.axb5 ½-½
+
+Petrosian,Tigran V (2635) - Dorfman,Josif D (2405) [D43]
+URS-ch44 Moscow (16), 21.12.1976
+
+1.d4 d5 2.Sf3 e6 3.c4 Sf6 4.Lg5 h6 5.Lxf6 Dxf6 6.Sc3 c6 7.e3 Sd7 8.Ld3 dxc4 9.Lxc4 Ld6 10.0-0 De7 11.Tc1 0-0 12.Se4 Lc7 13.Lb3 Td8 14.Dc2 Sf8 15.Tfd1 Tb8 16.a3 Ld7 17.Sc5 Le8 18.De4 Sh7 19.Sd3 Sg5 20.Sxg5 Dxg5 21.f4 Df6 22.Df3 Kh8 23.Tc3 Tbc8 24.La2 De7 25.Lb3 La5 26.Tc2 Lc7 27.De4 Df6 28.Se5 De7 29.Sd3 Df6 30.La4 Df5 31.Dxf5 exf5 32.Sc5 Tb8 33.Kf2 Ld6 34.Tdc1 g6 35.b4 Tdc8 36.Lb3 Tc7 37.Lc4 Te7 38.a4 Kg8 39.Le2 Tc8 40.a5 Tb8 41.Lf3 Kg7 42.Sd3 a6 43.Sc5 Ld7 44.Td1 Le6 ½-½
+
+Petrosian,Tigran V (2635) - Kupreichik,Viktor D (2490) [D13]
+URS-ch44 Moscow (14), 17.12.1976
+
+1.d4 d5 2.c4 c6 3.cxd5 cxd5 4.Sc3 Sf6 5.Sf3 Sc6 6.Lf4 e6 7.e3 Ld6 8.Lg3 Se4 9.Sxe4 dxe4 10.Sd2 Lxg3 11.hxg3 e5 12.dxe5 Da5 13.Db3 Dxe5 14.Le2 De7 15.Tc1 0-0 16.Sxe4 Dxe4 17.Ld3 Db4+ 18.Dxb4 Sxb4 19.Lxh7+ Kh8 20.Lb1+ Kg8 21.Tc4 a5 22.Lh7+ Kh8 23.Lf5+ 1-0
+
+Petrosian,Tigran V (2635) - Vaganian,Rafael A (2550) [A34]
+URS-ch44 Moscow (13), 16.12.1976
+
+1.c4 Sf6 2.Sf3 c5 3.g3 d5 4.cxd5 Sxd5 5.Lg2 Sc7 6.d3 e5 7.Sc3 Sc6 8.Sd2 Ld7 9.0-0 Le7 10.Sc4 0-0 11.Lxc6 Lxc6 12.Sxe5 Le8 13.e4 Lf6 14.Sg4 Ld4 15.Se3 Lc6 16.Sf5 Se6 17.Sd5 Te8 18.Sxd4 Sxd4 19.Se3 Dd7 20.f3 Tad8 21.b3 f5 22.Lb2 Tf8 23.Sc4 fxe4 24.fxe4 Txf1+ 25.Dxf1 Tf8 26.Dd1 Sf3+ 27.Kh1 b5 28.Se5 Sxe5 29.Lxe5 De6 30.Lb2 Tf2 0-1
+
+Petrosian,Tigran V (2635) - Geller,Efim P (2620) [E89]
+URS-ch44 Moscow (11), 13.12.1976
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.f3 0-0 6.Le3 e5 7.Sge2 c6 8.Dd2 Sbd7 9.d5 cxd5 10.cxd5 a6 11.g4 h5 12.g5 Se8 13.h4 b5 14.Tc1 Tb8 15.Sg3 Sc5 16.Sce2 f6 17.Lg2 fxg5 18.hxg5 Ld7 19.b3 Tc8 20.Th4 b4 21.Kf2 a5 22.Kg1 Tc7 23.Tf1 Lc8 24.Lh3 Lxh3 25.Txh3 Dc8 26.Kg2 Td7 27.Th4 Da6 ½-½
+
+Petrosian,Tigran V (2635) - Rashkovsky,Nukhim N (2485) [A77]
+URS-ch44 Moscow (9), 09.12.1976
+
+1.d4 Sf6 2.Sf3 e6 3.c4 c5 4.d5 exd5 5.cxd5 d6 6.Sc3 g6 7.e4 Lg7 8.Le2 0-0 9.0-0 Te8 10.Sd2 Sbd7 11.a4 Se5 12.Ta3 b6 13.Dc2 Sh5 14.Lxh5 gxh5 15.Sd1 La6 16.Th3 Lxf1 17.Sxf1 b5 18.Sde3 bxa4 19.Sf5 Sg6 20.Txh5 Le5 21.g3 Tb8 22.S1e3 a3 23.bxa3 Db6 24.Dd2 Db3 25.Sg4 Tb7 26.Kg2 Dc4 27.Sxe5 Dxe4+ 28.f3 Dxe5 29.Sh6+ Kf8 30.Txe5 Txe5 31.Sg4 Tee7 1-0
+
+Petrosian,Tigran V (2635) - Grigorian,Karen Ashotovich (2485) [D41]
+URS-ch44 Moscow (7), 06.12.1976
+
+1.c4 Sf6 2.Sf3 c5 3.Sc3 e6 4.e3 d5 5.d4 Sc6 6.cxd5 Sxd5 7.Lc4 Le7 8.Lxd5 exd5 9.dxc5 Le6 10.0-0 Lxc5 11.b3 0-0 12.Lb2 a6 13.h3 La7 14.Se2 Dd6 15.Sf4 Tad8 16.Sd4 Ld7 17.Tc1 Tfe8 18.Sxc6 bxc6 19.Df3 Te4 20.Tfd1 Tde8 21.Ld4 Lxd4 22.Txd4 Txd4 23.exd4 Df6 24.Sd3 Dxd4 25.Sc5 Lc8 26.Sd3 Ld7 27.Sc5 Lc8 28.Sd3 Db6 29.Df4 Te4 30.Dd6 Te6 31.Dc5 Dxc5 32.Sxc5 Te2 33.Sd3 Ld7 34.Sb4 Kf8 35.Sxa6 Txa2 36.Sb8 ½-½
+
+Petrosian,Tigran V (2635) - Karpov,Anatoly (2695) [E19]
+URS-ch44 Moscow (5), 02.12.1976
+
+1.Sf3 Sf6 2.c4 b6 3.g3 Lb7 4.Lg2 e6 5.d4 Le7 6.0-0 0-0 7.Sc3 Se4 8.Dc2 Sxc3 9.Dxc3 c5 10.Td1 d6 11.b3 Sd7 12.Lb2 Sf6 13.d5 e5 14.Sxe5 dxe5 15.d6 Lxg2 16.Dxe5 Te8 17.dxe7 Dxe7 18.Dxe7 Txe7 19.Kxg2 Txe2 20.Lxf6 gxf6 21.Td7 Tb2 22.Te1 Txa2 23.Tee7 Tf8 24.Txa7 Txa7 25.Txa7 Td8 26.Tb7 Td6 27.g4 Kg7 28.f3 Kg6 29.Kg3 h5 30.gxh5+ Kxh5 31.Txf7 Td3 32.Txf6 Txb3 33.Kf4 Tb4 34.Kf5 Txc4 35.Txb6 Tc1 36.Tc6 c4 37.Tc8 Kh6 38.Kf6 Kh7 39.f4 Tc2 40.f5 c3 41.h3 Tc1 42.h4 Tc2 43.h5 Tc1 44.Kf7 Tc2 45.f6 Tc1 46.Ke7 c2 47.Kf7 Kh6 48.Tc5 Kh7 49.Tc6 Kh6 50.Kf8 Kh7 51.Tc7+ Kh8 52.f7 Ta1 53.Txc2 Ta8+ 54.Ke7 Ta7+ 55.Kf6 Ta6+ 56.Kg5 Ta5+ 57.Kg4 Ta4+ 58.Kg3 Ta3+ 59.Kg2 Kg7 60.Tf2 Kf8 61.Tf5 Ta6 62.Kg3 Th6 63.Kg4 Th7 ½-½
+
+Petrosian,Tigran V (2635) - Sveshnikov,Evgeny (2510) [D14]
+URS-ch44 Moscow (3), 29.11.1976
+
+1.Sf3 d5 2.d4 Sf6 3.c4 c6 4.cxd5 cxd5 5.Sc3 Sc6 6.Lf4 Lf5 7.e3 e6 8.Lb5 Sd7 9.Da4 Tc8 10.0-0 a6 11.Lxc6 Txc6 12.Tfc1 Le7 13.Se2 Ld3 14.Txc6 bxc6 15.Sc1 Lb5 16.Dc2 c5 17.a4 Lc6 18.dxc5 Sxc5 19.b4 Lxa4 20.Db2 Lf6 21.Le5 Lxe5 22.Dxe5 f6 23.Db2 Db8 24.Da3 Lb5 25.bxc5 e5 26.Sa2 0-0 27.Sc3 Lc4 28.Sd2 1-0
+
+Petrosian,Tigran V (2635) - Tal,Mihail (2615) [E14]
+URS-ch44 Moscow (1), 27.11.1976
+
+1.Sf3 Sf6 2.c4 c5 3.b3 e6 4.Lb2 Le7 5.e3 Sc6 6.d4 cxd4 7.exd4 d5 8.Ld3 b6 9.0-0 Lb7 10.Te1 Tc8 11.Sbd2 0-0 12.Tc1 Te8 13.a3 dxc4 14.bxc4 Dd6 15.Sb3 Ted8 16.Tc2 Lf8 17.Tce2 g6 18.Sg5 Lg7 19.h3 Tc7 20.Sxe6 fxe6 21.Txe6 Df8 22.d5 Sb8 23.Lc3 Sa6 24.Sd4 Sxd5 25.cxd5 Txc3 26.Lxa6 Lxd5 27.Te7 Lf7 28.T7e4 Dc5 0-1
+
+Petrosian,Tigran V (2635) - Diaz,Joaquin Carlos (2385) [E85]
+Biel Interzonal Biel (19), 06.08.1976
+
+1.c4 Sf6 2.Sc3 g6 3.e4 d6 4.d4 Lg7 5.f3 0-0 6.Sge2 Sc6 7.Le3 e5 8.Dd2 Sd7 9.d5 Se7 10.g4 f5 11.g5 a6 12.h4 Tb8 13.Sc1 c6 14.Sb3 c5 15.Dh2 Tf7 16.h5 gxh5 17.Dxh5 Sf8 18.0-0-0 f4 19.Lf2 Ld7 20.Lh3 Lxh3 21.Dxh3 b5 22.Df1 Db6 23.Td2 Seg6 24.Tc2 Tfb7 25.Th5 Dd8 26.Lg1 Se7 27.Tch2 Seg6 28.Kb1 bxc4 29.Dxc4 a5 30.Df1 a4 31.Sxa4 c4 32.Sbc5 dxc5 33.Sxc5 Tb5 34.Dxc4 Db6 35.b3 Tb4 36.Da6 Dc7 37.Tc2 Df7 38.Lf2 Se7 39.Th1 Sxd5 40.exd5 Dxd5 41.Dd3 Df7 42.Kc1 e4 43.Sxe4 Kh8 44.Sd6 Dd7 45.Lc5 T4b7 46.Td1 Se6 47.Sxb7 Dxb7 48.Dd5 Sxc5 49.Txc5 Da6 50.Kb1 Da3 51.Tc2 Te8 52.Th2 1-0
+
+Petrosian,Tigran V (2635) - Smejkal,Jan (2615) [E65]
+Biel Interzonal Biel (17), 03.08.1976
+
+1.c4 c5 2.Sf3 Sf6 3.Sc3 Sc6 4.g3 g6 5.Lg2 Lg7 6.0-0 0-0 7.d4 d6 8.dxc5 dxc5 9.Lf4 Sh5 10.Ld2 Le6 11.b3 Dc8 12.Dc1 Lh3 13.Lh6 Lxg2 14.Kxg2 De6 15.Lxg7 Kxg7 16.Td1 Tad8 17.Td5 b6 18.Db2 Sf6 19.Tad1 Kg8 20.Dc1 Kg7 21.e4 Dc8 22.Txd8 Txd8 23.e5 Se8 24.Txd8 ½-½
+
+Petrosian,Tigran V (2635) - Larsen,Bent (2625) [D60]
+Biel Interzonal Biel (15), 31.07.1976
+
+1.Sf3 Sf6 2.c4 e6 3.d4 d5 4.Lg5 Le7 5.e3 0-0 6.Sc3 Sbd7 7.Ld3 dxc4 8.Lxc4 c5 9.0-0 a6 10.a4 b6 11.De2 Lb7 12.Tfd1 cxd4 13.exd4 Te8 14.Tac1 Sf8 15.Se5 Sd5 16.Lxd5 Lxd5 17.Lxe7 Txe7 18.Sxd5 Dxd5 19.Tc3 f6 20.Sc4 Dd8 21.g3 Td7 22.Tcd3 Kh8 23.De4 Tc8 24.b3 b5 25.axb5 axb5 26.Se3 Te7 27.d5 exd5 28.Dxd5 De8 29.Kg2 Te5 30.Db7 h6 31.b4 Se6 32.h4 Tb8 33.Df3 Sf8 34.Sf5 Dg6 35.Sd6 h5 36.Td5 Sd7 37.Sf7+ Dxf7 38.Txd7 Dg6 39.T1d4 Tbe8 40.Tb7 Db1 41.Dd3 Dxd3 42.Txd3 Tc8 43.f4 Te2+ 44.Kf3 Tb2 45.Txb5 Tc4 46.Txh5+ Kg8 47.Kg4 Tcxb4 48.Td8+ Kf7 49.Thh8 Tb7 50.Thf8+ Ke7 51.Kf5 T2b3 52.g4 Tg3 53.Tde8+ Kd6 54.g5 fxg5 55.hxg5 Tb5+ 56.Kg6 1-0
+
+Petrosian,Tigran V (2635) - Geller,Efim P (2620) [E18]
+Biel Interzonal Biel (12), 26.07.1976
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.Sc3 Se4 8.Ld2 d6 9.Sxe4 Lxe4 10.Lc3 Lf6 11.Dd2 c6 12.b3 Sd7 13.Tfd1 Tc8 14.Se1 Lxg2 15.Kxg2 Dc7 16.Sf3 c5 ½-½
+
+Petrosian,Tigran V (2635) - Liberzon,Vladimir M (2540) [D37]
+Biel Interzonal Biel (10), 24.07.1976
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Lf4 Sf6 5.e3 0-0 6.Sf3 c5 7.dxc5 Lxc5 8.Dc2 Sc6 9.a3 Da5 10.Sd2 Le7 11.Lg3 Dd8 12.Sf3 Da5 13.Sd2 Db6 14.Le2 d4 15.Sa4 Dd8 16.e4 Sd7 17.Td1 e5 18.b4 b6 19.Sb3 Lb7 20.0-0 Te8 21.Db2 a5 22.b5 Scb8 23.Ld3 Sc5 24.Sbxc5 Lxc5 25.Sxc5 bxc5 ½-½
+
+Petrosian,Tigran V (2635) - Sosonko,Gennadi (2505) [E48]
+Biel Interzonal Biel (8), 21.07.1976
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 dxc4 7.Lxh7+ Kxh7 8.axb4 Sc6 9.Sf3 Sxb4 10.0-0 c5 11.Se5 De7 12.Sxc4 Ld7 13.e4 cxd4 14.Dxd4 e5 15.Dxe5 Dxe5 16.Sxe5 Le6 17.Sf3 Kg8 18.Sd4 Lc4 19.Td1 Tfc8 20.Lg5 Tc5 21.Sf5 Lb3 22.Lxf6 Txf5 23.Td4 Sc2 24.exf5 Sxa1 25.Tg4 Te8 26.Txg7+ Kf8 27.h4 1-0
+
+Petrosian,Tigran V (2635) - Lombard,Andre (2420) [D43]
+Biel Interzonal Biel (6), 17.07.1976
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 c6 5.Db3 Le7 6.Lf4 0-0 7.e3 Da5 8.Tc1 Sbd7 9.cxd5 Sxd5 10.Lg3 Sxc3 11.bxc3 c5 12.Ld3 cxd4 13.exd4 Td8 14.0-0 Sc5 15.Lxh7+ Kxh7 16.dxc5 Dxc5 17.Tfe1 b6 18.Te5 Td5 19.Txd5 exd5 20.Dc2+ g6 21.Le5 Lf5 22.Dd2 f6 23.Ld4 Dd6 24.Te1 Th8 25.Sh4 Ld7 26.Dd3 Le8 27.f4 Kg7 28.Dg3 Th5 29.Dg4 Lf7 1-0
+
+Petrosian,Tigran V (2635) - Tal,Mihail (2615) [E04]
+Biel Interzonal Biel (4), 15.07.1976
+
+1.Sf3 Sf6 2.g3 d5 3.Lg2 c5 4.0-0 Sc6 5.d4 e6 6.c4 dxc4 7.Se5 Sd5 8.Sxc6 bxc6 9.Sc3 Le7 10.dxc5 Da5 11.Sxd5 exd5 12.e4 dxe4 13.Lxe4 0-0 14.Dc2 h6 15.Lxc6 Tb8 16.Lg2 Dxc5 17.Le3 Da5 18.Ld4 ½-½
+
+Petrosian,Tigran V (2635) - Rogoff,Kenneth (2480) [A29]
+Biel Interzonal Biel (2), 12.07.1976
+
+1.c4 Sf6 2.Sc3 e5 3.g3 Lb4 4.Sf3 Sc6 5.Lg2 0-0 6.0-0 e4 7.Se1 Lxc3 8.dxc3 h6 9.Sc2 d6 10.Se3 Te8 11.Dc2 b6 12.Ld2 Se5 13.Tad1 Seg4 14.h3 Sxe3 15.Lxe3 De7 16.Ld4 Lf5 17.Dc1 De6 18.g4 Lg6 19.b3 c5 ½-½
+
+Petrosian,Tigran V (2635) - Quinteros,Miguel Angel (2540) [A77]
+Lone Pine op Lone Pine (6), 12.03.1976
+
+1.d4 g6 2.c4 Lg7 3.Sc3 c5 4.d5 d6 5.e4 e6 6.Sf3 Sf6 7.Le2 0-0 8.0-0 Te8 9.Sd2 exd5 10.cxd5 Sbd7 11.a4 a6 12.Ta3 Tb8 13.a5 Dc7 14.h3 b5 15.axb6 Txb6 16.Dc2 Se5 17.f4 Sed7 18.Kh1 Tb4 19.b3 Sb6 20.Lb2 De7 21.Taa1 Sg4 22.Lxg4 Lxg4 23.Sa2 Le2 24.Lxg7 Lxf1 25.Sxb4 Lb5 26.Sc6 Lxc6 27.dxc6 Kxg7 28.Txa6 Sc8 29.Dc3+ Kg8 30.Dd3 Dh4 31.Df1 Se7 32.c7 Tc8 33.Txd6 Txc7 34.Kh2 Tc8 35.g3 Dh5 36.g4 Dh6 37.e5 Tb8 38.Df2 Tb4 39.Kg3 Kg7 40.De3 Kh8 41.Td8+ Kg7 42.Se4 Sc6 43.Tc8 g5 1-0
+
+Petrosian,Tigran V (2635) - Bisguier,Arthur Bernard (2440) [A28]
+Lone Pine op Lone Pine (4), 10.03.1976
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.d3 Lb4 5.Ld2 0-0 6.g3 Sd4 7.Lg2 Sxf3+ 8.Lxf3 d6 9.Lg2 c6 10.0-0 Le6 11.Db3 a5 12.a3 Lxc3 13.Dxc3 Dd7 14.Lg5 Se8 15.d4 f6 16.Le3 Lh3 17.dxe5 fxe5 18.c5 Sf6 19.cxd6 Lxg2 20.Kxg2 Dxd6 21.Lc5 Dd5+ 22.f3 Tfe8 23.e4 De6 24.Tad1 a4 25.Td6 Df7 26.Tfd1 h6 27.T6d3 Kh7 28.Lb4 Te6 29.Dc4 b5 30.Dc2 Tae8 31.Td8 Dg6 32.Txe8 Dxe8 33.Dd3 Dg6 34.De3 Dh5 35.Td8 Df7 36.Db6 Te8 37.Td6 Dc4 38.Txc6 De2+ 39.Df2 Dd1 40.Dc2 Dd4 41.Td6 De3 42.Dd2 Da7 43.Dd3 Tc8 44.Lc3 Dc5 45.Te6 Te8 46.Txe8 Sxe8 47.Lb4 Dc6 48.Lc3 Dc5 49.Dd7 Sd6 50.Lb4 Dc2+ 51.Kh3 1-0
+
+Petrosian,Tigran V (2635) - Peters,Jack (2370) [D41]
+Lone Pine op Lone Pine (2), 08.03.1976
+
+1.c4 Sf6 2.Sc3 c5 3.g3 Sc6 4.Lg2 e6 5.Sf3 Le7 6.d4 d5 7.cxd5 Sxd5 8.0-0 0-0 9.Sxd5 exd5 10.dxc5 Lxc5 11.a3 a5 12.Se1 d4 13.Sd3 Lb6 14.Ld2 Te8 15.Tc1 Lg4 16.Te1 Tc8 17.h3 Lf5 18.Db3 Le4 19.Lxe4 Txe4 20.Db5 Sa7 21.Txc8 Sxc8 22.Lg5 Dd6 23.Tc1 Sa7 24.Df5 Te8 25.Lf4 Dd8 26.Tc2 Sc6 27.h4 h6 28.Db5 Sa7 29.Df5 Sc6 30.Kf1 Te6 31.Db5 Sa7 32.Db3 Sc6 33.h5 Se7 34.Ke1 Sd5 35.Db5 Sf6 36.Kd1 Sd5 37.Le5 Se7 38.g4 Sc6 39.Lg3 Sa7 40.Db3 Sc6 41.Kc1 Te4 42.f3 Te3 43.Kb1 Se7 44.Lh4 Dd6 45.Lxe7 Txe7 46.Tc8+ Kh7 47.Tf8 Dc7 48.f4 Lc5 49.Dd5 Te5 50.Txf7 1-0
+
+Petrosian,Tigran V (2635) - Kortschnoj,Viktor (2670) [A29]
+URS-CupT Tbilisi, 1976
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 Lb4 5.Lg2 0-0 6.0-0 e4 7.Se1 Lxc3 8.dxc3 Te8 9.Lg5 h6 10.Lxf6 Dxf6 11.Sc2 d6 12.Se3 Te6 13.Dd2 Dg5 14.Tfe1 Te8 15.Tad1 Lf5 16.f4 exf3 17.exf3 Le6 18.f4 Dc5 19.b4 Db6 20.Df2 Se7 21.f5 Sxf5 22.c5 dxc5 23.Sxf5 cxb4 24.Sd4 Lc4 25.cxb4 Dxb4 26.Sc2 Txe1+ 27.Txe1 Db6 28.Se3 Te8 29.Lxb7 Lxa2 30.Dxa2 Dxb7 31.Kf2 Db6 32.Dc4 a5 33.Dc3 a4 34.Tc1 Te6 35.Dc5 h5 36.Tc4 Dxc5 37.Txc5 Tb6 38.Txh5 Tb2+ 39.Kf3 a3 40.h4 a2 41.Ta5 g6 42.Sd5 c5 43.Kf4 Tc2 44.Ta8+ Kg7 45.Ta7 Kh6 46.Ke4 Tf2 47.Ke3 Tg2 48.Kf3 Td2 49.Sf6 Kg7 50.Se4 Tc2 51.g4 c4 52.g5 Kf8 53.Ke3 c3 54.Kd4 Th2 55.Sxc3 Txh4+ 56.Ke5 Tg4 57.Ta8+ Kg7 58.Se4 Tg1 59.Txa2 Tg4 60.Ta1 Tg2 61.Th1 Ta2 62.Td1 Ta5+ 63.Td5 Ta7 64.Tc5 Ta1 65.Sf6 Te1+ 66.Kd6 Te6+ 67.Kd7 Te1 68.Kd8 Td1+ 69.Td5 Te1 70.Td4 Te5 71.Tg4 Ta5 72.Kd7 Ta7+ 73.Kd6 Ta6+ 74.Ke5 Ta5+ 75.Kf4 Ta4+ 76.Kg3 Ta3+ 77.Kh4 Ta1 78.Se4 Th1+ 79.Kg3 Tg1+ 80.Kf3 Tf1+ 81.Ke2 Tf5 82.Tg1 Ta5 83.Tc1 Tf5 84.Tc8 Ta5 85.Ke3 Ta3+ 86.Kf4 Ta4 87.Tb8 Ta6 88.Td8 Ta4 89.Td7 Kf8 90.Ke5 Ta5+ 91.Td5 Ta1 92.Td8+ Kg7 93.Sd6 Ta5+ 94.Kf4 Ta4+ 95.Ke3 Ta3+ 96.Kd4 Ta4+ 97.Ke3 Ta5 98.Td7 Txg5 99.Txf7+ Kh6 100.Kd4 Ta5 101.Ke4 g5 102.Tc7 Kg6 103.Sc4 Ta6 104.Kd5 g4 105.Ke4 Kg5 106.Tc5+ Kh4 107.Se3 Ta4+ 108.Kf5 Kg3 109.Kg5 Kh3 110.Tc8 Ta5+ 111.Sf5 g3 112.Tc3 Kh2 113.Txg3 Txf5+ 114.Kxf5 Kxg3 ½-½
+
+Petrosian,Tigran V (2635) - Portisch,Lajos (2625) [A46]
+Biel Interzonal playoff Biel (1), 1976
+
+1.d4 Sf6 2.Sf3 e6 3.g3 b5 4.Lg2 Lb7 5.0-0 c5 6.Lg5 Le7 7.c3 Sa6 8.e3 Tb8 9.Sbd2 0-0 10.a3 Se4 11.Lxe7 Dxe7 12.De2 Sc7 13.Tfd1 Tfd8 14.Se5 Sxd2 15.Txd2 Lxg2 16.Kxg2 Sd5 17.e4 Sf6 18.Sg4 Sxg4 19.Dxg4 d5 20.dxc5 dxe4 21.Tad1 Txd2 22.Txd2 Dxc5 23.Dxe4 Dc7 24.Dd3 h6 25.Dd7 Dc5 26.Td3 a5 27.Tf3 Tf8 28.Tf4 e5 29.Te4 Kh8 30.Te3 f6 31.Td3 Tb8 32.Dd6 Da7 33.Dc6 Df7 34.Td5 Dg6 35.Txe5 Dd3 36.Tc5 b4 37.cxb4 axb4 38.a4 Db3 39.Tc2 Da2 40.Te2 Kh7 41.h4 b3 42.Dd7 Kh8 43.Te7 Tg8 44.Dd4 Ta8 45.Tb7 Te8 46.Tb5 Tc8 47.Tb4 Tg8 48.Dc3 Ta8 49.Df3 1-0
+
+Petrosian,Tigran V (2635) - Portisch,Lajos (2625) [E15]
+Biel Interzonal playoff Biel (3), 1976
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.g3 La6 5.b3 Lb4+ 6.Ld2 Le7 7.Lg2 d5 8.cxd5 exd5 9.0-0 0-0 10.Sc3 Lb7 11.Tc1 Sbd7 ½-½
+
+Petrosian,Tigran V (2635) - Romanishin,Oleg M (2560) [E41]
+URS-CupT Tbilisi, 1976
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.Sf3 d6 7.Dc2 e5 8.dxe5 dxe5 9.Sd2 Lxc3 10.Dxc3 0-0 11.b3 De7 12.Lb2 Td8 13.f3 a5 14.Td1 Sh5 15.0-0 f5 16.a3 Le6 17.Dc2 Dg5 18.f4 exf4 19.Sf3 Dg4 20.e4 Tf8 21.Tfe1 fxe4 22.Lxe4 Lf5 23.Td5 Lxe4 24.Txe4 Sf6 25.Tg5 Dd7 26.Txf4 De7 27.Df2 b6 28.h3 Tad8 29.Lxf6 Txf6 30.Txf6 Dxf6 ½-½
+
+Petrosian,Tigran V (2635) - Tal,Mihail (2615) [A26]
+Biel Interzonal playoff Biel (4), 1976
+
+1.c4 e5 2.Sc3 d6 3.g3 g6 4.Lg2 Lg7 5.d3 Sc6 6.e4 Sge7 7.Sge2 0-0 8.0-0 Le6 9.Sd5 Dd7 10.Le3 f5 11.Dd2 Tae8 12.Tae1 Sc8 13.b3 Sd8 14.exf5 Lxf5 15.Sdc3 c6 16.d4 e4 17.Sf4 ½-½
+
+Petrosian,Tigran V (2635) - Tal,Mihail (2615) [E18]
+Biel Interzonal playoff Biel (2), 1976
+
+1.d4 Sf6 2.Sf3 e6 3.g3 b6 4.Lg2 Lb7 5.0-0 Le7 6.c4 0-0 7.Sc3 Se4 8.Sxe4 Lxe4 9.Se1 d5 10.cxd5 Lxg2 11.Sxg2 Dxd5 12.Sf4 Db7 13.Le3 Sd7 14.Tc1 Tfd8 15.Dc2 c5 16.dxc5 Sxc5 17.Tfd1 Txd1+ 18.Txd1 ½-½
+
+Petrosian,Tigran V (2645) - Ljubojevic,Ljubomir (2615) [D35]
+Milan 3pl Milan (5), 13.09.1975
+
+1.d4 e6 2.c4 Sf6 3.Sc3 d5 4.cxd5 exd5 5.Lg5 Sbd7 6.e3 c6 7.Ld3 Ld6 8.Sf3 Sf8 9.Lh4 Sg6 10.Lg3 0-0 11.Tb1 Te8 12.Dc2 Sf4 13.Lxf4 Lxf4 14.0-0 Ld6 15.Tfe1 Lg4 16.Sd2 Lh5 ½-½
+
+Petrosian,Tigran V (2645) - Ljubojevic,Ljubomir (2615) [C09]
+Milan 3pl Milan (3), 11.09.1975
+
+1.d4 e6 2.e4 d5 3.Sd2 c5 4.Sgf3 Sc6 5.exd5 exd5 6.Lb5 Ld6 7.0-0 Sge7 8.dxc5 Lxc5 9.Sb3 Ld6 10.Ld2 0-0 11.Lc3 Lg4 12.Sbd4 Lh5 13.Le2 Sg6 14.Se1 Lxe2 15.Sxe2 Te8 16.Sf3 Sh4 17.Sed4 Te4 18.Sxc6 bxc6 19.g3 Sxf3+ 20.Dxf3 Dg5 21.Tae1 Tae8 22.Txe4 Txe4 23.Kg2 h5 24.Te1 Txe1 25.Lxe1 Dc1 26.Dc3 h4 27.Dxc6 ½-½
+
+Petrosian,Tigran V (2645) - Ljubojevic,Ljubomir (2615) [A77]
+Milan 3pl Milan (1), 09.09.1975
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 g6 6.Sf3 Lg7 7.e4 d6 8.Le2 0-0 9.0-0 Sbd7 10.Sd2 Te8 11.a4 Se5 12.Ta3 Ld7 13.Dc2 Tc8 14.f4 Seg4 15.Sc4 De7 16.h3 b5 17.axb5 Sh5 18.Lxg4 Lxg4 19.Df2 Ld7 20.e5 dxe5 21.fxe5 Lxe5 22.Sxe5 Dxe5 23.Txa7 Tcd8 24.Dxf7+ Kh8 25.Df2 Db8 26.Dxc5 Lxh3 27.Dd4+ Kg8 28.Lh6 Ld7 29.d6 Te6 30.Tc7 1-0
+
+Petrosian,Tigran V (2645) - Karpov,Anatoly (2705) [A29]
+Milan sf2 Milan (4), 08.09.1975
+
+1.c4 Sf6 2.Sc3 e5 3.Sf3 Sc6 4.g3 Lb4 5.Sd5 Sxd5 6.cxd5 Sd4 7.Lg2 Sxf3+ 8.Lxf3 0-0 9.0-0 d6 10.Lg2 Lc5 11.b3 Ld4 12.Tb1 Lf5 13.d3 Dd7 14.Lb2 Lxb2 15.Txb2 Lh3 16.Lxh3 Dxh3 17.Tc2 Dd7 18.Dc1 Tfc8 19.De3 c5 20.dxc6 Txc6 21.Txc6 bxc6 22.d4 Te8 23.Te1 h6 24.Kg2 a5 25.h3 exd4 26.Dxd4 c5 27.Dd5 a4 28.bxa4 Dxa4 29.Dxd6 Dxa2 30.Dxc5 ½-½
+
+Petrosian,Tigran V (2645) - Karpov,Anatoly (2705) [E18]
+Milan sf2 Milan (2), 04.09.1975
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.g3 Lb7 5.Lg2 Le7 6.Sc3 Se4 7.Ld2 Lf6 8.Dc2 Sxd2 9.Dxd2 0-0 10.0-0 d6 11.e4 Sd7 12.d5 De7 13.Tfe1 Lxc3 14.Dxc3 e5 15.b4 a5 16.a3 Ta7 17.Sh4 g6 18.Lh3 Tfa8 19.Sg2 Lc8 20.Se3 Sf6 21.Lxc8 Txc8 22.f3 Tca8 23.Tec1 Sd7 24.h4 De8 25.Db2 Ta6 26.b5 T6a7 27.a4 De7 28.Kg2 Sc5 29.Dc2 Tf8 30.Th1 Taa8 31.Tae1 Tac8 32.g4 h6 ½-½
+
+Petrosian,Tigran V (2645) - Andersson,Ulf (2565) [A30]
+Milan Milan (10), 31.08.1975
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 c5 4.g3 b6 5.Lg2 Lb7 6.0-0 a6 7.d4 cxd4 8.Dxd4 d6 9.Td1 Le7 10.b3 Sbd7 11.e4 Dc7 12.Lb2 0-0 13.De3 Tac8 14.Sd4 Db8 15.Te1 Tfe8 16.h3 Lf8 17.Tad1 La8 18.Te2 Tc7 19.Ted2 Tec8 20.La1 Tc5 ½-½
+
+Petrosian,Tigran V (2645) - Gligoric,Svetozar (2575) [E88]
+Milan Milan (8), 28.08.1975
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.f3 0-0 6.Le3 e5 7.d5 c6 8.Ld3 cxd5 9.cxd5 Sh5 10.Sge2 f5 11.exf5 Lxf5 12.0-0 Sd7 13.Se4 Sf4 14.S2g3 Kh8 15.Lc2 Sb6 16.Lb3 Tc8 17.Dd2 Sc4 18.Lxc4 Txc4 19.b3 Tc8 20.Tac1 Txc1 21.Txc1 Lh6 22.Kh1 a6 23.a4 Lg7 24.a5 Dd7 25.Lb6 Kg8 26.Tc7 Db5 27.Sxd6 Dxd5 28.Dxd5+ Sxd5 29.Txb7 Ld3 30.h3 h5 31.Sge4 Lh6 32.h4 Lc1 33.Lc5 Sf6 34.Sg5 Lxg5 35.hxg5 Sd5 36.b4 Sc3 37.b5 axb5 38.a6 Lc4 39.Sxc4 1-0
+
+Petrosian,Tigran V (2645) - Unzicker,Wolfgang (2535) [E53]
+Milan Milan (6), 26.08.1975
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 Lxc3+ 7.bxc3 dxc4 8.Lxc4 c5 9.Sf3 Dc7 10.Le2 b6 11.0-0 Lb7 12.Lb2 Sbd7 13.h3 Tfd8 14.a4 Tac8 15.Te1 Lxf3 16.gxf3 Se5 17.Tc1 Db7 18.f4 Sg6 19.Lf3 Dc7 20.De2 Sh4 21.Lh1 Sf5 ½-½
+
+Petrosian,Tigran V (2645) - Smejkal,Jan (2600) [A16]
+Milan Milan (4), 23.08.1975
+
+1.Sf3 Sf6 2.c4 g6 3.Sc3 d5 4.Da4+ Ld7 5.Db3 dxc4 6.Dxc4 Lg7 7.g3 c6 8.Lg2 Sa6 9.0-0 Le6 10.Da4 Dc8 11.Te1 Lh3 12.Lh1 0-0 13.d3 Sc7 14.Lf4 Sfd5 15.Ld2 Lg4 16.Tac1 e5 17.Sg5 Sb6 18.Db4 Td8 19.Sge4 Lf5 20.Lg5 Td4 21.Da3 Lxe4 22.Lxe4 Se6 23.Le3 Lf8 24.Db3 Td8 25.Lg2 Sd4 26.Dd1 De6 27.Ld2 Td7 28.Se4 Le7 29.b3 a5 ½-½
+
+Petrosian,Tigran V (2645) - Portisch,Lajos (2635) [A07]
+Milan Milan (3), 22.08.1975
+
+1.Sf3 d5 2.g3 Lg4 3.Lg2 Sd7 4.0-0 Sgf6 5.d3 e5 6.c4 dxc4 7.dxc4 c6 8.Dc2 Lc5 9.Sc3 0-0 10.h3 Lxf3 11.Lxf3 De7 12.Kh2 Tfe8 13.Lg5 h6 14.Lxf6 Sxf6 15.e3 e4 16.Lg2 h5 17.Tfd1 De6 18.Se2 Tad8 19.Kg1 g6 20.a3 Lb6 21.b3 De7 22.Txd8 Lxd8 23.Td1 Dxa3 24.Sc3 Kg7 25.h4 La5 26.Sxe4 Sxe4 27.Lxe4 Td8 ½-½
+
+Petrosian,Tigran V (2645) - Karpov,Anatoly (2705) [E54]
+Milan Milan (1), 20.08.1975
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 c5 6.Sf3 d5 7.0-0 cxd4 8.exd4 dxc4 9.Lxc4 b6 10.Lg5 Lb7 11.De2 Lxc3 12.bxc3 Sbd7 13.Ld3 Dc7 14.c4 Sg4 15.Le4 Lxe4 16.Dxe4 Sgf6 17.Dd3 h6 18.Lxf6 Sxf6 19.a4 Tac8 20.Tfc1 Tfd8 21.h3 e5 22.Sxe5 Dxe5 23.dxe5 Txd3 24.exf6 Td4 25.a5 gxf6 26.axb6 axb6 27.Tab1 Tdxc4 28.Txc4 Txc4 29.Txb6 ½-½
+
+Petrosian,Tigran V (2645) - Bagirov,Vladimir (2490) [D47]
+URS-chT Riga, 1975
+
+1.d4 d5 2.c4 e6 3.Sc3 c6 4.Sf3 Sf6 5.e3 Sbd7 6.Ld3 dxc4 7.Lxc4 b5 8.Lb3 b4 9.Se2 Lb7 10.0-0 Ld6 11.Sf4 0-0 12.Sg5 De7 13.Sfxe6 fxe6 14.e4 h6 15.Sxe6 Sxe4 16.De2 c5 17.Sxc5+ Kh8 18.Sxb7 Txf2 19.Dxf2 Sxf2 20.Sxd6 Dxd6 21.Txf2 Dxd4 22.Lf4 Sf6 23.Td1 Dc5 24.Tc1 Db6 25.Lc7 De3 26.Lf4 Db6 27.Lc7 Db5 28.h3 Te8 29.Kh2 Dh5 30.Ld1 Dd5 31.Lb3 Dd4 32.Tfc2 Sd5 33.Lg3 Se3 34.Tf2 ½-½
+
+Petrosian,Tigran V (2645) - Balashov,Yuri S (2540) [A30]
+URS-ch43 Yerevan, 1975
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 c5 4.g3 b6 5.Lg2 Lb7 6.0-0 a6 7.Te1 d6 8.e4 Sbd7 9.b3 Le7 10.d4 cxd4 11.Sxd4 Dc7 12.Lb2 0-0 13.h3 Tfe8 14.Tc1 Lf8 15.Kh2 Tad8 16.Tc2 Db8 17.Tce2 Sc5 18.Kg1 Da8 19.La1 Db8 20.Te3 Dc7 21.Db1 Scd7 22.Lb2 Se5 23.Dc2 Sed7 24.De2 Tc8 25.Kh1 Tcd8 26.Sc2 Tc8 27.f4 Sb8 28.Tc1 Ted8 29.Se1 h6 30.Sd3 Sbd7 31.Kh2 Le7 32.h4 Sh7 33.Sd1 Lf6 34.Sc3 Ld4 35.Sd5 exd5 36.Lxd4 dxe4 37.Sf2 Shf6 38.Sxe4 Lxe4 39.Lxe4 Te8 40.Lf3 Txe3 41.Dxe3 Te8 42.Dc3 Se4 43.Db2 f5 44.Te1 Sdc5 45.Dc2 De7 46.Dd1 De6 47.Te3 a5 48.Kg2 Te7 49.Lb2 Kh7 50.Le2 Df7 51.a3 Sf6 52.Txe7 Dxe7 53.Lf3 Sg4 54.Ld4 Se3+ 55.Lxe3 Dxe3 56.Dd5 De6 57.Dxe6 Sxe6 58.h5 Sd4 59.Ld1 g5 60.hxg6+ Kxg6 61.Kf2 Kf6 62.Ke3 Se6 63.Lc2 Sg7 64.Ld1 Se6 65.b4 axb4 66.axb4 Sc7 67.Kd4 Ke6 68.Lb3 Kf6 69.La4 Ke6 70.Lc6 Ke7 71.Lb7 Kd7 72.Kd3 Se6 73.Ke3 Kd8 74.Lg2 Ke7 75.Ld5 Sc7 76.Lb7 Kd7 77.Kf3 Se6 78.Kg2 ½-½
+
+Petrosian,Tigran V (2645) - Beliavsky,Alexander G (2500) [A04]
+Moscow Moscow, 1975
+
+1.Sf3 c5 2.g3 g6 3.c3 b6 4.Lg2 Lb7 5.0-0 Sf6 6.d3 Lg7 7.e4 d6 8.Sbd2 Sbd7 9.Te1 0-0 10.d4 cxd4 11.cxd4 Dc7 12.b3 Tac8 13.La3 b5 14.Lh3 h5 15.Sg5 Sg4 16.Sdf3 Da5 17.Lb2 Tc7 18.Lg2 e6 19.Te2 Tfc8 20.a3 Db6 21.Dd3 Sgf6 22.Sxf7 Kxf7 23.Sg5+ Kg8 24.Sxe6 Sf8 25.Sxc7 Txc7 26.e5 Sd5 27.b4 a6 28.e6 Te7 29.Tae1 Dd8 30.f4 De8 31.f5 gxf5 32.Dxf5 Dg6 33.Dxg6 Sxg6 34.Tf1 h4 35.Tf5 Sf6 36.d5 Se8 37.Tg5 Lxb2 38.Txb2 Tg7 39.Tf2 hxg3 40.hxg3 ½-½
+
+Petrosian,Tigran V (2645) - Beliavsky,Alexander G (2500) [B36]
+URS-ch43 Yerevan, 1975
+
+1.c4 c5 2.Sf3 g6 3.e4 Sc6 4.d4 cxd4 5.Sxd4 Sxd4 6.Dxd4 Sf6 7.Sc3 d6 8.Lg5 Lg7 9.Dd2 0-0 10.Ld3 a6 11.0-0 Ld7 12.Tfe1 Lc6 13.Tac1 e6 14.b4 b6 15.Ted1 De7 16.Df4 Tfd8 17.a3 Tac8 18.Dh4 a5 19.h3 Tc7 20.f4 h6 21.Lxh6 Lxh6 22.Dxh6 axb4 23.axb4 Sh5 24.Le2 Sf6 25.Ld3 Sh5 26.f5 Df6 27.Se2 De5 28.fxg6 fxg6 29.De3 Tb8 30.c5 bxc5 31.bxc5 Td8 32.cxd6 Txd6 33.Tc5 Td5 34.Tc3 Tdd7 35.Tdc1 Lb7 36.Txc7 Txc7 37.Txc7 Dxc7 38.e5 Kg7 39.Dg5 Df7 40.g4 Df3 41.Dxg6+ Kf8 42.gxh5 1-0
+
+Petrosian,Tigran V (2645) - Beliavsky,Alexander G (2500) [D77]
+URS-chT Riga, 1975
+
+1.Sf3 Sf6 2.g3 g6 3.Lg2 Lg7 4.0-0 0-0 5.d4 d5 6.c4 dxc4 7.Sa3 Sc6 8.Sxc4 Le6 9.b3 a5 10.Lb2 Ld5 11.Tc1 a4 12.bxa4 Se8 13.Sfe5 Lxg2 14.Kxg2 Lxe5 15.dxe5 Dxd1 16.Tfxd1 Txa4 17.a3 Sg7 18.Td5 Se6 19.f4 Sb8 20.Kf3 c6 21.Ta5 Txa5 22.Sxa5 Sd7 23.Lc3 Ta8 24.Td1 Sdc5 25.Lb4 Kf8 26.g4 Sa6 27.Le1 Td8 28.Txd8+ Sxd8 29.Lf2 c5 30.Ke4 Ke8 31.a4 Kd7 32.Sc4 Kc7 33.f5 b6 34.Lg3 e6 35.Sd6 Sb4 36.Lh4 Sbc6 37.Lxd8+ Sxd8 38.f6 Kb8 39.g5 Ka7 40.Kd3 Ka6 41.Kc4 Ka5 42.Kb3 Ka6 43.e3 ½-½
+
+Petrosian,Tigran V (2645) - Bohm,Hans (2300) [D18]
+Moscow Moscow, 1975
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.Sf3 dxc4 5.a4 Lf5 6.e3 e6 7.Lxc4 Lb4 8.0-0 Sbd7 9.De2 Lg6 10.e4 Lxc3 11.bxc3 Sxe4 12.La3 Dc7 13.Tfc1 0-0-0 14.a5 The8 15.Sh4 Sd6 16.Sxg6 hxg6 17.Lb3 Th8 18.h3 Th5 19.Ld1 Tdh8 20.Tcb1 Th4 21.Lxd6 Dxd6 22.Db2 Dc7 23.Ta3 Te8 24.Tb3 b6 25.axb6 axb6 26.Ta3 Kd8 27.Ta8+ Ke7 28.Da3+ c5 29.Ta7 Dd6 30.La4 Td8 31.dxc5 Dxc5 32.Dxc5+ bxc5 33.Lc6 1-0
+
+Petrosian,Tigran V (2645) - Butnorius,Algimantas (2385) [E45]
+URS-chT Riga, 1975
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 b6 5.Sge2 La6 6.Sg3 0-0 7.e4 d5 8.cxd5 Lxf1 9.Kxf1 Lxc3 10.bxc3 exd5 11.e5 Se4 12.Dd3 f5 13.Se2 Sg5 14.Lxg5 Dxg5 15.g3 Dh6 16.Sf4 Sc6 17.Df3 Se7 18.Sxd5 Dh3+ 19.Kg1 Sxd5 20.Dxd5+ Kh8 21.f4 Tad8 22.Dc6 Dh5 23.Kf2 g5 24.Ke3 Df7 25.Thf1 g4 26.Tfd1 Tfe8 27.c4 Te6 28.Db5 Th6 29.Td2 Th3 30.d5 h5 31.Db4 h4 32.Tg1 Kg7 33.e6 Df6 34.Db2 hxg3 35.hxg3 Dxb2 36.Txb2 Kf6 37.Kd4 Tdh8 38.Te2 T3h7 39.c5 Te8 40.Kc4 Thh8 41.Tge1 bxc5 42.Kxc5 Th3 43.Tg2 Teh8 44.Tee2 T3h7 45.Kc6 1-0
+
+Petrosian,Tigran V (2645) - Byrne,Robert E (2600) [D37]
+Moscow Moscow, 1975
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.Sf3 Le7 5.Lf4 0-0 6.e3 c5 7.dxc5 Lxc5 8.Dc2 dxc4 9.Lxc4 a6 10.Ld3 Sbd7 11.0-0 b5 12.Se4 Db6 13.Tac1 Le7 14.Lc7 Da7 15.Ld6 Lxd6 16.Sxd6 Db8 17.Tfd1 Lb7 18.Sg5 g6 19.Dc7 Ld5 20.b3 Ta7 21.Dxb8 Sxb8 22.e4 Lc6 23.e5 Sd5 24.h4 h6 25.Sge4 La8 26.g3 Sc6 27.f4 Sd4 28.Tc5 Sf5 29.Tdc1 Sxd6 30.Sxd6 Td7 31.a4 Sb4 32.Le2 bxa4 33.bxa4 f6 34.Lg4 f5 35.Le2 g5 36.Tc8 Tdd8 37.T8c7 gxf4 38.gxf4 Tb8 39.Kf2 Sd5 40.Ta7 Tb2 41.Tg1+ 1-0
+
+Petrosian,Tigran V (2645) - Debarnot,Roberto Luis (2380) [E53]
+Las Palmas Las Palmas (13), 1975
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 d5 6.Sf3 0-0 7.0-0 Sbd7 8.cxd5 exd5 9.a3 Lxc3 10.bxc3 c4 11.Lc2 Te8 12.Sd2 Da5 13.Lb2 Sb6 14.Te1 Ld7 15.a4 Se4 16.Sf1 f5 17.f3 Sf6 18.h3 h5 19.Sg3 g6 20.Kf2 h4 21.Sf1 Te6 22.Kg1 Kf7 23.Te2 Th8 24.Lc1 Sc8 25.De1 Lc6 26.La3 Dc7 27.Df2 a5 28.Tae1 Kg7 29.Sd2 Sh5 30.Ta1 Dg3 31.Sf1 Dxf2+ 32.Kxf2 The8 33.Tee1 Sg3 34.Sd2 f4 35.e4 dxe4 36.fxe4 Lxe4 37.Sxe4 Sxe4+ 38.Txe4 Txe4 39.Lxe4 Txe4 40.Tb1 b6 41.d5 Te3 42.Td1 Txc3 43.Lb2 1-0
+
+Petrosian,Tigran V (2645) - Dorfman,Josif D (2380) [D46]
+URS-ch43 Yerevan, 1975
+
+1.c4 e6 2.Sf3 d5 3.e3 Sf6 4.b3 c6 5.Sc3 Sbd7 6.Lb2 Ld6 7.d4 0-0 8.Ld3 a6 9.0-0 b5 10.Dc2 Lb7 11.c5 Lc7 12.b4 h6 13.a4 De7 14.Se2 e5 15.dxe5 Sxe5 16.Sxe5 Lxe5 17.Lxe5 Dxe5 18.h3 Tfb8 19.Sd4 Se8 20.Ta3 Sc7 21.Tfa1 g6 22.Dc3 De8 23.T1a2 bxa4 24.Txa4 Dd7 25.Sf3 De7 26.Dd4 Te8 27.Df4 Kg7 28.Dg3 Tac8 29.Sd4 Dg5 30.Dxg5 hxg5 31.Lxa6 Sxa6 32.Txa6 Lxa6 33.Txa6 Tc7 34.Sxc6 Te6 35.b5 Te4 36.Ta7 Tc8 37.Td7 Tc4 38.Txd5 Kh6 39.Kh2 f5 40.Kg3 Tc3 41.Kf3 f4 1-0
+
+Petrosian,Tigran V (2645) - Doroshkievich,Vladimir K (2425) [A49]
+URS-ch43 Yerevan, 1975
+
+1.Sf3 Sf6 2.g3 g6 3.Lg2 Lg7 4.0-0 0-0 5.d4 d6 6.a4 a5 7.b3 c6 8.Lb2 Dc7 9.Sbd2 Te8 10.e4 Sa6 11.h3 e5 12.Te1 Sd7 13.Sc4 Sb4 14.c3 Sa6 15.Dd2 Lf8 16.Te2 Sab8 17.Dc2 Sb6 18.Se3 Sa6 19.Tae1 f6 20.Db1 Le6 21.c4 Sd7 22.h4 Sb4 23.Sh2 Lf7 24.Tc1 Db8 25.h5 Lg7 26.Lh3 Sf8 27.hxg6 hxg6 28.d5 Te7 29.La3 Da7 30.Td1 Td8 31.Ted2 Dc5 32.Sc2 Lh6 33.Td3 cxd5 34.Lxb4 axb4 35.Txd5 Lxd5 36.Txd5 Dc7 37.Sxb4 Se6 38.Sg4 Lg5 39.Td1 Tee8 40.Sd5 Df7 41.Sdxf6+ Kg7 42.Sxe8+ 1-0
+
+Petrosian,Tigran V (2645) - Fernandez,A (2300) [D24]
+Las Palmas Las Palmas (6), 1975
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Sc3 dxc4 5.e3 Le7 6.Lxc4 0-0 7.0-0 a6 8.e4 b5 9.Ld3 Lb7 10.Dc2 h6 11.e5 Sd5 12.Le4 Dd7 13.Td1 Td8 14.Se2 Sc6 15.a3 Sa5 16.Sg3 Tac8 17.b4 Sc4 18.Sh5 a5 19.Lxh6 gxh6 20.Dc1 Sce3 21.fxe3 Sc3 22.Dxc3 Lxe4 23.Tf1 axb4 24.axb4 Kh8 25.Sg3 Lg6 26.Ta7 De8 27.e4 h5 28.De3 Df8 29.Se2 Dg7 30.Sf4 Tg8 31.Tb7 Dh7 32.Sxg6+ Dxg6 33.De2 Lxb4 34.Txb5 Le7 35.Tb7 Ld8 36.d5 Ta8 37.d6 c5 38.Se1 Tg7 39.Sd3 Lg5 40.g3 h4 ½-½
+
+Petrosian,Tigran V (2645) - Furman,Semen Abramovich (2560) [A12]
+URS-ch43 Yerevan, 1975
+
+1.Sf3 Sf6 2.g3 d5 3.Lg2 c6 4.0-0 Lf5 5.b3 e6 6.Lb2 h6 7.d3 Le7 8.Sbd2 0-0 9.c4 Sbd7 10.a3 a5 11.Dc2 Lh7 12.Lc3 Te8 13.Db2 Ld6 14.Se5 Sxe5 15.Lxe5 Lxe5 16.Dxe5 Db6 17.h3 Tad8 18.Tfb1 Sd7 19.Dc3 Ta8 20.b4 axb4 21.axb4 Tec8 22.Tb3 Txa1+ 23.Dxa1 Dd8 24.Ta3 Lg6 25.Ta7 Tb8 26.Sb3 Df8 27.cxd5 cxd5 28.Da4 Dc8 29.Db5 Se5 30.f4 Dc6 31.Dc5 Dxc5+ 32.bxc5 Sc6 33.Ta4 b6 34.g4 bxc5 35.Sxc5 Tb4 36.Ta8+ Tb8 37.Ta4 Tb4 38.Ta6 Sd4 39.Ta8+ Kh7 40.f5 exf5 41.Sd7 h5 ½-½
+
+Petrosian,Tigran V (2645) - Garcia Martinez,Silvino (2445) [A30]
+Moscow Moscow, 1975
+
+1.c4 Sf6 2.Sc3 c5 3.g3 e6 4.Sf3 b6 5.Lg2 Lb7 6.0-0 a6 7.d4 cxd4 8.Dxd4 d6 9.Td1 Le7 10.b3 Sbd7 11.Lb2 Db8 12.e4 0-0 13.h3 b5 14.Sd2 b4 15.Se2 Te8 16.Sc1 Lc6 17.Sd3 Db7 18.a4 Ted8 19.De3 Se8 20.Tac1 Sc5 21.Sxc5 dxc5 22.Lf3 Td7 23.Le2 Tad8 24.e5 a5 25.Sf3 Txd1+ 26.Txd1 Txd1+ 27.Lxd1 Dd7 28.Le2 Lb7 29.Sd2 Sc7 30.Ld3 Sa6 31.Kf1 Sb8 32.Ke2 Sc6 33.Le4 h6 34.f4 Kf8 35.Sf3 Sd8 36.g4 Lxe4 37.Dxe4 Dc6 38.Dxc6 Sxc6 39.Lc1 Ke8 40.Le3 Kd7 41.h4 Lf8 42.Kd3 Sd8 43.h5 Kc6 44.g5 Le7 45.gxh6 gxh6 46.Ke4 Lf8 47.Se1 f5+ 48.exf6 Sf7 49.Sd3 Ld6 50.f5 e5 51.Sf2 Lc7 52.Kf3 Sd6 53.Lxh6 Sxf5 54.Le3 Kd6 55.h6 Ke6 56.h7 Sh4+ 57.Kg4 Sg6 1-0
+
+Petrosian,Tigran V (2645) - Gulko,Boris F (2480) [E17]
+URS-ch43 Yerevan, 1975
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 b6 4.g3 Lb7 5.Lg2 Le7 6.0-0 0-0 7.Te1 d5 8.cxd5 exd5 9.d4 Sbd7 10.Db3 c5 11.dxc5 Sxc5 12.Dd1 Se6 13.Sb5 Lb4 14.Ld2 Lc5 15.e3 Se4 16.Lc3 a6 17.Sbd4 Sxc3 18.bxc3 Dc7 19.Dd3 h6 20.Te2 Tfe8 21.a4 Lf8 22.Tb2 Tab8 23.Sxe6 fxe6 24.Sd2 Tbd8 25.c4 a5 26.cxd5 Lxd5 27.Lxd5 Txd5 28.Dg6 Tdd8 29.Tc2 Dd7 30.Sc4 Lc5 31.Sxa5 Lxe3 32.Sc6 Ld4 33.Tac1 Ta8 34.Sxd4 Dxd4 35.Tc4 De5 36.Db1 Teb8 37.Tb4 Dd6 38.Td1 Dc6 39.Db3 Tb7 40.Tc4 De8 41.Te4 Td7 42.Txd7 Dxd7 43.Txe6 Df7 44.h4 Tb8 45.h5 Ta8 46.f3 Kf8 47.Db4+ Kg8 48.Dc4 Tf8 49.f4 Kh8 50.Dd5 Da7 51.Dd4 Kh7 52.Txb6 Da5 53.De4+ Kh8 54.Tb5 Dd2 55.Td5 Da2 56.Te5 Tb8 57.Te8+ Txe8 58.Dxe8+ Kh7 59.De4+ Kh8 60.g4 Dd2 61.Kf1 Kg8 62.De8+ Kh7 63.Dg6+ Kh8 64.De8+ Kh7 65.De4+ Kg8 66.g5 hxg5 67.fxg5 Dd1+ 68.Kg2 Dxh5 69.g6 Dg5+ 70.Kf3 Dh5+ 71.Kg3 Dg5+ 72.Kf3 Dh5+ 73.Ke3 Dc5+ 74.Ke2 Dh5+ 75.Kd2 Dh2+ 76.Kc3 Dg3+ 77.Kc4 Dc7+ 78.Kd4 Db6+ 79.Kc3 Df6+ 80.Kd3 Dd6+ 81.Ke2 Dh2+ 82.Kf1 Dh3+ 83.Kg1 Dg3+ 84.Kf1 Dh3+ 85.Ke1 Dg3+ 86.Kd1 Dg1+ 87.Kc2 Dh2+ 88.Kb3 Db8+ 89.Ka3 Dd6+ 90.Kb2 Db6+ 91.Kc3 Df6+ 92.Kc2 Kf8 93.Da8+ Ke7 94.Db7+ Kd8 95.Dd5+ 1-0
+
+Petrosian,Tigran V (2645) - Gurgenidze,Bukhuti (2495) [A41]
+URS-chT Riga, 1975
+
+1.d4 g6 2.c4 d6 3.Sc3 e5 4.Sf3 Sc6 5.g3 Lg4 6.Lg2 Lg7 7.d5 Sce7 8.e4 f6 9.0-0 Sh6 10.b4 Sf7 11.Db3 0-0 12.c5 f5 13.Sg5 Sxg5 14.Lxg5 fxe4 15.h3 Ld7 16.Sxe4 Lb5 17.Tfc1 h6 18.cxd6 cxd6 19.Sxd6 hxg5 20.Sxb5 Sf5 21.Sc7 Sd4 22.De3 Tc8 23.Se6 Sxe6 24.dxe6 e4 25.Txc8 Dxc8 26.Dxe4 Lxa1 27.Dxg6+ Lg7 28.e7 Dc1+ 29.Kh2 Dd2 30.De6+ Kh7 31.exf8D 1-0
+
+Petrosian,Tigran V (2645) - Hort,Vlastimil (2600) [D94]
+Moscow Moscow, 1975
+
+1.Sf3 d5 2.c4 c6 3.e3 Sf6 4.Sc3 g6 5.d4 Lg7 6.Le2 0-0 7.0-0 b6 8.b4 Lb7 9.Lb2 Sbd7 10.cxd5 cxd5 11.Db3 Db8 12.a4 a6 13.b5 a5 14.Tac1 Tc8 15.Tc2 e6 16.La3 Lf8 17.Lxf8 Kxf8 18.Da3+ Kg7 19.Tfc1 Tc7 20.Sd1 Txc2 21.Txc2 Df8 ½-½
+
+Petrosian,Tigran V (2645) - Kholmov,Ratmir D (2540) [E55]
+Moscow Moscow, 1975
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 d5 6.Sf3 dxc4 7.Lxc4 0-0 8.0-0 Sbd7 9.De2 b6 10.Td1 cxd4 11.exd4 Lb7 12.Ld3 Sd5 13.Ld2 Le7 14.Tac1 Sxc3 15.bxc3 Dc7 16.c4 Ld6 17.Le4 ½-½
+
+Petrosian,Tigran V (2645) - Mecking,Henrique (2610) [A12]
+Las Palmas Las Palmas (8), 1975
+
+1.Sf3 Sf6 2.c4 c6 3.b3 d5 4.Lb2 Lg4 5.e3 Sbd7 6.Le2 e6 7.0-0 Ld6 8.cxd5 cxd5 9.Sd4 Lxe2 10.Dxe2 0-0 11.f4 Tc8 12.Sc3 a6 13.Tfc1 De7 14.a3 Tfe8 15.b4 Lb8 16.Sf3 e5 17.fxe5 Sxe5 18.Sa4 ½-½
+
+Petrosian,Tigran V (2645) - Olafsson,Fridrik (2535) [A13]
+Las Palmas Las Palmas (2), 1975
+
+1.Sf3 Sf6 2.c4 e6 3.g3 d5 4.Lg2 dxc4 5.Da4+ Sbd7 6.Dxc4 c5 7.Dc2 b6 8.b3 Lb7 9.Lb2 Le7 10.0-0 0-0 11.Sc3 Tc8 12.Tfd1 a6 13.d3 Dc7 14.Tac1 ½-½
+
+Petrosian,Tigran V (2645) - Planinec,Albin (2535) [A50]
+Moscow Moscow, 1975
+
+1.c4 b6 2.Sc3 Lb7 3.d4 Sf6 4.d5 e6 5.a3 Ld6 6.Sf3 0-0 7.e4 exd5 8.exd5 c6 9.Le2 cxd5 10.cxd5 Sa6 11.0-0 Te8 12.Lg5 h6 13.Lh4 Tc8 14.Sd4 Sc5 15.Sf5 Lf8 16.b4 Sce4 17.Sxe4 Txe4 18.Ld3 Te8 19.Se3 g5 20.Lg3 Sxd5 21.Sxd5 Lxd5 22.Lh7+ Kxh7 23.Dxd5 De7 24.Tad1 a5 25.bxa5 bxa5 26.Dxa5 Dxa3 27.Df5+ Kg8 28.Txd7 Db3 ½-½
+
+Petrosian,Tigran V (2645) - Polugaevsky,Lev (2645) [D60]
+URS-ch43 Yerevan, 1975
+
+1.Sf3 Sf6 2.d4 d5 3.c4 e6 4.Sc3 c6 5.Db3 Le7 6.Lg5 Sbd7 7.e3 0-0 8.Le2 h6 9.Lh4 dxc4 10.Dxc4 Sd5 11.Lxe7 Dxe7 12.0-0 S5b6 13.Dd3 e5 14.Tad1 Te8 15.De4 exd4 16.Dxe7 Txe7 17.Txd4 Sf6 18.Td8+ Te8 19.Txe8+ Sxe8 20.Sd4 Kf8 21.e4 Ld7 22.f3 Ke7 23.Kf2 Sd6 24.Sb3 Td8 25.Sc5 Lc8 26.f4 Sd7 27.Sd3 Sf8 28.Ke3 Se6 29.Tc1 b6 30.Sb4 Lb7 ½-½
+
+Petrosian,Tigran V (2645) - Rodriguez Vargas,Orestes (2435) [A67]
+Las Palmas Las Palmas (15), 1975
+
+1.d4 Sf6 2.c4 e6 3.Sc3 c5 4.d5 exd5 5.cxd5 g6 6.e4 d6 7.f4 Lg7 8.Lb5+ Sfd7 9.Ld3 0-0 10.Sf3 Sa6 11.0-0 Sc7 12.a4 Sa6 13.Te1 Te8 14.h3 Sb4 15.Lc4 a6 16.Le3 Tb8 17.Lf2 b5 18.axb5 axb5 19.Sxb5 Sb6 20.Lf1 Lxb2 21.Lh4 Dd7 22.Ta7 Tb7 23.Ta5 Lg7 24.e5 dxe5 25.Sxe5 Txe5 26.fxe5 S6xd5 27.Sd6 Tc7 28.Lb5 De6 29.Se8 Lxe5 30.Sxc7 Sxc7 31.Lg3 Lxg3 32.Txe6 Sxe6 33.Df3 Lc7 34.Le8 1-0
+
+Petrosian,Tigran V (2645) - Stean,Michael (2300) [D86]
+Moscow Moscow, 1975
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.e4 Sxc3 6.bxc3 Lg7 7.Lc4 0-0 8.Se2 b6 9.h4 Sc6 10.h5 Sa5 11.Ld3 e5 12.hxg6 hxg6 13.Lh6 f6 14.Dd2 De7 15.0-0-0 Le6 16.d5 Ld7 17.Th2 Tf7 18.Tdh1 Te8 19.f4 c6 20.fxe5 Dxe5 21.Sf4 g5 22.Sg6 Dd6 23.Lxg7 Txg7 24.e5 Txe5 25.dxc6 Lxc6 26.Sxe5 Dxe5 27.Th8+ Kf7 28.Tf1 Le4 29.De1 1-0
+
+Petrosian,Tigran V (2645) - Tal,Mihail (2645) [E11]
+Las Palmas Las Palmas (4), 1975
+
+1.d4 Sf6 2.c4 e6 3.Sf3 Lb4+ 4.Ld2 De7 5.g3 Sc6 6.Lg2 Lxd2+ 7.Sbxd2 d6 8.0-0 0-0 9.e4 e5 10.d5 Sb8 11.Se1 a5 12.Sd3 Sa6 13.b3 b6 14.a3 Sc5 15.Dc2 Ld7 16.b4 Sxd3 17.Dxd3 Ta7 18.Dc3 Tfa8 19.Sb3 ½-½
+
+Petrosian,Tigran V (2645) - Tatai,Stefano (2455) [D32]
+Las Palmas Las Palmas (11), 1975
+
+1.c4 Sf6 2.Sc3 e6 3.d4 c5 4.e3 d5 5.Sf3 Sc6 6.cxd5 exd5 7.Le2 Le7 8.0-0 0-0 9.b3 Se4 10.Lb2 cxd4 11.Sxe4 dxe4 12.Sxd4 Db6 13.Dc2 Sxd4 14.Lxd4 Dg6 15.f4 Le6 16.Db2 Tfc8 17.Tac1 a6 18.Txc8+ Txc8 19.Tc1 h5 20.Txc8+ Lxc8 21.Dc2 Lg4 22.Lxg4 Dxg4 23.h3 Dg3 24.Dc8+ Kh7 25.Df5+ Dg6 26.Dd7 Lh4 27.Dxb7 Dg3 28.Dxe4+ g6 29.Db1 Df2+ 30.Kh1 Lg3 31.Da1 De2 32.Lh8 f6 33.Lxf6 Dxe3 34.Lh8 De7 35.Le5 1-0
+
+Petrosian,Tigran V (2645) - Vaganian,Rafael A (2530) [A29]
+URS-ch43 Yerevan, 1975
+
+1.c4 Sf6 2.Sc3 e5 3.Sf3 Sc6 4.g3 Lb4 5.Sd5 Ld6 6.Lg2 Sxd5 7.cxd5 Se7 8.e4 c6 9.0-0 cxd5 10.d4 dxe4 11.Sxe5 Sg6 12.Sxg6 hxg6 13.Lxe4 Tb8 14.Te1 Kf8 15.h4 b5 16.Lg5 Db6 17.Df3 Lb7 18.Tac1 Lxe4 19.Dxe4 Kg8 20.Dd5 Lb4 21.Te5 Kh7 22.Dxf7 Thf8 23.Dxd7 Tb7 24.Dd5 1-0
+
+Petrosian,Tigran V (2640) - Ivkov,Borislav (2530) [E41]
+Nice ol (Men) fin-A Nice (14), 29.06.1974
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.Sf3 Lxc3+ 7.bxc3 d6 8.e4 e5 9.d5 Se7 10.Sd2 0-0 11.Sf1 Da5 12.Ld2 Se8 13.Sg3 f5 14.exf5 Sxf5 15.Dc2 g6 16.0-0 Ld7 17.Se4 Sf6 18.Sg5 Tae8 19.f3 Sg7 20.g4 Da4 21.Db3 Tb8 22.Lc2 Da5 23.a4 Dc7 24.h3 a6 25.a5 b5 26.axb6 Txb6 27.Da3 Dd8 28.Dc1 De7 29.De1 Tb2 30.Ld3 Lc8 31.Lc1 Tb3 32.Lc2 Tb6 33.f4 h6 34.fxe5 Dxe5 35.Dxe5 dxe5 36.Se4 h5 37.La3 Sxe4 38.Txf8+ Kxf8 39.Lxe4 Tb3 40.Lxc5+ Kf7 41.Tf1+ 1-0
+
+Petrosian,Tigran V (2640) - Visier Segovia,Fernando (2345) [E81]
+Nice ol (Men) fin-A Nice (12), 27.06.1974
+
+1.c4 Sf6 2.Sc3 g6 3.e4 d6 4.d4 Lg7 5.f3 c6 6.Le3 a6 7.c5 0-0 8.Sge2 a5 9.cxd6 exd6 10.Sg3 Te8 11.Dd2 b5 12.Le2 d5 13.e5 Sfd7 14.Lh6 b4 15.Sa4 Lxh6 16.Dxh6 La6 17.h4 Lxe2 18.Kxe2 Sa6 19.h5 Sf8 20.Tac1 Ta7 21.Kf2 Se6 22.hxg6 fxg6 23.Th4 Tc7 24.Tg4 Tf8 25.Txg6+ Sg7 26.Th1 Tf4 27.Sf5 Tf7 28.e6 1-0
+
+Petrosian,Tigran V (2640) - Venalainen,Unto E [B38]
+Nice ol (Men) fin-A Nice (10), 25.06.1974
+
+1.c4 c5 2.Sf3 g6 3.d4 cxd4 4.Sxd4 Sf6 5.Sc3 Lg7 6.e4 d6 7.Le2 0-0 8.0-0 Sc6 9.Le3 Ld7 10.Dd2 a6 11.f3 Da5 12.Sb3 Dd8 13.Tfd1 b6 14.Tac1 Tb8 15.Kh1 Le6 16.Sd5 Sd7 17.Sd4 Sxd4 18.Lxd4 Lxd4 19.Dxd4 Te8 20.Tc3 Dc8 21.f4 Dc5 22.Dd2 Tbc8 23.Tdc1 Df2 24.Tf1 Dh4 25.f5 Lxd5 26.exd5 1-0
+
+Petrosian,Tigran V (2640) - Bilek,Istvan (2475) [E60]
+Nice ol (Men) fin-A Nice (9), 24.06.1974
+
+1.d4 Sf6 2.Sf3 g6 3.c4 Lg7 4.g3 c6 5.Lg2 a6 6.a4 a5 7.Sc3 d6 8.0-0 Sa6 9.h3 0-0 10.e4 Sd7 11.Lg5 Te8 12.Te1 Dc7 13.Te2 Sb4 14.Tc1 e5 15.Td2 ½-½
+
+Petrosian,Tigran V (2640) - Browne,Walter S (2575) [B36]
+Nice ol (Men) fin-A Nice (7), 21.06.1974
+
+1.c4 Sf6 2.Sc3 c5 3.Sf3 g6 4.e4 Sc6 5.d4 cxd4 6.Sxd4 Sxd4 7.Dxd4 d6 8.Le2 Lg7 9.0-0 0-0 10.De3 Le6 11.Ld2 Db6 12.b3 Dxe3 13.Lxe3 Ld7 14.Tac1 Tfc8 15.Tfd1 Lc6 16.f3 a5 17.Kf2 Sd7 18.Tc2 Tc7 19.Tdd2 Tac8 20.Kf1 Kf8 21.Ke1 b5 22.Sd5 Lxd5 23.Txd5 bxc4 24.Txa5 c3 25.b4 Tb8 26.a3 e6 27.Ld3 Se5 28.Ke2 Sc6 29.Ta6 Ke7 30.b5 Sd4+ 31.Lxd4 Lxd4 32.a4 Tcb7 33.Lc4 f5 34.Kd3 Le5 35.h3 Kf6 36.a5 Txb5 37.Lxb5 Txb5 38.Ta2 d5 39.exf5 Kxf5 40.Tb6 Tc5 41.a6 1-0
+
+Petrosian,Tigran V (2640) - Szmetan,Jorge (2405) [A58]
+Nice ol (Men) fin-A Nice (5), 19.06.1974
+
+1.d4 Sf6 2.c4 c5 3.d5 b5 4.cxb5 a6 5.bxa6 Lxa6 6.Sc3 d6 7.Sf3 g6 8.Sd2 Da5 9.g3 Lg7 10.Lg2 0-0 11.0-0 Sbd7 12.Dc2 Se8 13.Sb3 Dc7 14.Tb1 Sef6 15.Sd2 Da5 16.b3 Tfb8 17.a3 Se8 18.Lb2 Sc7 19.Tfc1 Se5 20.b4 cxb4 21.axb4 Dxb4 22.Sce4 Sf3+ 23.Lxf3 Lxb2 24.Txb2 Dxb2 25.Dxb2 Txb2 26.Txc7 ½-½
+
+Petrosian,Tigran V (2640) - Keene,Raymond (2505) [A28]
+Nice ol (Men) fin-A Nice (2), 16.06.1974
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.d3 Lb4 5.Lg5 h6 6.Lxf6 Lxc3+ 7.bxc3 Dxf6 8.Sd2 0-0 9.g3 d6 10.Lg2 Ld7 11.0-0 De7 12.Kh1 a6 13.Dc2 Tab8 14.Tab1 Sd8 15.e3 Lc6 16.d4 Lxg2+ 17.Kxg2 Sc6 18.De4 f5 19.Dd5+ Kh8 20.Tb2 Sd8 21.Tfb1 Tc8 22.c5 dxc5 23.Dxc5 Dxc5 24.dxc5 Tf6 25.Sb3 Sc6 26.Td1 Kg8 27.Td5 Te8 28.Sd2 Sa5 29.e4 f4 30.g4 Tg6 31.Kh3 Tge6 32.Sf3 b5 33.cxb6 cxb6 34.Kg2 Sc4 35.Tb1 Tc8 36.Tbd1 Te7 37.h4 Kf7 38.h5 b5 39.g5 hxg5 40.Kh3 Sb2 41.Sxg5+ Ke8 42.T1d2 Sc4 43.T2d3 Sb2 44.Tf3 Sa4 45.Td6 Sxc3 46.Txa6 Se2 47.Tfa3 Sd4 48.Td6 Td8 49.Tg6 Tc8 50.Kg4 Tc1 51.Ta8+ Kd7 52.Ta7+ Kd8 53.Td6+ 1-0
+
+Petrosian,Tigran V (2640) - Camara,Helder (2365) [E81]
+Nice ol (Men) qual-A Nice (6), 12.06.1974
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.f3 0-0 6.Lg5 Sbd7 7.Dd2 e5 8.d5 a6 9.Sge2 h6 10.Le3 Kh7 11.g4 Sg8 12.0-0-0 Se7 13.Sg3 b6 14.Ld3 Sc5 15.Lc2 Ld7 16.h4 a5 17.h5 g5 18.b3 f6 19.De2 Sc8 20.a3 De7 21.Kd2 Sa7 22.Ta1 Tfb8 23.b4 Sb7 24.Thb1 Lf8 25.Ke1 De8 26.Ld3 Sc8 27.Tc1 Se7 28.Dd1 axb4 29.axb4 Txa1 30.Txa1 Ta8 31.Dc1 Db8 32.Ta3 Sc8 33.Da1 Txa3 34.Dxa3 Kg7 35.Lc2 Kf7 36.Kd2 Ke8 37.La4 Da7 38.Kc2 Kd8 39.Kb3 Lxa4+ 40.Dxa4 Dxa4+ 41.Kxa4 Sa7 42.Sb5 Sc8 43.Se2 Kd7 44.Sc1 Le7 45.Sd3 Lf8 46.Sc3 Sa7 47.Kb3 Sc8 48.Sa4 Le7 49.c5 bxc5 50.bxc5 dxc5 51.Saxc5+ Sxc5+ 52.Sxc5+ Kd6 53.Sa6 c6 54.Kc4 cxd5+ 55.exd5 Kd7 56.Sb8+ Kc7 57.Sc6 Ld6 58.Kd3 Kd7 59.Ke4 Ke8 60.Sa5 Kf7 61.Sc4 Lb4 62.Lb6 Lf8 63.Ld8 Lc5 64.Kf5 Le7 65.Lc7 Sa7 66.Sd6+ Lxd6 67.Lxd6 Sb5 68.Lb4 Sd4+ 69.Ke4 Sb5 70.Le1 Ke7 71.Ld2 Sd4 72.Lb4+ Kf7 73.Lc5 Sb3 74.Lf2 Ke7 75.Kf5 Kf7 76.Le3 Sa1 77.Ke4 Sb3 78.Kd3 Sa5 79.Ld2 Sb3 80.Le3 Sa5 81.Lb6 Sb7 82.Kc4 Ke7 83.Lc5+ 1-0
+
+Petrosian,Tigran V (2640) - Freyre,Jorge [E92]
+Nice ol (Men) qual-A Nice (4), 10.06.1974
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.Le2 0-0 6.Sf3 e5 7.d5 Lg4 8.Lg5 Lxf3 9.Lxf3 h6 10.Le3 Sbd7 11.h4 a6 12.h5 gxh5 13.Lxh5 Sc5 14.Lf3 Sh7 15.b4 Sd7 16.Lg4 Sg5 17.Lxg5 hxg5 18.Lf5 Te8 19.Dh5 Sf8 20.Sd1 Sg6 21.Lxg6 fxg6 22.Dxg6 Df6 23.Dxf6 Lxf6 24.Se3 1-0
+
+Petrosian,Tigran V - Averbakh,Yuri L [E58]
+URS Soviet Union, 1974
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Sf3 d5 6.Ld3 c5 7.0-0 Sc6 8.a3 Lxc3 9.bxc3 Dc7 10.cxd5 exd5 11.Sh4 Se7 12.Lb2 Te8 13.a4 Le6 14.Tc1 c4 15.Lc2 Dd7 16.g3 Sg6 17.Sg2 Lf5 18.f3 Lxc2 19.Dxc2 Te6 20.Ta1 Tae8 21.La3 h5 22.h4 Ta6 23.Lb4 Dh3 24.Kf2 Se7 25.Lxe7 Txe7 26.Th1 De6 27.The1 Dh3 28.Tg1 De6 29.Tge1 Dh3 30.Th1 De6 31.Tab1 Se8 32.The1 Dh3 33.Th1 De6 34.The1 Dh3 35.Th1 ½-½
+
+Petrosian,Tigran V - Balashov,Yuri S [E57]
+URS Soviet Union, 1974
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 c5 5.Ld3 d5 6.Sf3 0-0 7.0-0 dxc4 8.Lxc4 Sc6 9.Ld3 cxd4 10.exd4 Le7 11.Te1 b6 12.a3 Lb7 13.Lc2 Tc8 14.Dd3 Te8 15.d5 exd5 16.Lg5 Se4 17.Sxe4 dxe4 18.Dxe4 g6 19.Dh4 Dc7 20.Lb3 h5 21.De4 Kg7 22.Lxf7 Kxf7 23.Lh6 Dd6 24.Dc4+ Kf6 25.Tad1 Sd4 26.Dxd4+ Dxd4 27.Txd4 Tc5 28.h4 1-0
+
+Petrosian,Tigran V - Bangiev,Alexander [E58]
+URS-chT Soviet Union, 1974
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.e3 0-0 5.Ld3 c5 6.Sf3 d5 7.0-0 Sc6 8.a3 Lxc3 9.bxc3 Dc7 10.Dc2 Sa5 11.Sd2 b6 12.cxd5 exd5 13.Te1 c4 14.Le2 Te8 15.a4 g6 16.La3 Lg4 17.Lb4 Sc6 18.Db2 Lxe2 19.Txe2 Te6 20.La3 Tae8 21.Db5 Dd7 22.Tae1 Db7 23.f3 Sa5 24.e4 a6 25.Db4 h6 26.e5 Sh5 27.g3 f5 28.f4 Dd7 29.Kf2 Kf7 30.Sf1 Sb3 31.Se3 b5 32.axb5 axb5 33.Tb2 Ta6 34.Teb1 ½-½
+
+Petrosian,Tigran V - Bronstein,David I [E81]
+URS Soviet Union, 1974
+
+1.c4 Sf6 2.Sc3 g6 3.e4 d6 4.d4 Lg7 5.f3 e5 6.Sge2 c6 7.Lg5 Sbd7 8.d5 0-0 9.Dd2 Db6 10.Le3 Dc7 11.g4 h5 12.g5 Se8 13.h4 a5 14.b3 Sc5 15.Td1 Sa6 16.Sa4 c5 17.Sg1 b6 18.Lh3 Lxh3 19.Sxh3 Tb8 20.Sc3 Dd7 21.Dg2 Sec7 22.a4 Tbe8 23.Se2 Sb8 24.Sg3 Te7 25.Sf2 Tfe8 26.Tg1 Sca6 27.Sfh1 Tf8 28.Sxh5 gxh5 29.Sg3 f5 30.gxf6 Lxf6 31.Sxh5+ Tg7 32.Sxg7 Lxg7 33.Lh6 Tf7 34.Td2 Sc7 35.Dg6 Se8 36.Tdg2 Dh3 37.Lxg7 Sxg7 38.Dxf7+ Kxf7 39.Txg7+ Kf8 40.Tg8+ Kf7 41.T1g7+ Kf6 42.Tg6+ Kf7 43.T6g7+ Kf6 44.Th7 Dh1+ 45.Kf2 Dh2+ 46.Tg2 Df4 47.Ke2 Dc1 48.Tgg7 Dc2+ 49.Kf1 Dd1+ 50.Kf2 Dd2+ 51.Kf1 Dd1+ 52.Kf2 Dd2+ 53.Kg3 De1+ 54.Kg2 De2+ 55.Kg3 De1+ 56.Kg2 De2+ 57.Kg3 De1+ ½-½
+
+Petrosian,Tigran V (2640) - Cardoso,Radolfo Tan (2385) [A21]
+Manila Manila (13), 1974
+
+1.g3 g6 2.Lg2 Lg7 3.c4 c6 4.Sc3 e5 5.e4 Se7 6.Sge2 d6 7.d4 0-0 8.0-0 Sd7 9.b3 f5 10.exf5 gxf5 11.Kh1 Sg6 12.dxe5 dxe5 13.La3 Te8 14.Dc2 Sf6 15.Tad1 Dc7 16.Lh3 f4 17.Lxc8 Dxc8 18.Se4 Dh3 19.Sg1 Dh5 20.Sxf6+ Lxf6 21.De4 Tad8 22.Sf3 Dh3 23.Lb2 Txd1 24.Txd1 Kf7 25.Te1 Te7 26.Lc3 fxg3 27.fxg3 h5 28.Sg1 De6 29.Kg2 h4 30.Sh3 hxg3 31.hxg3 Kg7 32.Sf2 Td7 33.Th1 Td8 34.De3 b6 35.Se4 Dg4 36.Th7+ 1-0
+
+Petrosian,Tigran V (2640) - Gheorghiu,Florin (2540) [A40]
+Manila Manila (4), 1974
+
+1.c4 g6 2.e4 c5 3.Sf3 Lg7 4.d4 Da5+ 5.Sc3 Sc6 6.d5 Sd4 7.Ld2 Sxf3+ 8.Dxf3 d6 9.Ld3 Sf6 10.De2 0-0 11.0-0 e6 12.Kh1 Dd8 13.dxe6 Lxe6 14.Tad1 a6 15.Lg5 h6 16.Lc1 Te8 17.f3 De7 18.Lc2 Ted8 19.a4 Te8 20.Le3 Tad8 21.Lb3 Kh7 22.Dd2 Dc7 23.La2 Da5 24.Dc2 Db6 25.b3 Da5 26.Ld2 Dc7 27.Lb1 Ld7 28.Le1 Lc6 29.Lh4 Td7 30.Dd2 Da5 31.Le1 Db6 32.Lc2 Dd8 33.Ld3 Tde7 34.Lh4 Td7 35.Dc2 Kg8 36.Se2 De7 37.Sc3 Dd8 38.Tb1 De7 39.Tbe1 g5 40.Lf2 Sh5 ½-½
+
+Petrosian,Tigran V (2640) - Gligoric,Svetozar (2585) [E89]
+Manila Manila (9), 1974
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.f3 0-0 6.Le3 e5 7.d5 c6 8.Sge2 cxd5 9.cxd5 Sbd7 10.Sg3 a6 11.Le2 h5 12.Lg5 De8 13.Dc2 Sh7 14.Ld2 Dd8 15.Sf1 b5 16.Le3 f5 17.exf5 gxf5 18.Lf2 Sdf6 19.Se3 e4 20.f4 Ld7 21.Dd2 Tc8 22.a3 De8 23.0-0 Dg6 24.h3 Tf7 25.a4 Lh6 26.Lh4 b4 27.Sa2 a5 28.Sc1 Tg7 29.Lb5 Lxb5 30.axb5 Tc5 31.Txa5 Tb7 32.Sb3 Tcxb5 33.Txb5 Txb5 34.Sd4 Tc5 35.Sdxf5 Lf8 36.Tc1 Sxd5 37.Txc5 Sxe3 38.Tb5 De8 39.De2 Sxf5 40.Txf5 De6 41.Txh5 Lg7 42.Lf2 Db3 43.Dd2 Sf6 44.Tg5 Dd3 45.Dc1 Kh7 46.Dc7 1-0
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2670) [D03]
+Candidates sf2 Odessa (2), 1974
+
+1.d4 Sf6 2.Sf3 g6 3.Lg5 Lg7 4.Sbd2 d5 5.e3 0-0 6.c3 Sbd7 7.Le2 Te8 8.b4 c6 9.0-0 e5 10.Sb3 Db6 11.Lxf6 Lxf6 12.a3 Dc7 13.Tc1 e4 14.Sfd2 b5 15.a4 a6 16.Ta1 Lb7 17.Lg4 Sb6 18.Sc5 Lg7 19.axb5 axb5 20.De2 f5 21.Lh3 Sa4 22.Sdb3 Sxc3 23.Dc2 Sa4 24.Sxa4 bxa4 25.Sc5 a3 26.Db3 La6 27.Sxa6 Txa6 28.Txa3 Txa3 29.Dxa3 Lf8 30.g3 Tb8 31.Tb1 ½-½
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2670) [D79]
+Candidates sf2 Odessa (4), 1974
+
+1.Sf3 Sf6 2.g3 g6 3.Lg2 Lg7 4.0-0 0-0 5.c4 c6 6.d4 d5 7.cxd5 cxd5 8.Se5 Lf5 9.Sc3 Se4 10.Lf4 Sc6 11.Sxc6 bxc6 12.Sa4 Da5 13.Tc1 Db4 14.e3 Tac8 15.f3 Sd6 16.a3 Da5 17.Tc5 Dd8 18.Kh1 Te8 19.Te1 Ld7 20.Tc1 Sc4 21.e4 e6 22.b3 Sxa3 23.e5 Tb8 24.Ta1 Sb5 25.Dd2 Lf8 26.Sc5 Lc8 27.Ta4 Db6 28.b4 Sc7 29.Tea1 a5 30.bxa5 Db2 31.Dxb2 Txb2 32.Lc1 Tc2 33.La3 Sa6 34.Lf1 Lxc5 35.Lxc5 Kg7 36.Ld6 Td8 37.T4a2 Txa2 38.Txa2 Td7 39.Tb2 Ta7 1-0
+
+Petrosian,Tigran V (2640) - Kraidman,Yair (2470) [D03]
+Manila Manila (11), 1974
+
+1.Sf3 Sf6 2.d4 e6 3.Lg5 h6 4.Lh4 d5 5.e3 Sbd7 6.c4 c6 7.cxd5 Da5+ 8.Sbd2 exd5 9.Ld3 Ld6 10.0-0 0-0 11.Dc2 Dc7 12.Tfc1 Te8 13.a3 a5 14.b3 Sg4 15.Sf1 Sgf6 16.S3d2 Sg4 17.Sf3 Sgf6 18.Lg3 Se4 19.Lxd6 Dxd6 20.Db2 a4 21.b4 b5 22.Dc2 Lb7 23.Lxe4 Txe4 24.Sg3 Te6 25.Sf5 Df8 26.Se1 Tf6 27.Sg3 Sb6 28.Sd3 Sc4 29.Sc5 Lc8 30.Te1 Tg6 31.Dc3 f5 32.Se2 Tf6 33.Sf4 Ta7 34.Sfd3 g5 35.Se5 Tg7 36.Ta2 Te7 37.Tae2 Sb6 38.f3 Dg7 39.Tf1 Df8 40.Tef2 De8 41.e4 Le6 42.exf5 Lxf5 43.Te2 Kg7 44.f4 Dh5 45.fxg5 Dxg5 46.Sf3 Txe2 47.Sxg5 hxg5 48.Df3 1-0
+
+Petrosian,Tigran V - Kuzmin,Gennadi P [A29]
+URS Soviet Union, 1974
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 Lb4 5.Lg2 0-0 6.0-0 Te8 7.Sd5 Sxd5 8.cxd5 Sd4 9.Se1 c6 10.e3 Sb5 11.d3 Sc7 12.Sc2 Lf8 13.dxc6 dxc6 14.De2 Le6 15.Td1 Dd7 16.Td2 Lh3 17.Lh1 Tad8 18.b3 Lg4 19.Lf3 Lxf3 20.Dxf3 Se6 21.Dg4 g6 22.Lb2 h5 23.De2 e4 24.Tad1 Sg5 25.Se1 Lb4 26.Lf6 Lxd2 27.Txd2 Dd5 28.Lxd8 Txd8 29.h4 Se6 30.d4 c5 31.Sc2 a6 32.Dc4 Df5 33.De2 g5 34.dxc5 Txd2 35.Dxd2 Dg4 36.Sd4 Sxc5 37.Da5 Dd1+ 38.Kg2 Sd3 39.Dxg5+ Kh8 40.Dh6+ Kg8 41.Dg5+ 1-0
+
+Petrosian,Tigran V (2640) - Larsen,Bent (2630) [E15]
+Manila Manila (15), 1974
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.g3 Lb4+ 5.Ld2 Lxd2+ 6.Dxd2 La6 7.b3 0-0 8.Lg2 d5 9.cxd5 exd5 10.Sc3 c6 11.Se5 Dd6 12.0-0 Sbd7 13.f4 Tad8 14.Tfd1 Sb8 15.Tac1 Lc8 16.e4 dxe4 17.Sxe4 Sxe4 18.Lxe4 c5 19.Dc2 cxd4 20.Lxh7+ Kh8 21.Le4 Kg8 22.Lh7+ Kh8 23.Le4 ½-½
+
+Petrosian,Tigran V (2640) - Ljubojevic,Ljubomir (2605) [E96]
+Manila Manila (7), 1974
+
+1.d4 g6 2.c4 Lg7 3.Sc3 d6 4.e4 Sd7 5.Sf3 e5 6.Le2 a5 7.0-0 Sgf6 8.Te1 0-0 9.Lf1 Te8 10.Tb1 c6 11.d5 Sc5 12.b3 Ld7 13.dxc6 Lxc6 14.Dc2 Sh5 15.Le3 Sf4 16.Tbd1 Sfe6 17.Td2 De7 18.Sd5 Df8 19.g3 Ted8 20.Ted1 Kh8 21.Lh3 Tab8 22.Sc3 b6 23.Lg2 Tbc8 24.Kh1 Lb7 25.Db1 Lc6 26.Kg1 De7 27.Sd5 Db7 28.h4 h5 29.Lh3 Tf8 30.Sg5 Tcd8 31.Lxe6 Sxe6 32.Sxe6 fxe6 33.Sc3 Dc7 34.Sb5 Db7 35.Sc3 Dc7 36.Dd3 Kh7 37.De2 Td7 38.Td3 Tff7 39.Df1 Lf8 40.a4 Db7 41.Dg2 Td8 42.Lg5 Te8 43.Te1 Le7 44.Lxe7 Dxe7 45.Ted1 Td8 46.Df1 Td7 47.De2 Tf8 48.De3 Dd8 49.T1d2 Tff7 50.Kf1 Tf8 51.Ke1 Dc7 52.Kd1 Tf6 53.Kc2 Dd8 54.f3 Tff7 55.Dg1 Dc7 56.Kb2 Td8 57.Dd1 Tfd7 58.g4 Kh8 59.Dg1 Tg7 60.De3 Kh7 61.Dg5 Le8 62.Df6 Te7 63.gxh5 gxh5 64.Tg2 Tdd7 65.Sb5 Dc5 66.Txd6 De3 67.Sa3 Df4 68.Dxf4 exf4 69.Txd7 Lxd7 70.c5 bxc5 71.Sc4 Lc8 72.Tg5 Kh6 73.Txc5 La6 74.Se5 Le2 75.Tc2 Lf1 76.Tc1 Le2 77.Te1 La6 78.Tg1 Le2 79.Kc2 Kh7 80.Kd2 La6 81.Tg5 Kh6 82.Tg8 Lf1 83.Tg6+ Kh7 84.Tg5 Kh6 85.Tg1 La6 86.Sc4 Tc7 87.Kc3 Td7 88.Tg5 Td1 89.Txa5 Lxc4 90.Kxc4 Tf1 91.Te5 Txf3 92.Txe6+ Kg7 93.Te5 Te3 94.Kb4 f3 95.Tf5 Txe4+ 96.Ka3 Te3 97.Tf4 Kg6 98.Kb4 Kg7 99.a5 Kg6 100.Ka4 1-0
+
+Petrosian,Tigran V - Mnatsakanian,Eduard A [A11]
+URS-chT Soviet Union, 1974
+
+1.Sf3 Sf6 2.c4 c6 3.Sc3 d5 4.e3 e6 5.b3 Sbd7 6.Lb2 Ld6 7.Dc2 0-0 8.Le2 e5 9.cxd5 Sxd5 10.Se4 Lc7 11.Sg3 Te8 12.a3 S7f6 13.d3 Sg4 14.0-0 a5 15.Tfe1 Lb6 16.d4 exd4 17.Lxd4 Lxd4 18.Sxd4 Df6 19.Lf3 Le6 20.Tad1 Dh4 21.Sf1 Se5 22.Le2 De7 23.Db2 f5 24.g3 Df6 25.Dc1 Df8 26.Db2 Df6 27.Dc1 Sc7 28.Sxe6 Sxe6 29.Sd2 Tad8 30.Sc4 Sxc4 31.Lxc4 Kh8 32.Txd8 Txd8 33.Td1 Sc5 34.Txd8+ Dxd8 35.Dc3 Se4 36.De5 Sd6 37.Ld3 h6 38.Kg2 a4 39.bxa4 Df6 40.Dc5 De6 41.a5 Se4 42.Dc4 Dxc4 43.Lxc4 Sc5 44.f3 g5 45.Kf2 Kg7 46.Ke2 Kf6 47.Kd2 Ke5 48.Kc3 g4 49.Kb4 Sd7 50.fxg4 fxg4 51.a6 bxa6 52.Lxa6 Kd6 53.Lc8 Se5 54.h3 gxh3 55.Lxh3 c5+ 56.Kb5 c4 57.Kb4 Kd5 58.Lg2+ Kd6 59.a4 Sg4 60.e4 Se3 61.Lf3 Ke5 62.Kc3 1-0
+
+Petrosian,Tigran V (2640) - Portisch,Lajos (2645) [A17]
+Candidates qf2 Palma de Mallorca (11), 1974
+
+1.Sf3 Sf6 2.c4 e6 3.g3 b6 4.Lg2 Lb7 5.Sc3 Le7 6.0-0 0-0 7.Te1 Se4 8.Sxe4 Lxe4 9.d3 Lb7 10.d4 Le4 11.d5 exd5 12.cxd5 Lf6 13.Sd2 Lxg2 14.Kxg2 Te8 15.Tb1 Sa6 16.f3 c6 17.dxc6 dxc6 18.Se4 Le7 19.Da4 Sb4 20.a3 b5 21.Db3 Dd5 ½-½
+
+Petrosian,Tigran V (2640) - Portisch,Lajos (2645) [A30]
+Candidates qf2 Palma de Mallorca (5), 1974
+
+1.c4 Sf6 2.Sf3 b6 3.g3 c5 4.Lg2 Lb7 5.0-0 e6 6.Sc3 Le7 7.d4 cxd4 8.Dxd4 0-0 9.Td1 Sc6 10.Df4 Db8 11.e4 Dxf4 12.Lxf4 Tfd8 13.e5 Se8 14.Sd4 Sa5 15.b3 Lxg2 16.Kxg2 g5 17.Le3 Kg7 18.f4 gxf4 19.gxf4 Sc6 20.Sce2 Sxd4 21.Sxd4 Lc5 22.Kf3 d6 23.Td2 dxe5 24.fxe5 Lxd4 25.Lxd4 f6 26.exf6+ Sxf6 27.Tf1 Kh6 28.Te1 Sg8 29.Txe6+ Kh5 30.Te5+ Kg6 31.Tg2+ Kf7 32.Te4 Sf6 33.Tf4 Td6 34.Tg5 Tad8 35.Td5 1-0
+
+Petrosian,Tigran V (2640) - Portisch,Lajos (2645) [A38]
+Candidates qf2 Palma de Mallorca (9), 1974
+
+1.Sf3 Sf6 2.c4 g6 3.b3 Lg7 4.Lb2 c5 5.g3 d6 6.Lg2 e5 7.0-0 Sc6 8.Sc3 0-0 9.d3 Sh5 10.Sd2 Lg4 11.a3 Lh6 12.b4 Sd4 13.h3 Le6 14.e3 cxb4 15.axb4 Sc6 16.b5 Se7 17.Lxb7 Lxh3 18.Lxa8 Lxf1 19.Kxf1 Dxa8 20.Df3 Db8 21.g4 Sg7 22.Df6 Sgf5 23.gxf5 Sxf5 24.e4 Sg7 25.Ke1 Sh5 26.Dh4 f5 27.Sd5 1-0
+
+Petrosian,Tigran V (2640) - Portisch,Lajos (2645) [D53]
+Candidates qf2 Palma de Mallorca (13), 1974
+
+1.Sf3 d5 2.d4 e6 3.c4 Sf6 4.Lg5 Le7 5.Sc3 0-0 6.Tc1 h6 7.Lh4 b6 8.cxd5 Sxd5 9.Sxd5 exd5 10.Lxe7 Dxe7 11.g3 La6 12.e3 c5 13.Lxa6 Sxa6 14.0-0 Sc7 15.b3 Tac8 16.Te1 Tfd8 17.h4 Se6 18.Dd3 Df6 19.Kg2 cxd4 20.exd4 Txc1 21.Txc1 Df4 22.gxf4 Sxf4+ 23.Kg3 Sxd3 24.Tc3 Sb4 25.a3 Sa6 26.b4 Sb8 27.Tc7 a5 28.b5 Sd7 29.Kf4 h5 30.Se5 Sf8 31.Tb7 f6 32.Sc6 Sg6+ 33.Kg3 Td6 34.Txb6 Te6 35.Tb8+ Sf8 36.Ta8 Te1 37.Sd8 Kh7 38.b6 Tb1 39.b7 Sd7 40.Txa5 1-0
+
+Petrosian,Tigran V (2640) - Portisch,Lajos (2645) [D59]
+Candidates qf2 Palma de Mallorca (7), 1974
+
+1.Sf3 d5 2.d4 Sf6 3.c4 e6 4.Sc3 Le7 5.Lg5 0-0 6.e3 h6 7.Lh4 b6 8.cxd5 Sxd5 9.Lxe7 Dxe7 10.Sxd5 exd5 11.Dd2 Le6 12.b4 c6 13.Tb1 Sd7 ½-½
+
+Petrosian,Tigran V (2640) - Portisch,Lajos (2645) [E11]
+Candidates qf2 Palma de Mallorca (3), 1974
+
+1.c4 Sf6 2.Sc3 e6 3.d4 Lb4 4.Ld2 0-0 5.Sf3 c5 6.dxc5 Lxc5 7.e3 d5 8.Tc1 De7 9.cxd5 exd5 10.Le2 Sc6 11.0-0 Lg4 12.Sa4 Ld6 13.Lc3 Tad8 14.Ld4 Se4 15.a3 Lb8 16.g3 Tfe8 17.Te1 De6 18.Sc5 Df5 19.Tf1 Sxc5 20.Lxc5 Df6 21.Sd4 Lxe2 22.Sxe2 ½-½
+
+Petrosian,Tigran V (2640) - Portisch,Lajos (2645) [E18]
+Candidates qf2 Palma de Mallorca (1), 1974
+
+1.c4 Sf6 2.Sf3 b6 3.g3 Lb7 4.Lg2 e6 5.d4 Le7 6.Sc3 Se4 7.Ld2 c5 8.0-0 0-0 9.Tc1 Lf6 10.Sxe4 Lxe4 11.Lc3 Sc6 12.e3 cxd4 13.Sxd4 Lxg2 14.Kxg2 Lxd4 15.Lxd4 d5 16.b3 e5 17.Lb2 d4 18.Df3 Dd6 ½-½
+
+Petrosian,Tigran V (2640) - Quinteros,Miguel Angel (2495) [E69]
+Manila Manila (2), 1974
+
+1.d4 g6 2.c4 Lg7 3.Sc3 d6 4.Sf3 Sd7 5.g3 e5 6.Lg2 Sgf6 7.0-0 0-0 8.e4 Te8 9.h3 exd4 10.Sxd4 Sc5 11.Te1 a5 12.Tb1 c6 13.Lf4 a4 14.b3 axb3 15.axb3 h6 16.Dc2 Se6 17.Sxe6 Txe6 18.Le3 De7 19.Ta1 Txa1 20.Txa1 Dc7 21.Te1 g5 22.Td1 Da5 23.Se2 Dc7 24.b4 Te8 25.Dd3 Sd7 26.Sd4 Se5 27.Dc2 De7 28.b5 Ld7 29.Sf5 Lxf5 30.exf5 Tc8 31.De4 Kf8 32.Kh1 Lf6 33.Lc1 Sd7 34.bxc6 bxc6 35.Dd3 Le5 36.La3 Sc5 37.De3 Df6 38.f4 gxf4 39.gxf4 Lb2 40.Txd6 Te8 41.Txf6 1-0
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2650) [D91]
+URS-ch41 Moscow (16), 24.10.1973
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Lg5 Se4 6.cxd5 Sxg5 7.Sxg5 c6 8.Sf3 cxd5 9.e3 0-0 10.Le2 Sc6 11.0-0 e6 12.Tc1 De7 13.Sa4 Td8 14.a3 e5 15.Lb5 e4 16.Sd2 Ld7 17.Tc5 a6 18.Le2 Sxd4 19.exd4 Lxd4 20.Tc7 Dg5 21.Sxe4 De5 22.Sg5 Dxc7 23.Dxd4 Lxa4 24.Dxa4 De7 25.Dh4 f6 26.Sxh7 Dxh7 27.Dxf6 Dg7 28.De6+ Df7 29.Dg4 Td6 30.Ld3 Tf8 31.g3 Df3 32.Db4 Te6 33.Dd2 Tfe8 34.h4 Kg7 35.Tc1 ½-½
+
+Petrosian,Tigran V (2640) - Beliavsky,Alexander G (2450) [A13]
+URS-ch41 Moscow (14), 21.10.1973
+
+1.c4 c5 2.b3 Sc6 3.Lb2 Sf6 4.e3 e6 5.Sf3 d5 6.cxd5 exd5 7.Le2 a6 8.d4 cxd4 9.Sxd4 Lb4+ 10.Lc3 Ld6 11.Sd2 0-0 12.0-0 Lc7 13.Sxc6 bxc6 14.Dc2 Te8 15.Ld4 Dd6 16.g3 Lg4 17.Lxg4 Sxg4 18.Sf3 Dh6 19.Df5 De6 20.Dxe6 Txe6 21.Tac1 f6 22.Tc2 Se5 23.Lxe5 Lxe5 24.Tfc1 Tc8 25.Tc5 Td6 26.T1c2 Kf7 27.Kf1 Ke6 28.Se1 d4 29.f4 d3 30.Td2 Lb2 31.Txd3 Ta8 32.Txd6+ Kxd6 33.Sd3 a5 34.Tc4 La3 35.Ta4 Lc5 36.Sxc5 Kxc5 37.b4+ Kc4 38.Txa5 Tb8 39.a3 Kd3 40.Kf2 Tb7 41.Tc5 Ta7 42.Txc6 Txa3 43.Kf3 1-0
+
+Petrosian,Tigran V (2640) - Taimanov,Mark E (2585) [D45]
+URS-ch41 Moscow (12), 17.10.1973
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 c6 5.e3 Sbd7 6.b3 Ld6 7.Lb2 0-0 8.Le2 dxc4 9.bxc4 e5 10.0-0 exd4 11.exd4 Te8 12.a4 Sf8 13.Te1 Lf5 14.g3 Lb4 15.Db3 a5 16.La3 Lxa3 17.Dxa3 Lg4 18.d5 cxd5 19.cxd5 Sxd5 20.Tad1 De7 21.Dxe7 Sxe7 22.Sb5 Se6 23.Sd6 Ted8 24.Sxb7 Txd1 25.Lxd1 ½-½
+
+Petrosian,Tigran V (2640) - Smyslov,Vassily (2610) [E41]
+URS-ch41 Moscow (10), 15.10.1973
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 b6 6.Sge2 Sc6 7.0-0 cxd4 8.exd4 Lb7 9.d5 Se5 10.Lf4 Sxd3 11.Dxd3 exd5 12.cxd5 0-0 13.a3 Lxc3 14.Sxc3 Te8 15.Ld6 Sg4 16.Dg3 Sh6 17.Tfe1 Sf5 18.Df4 Df6 19.Le5 Dg6 20.Da4 a6 21.Lf4 b5 22.Db4 Tec8 23.De4 h5 24.Dd3 Tc4 25.Te4 Sh4 26.Lg3 Txe4 27.Sxe4 Sxg2 28.Kxg2 h4 29.Td1 hxg3 30.hxg3 Tc8 31.f3 f5 ½-½
+
+Petrosian,Tigran V (2640) - Karpov,Anatoly (2660) [E14]
+URS-ch41 Moscow (8), 12.10.1973
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.e3 Lb7 5.Sc3 Le7 6.Ld3 d5 7.0-0 0-0 8.De2 c5 9.dxc5 dxc4 10.Lxc4 Lxc5 11.e4 Sbd7 12.e5 Lxf3 13.gxf3 Sh5 14.Td1 De7 15.f4 g6 16.f5 exf5 17.e6 Sdf6 18.exf7+ Kg7 19.Dxe7 Lxe7 20.Sb5 Tac8 21.Lb3 a6 22.Sd4 Txf7 23.Le3 Sg4 24.Lxf7 Kxf7 25.Tac1 Tc5 26.Kg2 Shf6 27.Ld2 Td5 28.Le1 a5 29.Sf3 Txd1 30.Txd1 Se4 31.Sd2 Sd6 32.b3 Se5 33.Sb1 Ke6 34.Sc3 Sef7 35.f3 Ld8 36.Lf2 Sc8 37.Sb5 Scd6 38.Sd4+ Kd7 39.Lg3 Le7 40.Kf1 Lf6 41.Sb5 Le7 42.h4 Ke6 43.Sd4+ Kd7 44.Kg2 Lf6 45.Sb5 Le7 46.a4 h6 47.h5 gxh5 48.Lf2 Ld8 49.Sd4 f4 50.Se2 Kc6 51.Sxf4 h4 52.Sg6 Sb7 53.f4 Lf6 54.Tc1+ Sc5 55.Kh3 Sd6 56.Lxc5 bxc5 57.Sxh4 h5 58.Sf3 Kd5 59.Td1+ Ld4 60.Sd2 Ke6 61.Kg3 Sf5+ 62.Kf3 h4 63.Sc4 Lc3 64.Kg4 Lb4 65.Td3 1-0
+
+Petrosian,Tigran V (2640) - Polugaevsky,Lev (2625) [A07]
+URS-ch41 Moscow (6), 08.10.1973
+
+1.g3 d5 2.Lg2 e5 3.d3 Sf6 4.Sf3 Sc6 5.0-0 Le7 6.c3 a5 7.Sbd2 0-0 8.Dc2 b6 9.b3 Lb7 10.a3 Te8 11.Td1 Lc5 12.Sf1 e4 13.Se1 De7 14.d4 Ld6 15.a4 De6 16.Se3 Se7 17.Dd2 c5 18.S1c2 Tad8 19.b4 cxb4 20.cxb4 Sc6 21.La3 axb4 22.Sxb4 Sa5 23.Tdb1 Tc8 24.Sbc2 Lc7 25.Lb4 Lc6 26.De1 Ta8 27.Df1 Ld7 ½-½
+
+Petrosian,Tigran V (2640) - Geller,Efim P (2605) [E89]
+URS-ch41 Moscow (4), 06.10.1973
+
+1.c4 g6 2.d4 Lg7 3.Sc3 Sf6 4.e4 d6 5.f3 0-0 6.Le3 e5 7.Sge2 c6 8.Dd2 Sbd7 9.d5 cxd5 10.cxd5 a6 11.Sg3 b5 12.Le2 h5 13.Lg5 Db6 14.Sf1 Sh7 15.Le7 Te8 16.Lh4 f5 17.Lf2 Dd8 18.exf5 gxf5 19.Se3 Df6 20.0-0 Dg6 21.Kh1 Sdf6 22.a4 f4 23.Sc2 Lf5 24.Sb4 bxa4 25.Txa4 Sg5 26.Txa6 Txa6 27.Sxa6 e4 28.Dxf4 exf3 29.gxf3 Txe2 30.Sxe2 Ld3 ½-½
+
+Petrosian,Tigran V (2640) - Kuzmin,Gennadi P (2575) [E54]
+URS-ch41 Moscow (2), 03.10.1973
+
+1.c4 Sf6 2.d4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 0-0 6.Sf3 d5 7.0-0 dxc4 8.Lxc4 a6 9.a3 La5 10.dxc5 Lxc3 11.bxc3 Da5 12.a4 Sbd7 13.c6 bxc6 14.Dc2 c5 15.e4 Dc7 16.Te1 Sg4 17.Kh1 Te8 18.h3 Sgf6 19.e5 Sd5 20.Sg5 Sf8 21.f4 Lb7 22.Se4 Sg6 23.Df2 Sb6 24.Lf1 Lxe4 25.Txe4 Dc6 26.Dc2 Sd5 27.a5 Tab8 28.Tea4 Sge7 29.Ld3 Sf5 30.Lxf5 exf5 31.Dxf5 Sxc3 32.Tc4 ½-½
+
+Petrosian,Tigran V (2640) - Grigorian,Karen Ashotovich (2485) [D41]
+URS-ch41 Moscow (1), 02.10.1973
+
+1.c4 Sf6 2.Sc3 c5 3.g3 e6 4.Sf3 Sc6 5.Lg2 d5 6.cxd5 Sxd5 7.0-0 Le7 8.d4 0-0 9.Sxd5 exd5 10.Le3 Db6 11.dxc5 Lxc5 12.Lxc5 Dxc5 13.a3 Lg4 14.Dd3 Dc4 15.Tfd1 Tac8 16.h3 Dxd3 17.Txd3 Le6 18.Sg5 Tfd8 19.f4 Se7 20.g4 g6 21.Tad1 Tc2 22.T1d2 Txd2 23.Txd2 Tc8 24.Kf2 Tc4 25.e4 dxe4 26.Sxe4 b6 27.Kg3 Kg7 28.Sg5 Lc8 29.Lf3 Tc7 30.Se4 h6 31.Sd6 Ld7 32.Ld1 Sc8 33.Se4 Le6 34.Sc3 Se7 35.Kf3 a6 36.Td6 Sc8 37.Td8 b5 38.Le2 h5 39.Ke3 hxg4 40.hxg4 Kf6 41.Ld3 Ke7 42.Th8 Sb6 43.f5 gxf5 44.gxf5 Lc4 45.Tb8 Sd5+ 46.Sxd5+ Lxd5 47.Kf4 f6 48.Ke3 Td7 49.Le4 Kd6 ½-½
+
+Petrosian,Tigran V (2640) - Szabo,Laszlo (2565) [E12]
+EU-chT (Men) 05th Bath (7.2), 13.07.1973
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 Lb7 5.Sc3 d5 6.Lg5 Le7 7.Tc1 0-0 8.e3 Sbd7 9.Ld3 dxc4 10.Lxc4 c5 11.0-0 ½-½
+
+Petrosian,Tigran V (2640) - Lombard,Andre (2400) [E12]
+EU-chT (Men) 05th Bath (5.2), 10.07.1973
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.a3 Lb7 5.Sc3 d5 6.cxd5 Sxd5 7.e3 Sd7 8.Sxd5 exd5 9.Ld3 Ld6 10.Dc2 h6 11.b4 a6 12.0-0 0-0 13.Tb1 De7 14.a4 Sf6 15.b5 axb5 16.axb5 Se4 17.Lb2 Sg5 18.Se5 Lxe5 19.dxe5 d4 20.f4 Se6 21.f5 Dg5 22.fxe6 Dxe3+ 23.Df2 1-0
+
+Petrosian,Tigran V (2640) - Pytel,Krzysztof (2390) [A20]
+EU-chT (Men) 05th Bath (3.2), 08.07.1973
+
+1.c4 Sf6 2.g3 e5 3.Lg2 c6 4.Sf3 e4 5.Sd4 d5 6.cxd5 Dxd5 7.Sb3 Dh5 8.h3 Dg6 9.Sc3 Lb4 10.a3 Le7 11.d3 exd3 12.e4 Sa6 13.Dxd3 Le6 14.Sa5 Td8 15.De2 Sc5 16.0-0 Sb3 17.Sxb3 Lxb3 18.Le3 a6 19.Kh2 Sd7 20.f4 De6 21.Df2 f6 22.Se2 c5 23.Sc3 0-0 24.Sd5 Ld6 25.Ld2 b5 26.Tfe1 Df7 27.Lc3 Tfe8 28.Se3 Sb6 29.Sf5 Lf8 30.La5 Tb8 31.Df3 Sc4 32.Dxb3 Sxa5 33.Dc3 Sc4 34.Te2 Tbd8 35.Se3 Sxe3 36.Dxe3 c4 ½-½
+
+Petrosian,Tigran V (2640) - Keene,Raymond (2445) [A50]
+EU-chT (Men) 05th Bath (1.2), 06.07.1973
+
+1.d4 Sf6 2.c4 b6 3.Sc3 Lb7 4.d5 e6 5.a3 Le7 6.g3 b5 7.Sxb5 exd5 8.Lf4 d6 9.c5 0-0 10.cxd6 cxd6 11.Sd4 Sc6 12.Sgf3 Se4 13.Le3 Se5 14.Lh3 Da5+ 15.Kf1 Lc8 16.Lxc8 Tfxc8 17.Sf5 Lf8 18.Ld4 g6 19.Se3 Sc4 20.Kg2 Sxe3+ 21.Lxe3 Lg7 22.Ld4 Lxd4 23.Sxd4 Db6 24.Tb1 Tc4 25.e3 Tac8 26.Te1 a5 27.De2 Db7 28.Ted1 a4 29.Kg1 Sc5 30.Df3 Se4 31.Df4 De7 32.h4 h5 33.Te1 Kg7 34.Tbd1 Tb8 35.Te2 Df6 36.Sf3 Dxf4 37.exf4 Tb3 38.Kg2 Sf6 39.f5 Tb7 40.fxg6 Kxg6 41.Sg5 Tc5 42.Sh3 Tb3 43.Sf4+ Kg7 44.Td3 Txd3 45.Sxd3 Tc4 46.Sf4 Td4 47.Kf3 Td1 48.Tc2 Tb1 49.Td2 Kf8 50.Ke3 Te1+ 51.Kd3 Te8 52.Te2 Tc8 53.Tc2 Tc5 54.f3 Ke7 55.Tc3 Tb5 56.Tc7+ Ke8 57.Tc2 Tb3+ 58.Ke2 Kd7 59.Kf2 Kd8 60.Se2 Sd7 61.Sd4 Tb7 62.Sc6+ Ke8 63.Sb4 Sb6 64.Ke3 Te7+ 65.Kd3 Kd7 66.g4 Te1 67.gxh5 Th1 68.Tc6 Sc4 69.Ta6 Sxb2+ 70.Kc3 Th2 71.Sxd5 Sd1+ 72.Kd3 Sb2+ 73.Ke4 Txh4+ 74.f4 f5+ 75.Kxf5 Txh5+ 76.Ke4 Th2 77.Ta7+ Kc6 78.Tc7+ Kb5 79.Se3 Te2 80.Kf3 Td2 81.Sf1 Td3+ 82.Ke2 Kb6 83.Tc8 Kb7 84.Tc2 Tb3 85.Sd2 Tb6 86.Ke3 Sd1+ 87.Ke2 Sb2 88.Ke3 Sd1+ 89.Kd4 d5 90.Tc1 Sf2 91.Tf1 Sg4 92.Tb1 Sf6 93.Ke5 Sh5 94.f5 Txb1 95.Sxb1 Kc6 96.Sc3 1-0
+
+Petrosian,Tigran V - Vasiukov,Evgeni [A13]
+Moscow-3teams Moscow (5.2), 28.04.1973
+
+1.c4 c5 2.b3 Sc6 3.Lb2 Sf6 4.Sf3 e6 5.e3 Le7 6.Le2 0-0 7.0-0 d5 8.cxd5 Sxd5 9.Sa3 b6 10.Sc4 Lb7 11.d4 Tc8 12.dxc5 Lxc5 13.a3 b5 14.Scd2 Db6 15.Db1 f5 16.b4 Lxe3 17.fxe3 Sxe3 18.Kh1 e5 19.Sb3 e4 20.Sc5 exf3 21.Txf3 Tce8 22.Sd7 Dd8 23.Sxf8 Sd4 24.Txe3 Txe3 25.Lf1 Th3 26.Lxd4 Txh2+ 27.Kxh2 Dh4+ 28.Kg1 Dxd4+ ½-½
+
+Petrosian,Tigran V - Tukmakov,Vladimir B [A16]
+Moscow-3teams Moscow (3.2), 26.04.1973
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 g6 5.Lg2 Sb6 6.d3 Lg7 7.Le3 0-0 8.Dd2 e5 9.Lh6 S8d7 10.h4 Sf6 11.Lxg7 Kxg7 12.h5 Sxh5 13.Lf3 De7 14.Lxh5 gxh5 15.Txh5 f6 16.Sf3 Lg4 17.Sh4 Dd7 18.Th6 Sc4 19.Dc1 Sd6 20.Sg2 Tad8 21.Th2 Kg8 22.f3 Le6 23.g4 c5 24.De3 Tc8 25.Kf2 Tf7 26.a4 b6 27.Tah1 Tg7 28.Th6 Tf8 29.Se4 Sxe4+ 30.Dxe4 Ld5 31.Df5 Le6 32.De4 Ld5 33.Df5 Le6 ½-½
+
+Petrosian,Tigran V (2645) - Kavalek,Lubomir (2555) [A37]
+Las Palmas Las Palmas (15), 21.04.1973
+
+1.c4 g6 2.Sc3 Lg7 3.Sf3 c5 4.g3 Sc6 5.Lg2 e6 6.d3 Sge7 7.0-0 d5 8.Lg5 ½-½
+
+Petrosian,Tigran V (2645) - Diez del Corral,Jesus (2470) [A16]
+Las Palmas Las Palmas (13), 18.04.1973
+
+1.c4 Sf6 2.Sc3 g6 3.g3 Lg7 4.Lg2 d6 5.Sf3 0-0 6.0-0 Sc6 7.d3 Ld7 8.a3 Dc8 9.Te1 Lh3 10.Lh1 h6 11.Sd5 Sxd5 12.cxd5 Sd8 13.Ld2 c6 14.dxc6 Sxc6 15.Lc3 Dd7 16.Lxg7 Kxg7 17.Dd2 Tac8 18.Tac1 Se5 19.Sxe5 dxe5 20.De3 Db5 21.b4 b6 22.Lb7 Txc1 23.Txc1 f6 24.Lc6 Da6 25.a4 Lf5 26.f4 Dc8 27.fxe5 De6 28.exf6+ Dxf6 29.Lf3 Lh3 30.d4 Dd6 31.Tc4 g5 32.d5 g4 33.Lg2 Tf6 34.Dd4 Lxg2 35.Kxg2 a5 36.bxa5 bxa5 37.Dxg4+ Kf7 38.Dh5+ Kg7 39.Dg4+ Kf7 40.De4 1-0
+
+Petrosian,Tigran V (2645) - Hug,Werner (2475) [A46]
+Las Palmas Las Palmas (11), 15.04.1973
+
+1.d4 Sf6 2.Sf3 c5 3.c3 b6 4.Lg5 Lb7 5.Sbd2 Se4 6.Sxe4 Lxe4 7.e3 cxd4 8.exd4 Dc7 9.Ld3 Db7 10.Lxe4 Dxe4+ 11.Le3 e6 12.0-0 Le7 13.Te1 Df5 14.d5 0-0 15.Dd2 Lf6 16.Tad1 e5 17.d6 e4 18.Dc2 Te8 19.Ld4 Sc6 20.Lxf6 Dxf6 21.Txe4 Te6 22.Txe6 fxe6 23.De4 Tf8 24.h3 Df5 25.De2 Dc5 26.Td2 h6 27.a3 Tf5 28.De4 Tf6 29.Td3 Db5 30.Td2 Dc5 31.Dd3 Se5 32.Sxe5 Dxe5 33.g3 Tf8 34.Kg2 Tf6 35.h4 Tf5 36.c4 Tf8 37.b4 Tc8 38.f4 Df6 39.Tc2 Da1 40.Te2 Dc1 41.Tc2 Db1 42.Dc3 Dd1 43.c5 bxc5 44.bxc5 Dd5+ 45.Kh2 Kh8 46.Dc4 Df3 47.a4 De3 48.Db5 De4 49.Tg2 Kh7 50.Dxd7 Txc5 51.Dxa7 Td5 52.Da6 Dd4 53.Ta2 Txd6 54.De2 Dd5 55.Dc2+ Kg8 56.Tb2 Td8 57.De2 Kh8 58.Tc2 Ta8 59.Tc4 Tb8 60.Dc2 Td8 61.Tc5 Df3 62.Tc8 Txc8 63.Dxc8+ Kh7 64.Dc2+ Kh8 65.Da2 Da8 66.a5 Da6 67.h5 Kh7 68.Kg1 Kh8 69.Kf2 Da7+ 70.Kf3 Db7+ 71.Ke3 Da7+ 72.Ke4 Db7+ 73.Kd4 Db4+ 74.Ke5 Db8+ 75.Ke4 Db7+ 76.Ke3 Da7+ 77.Kf3 Db7+ 78.Kf2 Da7+ 79.Kf1 Db7 80.Kg1 Da7+ 81.Kh2 Da6 82.Dd2 Db5 83.g4 Dc4 84.Kg3 Df1 85.Kh2 Dc4 86.Kg2 Kg8 87.Kf2 Kh8 88.Ke3 Dc6 89.Dd8+ Kh7 90.Dd3+ Kh8 91.a6 Dh1 92.De2 Dc1+ 93.Ke4 Dh1+ 94.Kd4 Dd5+ 95.Ke3 e5 96.f5 Dd4+ 97.Kf3 Dg1 98.Dxe5 Df1+ 99.Ke3 De1+ 100.Kd4 Da1+ 101.Ke4 Db1+ 102.Kd5 Db5+ 103.Ke6 De8+ 104.Kd6 Db8+ ½-½
+
+Petrosian,Tigran V (2645) - Huguet,Bernard (2255) [D35]
+Las Palmas Las Palmas (9), 12.04.1973
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Sc3 Sbd7 5.cxd5 exd5 6.Lf4 c6 7.e3 Lb4 8.Ld3 0-0 9.Dc2 Te8 10.a3 La5 11.b4 Lc7 12.Lg5 h6 13.Lh4 Sf8 14.Lxf6 gxf6 15.0-0 Lg4 16.Sh4 Dd6 17.g3 Kh8 18.Tfc1 Se6 19.Lf5 Lxf5 20.Sxf5 Df8 21.Dd1 Tac8 22.Dh5 Kh7 23.h4 Lb8 24.e4 Sc7 25.exd5 Sxd5 26.Sxd5 cxd5 27.Txc8 Txc8 28.Te1 1-0
+
+Petrosian,Tigran V (2645) - Darga,Klaus (2540) [A17]
+Las Palmas Las Palmas (7), 10.04.1973
+
+1.Sf3 Sf6 2.c4 b6 3.d3 c5 4.Sc3 Sc6 5.g3 Lb7 6.Lg2 e6 7.0-0 Le7 8.e4 d6 9.Se1 0-0 10.f4 Se8 11.g4 Sc7 12.Sf3 d5 13.f5 dxc4 14.dxc4 Lf6 ½-½
+
+Petrosian,Tigran V (2645) - Gheorghiu,Florin (2520) [D91]
+Las Palmas Las Palmas (4), 06.04.1973
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.Lg5 Se4 6.cxd5 Sxg5 7.Sxg5 e6 8.Sf3 exd5 9.e3 Dd6 10.Le2 0-0 11.0-0 c6 12.a3 a5 13.Sa4 Sd7 14.Tc1 b6 15.Dd2 Lb7 16.Tfd1 Tfc8 17.Tc2 Lf6 18.Sc3 Lg7 19.e4 dxe4 20.Sxe4 De7 21.Df4 Sf6 22.Sc3 Sd5 23.Sxd5 cxd5 24.Txc8+ Txc8 25.Ld3 Dc7 26.Dd2 Dd6 27.h3 Lc6 ½-½
+
+Petrosian,Tigran V (2645) - Ree,Hans (2480) [E06]
+Las Palmas Las Palmas (2), 03.04.1973
+
+1.c4 e6 2.g3 d5 3.Lg2 Sf6 4.Sf3 c5 5.cxd5 Sxd5 6.0-0 Sc6 7.d4 Le7 8.dxc5 0-0 9.Dc2 Sdb4 10.De4 f5 11.Dc4 Dd5 12.Sa3 Dxc5 13.Lg5 h6 14.Lxe7 Dxe7 15.Tfd1 a6 16.Db3 Ld7 17.Sc4 Le8 18.Sb6 Td8 19.a3 Sd5 20.Sxd5 exd5 21.e3 Lf7 22.Sd4 Sxd4 23.Txd4 Kh7 24.Tad1 Td7 25.Dd3 De5 26.b4 Tfd8 27.h4 h5 28.Tc1 Kh6 29.Tc5 g6 30.Dc2 Kh7 31.Lf3 Le6 32.Kh2 Tf7 33.Dc3 Te7 34.a4 Lg8 35.Dd3 Ted7 36.b5 axb5 37.Txb5 Lf7 38.Db1 De7 39.Tdb4 d4 40.exd4 f4 41.Txh5+ 1-0
+
+Petrosian,Tigran V (2640) - Andersson,Ulf (2555) [D03]
+IBM Amsterdam (9), 1973
+
+1.d4 Sf6 2.Sf3 e6 3.Lg5 Le7 4.Sbd2 d5 5.e3 Sbd7 6.c3 0-0 7.Ld3 b6 8.b4 Lb7 9.Db1 h6 10.Lh4 Sh5 11.Lg3 Dc8 12.Le5 Shf6 13.0-0 c5 14.Tc1 Sxe5 15.Sxe5 Dc7 16.a4 a5 17.b5 Tac8 ½-½
+
+Petrosian,Tigran V (2640) - Gligoric,Svetozar (2595) [D79]
+URS-YUG Tbilisi (4), 1973
+
+1.d4 Sf6 2.c4 g6 3.g3 c6 4.Lg2 d5 5.cxd5 cxd5 6.Sf3 Lg7 7.0-0 0-0 8.Sc3 Sc6 9.Se5 e6 10.Lf4 Sxe5 11.Lxe5 Ld7 12.Db3 Lc6 13.Tfc1 De7 ½-½
+
+Petrosian,Tigran V (2640) - Gligoric,Svetozar (2595) [E88]
+URS-YUG Tbilisi (2), 1973
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.f3 0-0 6.Le3 c6 7.Ld3 e5 8.d5 Sbd7 9.Sge2 Sc5 10.Lc2 cxd5 11.cxd5 a5 12.0-0 Ld7 13.Kh1 Se8 14.a3 Sc7 15.Tb1 Sb5 16.Sxb5 Lxb5 17.a4 La6 18.Lxc5 dxc5 19.b3 b5 20.axb5 Lxb5 21.Ld3 Ld7 22.Sc3 Tb8 23.Lc4 Db6 24.Ta1 f5 25.Tf2 Kh8 26.Tfa2 Ta8 27.Dd3 fxe4 28.Sxe4 Db4 29.h3 Lh6 30.d6 Lf5 31.Dd5 Lxe4 32.Dxe4 Lf4 33.d7 Db6 34.Td1 Tad8 35.Dd5 Tf6 36.Te2 Dc7 37.Te4 Kg7 38.Lb5 Tb6 39.La4 Kf6 1-0
+
+Petrosian,Tigran V (2640) - Planinec,Albin (2525) [A24]
+IBM Amsterdam (11), 1973
+
+1.c4 Sf6 2.Sc3 g6 3.Sf3 Lg7 4.g3 0-0 5.Lg2 d6 6.0-0 e5 7.d3 Te8 8.Ld2 c6 9.Tc1 a5 10.a3 Sa6 11.Le3 Tb8 12.Db3 Sd7 13.Dc2 Sdc5 14.Tfd1 Lf5 15.Tb1 Se6 16.b4 Sd4 17.Da2 axb4 18.axb4 Ta8 19.Dd2 Sc7 20.Lh6 Sxf3+ 21.Lxf3 Lh8 22.b5 Dd7 23.Tdc1 Le6 24.De3 Ta3 25.Lg2 Tc8 26.bxc6 bxc6 27.Tb7 Lg7 28.Lxg7 Kxg7 29.c5 Ta5 30.cxd6 Dxd6 31.Se4 Dd4 32.Dxd4 exd4 33.Sd6 Td8 34.Sxf7 Lxf7 35.Txc7 Te5 36.Le4 Tde8 37.T1xc6 Kg8 38.Td6 Le6 39.Txd4 1-0
+
+Petrosian,Tigran V (2640) - Radulov,Ivan (2530) [A37]
+IBM Amsterdam (15), 1973
+
+1.c4 c5 2.Sf3 Sc6 3.Sc3 e5 4.g3 g6 5.a3 Lg7 6.Tb1 Sge7 7.Lg2 a5 8.d3 0-0 9.Lg5 f6 10.Ld2 d6 11.0-0 Le6 12.Se1 f5 13.Sc2 d5 14.b3 d4 15.Sb5 f4 16.b4 b6 17.bxc5 bxc5 18.a4 Dd7 19.Sa1 Lh3 20.Sb3 Lxg2 21.Kxg2 e4 22.Sxc5 f3+ 23.exf3 exf3+ 24.Dxf3 Txf3 25.Sxd7 Txd3 26.Lg5 Sf5 27.g4 h6 28.Sc5 Tc3 29.Sxc3 dxc3 30.gxf5 hxg5 31.f6 Lf8 32.Se4 c2 33.Tb2 Sd4 34.Tc1 Te8 35.Sxg5 1-0
+
+Petrosian,Tigran V (2640) - Ree,Hans (2440) [E60]
+IBM Amsterdam (7), 1973
+
+1.d4 Sf6 2.c4 g6 3.d5 Lg7 4.g3 c6 5.Lg2 Da5+ 6.Sc3 Db4 7.Dd3 d6 8.Kf1 cxd5 9.cxd5 Sa6 10.a3 ½-½
+
+Petrosian,Tigran V (2640) - Ribli,Zoltan (2525) [A48]
+IBM Amsterdam (13), 1973
+
+1.d4 Sf6 2.Sf3 g6 3.Lg5 Lg7 4.Sbd2 0-0 5.c3 d6 6.e3 Sbd7 7.a4 h6 8.Lxf6 Lxf6 9.a5 a6 10.Dc2 e5 11.Lc4 Kh8 12.h4 h5 13.Se4 Lg7 14.Seg5 De7 15.Db3 e4 16.Sd2 Lh6 17.Sxf7+ Kg7 18.Sxh6 Kxh6 19.Sf1 Sf6 20.f3 exf3 21.gxf3 Sg4 22.fxg4 Lxg4 23.Le2 Txf1+ 24.Txf1 Dxe3 25.Dc2 Te8 26.Tf2 Dg3 27.Dd2+ Kg7 28.Df4 Txe2+ 29.Kf1 ½-½
+
+Petrosian,Tigran V (2640) - Smejkal,Jan (2595) [A38]
+IBM Amsterdam (5), 1973
+
+1.c4 Sf6 2.Sc3 c5 3.Sf3 Sc6 4.d4 cxd4 5.Sxd4 g6 6.Sc2 d6 7.g3 Lg7 8.Lg2 0-0 9.0-0 Le6 10.b3 Dd7 11.Sd5 Lf5 12.Lb2 Sxd5 13.Lxg7 Kxg7 14.Lxd5 Lh3 15.Te1 h5 16.Se3 h4 17.Tc1 hxg3 18.hxg3 Th8 19.c5 Le6 20.Lg2 Th5 21.cxd6 exd6 22.Dd2 Tah8 23.Ted1 d5 24.Sxd5 Lxd5 25.Lxd5 Dh3 26.Lxc6 bxc6 27.Dc3+ Kh7 28.Dxc6 Dh2+ 29.Kf1 Tc8 30.Dg2 Txc1 31.Txc1 Dh1+ 32.Dg1 Dd5 33.f3 Dd2 34.Te1 Dxa2 35.De3 Th1+ 36.Kf2 Txe1 37.Kxe1 a5 38.Kf2 a4 39.bxa4 Dxa4 40.De5 Dc4 41.g4 Kg8 42.f4 Db4 43.De8+ Kg7 44.De3 Kf8 45.Kg3 De1+ 46.Kg2 Db4 47.Kh3 De1 48.Kg2 Db4 49.De5 g5 50.Dxg5 De4+ 51.Kf2 Dd4+ 52.Kf3 Dc3+ 53.e3 Dc6+ 54.Kg3 Dh1 55.Dd8+ Kg7 56.Dd4+ Kh7 57.Dd3+ Kg7 58.Dd4+ f6 59.g5 Dg1+ 60.Kf3 Df1+ 61.Ke4 Db1+ 62.Kd5 Db5+ 63.Kd6 Da6+ 64.Kc5 Da3+ 65.Kc4 Kg8 66.Dd8+ Kh7 67.Dd3+ 1-0
+
+Petrosian,Tigran V (2640) - Spassky,Boris V (2655) [D36]
+IBM Amsterdam (3), 1973
+
+1.c4 e6 2.d4 d5 3.Sc3 Sf6 4.cxd5 exd5 5.Lg5 c6 6.Dc2 Sa6 7.e3 Sb4 8.Dd2 Lf5 9.Tc1 a5 10.a3 Sa6 11.Sge2 Le7 12.Sf4 0-0 13.Ld3 Lxd3 14.Sxd3 Sd7 15.Lxe7 Dxe7 16.0-0 Sb6 17.Tfe1 Sc4 18.Dd1 f5 19.Sb1 Sc7 20.a4 Sa6 21.Sd2 ½-½
+
+Petrosian,Tigran V (2640) - Szabo,Laszlo (2565) [A34]
+IBM Amsterdam (1), 1973
+
+1.c4 Sf6 2.Sc3 c5 3.g3 d5 4.cxd5 Sxd5 5.Lg2 Sc7 6.d3 e5 7.Sf3 Sc6 8.Sd2 Le6 9.Lxc6+ bxc6 10.b3 Sb5 11.Sa4 Dd5 12.f3 Le7 13.Lb2 h5 14.Tc1 h4 15.g4 Lxg4 16.e4 Dxd3 17.fxg4 Lg5 18.Sxc5 Dh3 19.De2 Td8 20.Tc2 Lf4 21.Sf1 Th6 22.Dg2 Dxg2 23.Txg2 Thd6 24.Tc2 Td1+ 25.Ke2 Tb1 26.a4 Sc7 27.Sg3 Txb2 28.Txb2 hxg3 29.hxg3 Lxg3 30.Th8+ Ke7 31.Txd8 Kxd8 32.Td2+ Ke8 33.Td6 1-0
+
+Petrosian,Tigran V (2645) - Garcia,Raimundo (2420) [D41]
+Skopje ol (Men) fin-A Skopje (14), 11.10.1972
+
+1.c4 c5 2.Sf3 Sf6 3.Sc3 d5 4.cxd5 Sxd5 5.e3 e6 6.d4 Sc6 7.Lc4 cxd4 8.exd4 Le7 9.0-0 0-0 10.Te1 a6 11.a4 Scb4 12.Se5 Ld7 13.Lb3 Tc8 14.Df3 Lc6 15.Dh3 Lg5 16.Lxg5 Dxg5 17.Se4 Dd8 18.a5 Sf4 19.Df3 Lxe4 20.Dxe4 Sfd5 21.g3 Tc7 22.De2 Df6 23.Tac1 Tfc8 24.Sd7 Dd8 25.Sc5 Te7 26.Df3 h6 27.Lxd5 Sxd5 28.Da3 Tb8 29.Ted1 Tc7 30.Td3 Dd6 31.Tcd1 Te7 32.Tb3 Tc7 33.Da4 Kh7 34.Dc4 Dd8 35.De2 De8 36.De5 Dc8 37.h4 Kg8 38.Tf3 De8 39.Ta1 Tbc8 ½-½
+
+Petrosian,Tigran V (2645) - Kavalek,Lubomir (2555) [A15]
+Skopje ol (Men) fin-A Skopje (12), 09.10.1972
+
+1.b4 Sf6 2.Lb2 g6 3.Sf3 Lg7 4.c4 0-0 5.e3 d6 6.Le2 e5 7.d3 a5 8.a3 e4 9.dxe4 Sxe4 10.Lxg7 Kxg7 11.Dd4+ Df6 12.Dxf6+ Kxf6 13.b5 Sd7 14.Sd4 Sb6 15.Sd2 Sc5 16.0-0 Le6 17.Tac1 Ke7 18.Lf3 f5 ½-½
+
+Petrosian,Tigran V (2645) - Hug,Werner (2475) [A04]
+Skopje ol (Men) fin-A Skopje (8), 04.10.1972
+
+1.Sf3 e6 2.g3 f5 3.Lg2 Sf6 4.0-0 Le7 5.b3 0-0 6.Lb2 a5 7.a3 De8 8.c4 d6 9.d4 Dh5 10.Sc3 Sbd7 11.e3 c6 12.Se2 g5 13.b4 axb4 14.axb4 Txa1 15.Lxa1 d5 16.c5 Sg4 17.h3 Sh6 18.Lc3 Sf7 19.b5 Lf6 20.Da1 cxb5 21.Tb1 Sd8 22.Txb5 Sc6 23.Db2 Df7 24.Se1 Ld8 25.Tb3 Lc7 26.Sd3 Dg7 27.Da2 Sf6 28.Le1 Sh5 29.Lf3 Sf6 30.Lg2 Sh5 31.Ld2 Kh8 32.Db1 Lb8 33.Ta3 Lc7 34.Ta8 h6 35.Dd1 Dg6 36.Lc1 Dh7 37.Sc3 Sf6 38.Sb5 Dg7 39.Sd6 Dd7 40.Se5 Sxe5 41.dxe5 Se4 42.La3 Lxd6 43.exd6 Tg8 1-0
+
+Petrosian,Tigran V (2645) - Schmidt,Wlodzimierz (2450) [A16]
+Skopje ol (Men) fin-A Skopje (6), 02.10.1972
+
+1.c4 Sf6 2.Sc3 d5 3.cxd5 Sxd5 4.g3 g6 5.Lg2 Sb6 6.d3 Lg7 7.Le3 Sc6 8.Lxc6+ bxc6 9.Dc1 h6 10.Sf3 Lh3 11.Tg1 Lg4 12.Sd2 Sd5 13.Sxd5 cxd5 14.Sb3 Dd6 15.f3 Ld7 16.d4 Tb8 17.Kf2 h5 18.Lf4 e5 19.dxe5 Lxe5 20.De3 f6 21.Dxa7 0-0 22.Tac1 Tfe8 23.Lxe5 Dxe5 24.Tge1 Ta8 25.Dxc7 De3+ 26.Kg2 Ta7 27.Dd6 h4 28.gxh4 Le6 29.Tc3 Dh6 30.a3 Td7 31.Dg3 d4 32.Td3 Lxb3 33.Txb3 Dd2 34.Kf1 Kh7 35.Tb8 Te5 36.Dg4 f5 37.Dg5 Te3 38.Df6 1-0
+
+Petrosian,Tigran V (2645) - Bobotsov,Milko G (2455) [D57]
+Skopje ol (Men) fin-A Skopje (4), 30.09.1972
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 d5 4.d4 Le7 5.Lg5 h6 6.Lh4 0-0 7.e3 Se4 8.Lxe7 Dxe7 9.cxd5 Sxc3 10.bxc3 exd5 11.Db3 c6 12.Ld3 Sd7 13.0-0 Sf6 14.Tfe1 Le6 15.a4 c5 16.Db5 Tfc8 17.Sd2 Tc7 18.a5 Tac8 ½-½
+
+Petrosian,Tigran V (2645) - Ree,Hans (2480) [A26]
+Skopje ol (Men) fin-A Skopje (3), 29.09.1972
+
+1.c4 e5 2.g3 Sc6 3.Lg2 g6 4.Sc3 Lg7 5.d3 d6 6.Ld2 h5 7.Sf3 Ld7 8.a3 Dc8 9.h3 Sh6 10.Sd5 Sd8 11.Sg5 Se6 12.Sxe6 Lxe6 13.La5 b6 14.Ld2 c6 15.Sc3 0-0 16.b4 a6 17.a4 Sf5 18.Tb1 Ta7 19.b5 axb5 20.axb5 c5 21.Ta1 Db8 22.0-0 Td8 23.Txa7 Dxa7 24.Da1 Db8 25.Da2 Se7 26.Ta1 Sc8 27.Da8 Dc7 28.Dc6 De7 29.Ta8 Kh7 30.Sd5 1-0
+
+Petrosian,Tigran V (2645) - Portisch,Lajos (2640) [D41]
+Skopje ol (Men) fin-A Skopje (1), 27.09.1972
+
+1.c4 Sf6 2.Sf3 e6 3.Sc3 d5 4.d4 c5 5.cxd5 Sxd5 6.e4 Sxc3 7.bxc3 cxd4 8.cxd4 Lb4+ 9.Ld2 Lxd2+ 10.Dxd2 0-0 11.Lc4 Sc6 12.0-0 b6 13.Tfd1 Se7 14.a4 Lb7 15.Ld3 Sg6 16.a5 Sh4 17.Sxh4 Dxh4 18.De3 Tfd8 19.Tab1 Td6 20.e5 Td7 21.Lb5 Tdd8 22.axb6 axb6 23.Lf1 La6 24.g3 Dh5 25.Lg2 Tab8 26.Lf3 Dh6 27.Dxh6 gxh6 28.Tb4 Kg7 29.h4 Tdc8 30.d5 exd5 31.Lxd5 Td8 32.Lb3 Txd1+ 33.Lxd1 Ld3 34.f4 f6 35.exf6+ Kxf6 36.Td4 Lg6 37.Lb3 h5 38.Kf2 b5 39.Ke3 Tb6 40.Td8 Ke7 41.Td5 Kf6 ½-½
+
+Petrosian,Tigran V (2645) - Boey,Josef Martin (2390) [D20]
+Skopje ol (Men) qual-A Skopje (1), 19.09.1972
+
+1.d4 d5 2.c4 Sc6 3.Sc3 dxc4 4.e3 Sf6 5.Lxc4 e6 6.Sf3 Lb4 7.Dc2 0-0 8.a3 Lxc3+ 9.bxc3 Sa5 10.Ld3 c5 11.0-0 c4 12.Le2 b6 13.a4 Lb7 14.Sd2 Te8 15.La3 e5 16.dxe5 Txe5 17.Tad1 De8 18.Sf3 Le4 19.Da2 Lxf3 20.Lxf3 Se4 21.Td4 Tc8 22.Dc2 f5 23.Tfd1 Sb3 24.Td7 a6 25.Lxe4 fxe4 26.De2 Te6 27.Dg4 Tg6 28.Dh4 Tf6 29.Le7 1-0
+
+Petrosian,Tigran V (2645) - Gligoric,Svetozar (2575) [E81]
+San Antonio San Antonio, 1972
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.f3 0-0 6.Le3 c6 7.Dd2 a6 8.Ld3 b5 9.Tc1 Sbd7 10.Sge2 e5 11.d5 b4 12.Sd1 c5 13.g4 h5 14.Sf2 hxg4 15.fxg4 Sh7 16.h4 f5 17.gxf5 gxf5 18.exf5 e4 19.Lxe4 Se5 20.Sg3 Sf6 21.0-0 Ta7 22.Lg5 Db6 23.b3 Taf7 24.De2 Dc7 25.Lb1 Sh7 26.Kg2 Sd7 27.Sg4 Sdf6 28.Tce1 Sxg4 29.Dxg4 Kh8 30.Te6 Lxe6 31.dxe6 Sf6 32.Df3 Te7 33.Sh5 Kg8 34.Sf4 Tb8 35.Sd5 1-0
+
+Petrosian,Tigran V (2645) - Hort,Vlastimil (2605) [D32]
+Sarajevo 15th Sarajevo (7), 1972
+
+1.Sf3 c5 2.b3 d5 3.e3 Sf6 4.Lb2 e6 5.c4 Sc6 6.cxd5 exd5 7.Le2 Le7 8.0-0 0-0 9.d4 Lg4 10.dxc5 Lxc5 11.Sc3 Tc8 12.Tc1 Le7 13.Sd4 Lxe2 14.Scxe2 Dd7 15.Sf4 Tfd8 16.Dd3 Se4 17.Sxc6 bxc6 18.Tc2 Lf8 19.Tfc1 Db7 20.De2 Te8 21.Dg4 g6 22.Dd1 Ld6 23.Sxd5 Tcd8 24.Txc6 Lb8 25.f4 Te6 26.Dd4 1-0
+
+Petrosian,Tigran V (2645) - Ivanovic,Bozidar (2380) [E82]
+Sarajevo 15th Sarajevo (12), 1972
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.f3 0-0 6.Le3 b6 7.Ld3 a6 8.Sge2 c5 9.d5 e6 10.0-0 exd5 11.cxd5 Sbd7 12.b3 b5 13.h3 Te8 14.Dd2 Sb6 15.Tac1 Ld7 16.Lf4 De7 17.Sd1 Tab8 18.Te1 Tb7 19.Lg5 Tc8 20.Da5 Le8 21.Kh1 Dc7 22.Dd2 Db8 23.Lh6 Te7 24.Lxg7 Kxg7 25.Sg3 Ld7 26.Db2 Tce8 27.Sc3 Lc8 28.Le2 h5 29.a4 b4 30.Sd1 h4 31.Sf1 a5 32.Lb5 Ld7 33.Sde3 Lxb5 34.axb5 Te5 35.Ta1 Dd8 36.Sd2 Kh7 37.Sdc4 Sxc4 38.Sxc4 Tg5 39.Txa5 Sxd5 40.Df2 Sf6 41.Dxh4+ Th5 42.Dg3 d5 43.Td1 Db8 44.Dxb8 Txb8 45.exd5 Txd5 46.Txd5 Sxd5 47.b6 Sxb6 48.Sxb6 Txb6 49.Txc5 f6 50.h4 Kh6 51.Kh2 Td6 52.Tc4 Tb6 53.g4 Tb5 54.Kg3 g5 55.hxg5+ Kxg5 56.f4+ Kg6 57.Kh4 Tb8 58.f5+ Kh6 59.Tc6 Kg7 60.Tc7+ Kh6 61.Tf7 1-0
+
+Petrosian,Tigran V - Ivkov,Borislav [A27]
+YUG-URS Ohrid (1.1), 1972
+
+1.c4 e5 2.g3 g6 3.d4 d6 4.Sc3 Sc6 5.Sf3 exd4 6.Sxd4 Lg7 7.Sxc6 bxc6 8.Lg2 Se7 9.0-0 0-0 10.Lg5 Tb8 11.Dc1 c5 12.b3 Lb7 13.Lxb7 Txb7 14.Lh6 Lxh6 15.Dxh6 Sf5 16.Df4 Sd4 17.Tad1 Tb8 18.Td2 f5 19.h4 Df6 20.Sd5 Dg7 21.e3 Sc6 22.Df3 Se5 23.De2 Tbe8 24.Kg2 h6 25.Th1 Tf7 26.Tdd1 Sg4 27.Dd3 De5 28.The1 De4+ 29.f3 Dxd3 30.Txd3 Sf6 ½-½
+
+Petrosian,Tigran V (2645) - Jansa,Vlastimil (2450) [B36]
+Sarajevo 15th Sarajevo (5), 1972
+
+1.c4 g6 2.e4 c5 3.Sf3 Sc6 4.d4 cxd4 5.Sxd4 Sf6 6.Sc3 d6 7.f3 Sxd4 8.Dxd4 Lg7 9.Le3 0-0 10.Dd2 Da5 11.Tc1 Le6 12.Le2 Tfc8 13.b3 a6 14.Sa4 Dxd2+ 15.Kxd2 Sd7 16.Thd1 Tab8 17.Sc3 f5 18.exf5 gxf5 19.Ke1 Lxc3+ 20.Txc3 b5 21.Ld4 bxc4 22.Tdc1 Sc5 23.Lxc5 Txc5 24.Lxc4 Te5+ 25.Kf2 Kf7 26.Lxe6+ Txe6 27.Tc4 Tb5 ½-½
+
+Petrosian,Tigran V (2645) - Kapengut,Albert Z (2485) [A73]
+URS-chT Moscow, 1972
+
+1.d4 Sf6 2.c4 c5 3.d5 e6 4.Sc3 exd5 5.cxd5 d6 6.Sf3 g6 7.Sd2 Sbd7 8.e4 Lg7 9.Le2 0-0 10.0-0 De7 11.a4 b6 12.Te1 Tb8 13.f4 a6 14.Lf3 b5 15.axb5 axb5 16.Ta5 b4 17.Sa4 h5 18.Sc4 Sg4 19.e5 dxe5 20.Lxg4 hxg4 21.fxe5 b3 22.e6 fxe6 23.dxe6 Dh4 24.Ta7 g3 25.hxg3 Dxg3 26.exd7 Df2+ ½-½
+
+Petrosian,Tigran V (2645) - Karpov,Anatoly (2630) [E14]
+San Antonio San Antonio, 1972
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.e3 Lb7 5.Sc3 d5 6.Ld3 Le7 7.0-0 0-0 8.b3 c5 9.Lb2 cxd4 10.Sxd4 dxc4 11.Lxc4 a6 12.Le2 b5 13.Lf3 Ta7 14.Lxb7 Txb7 15.Df3 Td7 16.a4 bxa4 17.Sxa4 Dc7 18.Tfc1 Db7 19.Sc5 Dxf3 20.gxf3 Lxc5 21.Txc5 h6 22.Kg2 Tb7 23.f4 Kh7 24.Tac1 Td8 25.T1c2 Se4 26.Tc7 Td7 27.Txb7 Txb7 28.La3 g5 29.Kf3 Sf6 ½-½
+
+Petrosian,Tigran V - Katishonok,Nikolaj [D35]
+Moscow GM-Young M Moscow, 1972
+
+1.d4 Sf6 2.c4 e6 3.Sc3 d5 4.cxd5 exd5 5.Lg5 Le7 6.e3 0-0 7.Ld3 h6 8.Lh4 Te8 9.Sge2 c6 10.0-0 Sbd7 11.f3 c5 12.Lf2 a6 13.dxc5 Sxc5 14.Sd4 Ld6 15.Sce2 Dc7 16.Tc1 Lxh2+ 17.Kh1 De5 18.g3 Sce4 19.Kxh2 Sxf2 20.Txf2 Dxe3 21.Kg1 Sh5 22.Tc3 De5 23.Kg2 f5 24.f4 Df6 25.Dh1 Df7 26.Sf3 Sf6 27.Se5 De7 28.Dc1 Se4 29.Lxe4 dxe4 30.Sd4 Db4 31.Tc4 Db6 32.Tfc2 Le6 33.Sxe6 Dxe6 34.Tc7 Ted8 35.Txb7 Tac8 36.Tcc7 Txc7 37.Dxc7 Td2+ 38.Kh3 Df6 39.Tb8+ Kh7 40.Dc8 1-0
+
+Petrosian,Tigran V (2645) - Keres,Paul (2600) [D41]
+San Antonio San Antonio, 1972
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 c5 4.g3 Le7 5.Lg2 0-0 6.d4 d5 7.cxd5 Sxd5 8.0-0 Sc6 9.Sxd5 exd5 10.dxc5 Lxc5 11.Dd3 h6 12.a3 a5 13.Ld2 b6 ½-½
+
+Petrosian,Tigran V (2645) - Keres,Paul (2600) [D56]
+Sarajevo 15th Sarajevo (11), 1972
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lg5 h6 6.Lh4 0-0 7.e3 Se4 8.Lxe7 Dxe7 9.Tc1 c6 10.Ld3 Sxc3 11.bxc3 Sd7 12.0-0 e5 13.dxe5 dxc4 14.Lxc4 Sxe5 15.Sxe5 Dxe5 16.Dd4 De7 ½-½
+
+Petrosian,Tigran V - Korolkov,Anatolij [B10]
+Moscow GM-Young M Moscow, 1972
+
+1.e4 c6 2.d3 d5 3.Sd2 Sd7 4.g3 dxe4 5.dxe4 e5 6.Sgf3 g6 7.Lg2 Lg7 8.0-0 Sb6 9.a4 Le6 10.De2 a5 11.b3 Se7 12.La3 f6 13.Tfd1 Dc7 14.De3 Sbc8 15.Sc4 0-0 16.Lc5 Te8 17.Scxe5 fxe5 18.Sg5 Ld7 19.Dd3 h6 20.Dxd7 Dxd7 21.Txd7 hxg5 22.Txb7 Kf7 23.Td1 g4 24.Lf1 Kf6 25.Tdd7 g5 26.Le2 Kf7 27.Lxg4 Lf6 28.Lh5+ Kf8 29.h3 Ta6 30.Td3 Sd6 31.Txd6 1-0
+
+Petrosian,Tigran V - Kotov,Alexander [D27]
+URS Soviet Union, 1972
+
+1.d4 d5 2.c4 dxc4 3.Sf3 Sf6 4.e3 e6 5.Lxc4 c5 6.0-0 a6 7.a4 Sc6 8.De2 cxd4 9.Td1 Le7 10.exd4 0-0 11.Lg5 Sd5 12.Lxe7 Scxe7 13.Se5 b6 14.a5 Lb7 15.axb6 Dxb6 16.Sc3 Sxc3 17.bxc3 Sg6 18.Ld3 Sxe5 19.Dxe5 Tfd8 20.c4 g6 21.Tab1 Dc6 22.f3 Td7 23.Le4 Da4 24.c5 Ld5 25.h4 h5 26.Ta1 Dc6 27.Tdb1 Lxe4 28.fxe4 f6 29.Dxf6 Dxe4 30.Te1 Dxd4+ 31.Dxd4 Txd4 32.Txe6 Kf7 33.Tb6 Txh4 34.Tc1 a5 35.c6 Tb4 36.Txb4 axb4 37.Tb1 ½-½
+
+Petrosian,Tigran V (2645) - Larsen,Bent (2625) [A81]
+San Antonio San Antonio, 1972
+
+1.d4 e6 2.Sf3 f5 3.g3 Sf6 4.Lg2 b5 5.Se5 c6 6.Sd2 Db6 7.e4 Dxd4 8.Sef3 Dc5 9.exf5 Dxf5 10.0-0 Sd5 11.Sd4 Df7 12.S2f3 Dh5 13.Te1 Le7 14.Te5 Df7 15.Te2 0-0 16.Se5 Dh5 17.f4 Lc5 18.Kh1 Lb7 19.Sdf3 Lb6 20.a4 a6 21.c4 Sf6 22.Sg5 bxa4 23.Lf3 De8 24.Le3 Lxe3 25.Txe3 h6 26.Se4 Sxe4 27.Lxe4 d5 28.Lg2 Sd7 29.Txa4 c5 30.cxd5 Sb6 31.Ta5 Sxd5 32.Tb3 Td8 33.Txb7 Se3 34.De2 Td1+ 35.Dxd1 Sxd1 36.Txa6 Se3 37.Taa7 Sf5 38.g4 Dd8 39.h3 Dd1+ 40.Kh2 Dd4 41.Sg6 Se3 42.Txg7+ Dxg7 43.Txg7+ Kxg7 44.Sxf8 Kxf8 45.Lf3 h5 46.g5 h4 47.Kg1 e5 48.fxe5 Sc4 49.Kf2 Sxe5 50.Le4 Kg7 51.b3 Sf7 52.g6 Sg5 53.Lf5 Kf6 54.Ke3 Se6 55.Lxe6 Kxe6 56.Ke4 Kf6 57.Kd5 Kxg6 58.Kxc5 Kf5 59.b4 Kf4 60.b5 Kg3 61.b6 1-0
+
+Petrosian,Tigran V (2645) - Matulovic,Milan (2525) [A87]
+Sarajevo 15th Sarajevo (9), 1972
+
+1.c4 g6 2.Sf3 Lg7 3.d4 f5 4.g3 Sf6 5.Lg2 0-0 6.0-0 d6 7.d5 c5 8.Sc3 Sa6 9.Tb1 Ld7 10.b3 Sc7 11.a4 a6 12.b4 cxb4 13.Txb4 Tb8 14.Db3 Se4 15.Sxe4 fxe4 16.Sg5 a5 17.Tb6 Sa6 18.Le3 Sc5 19.Lxc5 dxc5 20.Se6 Lxe6 21.Txe6 Tf6 22.Lxe4 Dc7 23.f4 Dd7 24.Lf3 Txe6 25.dxe6 Dd4+ 26.Kg2 Dc3 27.Dxc3 Lxc3 28.Td1 Kf8 29.Td7 b6 30.Ld5 Ke8 31.e4 h6 32.Kf3 Kf8 33.e5 g5 34.Ke4 gxf4 35.gxf4 Ke8 36.f5 Tc8 37.Tb7 Td8 38.f6 exf6 39.Lc6+ Kf8 40.e7+ 1-0
+
+Petrosian,Tigran V (2645) - Minic,Dragoljub (2460) [E70]
+Sarajevo 15th Sarajevo (3), 1972
+
+1.c4 g6 2.d4 Lg7 3.Sc3 c5 4.d5 d6 5.e4 Sf6 6.Ld3 0-0 7.Lg5 h6 8.Ld2 e6 9.h3 exd5 10.exd5 Te8+ 11.Sge2 a6 12.a4 Sfd7 13.f4 Dh4+ 14.Kf1 b6 15.De1 Dd8 16.g4 a5 17.Dg3 Sf6 18.f5 Sbd7 19.fxg6 fxg6 20.Lxg6 Tf8 21.Kg2 Se5 22.Ld3 Ta7 23.Sf4 Taf7 24.Le2 Sh7 25.Thf1 Sf6 26.Tae1 Te7 27.b3 Tfe8 28.Ld1 Sf7 29.Txe7 Txe7 30.Le2 1-0
+
+Petrosian,Tigran V - Planinec,Albin [A50]
+YUG-URS Ohrid (3.1), 1972
+
+1.c4 b6 2.d4 Sf6 3.Sc3 Lb7 4.d5 e6 5.a3 Ld6 6.Sf3 exd5 7.cxd5 0-0 8.Lg5 Te8 9.e3 Le7 10.Lc4 h6 11.Lf4 La6 12.Dd3 Dc8 13.0-0 c6 14.Lxa6 Dxa6 15.Df5 d6 16.dxc6 Sxc6 17.Tfd1 Tad8 18.Tac1 Db7 19.h3 Lf8 20.Sb5 Se7 21.Dd3 Sed5 22.Lg3 Td7 23.Lh4 a6 24.Sbd4 Se4 25.Sc6 Sdf6 26.Lxf6 Sxf6 27.Sb4 b5 28.Sd5 Sxd5 29.Dxd5 Dxd5 30.Txd5 Tb7 31.Tc6 Ta8 32.Sd2 g6 33.Se4 f5 34.Sxd6 Td7 35.Se4 Txd5 36.Sf6+ Kf7 37.Sxd5 Td8 38.Tc7+ Ke6 39.Sf4+ Kf6 40.g4 g5 41.Sh5+ Ke5 42.Ta7 Ke4 43.Kg2 f4 44.Sf6+ Kd3 45.exf4 gxf4 46.Txa6 Td6 47.Txd6+ Lxd6 48.Sd5 1-0
+
+Petrosian,Tigran V (2645) - Polugaevsky,Lev (2645) [A17]
+URS-chT Moscow, 1972
+
+1.Sf3 Sf6 2.c4 b6 3.d3 e6 4.g3 Lb7 5.Lg2 Lb4+ 6.Sc3 0-0 7.0-0 Lxc3 8.bxc3 c5 9.e4 Sc6 10.De2 d6 11.Sh4 a6 12.a4 Sa5 13.Lg5 Lc6 14.Tfb1 Tb8 15.Df3 h6 16.Lxf6 Dxf6 17.Dxf6 gxf6 18.Tb2 Tb7 19.Lf1 Tfb8 20.Sg2 Ld7 21.Se3 Sc6 22.f4 Kf8 23.Td2 Se7 24.Lg2 Lc6 25.d4 cxd4 26.cxd4 b5 27.d5 exd5 28.exd5 Ld7 29.cxb5 axb5 30.a5 Sf5 31.Sxf5 Lxf5 32.Lf1 Ta7 33.Tb2 b4 34.a6 b3 ½-½
+
+Petrosian,Tigran V (2645) - Rajkovic,Dusan (2390) [D42]
+Sarajevo 15th Sarajevo (14), 1972
+
+1.d4 Sf6 2.Sf3 e6 3.c4 c5 4.e3 d5 5.Sc3 Sc6 6.cxd5 Sxd5 7.Ld3 Le7 8.0-0 0-0 9.a3 cxd4 10.exd4 Sxc3 11.bxc3 b6 12.De2 Lb7 13.Td1 Lf6 14.a4 Tc8 15.La3 Te8 16.Lb5 Dd5 17.Tab1 Ted8 18.Ld3 Sa5 19.Tb5 Dc6 ½-½
+
+Petrosian,Tigran V - Rodriguez Cordoba,Jesus R (2390) [B38]
+Skopje ol (Men) qual-A Skopje (3), 1972
+
+1.d4 Sf6 2.Sf3 g6 3.c4 Lg7 4.Sc3 c5 5.e4 0-0 6.Le2 cxd4 7.Sxd4 d6 8.Le3 Sc6 9.0-0 Sxd4 10.Lxd4 Le6 11.Dd3 Tc8 12.b3 Da5 13.f4 Tfe8 14.h3 Ld7 15.De3 Lc6 16.a3 Dc7 17.Tac1 Sd7 18.Lxg7 Kxg7 19.b4 b6 20.Lg4 Tcd8 21.Sd5 Db8 22.Lxd7 Txd7 23.b5 Lxd5 24.cxd5 e6 25.Tc6 Kg8 26.Dc3 exd5 27.exd5 Dd8 28.f5 Dg5 29.Kh1 gxf5 30.Tf3 f4 31.Dd4 Te3 32.Tc8+ Td8 33.Txd8+ Dxd8 34.Txf4 Te5 35.Tg4+ Tg5 36.Te4 Tf5 37.Dc3 h5 38.Dc6 Df6 ½-½
+
+Petrosian,Tigran V (2645) - Saidy,Anthony Fred (2425) [A30]
+San Antonio San Antonio, 1972
+
+1.c4 c5 2.b3 b6 3.Lb2 Lb7 4.Sf3 Sf6 5.e3 e6 6.Le2 Le7 7.0-0 0-0 8.d4 d5 9.dxc5 Lxc5 10.Sbd2 Sc6 11.cxd5 Dxd5 12.a3 Tfd8 13.Db1 Le7 14.Td1 Tac8 15.b4 Df5 16.Da2 Se4 17.Sxe4 Dxe4 18.Db3 h6 19.h3 Txd1+ 20.Txd1 Td8 21.Ld3 Dd5 22.Lh7+ Kxh7 23.Txd5 Txd5 24.Lc3 a6 25.Sd2 Kg8 26.Db2 Lf8 27.f3 Td7 28.Kf2 b5 29.Sb3 Sd8 30.e4 Sc6 31.Ke2 Lc8 32.Da1 Lb7 33.Ld2 Le7 34.Le3 Td8 35.Lb6 Td7 36.Dc3 Lf6 37.Dc1 Lg5 38.f4 Le7 39.Lc5 Ld8 40.Le3 Le7 41.g3 Kh7 42.e5 Kg8 43.Lc5 Ld8 44.Ld6 Lb6 45.Sc5 Lxc5 46.Dxc5 Sa7 47.Kf2 Sc8 48.g4 Kh7 49.h4 Kg8 50.f5 Kh8 51.Lf8 Kg8 52.f6 Td2+ 53.Ke1 Td5 54.Dc7 Kxf8 55.Dxb7 Txe5+ 56.Kf2 1-0
+
+Petrosian,Tigran V (2645) - Savon,Vladimir A (2595) [D94]
+URS-chT Moscow, 1972
+
+1.c4 c6 2.Sf3 d5 3.e3 Sf6 4.Sc3 g6 5.Le2 Lg7 6.0-0 0-0 7.d4 Le6 8.b3 h6 9.a4 Se4 10.Lb2 Sd7 11.a5 a6 12.Dc2 f5 13.Ld3 Lf7 14.Se2 Tc8 15.Tfd1 Sg5 16.Se5 Sxe5 17.dxe5 Dc7 18.f4 Se4 19.La3 Tfd8 20.Lxe4 dxe4 21.Lc5 Txd1+ 22.Dxd1 Dd8 23.Sd4 Kh7 24.De1 e6 25.Db4 Dd7 26.Td1 Td8 27.Lb6 Tg8 28.Dd6 De8 29.Sc2 g5 30.Dd7 Df8 31.Dxb7 gxf4 32.Td8 Le8 33.exf4 Kh8 34.b4 h5 35.Lc5 Df7 36.Dxf7 Lxf7 1-0
+
+Petrosian,Tigran V (2645) - Smith,Kenneth R (2395) [D94]
+San Antonio San Antonio, 1972
+
+1.c4 Sf6 2.Sc3 c6 3.Sf3 d5 4.e3 g6 5.Le2 Lg7 6.0-0 0-0 7.d4 Lf5 8.cxd5 Sxd5 9.Db3 Sxc3 10.bxc3 Db6 11.La3 Dxb3 12.axb3 Te8 13.Sd2 g5 14.Sc4 Sd7 15.Sa5 Tab8 16.Tab1 Lf8 17.g4 Le4 18.f3 Lg6 19.Tfd1 e6 20.Lxf8 Kxf8 21.Kf2 Sf6 22.e4 Te7 23.b4 Tc7 24.Sc4 Sd7 25.Ta1 a6 26.h4 gxh4 27.Th1 Kg7 28.Txh4 f6 29.Tg1 b5 30.Sa5 Sb6 31.Ld1 e5 32.Lb3 exd4 33.cxd4 Sc4 34.Tc1 Sxa5 35.bxa5 Td8 36.Ke3 Tcd7 37.Txc6 Txd4 38.Ld5 Ta4 39.Txa6 Td7 40.Th1 Lf7 41.Lxf7 Txf7 42.Th5 Ta3+ 43.Kf4 b4 44.Tb5 Tc7 45.g5 fxg5+ 46.Txg5+ Kf7 47.Tb5 Kg7 48.Kg4 Te7 49.Tab6 Tf7 50.Tg5+ Kf8 51.Tb8+ Ke7 52.Tb7+ Ke6 53.Txf7 Kxf7 54.Tb5 Ke6 55.f4 Kd6 56.e5+ Kc6 57.Txb4 Txa5 58.Te4 Ta1 59.e6 Tg1+ 60.Kf5 h5 61.Kf6 Tg8 62.e7 1-0
+
+Petrosian,Tigran V - Sotshagin,A [D92]
+Moscow GM-Young M Moscow, 1972
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Lf4 Lg7 5.Tc1 0-0 6.e3 c5 7.dxc5 Le6 8.Sf3 Sc6 9.Le2 Da5 10.0-0 dxc4 11.Sg5 Tad8 12.Da4 Sd5 13.Dxa5 Sxa5 14.Sxd5 Txd5 15.Sxe6 fxe6 16.Lc7 Txc5 17.Lxa5 Txa5 18.Lxc4 Kf7 19.Tfd1 b5 20.b4 Ta4 21.Lb3 Txb4 22.Tc6 Lf6 23.Ta6 Kg7 24.Txa7 Tb8 25.Ta6 e5 26.g3 Tc8 27.Td5 Tb8 28.Kf1 h5 29.h3 Kh6 30.Ke2 Kg7 31.Kd2 e4 32.Tc5 Tf8 33.Tb6 h4 34.g4 La1 35.Ke2 Tf3 36.Tcc6 Tf6 37.g5 1-0
+
+Petrosian,Tigran V (2645) - Suttles,Duncan (2470) [B07]
+San Antonio San Antonio, 1972
+
+1.d4 g6 2.e4 d6 3.Sf3 Lg7 4.c3 Sf6 5.Sbd2 0-0 6.Le2 Sbd7 7.0-0 e5 8.dxe5 Sxe5 9.Sxe5 dxe5 10.Dc2 Lh6 ½-½
+
+Petrosian,Tigran V (2645) - Tal,Mihail (2625) [D41]
+URS-chT Moscow, 1972
+
+1.Sf3 Sf6 2.c4 e6 3.Sc3 d5 4.d4 c5 5.cxd5 Sxd5 6.e4 Sxc3 7.bxc3 cxd4 8.cxd4 Lb4+ 9.Ld2 Lxd2+ 10.Dxd2 0-0 11.Lc4 Sd7 12.0-0 b6 13.a4 Lb7 14.Tfe1 Tc8 15.Ld3 Sb8 16.a5 Sc6 17.axb6 Sxd4 18.Sxd4 Dxd4 19.bxa7 Tfd8 20.Ta3 La8 21.h3 h6 22.Tc1 Db6 23.Txc8 Txc8 24.Ta2 Tc7 25.De3 Db3 26.Ta1 Td7 27.Lf1 Db2 28.Da3 Db6 29.Da5 Db2 30.Da3 Db6 31.Da6 Dc5 32.Db5 Dd4 33.Da4 Dd6 34.Tb1 Td8 35.Da5 Kh7 36.e5 Dd4 37.Tb8 Td5 38.Da3 1-0
+
+Petrosian,Tigran V (2645) - Vukic,Milan (2410) [E82]
+Sarajevo 15th Sarajevo (1), 1972
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.f3 0-0 6.Sge2 c5 7.Le3 b6 8.Dd2 Sc6 9.d5 Se5 10.Sg3 e6 11.Lg5 exd5 12.Sxd5 Le6 13.Le2 Lxd5 14.cxd5 a6 15.h4 b5 16.h5 Te8 17.Kf1 Db6 18.Tc1 Sfd7 19.b3 Sf8 20.Lh6 Lxh6 21.Dxh6 Dd8 22.Th3 Df6 23.Sf5 Sed7 ½-½
+
+Petrosian,Tigran V - Zaid,Leonid D [E41]
+Moscow GM-Young M Moscow, 1972
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Ld3 Sc6 6.Sf3 Lxc3+ 7.bxc3 d6 8.Dc2 e5 9.d5 Se7 10.0-0 0-0 11.Se1 g6 12.e4 Sh5 13.Lh6 Te8 14.Dd2 f5 15.Lg5 f4 16.Le2 Tf8 17.Lxh5 gxh5 18.De2 De8 19.Kh1 Ld7 20.Tb1 b6 21.Lxe7 Dxe7 22.Dxh5 Tf6 23.Tb2 Kh8 24.g4 fxg3 25.hxg3 Dg7 26.Kg1 Lg4 27.Dh1 Th6 28.Dg2 Lh3 29.Df3 Tf8 30.De3 Lxf1 31.Kxf1 Tff6 32.Sf3 Dg4 33.Sg1 Th1 0-1
+
+Petrosian,Tigran V (2640) - Bronstein,David I (2590) [D82]
+Alekhine Memorial Moscow (16), 16.12.1971
+
+1.c4 g6 2.d4 Sf6 3.Sc3 d5 4.Lf4 Lg7 5.e3 c5 6.dxc5 Da5 7.Da4+ Dxa4 8.Sxa4 Sa6 9.cxd5 Sxd5 10.Lb5+ Ld7 11.c6 Lxc6 12.Lxc6+ ½-½
+
+Petrosian,Tigran V (2640) - Tukmakov,Vladimir B (2565) [D78]
+Alekhine Memorial Moscow (14), 13.12.1971
+
+1.d4 Sf6 2.Sf3 g6 3.c4 Lg7 4.g3 0-0 5.Lg2 c6 6.0-0 d5 7.b3 Lf5 8.Lb2 a5 9.Sc3 Se4 10.Tc1 Sxc3 11.Lxc3 Le4 12.Sd2 Lxg2 13.Kxg2 Sd7 14.e4 e6 15.De2 Te8 16.e5 f5 17.f4 Db6 18.g4 a4 19.c5 Da6 ½-½
+
+Petrosian,Tigran V (2640) - Hort,Vlastimil (2605) [D41]
+Alekhine Memorial Moscow (12), 09.12.1971
+
+1.c4 c5 2.Sf3 Sf6 3.g3 Sc6 4.Lg2 d5 5.cxd5 Sxd5 6.Sc3 e6 7.0-0 Le7 8.Sxd5 exd5 9.d4 0-0 10.dxc5 Lxc5 11.Dd3 h6 12.a3 a5 13.Lf4 Te8 ½-½
+
+Petrosian,Tigran V (2640) - Karpov,Anatoly (2540) [E18]
+Alekhine Memorial Moscow (10), 07.12.1971
+
+1.d4 Sf6 2.Sf3 e6 3.g3 b6 4.Lg2 Lb7 5.c4 Le7 6.Sc3 Se4 7.Ld2 d5 8.cxd5 exd5 9.0-0 0-0 10.Tc1 Sd7 11.Lf4 c5 12.Sd2 Sxc3 13.bxc3 Sf6 14.dxc5 Lxc5 15.Sb3 La3 16.Tc2 Tc8 ½-½
+
+Petrosian,Tigran V (2640) - Tal,Mihail (2620) [E07]
+Alekhine Memorial Moscow (8), 04.12.1971
+
+1.c4 Sf6 2.Sf3 e6 3.g3 d5 4.Lg2 Le7 5.0-0 0-0 6.d4 c6 7.b3 b6 8.Lb2 Sbd7 9.Sbd2 Lb7 10.e3 dxc4 11.bxc4 c5 12.De2 Dc7 13.Tfd1 Tfd8 14.a4 Se4 ½-½
+
+Petrosian,Tigran V (2640) - Spassky,Boris V (2690) [D27]
+Alekhine Memorial Moscow (6), 30.11.1971
+
+1.d4 d5 2.c4 dxc4 3.Sf3 Sf6 4.e3 e6 5.Lxc4 c5 6.0-0 a6 7.a4 Sc6 8.De2 cxd4 9.Td1 Le7 10.exd4 0-0 11.Sc3 Sd5 12.De4 Scb4 13.Se5 Ta7 14.Lb3 Sf6 15.Dh4 b6 16.Dg3 Lb7 17.Lh6 Se8 18.Tac1 Kh8 19.d5 exd5 20.Le3 Ta8 21.Sc4 Sd6 22.Lxb6 Db8 23.Sa5 Sf5 24.Dxb8 Taxb8 25.Sxb7 Txb7 26.a5 Lg5 27.Tb1 d4 28.Sd5 Sc6 29.La4 Tc8 30.f4 Sce7 31.Tbc1 Tcb8 32.fxg5 Sxd5 33.Lc6 Txb6 34.axb6 Sde3 35.b7 Sxd1 36.Txd1 g6 37.g4 Sg7 38.Txd4 Se6 39.Td7 1-0
+
+Petrosian,Tigran V (2640) - Uhlmann,Wolfgang (2570) [D86]
+Alekhine Memorial Moscow (4), 28.11.1971
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.cxd5 Sxd5 5.e4 Sxc3 6.bxc3 Lg7 7.Lc4 0-0 8.Se2 Sc6 9.0-0 b6 10.Lg5 Sa5 11.Ld3 Dd7 12.Dd2 c5 13.Tab1 Lb7 14.d5 c4 15.Lc2 e6 16.dxe6 Dxe6 17.Tfe1 Tfe8 18.Sd4 Dd6 19.De3 Dc5 20.Dg3 Sc6 ½-½
+
+Petrosian,Tigran V (2640) - Balashov,Yuri S (2570) [E42]
+Alekhine Memorial Moscow (2), 25.11.1971
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 c5 5.Sge2 cxd4 6.exd4 Se4 7.Ld2 Sxd2 8.Dxd2 d5 9.a3 Le7 10.cxd5 exd5 11.Sf4 0-0 12.Sfxd5 Lg5 13.f4 Te8+ 14.Le2 Lh4+ 15.Kf1 Sc6 16.Td1 Le6 17.Lf3 Sa5 18.g3 Sc4 19.Df2 Le7 20.Kg2 Lf8 21.The1 Tc8 22.Se3 Sxe3+ 23.Txe3 Dd7 24.h4 Ted8 25.Kh2 Lb3 26.Td2 Te8 27.Lg2 Le6 28.De1 Te7 29.d5 Td8 30.d6 Tee8 31.f5 Lxf5 32.Te7 Tc8 33.Txd7 Txe1 34.Txb7 Td8 35.Txa7 Txd6 36.Txd6 Lxd6 37.Ta8+ Lf8 38.a4 g6 39.Ld5 Tc1 40.a5 Tc2+ 41.Kh1 Kg7 42.Ta7 Tc1+ 43.Kg2 Tc2+ 44.Kf3 Lc5 45.Txf7+ Kh8 46.g4 Ld3 47.Se4 Lxe4+ 48.Kxe4 Txb2 49.Tc7 Tb4+ 50.Kf3 Lg1 51.g5 h6 52.h5 Tb5 53.Tc8+ Kg7 54.Tc7+ Kh8 55.Td7 Txa5 56.Td8+ Kg7 57.Td7+ Kh8 58.hxg6 Txd5 59.Txd5 hxg5 60.Ke4 1-0
+
+Petrosian,Tigran V (2640) - Fischer,Robert James (2760) [D40]
+Candidates final Buenos Aires (8), 23.10.1971
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Sc3 c5 5.e3 Sc6 6.a3 Se4 7.Dc2 Sxc3 8.bxc3 Le7 9.Lb2 0-0 10.Ld3 h6 11.0-0 Sa5 12.Sd2 dxc4 13.Sxc4 Sxc4 14.Lxc4 b6 15.e4 Lb7 16.De2 Tc8 17.Lb3 b5 18.f4 Db6 19.Kh1 cxd4 20.cxd4 b4 21.axb4 Lxb4 22.d5 Lc3 23.Lxc3 Txc3 24.Lc2 exd5 25.e5 Te3 26.Dd2 d4 27.Tab1 Da6 28.Tf2 Td8 29.Kg1 Le4 30.Lxe4 Txe4 31.h3 d3 32.Tb3 Dc4 33.Tb2 Tdd4 34.g3 Td5 35.Kh2 Tb5 36.Ta2 Tb1 37.g4 Te2 38.Txe2 dxe2 39.Dxe2 Dxf4+ 0-1
+
+Petrosian,Tigran V (2640) - Fischer,Robert James (2760) [A06]
+Candidates final Buenos Aires (6), 17.10.1971
+
+1.Sf3 c5 2.b3 d5 3.Lb2 f6 4.c4 d4 5.d3 e5 6.e3 Se7 7.Le2 Sec6 8.Sbd2 Le7 9.0-0 0-0 10.e4 a6 11.Se1 b5 12.Lg4 Lxg4 13.Dxg4 Dc8 14.De2 Sd7 15.Sc2 Tb8 16.Tfc1 De8 17.La3 Ld6 18.Se1 g6 19.cxb5 axb5 20.Lb2 Sb6 21.Sef3 Ta8 22.a3 Sa5 23.Dd1 Df7 24.a4 bxa4 25.bxa4 c4 26.dxc4 Sbxc4 27.Sxc4 Sxc4 28.De2 Sxb2 29.Dxb2 Tfb8 30.Da2 Lb4 31.Dxf7+ Kxf7 32.Tc7+ Ke6 33.g4 Lc3 34.Ta2 Tc8 35.Txc8 Txc8 36.a5 Ta8 37.a6 Ta7 38.Kf1 g5 39.Ke2 Kd6 40.Kd3 Kc5 41.Sg1 Kb5 42.Se2 La5 43.Tb2+ Kxa6 44.Tb1 Tc7 45.Tb2 Le1 46.f3 Ka5 47.Tc2 Tb7 48.Ta2+ Kb5 49.Tb2+ Lb4 50.Ta2 Tc7 51.Ta1 Tc8 52.Ta7 La5 53.Td7 Lb6 54.Td5+ Lc5 55.Sc1 Ka4 56.Td7 Lb4 57.Se2 Kb3 58.Tb7 Ta8 59.Txh7 Ta1 60.Sxd4+ exd4 61.Kxd4 Td1+ 62.Ke3 Lc5+ 63.Ke2 Th1 64.h4 Kc4 65.h5 Th2+ 66.Ke1 Kd3 0-1
+
+Petrosian,Tigran V (2640) - Fischer,Robert James (2760) [B36]
+Candidates final Buenos Aires (4), 12.10.1971
+
+1.c4 c5 2.Sf3 g6 3.d4 cxd4 4.Sxd4 Sc6 5.e4 Sf6 6.Sc3 d6 7.f3 Sxd4 8.Dxd4 Lg7 9.Le3 0-0 10.Dd2 Da5 11.Tc1 Le6 12.b3 Tfc8 13.Le2 a6 14.Sd5 Dxd2+ 15.Kxd2 Sxd5 16.cxd5 Ld7 17.Txc8+ Txc8 18.Tc1 Txc1 19.Kxc1 Kf8 20.Kc2 e6 ½-½
+
+Petrosian,Tigran V (2640) - Fischer,Robert James (2760) [D82]
+Candidates final Buenos Aires (2), 05.10.1971
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Lf4 Lg7 5.e3 c5 6.dxc5 Da5 7.Tc1 Se4 8.cxd5 Sxc3 9.Dd2 Dxa2 10.bxc3 Da5 11.Lc4 Sd7 12.Se2 Se5 13.La2 Lf5 14.Lxe5 Lxe5 15.Sd4 Dxc5 16.Sxf5 gxf5 17.0-0 Da5 18.Dc2 f4 19.c4 fxe3 20.c5 Dd2 21.Da4+ Kf8 22.Tcd1 De2 23.d6 Dh5 24.f4 e2 25.fxe5 exd1D 26.Txd1 Dxe5 27.Tf1 f6 28.Db3 Kg7 29.Df7+ Kh6 30.dxe7 f5 31.Txf5 Dd4+ 32.Kh1 1-0
+
+Petrosian,Tigran V (2640) - Gligoric,Svetozar (2600) [A15]
+Hoogovens Wijk aan Zee (2), 01.1971
+
+1.Sf3 Sf6 2.c4 g6 3.b4 Lg7 4.Lb2 0-0 5.e3 c6 6.Le2 a5 7.b5 cxb5 8.cxb5 d6 9.Sc3 Sbd7 10.Sa4 Sb6 11.Sxb6 Dxb6 12.Da4 Ld7 13.Ld4 Dc7 14.0-0 Tfc8 15.h3 Dd8 16.Lb2 e5 ½-½
+
+Petrosian,Tigran V (2640) - Hort,Vlastimil (2600) [E64]
+Hoogovens Wijk aan Zee (8), 01.1971
+
+1.c4 g6 2.d4 Sf6 3.d5 Lg7 4.Sc3 d6 5.g3 e5 6.Lg2 0-0 7.Sf3 c5 8.0-0 Sbd7 9.e4 h6 10.Ld2 Se8 11.De2 Kh7 12.a4 b6 13.a5 Tb8 14.axb6 Dxb6 15.Tfb1 a6 16.Lh3 Db7 17.Sd1 Sb6 18.Lxc8 Dxc8 19.Sh4 Sc7 20.Se3 Dh3 21.b4 Sd7 22.b5 axb5 23.Ta7 Tfc8 24.La5 Sb6 25.cxb5 Dd7 26.Kg2 c4 27.Lxb6 Txb6 28.Sxc4 Txb5 29.Sb6 Txb6 30.Txb6 Lf6 31.Sf3 Le7 32.Tc6 Ld8 33.Sd2 De8 34.Sc4 1-0
+
+Petrosian,Tigran V (2640) - Kuijpers,Franciscus Antonius (2420) [D45]
+Hoogovens Wijk aan Zee (10), 01.1971
+
+1.Sf3 d5 2.c4 e6 3.d4 Sf6 4.Sc3 c6 5.e3 Sbd7 6.Dc2 Ld6 7.b3 0-0 8.Lb2 Te8 9.Le2 dxc4 10.bxc4 e5 11.0-0 exd4 12.Sxd4 Dc7 13.g3 Sc5 14.Lf3 Lh3 15.Tfe1 Tad8 16.Tad1 Lg4 17.Sce2 Lxf3 18.Sxf3 Sce4 19.Sc3 Dc8 20.Sxe4 Sxe4 21.Kg2 Lf8 22.Txd8 Dxd8 23.Td1 Da5 24.Ld4 h6 25.Tb1 b6 26.h3 Da6 27.Se5 Sg5 28.h4 Se6 29.La1 Ld6 30.Sf3 Td8 31.Td1 Le7 32.Txd8+ Lxd8 33.Sd4 Sxd4 34.Lxd4 Le7 35.h5 Lf8 ½-½
+
+Petrosian,Tigran V (2640) - Lengyel,Levente (2490) [E14]
+Hoogovens Wijk aan Zee (4), 01.1971
+
+1.d4 Sf6 2.Sf3 e6 3.e3 b6 4.Ld3 Lb7 5.0-0 d5 6.b3 Ld6 7.c4 0-0 8.Lb2 Sbd7 9.Sc3 a6 10.Tc1 De7 11.Te1 Se4 12.Dc2 f5 13.cxd5 exd5 14.Se2 c6 15.Sg3 Tf6 16.De2 a5 17.Sh4 De6 ½-½
+
+Petrosian,Tigran V (2640) - Mecking,Henrique (2550) [D03]
+Hoogovens Wijk aan Zee (6), 01.1971
+
+1.d4 Sf6 2.Sf3 e6 3.Lg5 c5 4.e3 d5 5.c3 Sc6 6.Sbd2 cxd4 7.exd4 Le7 8.Ld3 h6 9.Lf4 Sh5 10.Le3 Sf6 11.Se5 Sxe5 12.dxe5 Sd7 13.Ld4 Sc5 14.Lc2 a5 15.Dg4 g6 16.0-0 Ld7 17.Tfe1 Dc7 18.a4 Sa6 19.De2 Kf8 20.Sf3 Kg7 21.Le3 Sc5 22.Sd4 Ta6 23.Lc1 Taa8 24.g3 b6 25.h4 h5 26.Df3 Dd8 27.Ld2 De8 28.Lg5 Dd8 29.Df4 Tc8 30.Te3 Lxg5 31.hxg5 Ta8 32.Df6+ Dxf6 33.exf6+ Kh7 34.Kg2 Tae8 35.f4 Tb8 36.Tee1 Sb7 37.Th1 Kg8 38.Sf3 Sd6 39.Se5 Le8 40.Ld3 Tc8 41.Kf3 Lc6 42.Th2 Le8 43.Ke3 Tc7 44.Kd4 Sb7 45.b4 Sd8 46.Th4 Sb7 47.Ta2 Sd6 48.Th1 Sb7 49.b5 Sc5 50.Lc2 Sd7 51.Ta3 Sc5 52.c4 Sd7 53.Tc3 Sxe5 54.Kxe5 dxc4 55.Le4 Tc8 56.Kd6 Tc5 57.Thc1 h4 1-0
+
+Petrosian,Tigran V (2640) - Ree,Hans (2420) [A29]
+Hoogovens Wijk aan Zee (12), 01.1971
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 Lb4 5.Sd5 Sxd5 6.cxd5 e4 7.dxc6 exf3 8.Db3 1-0
+
+Petrosian,Tigran V (2640) - Van den Berg,Carel Benjamin (2450) [B10]
+Hoogovens Wijk aan Zee (15), 01.1971
+
+1.Sf3 d5 2.g3 g6 3.Lg2 Lg7 4.0-0 e5 5.d3 Se7 6.Sbd2 0-0 7.e4 c6 8.Te1 d4 9.a4 a5 10.Lf1 c5 11.c3 Sec6 12.Sc4 Sa6 13.h4 h6 14.h5 g5 15.Le2 Le6 16.Sfd2 Sc7 17.Lg4 dxc3 18.bxc3 Dxd3 19.Lxe6 Sxe6 20.Te3 Dd8 21.Tb1 Tb8 22.De2 Se7 23.Sb6 Dc7 24.Sdc4 Tfd8 25.Sxa5 Sc8 26.Sac4 Sxb6 27.Sxb6 Dc6 28.a5 Sc7 29.La3 Lf8 30.Kg2 Le7 31.Sc4 f6 32.Tb6 Da4 33.Da2 Kg7 34.Tf3 Td7 35.Sxe5 1-0
+
+Petrosian,Tigran V - Balashov,Yuri S [E94]
+Moscow 5' Moscow, 1971
+
+1.d4 Sf6 2.Sf3 g6 3.c4 d6 4.Sc3 Lg7 5.e4 0-0 6.Le2 e5 7.d5 a5 8.Dc2 Sa6 9.Lg5 h6 10.Le3 Sc5 11.Sd2 Se8 12.0-0 Ld7 13.b3 f5 14.exf5 gxf5 15.f3 Df6 16.Tae1 Kh8 17.Kh1 Tg8 18.f4 Dg6 19.g3 b6 20.Sf3 Lf6 21.Dd2 Se4 22.Sxe4 fxe4 23.fxe5 exf3 24.Ld3 Dh5 25.exf6 Lh3 26.Ld4 Txg3 27.Df4 Lg2+ 28.Kg1 Lxf1+ 29.Dxg3 1-0
+
+Petrosian,Tigran V (2640) - Huebner,Robert (2590) [D53]
+Candidates qf4 Seville (6), 1971
+
+1.c4 e6 2.Sc3 Sf6 3.Sf3 d5 4.d4 Le7 5.Lg5 0-0 6.Dc2 b6 7.Lxf6 Lxf6 8.e4 Sc6 9.0-0-0 dxe4 10.Dxe4 Lb7 11.h4 Sa5 12.De3 De7 13.Se4 Lxe4 14.Dxe4 c5 15.d5 ½-½
+
+Petrosian,Tigran V (2640) - Huebner,Robert (2590) [D55]
+Candidates qf4 Seville (4), 1971
+
+1.Sf3 Sf6 2.d4 d5 3.c4 e6 4.Sc3 Le7 5.Lg5 0-0 6.e3 h6 7.Lxf6 Lxf6 8.Tc1 Le7 9.a3 c6 10.Ld3 Sd7 11.0-0 b6 12.De2 Lb7 13.Tfd1 Db8 14.cxd5 cxd5 15.Lb5 Sf6 16.La6 Ld6 17.Tc2 Se8 18.Tdc1 Sc7 19.Ld3 Dd8 20.Se5 De7 21.Sb1 Tfc8 22.Sd2 Se8 23.La6 Txc2 24.Txc2 f6 ½-½
+
+Petrosian,Tigran V (2640) - Huebner,Robert (2590) [D58]
+Candidates qf4 Seville (2), 1971
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lg5 0-0 6.e3 h6 7.Lh4 b6 8.Lxf6 Lxf6 9.cxd5 exd5 10.Dd2 Le6 11.Td1 Le7 12.a3 c6 13.g3 Dc8 14.Lg2 Lh3 15.0-0 Lxg2 16.Kxg2 Sd7 17.De2 Te8 18.Td2 Db7 19.Tb1 a5 20.Dd1 Ld6 21.Dc2 Tac8 22.Tbd1 Sf6 23.Kg1 Dd7 24.Kg2 Tb8 25.Tc1 Tec8 26.e4 dxe4 27.Sxe4 De6 28.Sxd6 Dxd6 29.Df5 Te8 30.Tdc2 Tbc8 31.Dd3 Sd5 32.Te2 Txe2 33.Dxe2 Dg6 34.Kf1 Dg4 35.Se5 De6 36.Sd3 Dxe2+ 37.Kxe2 f6 38.b4 axb4 39.Sxb4 Se7 40.d5 c5 41.d6 Te8 42.dxe7 Txe7+ ½-½
+
+Petrosian,Tigran V - Karpov,Anatoly [E12]
+Moscow 5' Moscow, 1971
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.Lg5 Lb7 5.e3 h6 6.Lh4 g5 7.Lg3 Se4 8.Sbd2 Sxg3 9.hxg3 c5 10.Ld3 Lg7 11.Le4 Dc7 12.Lxb7 Dxb7 13.Db1 d6 14.Se4 Ke7 15.Dd3 Dc7 16.d5 Sd7 17.dxe6 fxe6 18.0-0-0 Tad8 19.Dxd6+ Dxd6 20.Txd6 Sb8 21.Txd8 Txd8 22.b3 Sc6 23.a3 g4 24.Sfd2 Se5 25.Kc2 Tf8 26.Sb1 Tf5 27.Sbc3 a6 28.Se2 Sc6 29.Sf4 b5 30.Th5 bxc4 31.bxc4 Sa5 32.Kd3 Sb7 33.Txf5 exf5 34.Sd5+ Kd7 35.Sd2 Sd6 36.f3 Le5 37.Sb3 Kc6 38.f4 Lg7 39.Sd2 Kd7 1-0
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2670) [A09]
+Candidates sf2 Moscow (3), 1971
+
+1.Sf3 d5 2.c4 e6 3.g3 d4 4.Lg2 c5 5.0-0 Sc6 6.d3 Sf6 7.e3 Le7 8.exd4 cxd4 9.Te1 Sd7 10.Sa3 Sc5 11.Sc2 a5 12.b3 0-0 13.Lb2 Lf6 14.La3 Db6 15.Lxc5 Dxc5 16.Sd2 Db6 17.a3 Dc7 18.c5 b5 19.cxb6 Dxb6 20.Sc4 Dc7 21.b4 Tb8 22.Sxa5 Sxa5 23.bxa5 Dxa5 24.Sb4 Lb7 25.Sc6 Lxc6 26.Lxc6 Tfc8 27.Le4 g6 ½-½
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2670) [A20]
+Candidates sf2 Moscow (9), 1971
+
+1.c4 e5 2.g3 c6 3.b3 d5 4.Lb2 d4 5.Sf3 Ld6 6.d3 c5 7.Lg2 Se7 8.0-0 Sec6 9.e3 0-0 10.Sbd2 Le6 11.e4 Sd7 12.Sh4 g6 13.Lf3 Lc7 14.a3 La5 15.Lc1 De7 16.Lg4 f5 17.exf5 gxf5 18.Lf3 Sf6 19.Lg2 Tad8 20.Ta2 Lc8 21.Te1 Kh8 22.b4 cxb4 23.Sb3 Lb6 24.Lxc6 bxc6 25.axb4 a6 26.Sf3 e4 27.c5 Lc7 28.Sfxd4 Df7 29.Td2 Ld7 30.Lb2 Kg8 31.Sa5 Lxa5 32.bxa5 Tb8 33.La1 Tfe8 34.Tde2 Dh5 35.Dd2 Kf7 36.h4 exd3 37.Dxd3 f4 38.Sf3 Txe2 39.Dxe2 Dxc5 40.Se5+ Kf8 41.Sxd7+ Sxd7 1-0
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2670) [D40]
+Candidates sf2 Moscow (5), 1971
+
+1.d4 Sf6 2.Sf3 d5 3.c4 e6 4.Sc3 c5 5.e3 Sc6 6.a3 Se4 7.Dc2 Sxc3 8.Dxc3 cxd4 9.Sxd4 Sxd4 10.Dxd4 dxc4 11.Dxd8+ Kxd8 12.Lxc4 Ld7 13.Ld2 Tc8 14.Ld3 Ld6 15.Lc3 f6 ½-½
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2670) [D75]
+Candidates sf2 Moscow (7), 1971
+
+1.g3 d5 2.Sf3 c5 3.Lg2 g6 4.0-0 Lg7 5.d4 cxd4 6.Sxd4 Sf6 7.c4 0-0 8.cxd5 Sxd5 9.Sc3 Sxc3 10.bxc3 Sc6 11.Sxc6 bxc6 12.Lxc6 Lh3 13.Lg2 Lxg2 ½-½
+
+Petrosian,Tigran V - Kortschnoj,Viktor [E14]
+Moscow 5' Moscow, 1971
+
+1.d4 Sf6 2.c4 e6 3.Sf3 b6 4.e3 Lb7 5.Ld3 c5 6.Sc3 Le7 7.0-0 cxd4 8.exd4 d5 9.Lg5 Sbd7 10.De2 0-0 11.Tad1 Te8 12.Se5 Sf8 13.Tfe1 a6 14.a4 dxc4 15.Lxc4 Sd5 16.Ld2 Lf6 17.Sxd5 exd5 18.Ld3 Sg6 19.f4 Dd6 20.Dh5 Te7 21.Te3 Sf8 22.Tg3 g6 23.Df3 Lg7 24.Lc3 Lc6 25.Ta1 f6 26.Sxc6 Dxc6 27.f5 g5 28.Df1 Db7 29.Te1 Txe1 30.Dxe1 b5 31.axb5 axb5 32.Lb4 Da7 33.Lc5 Da1 34.Dxa1 Txa1+ 35.Kf2 Ta2 36.Lxb5 Txb2+ 37.Le2 Sd7 38.La3 Td2 39.Td3 Txd3 40.Lxd3 Lf8 41.Lb2 Ld6 42.g3 Kf7 43.Ke3 Ke7 44.Lc2 1-0
+
+Petrosian,Tigran V (2640) - Kortschnoj,Viktor (2670) [E35]
+Candidates sf2 Moscow (1), 1971
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.Dc2 d5 5.cxd5 exd5 6.a3 Lxc3+ 7.bxc3 0-0 8.Lg5 c5 9.e3 Sbd7 10.Ld3 Da5 11.Se2 b6 12.0-0 La6 13.Lxa6 Dxa6 14.Lxf6 Sxf6 15.Sf4 Dc4 16.Da2 Dxa2 17.Txa2 Tac8 18.a4 Tfd8 19.Tb1 Se4 20.Se2 Sd6 21.h4 Sc4 22.Sf4 Kf8 23.g4 g6 24.Kg2 h6 25.Td1 g5 26.hxg5 hxg5 27.Se2 Sd6 28.Sg3 cxd4 29.Txd4 Se4 30.Sxe4 dxe4 31.Txe4 Txc3 32.a5 Tdc8 33.axb6 axb6 34.Tb2 T8c4 35.Txc4 Txc4 ½-½
+
+Petrosian,Tigran V - Tomic,Dragoslav [D36]
+Vinkovci Vinkovci (14), 21.10.1970
+
+1.d4 d5 2.c4 e6 3.Sc3 Sf6 4.cxd5 exd5 5.Lg5 Le7 6.e3 c6 7.Dc2 0-0 8.Ld3 Sbd7 9.Sge2 Te8 10.h3 Sf8 11.0-0-0 Se4 12.Lxe7 Dxe7 13.Lxe4 dxe4 14.g4 f5 15.gxf5 Lxf5 16.Sg3 Lg6 17.h4 h6 18.Tdg1 Kh8 19.Sge2 Lh7 20.Sf4 Tad8 21.Tg3 Td7 22.Sce2 Df7 23.b3 a5 24.Thg1 Df5 25.Kb2 Ta8 26.a3 Tc8 27.Dc3 Tcc7 28.T3g2 Df6 29.Sh5 Dxh4 30.Sef4 Sg6 31.Txg6 Dxf2+ 32.Kc1 Lxg6 33.Txg6 Tf7 34.a4 b5 35.Tg2 Df1+ 36.Kb2 bxa4 37.Dxa5 axb3 38.Da8+ Kh7 39.Txg7+ Txg7 40.Sf6# 1-0
+
+Petrosian,Tigran V - Taimanov,Mark E [A29]
+Vinkovci Vinkovci (12), 18.10.1970
+
+1.c4 e5 2.Sc3 Sc6 3.Sf3 Sf6 4.g3 d5 5.cxd5 Sxd5 6.Lg2 Le6 7.0-0 Sb6 8.a3 Le7 9.b4 0-0 10.d3 a5 11.b5 Sd4 12.Sd2 Dd7 13.Lxb7 Tab8 14.Lg2 Sxb5 15.Sxb5 Dxb5 16.a4 De8 17.Lb2 Ld6 18.Lc3 Ld7 19.Lxa5 Lxa4 20.Dc1 Ld7 21.Se4 Le6 22.Sxd6 cxd6 23.Dc7 Sd7 24.Dxd6 Tb2 25.Tfe1 Db8 26.Lc7 Db3 27.Lc6 Sb8 28.Lf3 Sd7 29.Lc6 Sb8 30.Lf3 Sd7 31.Tec1 Tc8 32.Da6 Te8 33.Da5 Lh3 34.Ld5 Db4 35.Dxb4 Txb4 36.f3 h5 37.Kf2 Sf6 38.Lc6 Te6 39.Ta5 e4 40.dxe4 1-0
+
+Petrosian,Tigran V - Larsen,Bent [A17]
+Vinkovci Vinkovci (11), 17.10.1970
+
+1.c4 Sf6 2.Sc3 e6 3.Sf3 Lb4 4.Dc2 0-0 5.a3 Lxc3 6.Dxc3 d6 7.g3 b6 8.Lg2 Lb7 9.0-0 c5 10.b4 Sc6 11.d3 Te8 12.b5 Se7 13.a4 a5 14.Lb2 d5 15.Dc2 Sg6 16.Sd2 Tc8 17.e4 dxe4 18.dxe4 Tc7 19.Tfd1 Da8 20.f3 Td7 21.Sf1 Ted8 22.Se3 Db8 23.Txd7 Txd7 24.Td1 Dd8 25.e5 Txd1+ 26.Dxd1 Dxd1+ 27.Sxd1 Sd7 28.f4 Lxg2 29.Kxg2 f6 30.exf6 gxf6 31.Kf3 Kf7 32.Se3 h5 33.La1 Se7 34.h3 Sf5 35.Sxf5 exf5 36.h4 Sf8 37.Lc3 Se6 38.Ke3 Sd8 39.Kd3 Sb7 40.Le1 Sd6 41.Lf2 Ke6 42.Le1 ½-½
+
+Petrosian,Tigran V - Ozanic,Marijan [E81]
+Vinkovci Vinkovci (9), 14.10.1970
+
+1.d4 Sf6 2.c4 g6 3.Sc3 Lg7 4.e4 d6 5.f3 0-0 6.Sge2 e5 7.Lg5 h6 8.Le3 Sc6 9.d5 Sa5 10.Sg3 c5 11.Dd2 Kh7 12.Ld3 a6 13.Tb1 b6 14.0-0 Ld7 15.b3 Tb8 16.Tb2 b5 17.cxb5 axb5 18.b4 c4 19.Lc2 Sb7 20.a4 bxa4 21.Sxa4 Se8 22.Sc3 Ta8 23.Tc1 h5 24.Sf1 Sc7 25.b5 Ta3 26.Tcb1 f5 27.Ld1 f4 28.Lf2 Df6 29.Tb4 Tfa8 30.Txc4 Se8 31.Sa4 1-0
+
+Petrosian,Tigran V - Quinteros,Miguel Angel [E92]
+Vinkovci Vinkovci (7), 12.10.1970
+
+1.d4 d6 2.c4 g6 3.Sc3 Lg7 4.Sf3 Sf6 5.e4 0-0 6.Le2 e5 7.d5 a5 8.Le3 Sg4 9.Lg5 f6 10.Lh4 Sa6 11.h3 Sh6 12.Sd2 Ld7 13.f3 De8 14.b3 f5 15.Tb1 fxe4 16.Sdxe4 Sf5 17.Lg5 h6 18.Ld2 De7 19.0-0 Sc5 20.Sxc5 dxc5 21.Ld3 b6 22.Se4 Sd4 23.Sf2 Lf5 24.Le4 Dh4 25.De1 Tae8 26.Tb2 Lf6 27.Sg4 Lxg4 28.fxg4 Dxe1 29.Lxe1 g5 30.Tbf2 Lg7 31.Txf8+ Txf8 32.Txf8+ Kxf8 33.Kf2 Kf7 34.Ke3 Ke7 35.Kd3 Lf6 36.Lf3 Kd7 37.Ld1 Lg7 38.Ke4 Kd6 39.h4 Lf6 40.g3 Lg7 41.a3 Ke7 42.Ld2 Lf6 43.Le3 Kd6 44.h5 Ke7 ½-½
+
+Petrosian,Tigran V - Velimirovic,Dragoljub [E65]
+Vinkovci Vinkovci (5), 09.10.1970
+
+1.Sf3 g6 2.g3 Lg7 3.Lg2 Sf6 4.0-0 0-0 5.c4 d6 6.d4 c5 7.Sc3 Sc6 8.dxc5 dxc5 9.Lf4 Sh5 10.Ld2 Ld7 11.Dc1 Te8 12.Td1 Dc8 13.Lh6 Lh8 14.Dd2 Lh3 15.Tac1 Lxg2 16.Kxg2 Sd4 17.Dd3 Dc6 18.b3 Sf6 19.h3 Tad8 20.e4 Sd7 21.Sd2 Se5 22.Df1 Sf5 23.Lg5 h6 24.Lf4 Sd3 25.Sd5 Sxf4+ 26.Sxf4 e6 27.De2 Td4 28.Kh2 Se7 29.Te1 Ted8 30.Sf3 T4d7 31.h4 Dc7 32.Ted1 Sc6 33.Kg2 Td6 34.Txd6 Dxd6 35.Tc2 Sd4 36.Sxd4 Dxd4 37.Sh3 Dd1 38.Sg1 Kf8 39.Sf3 La1 40.Dxd1 Txd1 41.Td2 Txd2 42.Sxd2 f5 43.exf5 gxf5 ½-½
+
+Petrosian,Tigran V - Ledic,Tomislav [A85]
+Vinkovci Vinkovci (3), 06.10.1970
+
+1.d4 d5 2.c4 c6 3.Sc3 Sf6 4.Sf3 e6 5.e3 Se4 6.Ld3 f5 7.Se2 Lb4+ 8.Sd2 Sxd2 9.Lxd2 Da5 10.a3 Lxd2+ 11.Dxd2 Dxd2+ 12.Kxd2 g6 13.Thc1 Sd7 14.f4 Ke7 15.Sg1 Sf6 16.Sf3 Ld7 17.Se5 Thc8 18.b3 Tab8 19.h3 Le8 20.c5 Sd7 21.Sf3 Ta8 22.b4 a6 23.Ta2 Tcb8 24.a4 Ta7 25.Tb2 Taa8 26.Ke1 Kd8 27.Sg5 Sf8 28.g4 Ke7 29.Tcb1 h6 30.Sf3 Sd7 31.b5 axb5 32.axb5 Kd8 33.bxc6 bxc6 34.Txb8+ Txb8 35.Ta1 Kc7 36.Kd2 Tb2+ 37.Lc2 Tb7 38.Ta6 Tb2 39.Kc3 Tb7 40.Ta1 Tb5 41.Ld3 Sf6 42.Lxb5 cxb5 43.gxf5 exf5 44.Kb4 1-0
+
+Petrosian,Tigran V - Bronstein,David I [D94]
+Vinkovci Vinkovci (1), 04.10.1970
+
+1.d4 Sf6 2.c4 g6 3.Sc3 d5 4.Sf3 Lg7 5.e3 0-0 6.Le2 e6 7.0-0 De7 8.b3 Td8 9.a4 Se4 10.La3 De8 11.Tc1 Sxc3 12.Txc3 c6 13.Dc2 Sd7 14.Tc1 a5 15.Ld3 dxc4 16.bxc4 c5 17.Tb3 cxd4 18.Sxd4 Lf8 19.c5 Se5 20.Le2 Ld7 21.Sb5 Tac8 22.Dc3 Sc6 23.Sd6 Lxd6 24.cxd6 e5 25.Db2 Sb4 26.Lxb4 Txc1+ 27.Dxc1 axb4 28.Txb4 Lc6 29.a5 Txd6 30.a6 bxa6 31.Tb6 Dd8 32.Txa6 Lb7 33.Txd6 Dxd6 34.Db2 Dc7 35.h3 h5 36.h4 Kf8 37.g3 Ld5 38.f3 Le6 39.Kf2 Ke8 40.f4 exf4 41.gxf4 Dc5 ½-½
+
+Petrosian,Tigran V (2645) - Liebert,Heinz (2400) [A29]
+Siegen ol (Men) fin-A Siegen (7), 21.09.1970
+
+1.c4 e5 2.Sc3 Sf6 3.Sf3 Sc6 4.g3 Lb4 5.Sd5 e4 6.Sh4 0-0 7.Lg2 Te8 8.0-0 Lf8 9.d3 exd3 10.Dxd3 Se5 11.Dc2 c6 12.Sxf6+ Dxf6 13.b3 d6 14.Lb2 Dh6 15.Tad1 Sg6 16.Sf5 Dh5 17.Sd4 Se5 18.f3 f5 19.Tde1 Ld7 20.e4 fxe4 21.Txe4 Sg6 22.f4 Txe4 23.Lxe4 Te8 24.Lf5 Lxf5 25.Dxf5 Dxf5 26.Sxf5 Sh8 27.Kf2 Sf7 28.Se3 Le7 29.Td1 Ld8 30.Ld4 Lb6 31.Lxb6 axb6 32.g4 g6 33.h4 Kg7 34.g5 h6 35.Sg4 hxg5 36.hxg5 Ta8 37.Td2 Te8 38.Sf6 Te7 39.Td3 Te6 40.Th3 Te7 41.b4 Te6 42.Ta3 Sh6 43.gxh6+ Kxf6 44.Te3 Txe3 45.Kxe3 Kf7 46.Ke4 Kg8 47.f5 Kh7 48.fxg6+ Kxg6 49.b5 1-0
+
+Petrosian,Tigran V (2645) - Lengyel,Levente [E51]
+Siegen ol (Men) fin-A Siegen (5), 18.09.1970
+
+1.d4 Sf6 2.c4 e6 3.Sc3 Lb4 4.e3 0-0 5.Ld3 d5 6.a3 dxc4 7.Lxc4 Ld6 8.Sf3 Sc6 9.e4 e5 10.d5 Se7 11.Lg5 Sg6 12.g3 h6 13.Ld2 a6 14.h3 b5 15.Lf1 Lb7 16.Le3 c6 17.dxc6 Lxc6 18.Sd2 De7 19.Lg2 Tfd8 ½-½
+
+Petrosian,Tigran V (2645) - Hort,Vlastimil (2600) [D79]
+Siegen ol (Men) fin-A Siegen (4), 17.09.1970
+
+1.g3 g6 2.Lg2 Lg7 3.Sf3 c5 4.c3 Sf6 5.d4 cxd4 6.cxd4 d5 7.0-0 0-0 8.Se5 e6 9.Sc3 Sbd7 10.f4 a6 11.a4 b6 12.b3 Lb7 13.Dd3 Dc7 14.Lb2 Tac8 15.Tfc1 Db8 16.Tc2 Tfd8 17.Tac1 Lf8 18.e3 Dd6 19.Lf3 Db4 20.Sa2 Dd6 21.Sc3 Db4 22.Sa2 ½-½
+
+Petrosian,Tigran V (2645) - Rodriguez Vargas,Orestes (2425) [D45]
+Siegen ol (Men) qual-A Siegen (7), 11.09.1970
+
+1.d4 Sf6 2.c4 e6 3.Sf3 d5 4.Sc3 c6 5.e3 Sbd7 6.Dc2 Ld6 7.b3 e5 8.cxd5 exd4 9.Sxd4 0-0 10.dxc6 Se5 11.Le2 bxc6 12.Lb2 Da5 13.h3 Sg6 14.0-0-0 Lb7 15.Se6 fxe6 16.Txd6 e5 17.Thd1 Sd5 18.Lc4 Kh8 19.Txg6 hxg6 20.Dxg6 1-0
+
+Petrosian,Tigran V (2645) - Trikaliotis,Georgios [D55]
+Siegen ol (Men) qual-A Siegen (6), 10.09.1970
+
+1.d4 d5 2.c4 e6 3.Sc3 Le7 4.Sf3 Sf6 5.Lg5 0-0 6.e3 b6 7.cxd5 Sxd5 8.Sxd5 exd5 9.Lxe7 Dxe7 10.Tc1 Le6 11.Da4 c5 12.Da3 Tc8 13.Lb5 a6 14.Ld3 Ta7 15.dxc5 bxc5 16.b3 a5 17.0-0 Sa6 18.Lxa6 Txa6 19.Tc3 Kf8 20.Tfc1 c4 21.Db2 Tac6 22.Sd4 Tc5 23.h3 h6 24.Dd2 Kg8 25.T3c2 Dc7 26.g4 De7 27.Kg2 h5 28.De2 hxg4 29.hxg4 g6 30.Th1 Kg7 31.Df3 Th8 32.Txh8 Kxh8 33.Tc1 Kg7 34.Th1 Dg5 35.Sxe6+ fxe6 36.Dh3 Tc8 37.f4 Dd8 38.Dh7+ 1-0
+
+Petrosian,Tigran V (2645) - Fuller,Maxwell L (2280) [E14]
+Siegen ol (Men) qual-A Siegen (1), 05.09.1970
+
+1.d4 Sf6 2.Sf3 e6 3.c4 b6 4.e3 Lb7 5.Ld3 Lb4+ 6.Sbd2 Se4 7.0-0 f5 8.Dc2 Sxd2 9.Sxd2 0-0 10.f4 d5 11.Sf3 Sd7 12.b3 Ld6 13.Lb2 De7 14.Se5 Sf6 15.Tac1 c5 16.De2 Tac8 17.Tc2 Tc7 18.Tfc1 Tfc8 19.De1 Se4 20.Lxe4 dxe4 21.dxc5 Lxc5 22.a4 Td8 23.Td2 Tcc8 24.Tcd1 Ld6 25.Dg3 Lxe5 26.Lxe5 Txd2 27.Txd2 g6 28.Dg5 Dxg5 29.fxg5 Lc6 30.Kf2 Kf7 31.Kg3 Ke8 32.Kf4 Ld7 33.Ld6 a6 34.Ke5 b5 35.axb5 axb5 36.c5 Ta8 37.Kf6 Ta7 38.g3 Ta1 39.Le5 Ta3 40.Tb2 Ta7 41.Lb8 Tb7 42.Ld6 Ta7 43.h4 Lc6 44.Kxe6 b4 45.Td2 Ld7+ 46.Kd5 Kf7 47.c6 Ta5+ 48.Lc5 Le6+ 49.Kd6 Lxb3 50.Tb2 Lc4 51.Txb4 La6 52.Tb7+ Lxb7 53.cxb7 Tb5 54.Kc6 Tb1 55.Lb6 Tc1+ 56.Kd6 Td1+ 57.Ke5 1-0
+
+Petrosian,Tigran V - Gligoric,Svetozar [E93]
+EU-chT (Men) 04th Kapfenberg (7.1), 17.05.1970
+
+1.c4 g6 2.e4 Lg7 3.d4 d6 4.Sc3 Sf6 5.Le2 0-0 6.Sf3 e5 7.d5 Sbd7 8.Dc2 a5 9.Lg5 h6 10.Le3 Sg4 11.Ld2 Sc5 12.h3 Sf6 13.Le3 Sh7 14.Sd2 h5 15.0-0-0 Ld7 16.h4 De7 17.Kb1 b6 18.f3 f5 19.Tde1 Sf6 20.Ld3 Sxd3 21.Dxd3 Tae8 22.a3 Tf7 23.b4 axb4 24.axb4 Df8 25.Kb2 Lh6 26.Ta1 fxe4 27.Sdxe4 Lf5 28.Lxh6 Dxh6 29.Dd2 Dxd2+ 30.Sxd2 e4 31.fxe4 Sxe4 32.The1 Tfe7 33.Sdxe4 Lxe4 34.Ta7 Lxg2 35.Tg1 Lh3 36.Txg6+ Kh7 ½-½
+
+Petrosian,Tigran V - Portisch,Lajos [D59]
+EU-chT (Men) 04th Kapfenberg (2.1), 11.05.1970
+
+1.c4 Sf6 2.d4 e6 3.Sf3 d5 4.Sc3 Le7 5.Lg5 0-0 6.e3 h6 7.Lh4 b6 8.cxd5 Sxd5 9.Lxe7 Dxe7 10.Tc1 Lb7 11.Sxd5 Lxd5 12.Lc4 Lxf3 13.gxf3 Sd7 14.Le2 ½-½
+
+Petrosian,Tigran V - Fischer,Robert James [B38]
+Rovinj/Zagreb Zagreb (17), 06.05.1970
+
+1.c4 c5 2.Sf3 g6 3.e4 Lg7 4.d4 Sc6 5.dxc5 Da5+ 6.Sfd2 Dxc5 7.Sb3 Db6 8.Le2 d6 9.0-0 Sf6 10.Sc3 0-0 11.Le3 Dd8 12.Tc1 Le6 13.Sd4 Sxd4 14.Lxd4 Da5 15.f4 a6 16.f5 Ld7 17.c5 Lc6 18.cxd6 exd6 19.fxg6 fxg6 20.Lc4+ Kh8 21.Ld5 Tae8 22.h3 Lxd5 23.Sxd5 Sxd5 24.Txf8+ Txf8 25.exd5 Db4 26.Lxg7+ Kxg7 27.b3 Df4 28.Tc3 Df2+ 29.Kh2 Tf7 30.a4 h5 31.Tc4 Te7 32.Da1+ Df6 33.Dc3 Dxc3 34.Txc3 Kf6 35.Tf3+ Kg5 36.Tf8 Te3 37.g3 Te2+ 38.Kg1 Tb2 39.h4+ Kg4 40.Tf6 Kxg3 41.Txg6+ Kxh4 42.Txd6 Txb3 43.Tg6 Tb4 44.Tg7 ½-½
+
+Petrosian,Tigran V - Hort,Vlastimil [D40]
+Rovinj/Zagreb Zagreb (15), 03.05.1970
+
+1.c4 c5 2.Sf3 Sf6 3.Sc3 Sc6 4.e3 e6 5.d4 d5 6.a3 Se4 7.Ld3 Sxc3 8.bxc3 dxc4 9.Lxc4 Le7 10.0-0 0-0 11.De2 Ld7 12.d5 exd5 13.Lxd5 Lf6 14.Tb1 Dc7 15.c4 Tab8 16.e4 Lg4 17.De3 b6 18.h3 Lxf3 19.Dxf3 Se7 20.Td1 Le5 21.Dh5 Tbe8 22.Tb3 Ld4 23.Df3 Sxd5 24.exd5 Dd7 25.Le3 Lxe3 26.Txe3 Txe3 27.Dxe3 Te8 28.Df4 g6 29.d6 Kg7 30.Td5 Te6 31.Kh2 h5 32.Dd2 h4 33.Df4 Kg8 34.Td1 Kg7 35.Dd2 Kh7 36.Dd5 Kg7 37.a4 a5 38.Dd2 Kh7 39.Df4 Kg7 40.Td5 Kg8 41.Dg4 Kg7 42.Df4 Kg8 43.Td1 Kg7 44.Dd2 Kg8 45.Dd5 Kg7 46.f4 Te8 47.Tb1 Tb8 48.Te1 Td8 49.Td1 Te8 50.Tb1 Tb8 51.De5+ f6 52.Dd5 Df5 53.Dxf5 gxf5 54.d7 Td8 55.Txb6 Txd7 56.Tc6 Td4 57.Txc5 Txf4 58.Kg1 Kg6 ½-½
+
+Petrosian,Tigran V - Smyslov,Vassily [E12]
+Rovinj/Zagreb Zagreb (13), 29.04.1970
